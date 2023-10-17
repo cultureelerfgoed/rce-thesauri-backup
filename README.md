@@ -1,2 +1,2 @@
-# auto-poolparty-backup
-Automatic poolparty backup
+# auto-cht-backup
+Automatic CHT poolparty backup
