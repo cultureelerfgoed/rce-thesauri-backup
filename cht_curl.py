@@ -4,10 +4,10 @@ from getpass import getpass
 
 # Define the API credentials
 api_username = input("Enter your PoolParty username: ")
-api_password = getpass("Enter your PoolParty password: ")  # This will securely hide the password input
+api_password = getpass("Enter your PoolParty password: ")  # This will hide the password input
 
 # Define the API URL
-api_url = f"https://data.cultureelerfgoed.nl/PoolParty/api/projects/1DF17ED4-4A38-0001-C6FF-883013B04AD0/export"
+api_url = f"https://data.cultureelerfgoed.nl/PoolParty/api/projects/PASTE PROJECT HASH HERE/export"
 
 
 # Define the JSON payload
@@ -18,7 +18,7 @@ json_payload = {
 }
 
 # Set the output file path on your desktop
-output_file = f"C:\\Users\\Ruben\\Desktop\\cht_backup.trig"
+output_file = f"ENTER FILE LOCATION\\cht_backup.trig"
 
 # Perform the API request using the requests library
 headers = {"Content-Type": "application/json"}
