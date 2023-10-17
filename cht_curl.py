@@ -18,7 +18,7 @@ json_payload = {
 }
 
 # Set the output file path on your desktop
-output_file = f"ENTER FILE LOCATION\\cht_backup.trig"
+output_file = f"ENTER FILE LOCATION\\FILENAME.trig"
 
 # Perform the API request using the requests library
 headers = {"Content-Type": "application/json"}
