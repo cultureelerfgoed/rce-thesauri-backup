@@ -14,7 +14,7 @@ inputs:
   target-filepath:
     description: 'Target path and filename for the thesaurus dump (in application/TriG).'
     required: true
-    default: '/pp_project_cultuurhistorischethesaurus.trig'
+    default: '/pp_project_cultuurhistorischethesaurus.zip'
 
 on:
   workflow_dispatch:
