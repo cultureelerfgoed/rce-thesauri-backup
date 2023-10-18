@@ -6,10 +6,10 @@ branding:
 
 inputs:
   poolparty-instance-api-endpoint:  # API URL of the PoolParty instance
-    description: 'https://digitaalerfgoed.poolparty.biz/PoolParty/api/'
+    description: https://digitaalerfgoed.poolparty.biz/PoolParty/api/
     required: true
   project-name:
-    description: '1DF17ED4-4A38-0001-C6FF-883013B04AD0'
+    description: 1DF17ED4-4A38-0001-C6FF-883013B04AD0
     required: true
   target-filepath:
     description: 'Target path and filename for the thesaurus dump (in application/TriG).'
