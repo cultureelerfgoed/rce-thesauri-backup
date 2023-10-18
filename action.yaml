@@ -6,7 +6,7 @@ branding:
 
 inputs:
   poolparty-instance-api-endpoint:  # API URL of the PoolParty instance
-    description: 'https://digitaalerfgoed-test.poolparty.biz/PoolParty/api'
+    description: 'https://digitaalerfgoed-test.poolparty.biz/PoolParty/api/'
     required: true
   project-name:
     description: 'caf6168c-9636-4ad8-b6b2-383276bbfb50'
