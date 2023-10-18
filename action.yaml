@@ -6,7 +6,7 @@ branding:
 
 inputs:
   poolparty-instance-api-endpoint:  # API URL of the PoolParty instance
-    description: 'https://digitaalerfgoed-test.poolparty.biz/PoolParty/api/'
+    description: 'https://digitaalerfgoed-test.poolparty.biz/PoolParty/api'
     required: true
   project-name:
     description: 'caf6168c-9636-4ad8-b6b2-383276bbfb50'
@@ -19,15 +19,15 @@ inputs:
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '25 16 * * *'
+    - cron:  '35 16 * * *'
 
 jobs:
   update-file:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+    - name: Checkout
+      uses: actions/checkout@v4.1.1
 
     - name: Download file with curl
       run: |
