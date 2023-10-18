@@ -9,7 +9,7 @@ inputs:
     description: 'https://digitaalerfgoed.poolparty.biz/PoolParty/api/'
     required: true
   project-name:
-    description: '1DF17ED4-4A38-0001-C6FF-883013B04AD0'
+    description: '1DE00459-F03C-0001-87E1-19104AD0154A'
     required: true
   target-filepath:
     description: 'Target path and filename for the thesaurus dump (in application/TriG).'
