@@ -7,7 +7,7 @@ api_username = input("Enter your PoolParty username: ")
 api_password = getpass("Enter your PoolParty password: ")  # This will securely hide the password input
 
 # Define the API URL
-api_url = f"https://data.cultureelerfgoed.nl/PoolParty/api/projects/1DE00459-F03C-0001-87E1-19104AD0154A/export"
+api_url = f"https://digitaalerfgoed-test.poolparty.biz/PoolParty//api/projects/caf6168c-9636-4ad8-b6b2-383276bbfb50/export"
 
 
 # Define the JSON payload
