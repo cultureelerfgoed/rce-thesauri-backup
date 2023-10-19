@@ -34,5 +34,4 @@ jobs:
       if: success()
       uses: actions/upload-artifact@v2
       with:
-        name: exported-file
         path: ${{ github.workspace }}/test_backup.trig
