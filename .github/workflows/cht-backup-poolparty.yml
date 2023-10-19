@@ -1,7 +1,7 @@
 name: 'PoolParty CHT Backup'
 
 env:
-  POOLPARTY_API_ENDPOINT: 'https://digitaalerfgoed.poolparty.biz/PoolParty/api'
+  POOLPARTY_API_ENDPOINT: 'https://digitaalerfgoed.poolparty.biz/PoolParty/api/'
   PROJECT_NAME: '1DE00459-F03C-0001-87E1-19104AD0154A'
   TARGET_FILEPATH: 'cht_backup.trig'
 
@@ -41,7 +41,7 @@ jobs:
         POOLPARTY_API_ENDPOINT: ${{ env.POOLPARTY_API_ENDPOINT }}
         PROJECT_NAME: ${{ env.PROJECT_NAME }}
 
-   - name: Check for changes
+    - name: Check for changes
       run: |
         if [[ -n $(git status -s) ]]; then
           git config user.name github-actions[bot]
