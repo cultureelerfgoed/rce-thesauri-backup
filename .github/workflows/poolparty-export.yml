@@ -1,0 +1,31 @@
+name: PoolParty Export Workflow
+
+on:
+  schedule:
+    - cron: '30 9 * * *'  # Runs daily at XXX
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out code
+      uses: actions/checkout@v2
+
+    - name: Download PoolParty export
+      env:
+        API_USERNAME: ${{ secrets.POOLPARTY_USERNAME }}
+        API_PASSWORD: ${{ secrets.POOLPARTY_PASSWORD }}
+      run: |
+        api_url="https://digitaalerfgoed-test.poolparty.biz/PoolParty//api/projects/caf6168c-9636-4ad8-b6b2-383276bbfb50/export"
+        json_payload='{"prettyPrint":true,"format":"TriG","modules":["concepts"]}'
+        output_file="cht_backup.trig"
+        
+        curl -X POST -H "Content-Type: application/json" -u "$API_USERNAME:$API_PASSWORD" --data "$json_payload" "$api_url" --output "$output_file"
+      
+    - name: Upload exported file
+      if: success()
+      uses: actions/upload-artifact@v2
+      with:
+        name: exported-file
+        path: ${{ github.workspace }}/cht_backup.trig
