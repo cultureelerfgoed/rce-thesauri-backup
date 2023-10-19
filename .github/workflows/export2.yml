@@ -3,7 +3,7 @@ name: 'PoolParty Concepts Backup'
 env:
   POOLPARTY_API_ENDPOINT: 'https://digitaalerfgoed.poolparty.biz/PoolParty/api/'
   PROJECT_NAME: '1DE00459-F03C-0001-87E1-19104AD0154A'
-  TARGET_FILEPATH: '/cht_backup.trig'
+  TARGET_FILEPATH: 'cht_backup.trig'
 
 on:
   workflow_dispatch:
@@ -23,7 +23,7 @@ jobs:
 
     - name: Download file with curl
       run: |
-        response=$(curl -o ${{ github.workspace }}$TARGET_FILEPATH -u "${{ secrets.POOLPARTY_USERNAME }}:${{ secrets.POOLPARTY_PASSWORD }}" -H "Content-Type: application/json" -d '{
+        response=$(curl -o ${{ github.workspace }}/${{ env.TARGET_FILEPATH }} -u "${{ secrets.POOLPARTY_USERNAME }}:${{ secrets.POOLPARTY_PASSWORD }" -H "Content-Type: application/json" -d '{
           "prettyPrint": true,
           "format": "TriG",
           "modules": [ "concepts" ]
@@ -44,6 +44,8 @@ jobs:
     - name: Commit and push
       if: success()
       run: |
-        git add $TARGET_FILEPATH
+        git config user.name github-actions[bot]
+        git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+        git add ${{ github.workspace }}/${{ env.TARGET_FILEPATH }}
         git commit -m 'Scheduled PoolParty Thesaurus Backup'
         git push
