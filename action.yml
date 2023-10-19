@@ -19,7 +19,7 @@ inputs:
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '40 16 * * *'
+    - cron:  '0 8 * * *'
 
 jobs:
   update-file:
