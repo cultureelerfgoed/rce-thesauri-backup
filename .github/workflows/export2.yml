@@ -1,7 +1,7 @@
 name: 'PoolParty Concepts Backup'
 
 env:
-  POOLPARTY_API_ENDPOINT: 'https://digitaalerfgoed.poolparty.biz/PoolParty/api/'
+  POOLPARTY_API_ENDPOINT: 'https://digitaalerfgoed.poolparty.biz/PoolParty/api'
   PROJECT_NAME: '1DE00459-F03C-0001-87E1-19104AD0154A'
   TARGET_FILEPATH: 'cht_backup.trig'
 
