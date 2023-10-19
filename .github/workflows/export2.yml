@@ -1,0 +1,50 @@
+name: 'PoolParty Concepts Backup'
+description: 'Schedule an automatic PoolParty Concepts backup to the repository. The backup is only executed when the concepts have changed.'
+branding:
+  icon: 'save'
+  color: 'blue'
+
+inputs:
+  poolparty-instance-api-endpoint:  # API URL of the PoolParty instance
+    description: 'https://digitaalerfgoed.poolparty.biz/PoolParty/api/'
+    required: true
+  project-name:
+    description: '1DE00459-F03C-0001-87E1-19104AD0154A'
+    required: true
+  target-filepath:
+    description: 'Target path and filename for the thesaurus dump (in application/TriG).'
+    required: true
+    default: '/cht_backup.trig'
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 6 * * *'
+  push:  # Trigger on every push
+    branches:
+      - main  # Adjust to your repository's main branch
+
+jobs:
+  update-file:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Download file with curl
+      run: |
+        curl -o ${{ github.workspace }}${{ inputs.target-filepath }} -u "${{ secrets.POOLPARTY_USERNAME }}:${{ secrets.POOLPARTY_PASSWORD }}" -H "Content-Type: application/json" -d '{
+          "prettyPrint": true,
+          "format": "TriG",
+          "modules": [ "concepts" ]
+        }' ${{ inputs.poolparty-instance-api-endpoint }}projects/${{ inputs.project-name }}/export
+        
+    - name: Commit and push
+      if: success()
+      run: |
+        git config user.name github-actions[bot]
+        git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+        git add ${{ inputs.target-filepath }}
+        git commit -m 'Scheduled PoolParty Thesaurus Backup'
+        git push
