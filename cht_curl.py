@@ -7,7 +7,7 @@ api_username = input("Enter your PoolParty username: ")
 api_password = getpass("Enter your PoolParty password: ")  # This will securely hide the password input
 
 # Define the API URL
-api_url = f"https://digitaalerfgoed.poolparty.biz/PoolParty/api/projects/1DF17ED4-4A38-0001-C6FF-883013B04AD0/export"
+api_url = f"https://digitaalerfgoed.poolparty.biz/PoolParty/api/projects/1DE00459-F03C-0001-87E1-19104AD0154A/export"
 
 
 # Define the JSON payload
@@ -18,7 +18,7 @@ json_payload = {
 }
 
 # Set the output file path on your desktop
-output_file = f"C:\\Users\\Ruben\\Desktop\\cht_backup.trig"
+output_file = f"C:\\Users\\Ruben\\Desktop\\atria_backup.trig"
 
 # Perform the API request using the requests library
 headers = {"Content-Type": "application/json"}

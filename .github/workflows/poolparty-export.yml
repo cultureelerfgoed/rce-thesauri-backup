@@ -20,9 +20,9 @@ jobs:
         API_USERNAME: ${{ secrets.POOLPARTY_USERNAME }}
         API_PASSWORD: ${{ secrets.POOLPARTY_PASSWORD }}
       run: |
-        api_url="https://digitaalerfgoed.poolparty.biz/PoolParty/api/projects/1DF17ED4-4A38-0001-C6FF-883013B04AD0/export"
+        api_url="https://digitaalerfgoed.poolparty.biz/PoolParty/api/projects/1DE00459-F03C-0001-87E1-19104AD0154A/export"
         json_payload='{"prettyPrint":true,"format":"TriG","modules":["concepts"]}'
-        output_file="test_backup.trig"
+        output_file="atria_backup.trig"
         
         echo "API URL: $api_url"
         echo "API Username: $API_USERNAME"
@@ -34,4 +34,4 @@ jobs:
       if: success()
       uses: actions/upload-artifact@v2
       with:
-        path: ${{ github.workspace }}/test_backup.trig
+        path: ${{ github.workspace }}/atria_backup.trig
