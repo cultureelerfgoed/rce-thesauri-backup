@@ -2,7 +2,7 @@ name: PoolParty Export Workflow
 
 on:
   schedule:
-    - cron: '30 9 * * *'  # Runs daily at XXX
+    - cron: '38 9 * * *'  # Runs daily at XXX
 
 jobs:
   export:
@@ -19,7 +19,7 @@ jobs:
       run: |
         api_url="https://digitaalerfgoed-test.poolparty.biz/PoolParty//api/projects/caf6168c-9636-4ad8-b6b2-383276bbfb50/export"
         json_payload='{"prettyPrint":true,"format":"TriG","modules":["concepts"]}'
-        output_file="cht_backup.trig"
+        output_file="test_backup.trig"
         
         curl -X POST -H "Content-Type: application/json" -u "$API_USERNAME:$API_PASSWORD" --data "$json_payload" "$api_url" --output "$output_file"
       
@@ -28,4 +28,4 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: exported-file
-        path: ${{ github.workspace }}/cht_backup.trig
+        path: ${{ github.workspace }}/test_backup.trig
