@@ -8,12 +8,12 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>PoolParty - Internal Error</title>
         <link rel="SHORTCUT ICON" href="images/favicon.ico">
-        <link rel="stylesheet" href="/PoolParty/styles/error-pages.css;jsessionid=532A2FA5F3E8DA44FCD09F6078A497EB" type="text/css"/>
+        <link rel="stylesheet" href="/PoolParty/styles/error-pages.css;jsessionid=D33E9F2A1D8F9ACF2F8C09578411BF87" type="text/css"/>
     </head>
     <body>
         <div class="error-container">
             <div style="text-align:center">
-                <img src="/PoolParty/images/poolparty-logo-2015.svg;jsessionid=532A2FA5F3E8DA44FCD09F6078A497EB" width="50%" border="0" alt="PoolParty"><br>
+                <img src="/PoolParty/images/poolparty-logo-2015.svg;jsessionid=D33E9F2A1D8F9ACF2F8C09578411BF87" width="50%" border="0" alt="PoolParty"><br>
                 <h2>Internal Error</h2>
                 <p>The request was rejected because the URL was not normalized.</p>
             </div>
