@@ -27,7 +27,7 @@ jobs:
         echo "API URL: $api_url"
         echo "API Username: $API_USERNAME"
         
-        curl -X POST -H "Content-Type: application/json" -u "$API_USERNAME:$API_PASSWORD" --data "$json_payload" "$api_url" --output "$output_file"
+        curl -X POST -H "Content-Type: application/json" -u "$.secrets.API_USERNAME:$secrets.API_PASSWORD" --data "$json_payload" "$api_url" --output "$output_file"
 
       
     - name: Upload exported file
