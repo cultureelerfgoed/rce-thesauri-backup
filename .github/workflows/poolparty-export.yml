@@ -20,7 +20,7 @@ jobs:
         API_USERNAME: ${{ secrets.POOLPARTY_USERNAME }}
         API_PASSWORD: ${{ secrets.POOLPARTY_PASSWORD }}
       run: |
-        api_url="https://digitaalerfgoed-test.poolparty.biz/PoolParty//api/projects/caf6168c-9636-4ad8-b6b2-383276bbfb50/export"
+        api_url="https://digitaalerfgoed-test.poolparty.biz/PoolParty/api/projects/caf6168c-9636-4ad8-b6b2-383276bbfb50/export"
         json_payload='{"prettyPrint":true,"format":"TriG","modules":["concepts"]}'
         output_file="cht_backup.trig"
         
