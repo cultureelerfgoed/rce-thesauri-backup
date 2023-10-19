@@ -2,7 +2,7 @@ name: PoolParty Export Workflow
 
 on:
   schedule:
-    - cron: '20 9 * * *'  # Runs daily at XXX
+    - cron: '25 9 * * *'  # Runs daily at XXX
 
 jobs:
   export:
