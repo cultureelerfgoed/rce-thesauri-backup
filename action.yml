@@ -1,52 +1,31 @@
-name: 'PoolParty Concepts Backup'
-description: 'Schedule an automatic PoolParty Concepts backup to the repository. The backup is only executed when the concepts have changed.'
-branding:
-  icon: 'save'
-  color: 'blue'
-
-inputs:
-  poolparty-instance-api-endpoint:  # API URL of the PoolParty instance
-    description: 'https://digitaalerfgoed-test.poolparty.biz/PoolParty/api/'
-    required: true
-  project-name:
-    description: 'caf6168c-9636-4ad8-b6b2-383276bbfb50'
-    required: true
-  target-filepath:
-    description: 'Target path and filename for the thesaurus dump (in application/TriG).'
-    required: true
-    default: '/cht_backup.trig'
+name: PoolParty Export Workflow
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron:  '0 8 * * *'
+    - cron: '20 9 * * *'  # Runs daily at XXX
 
 jobs:
-  update-file:
+  export:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout
-      uses: actions/checkout@v4.1.1
+    - name: Check out code
+      uses: actions/checkout@v2
 
-    - name: Download file with curl
+    - name: Download PoolParty export
+      env:
+        API_USERNAME: ${{ secrets.POOLPARTY_USERNAME }}
+        API_PASSWORD: ${{ secrets.POOLPARTY_PASSWORD }}
       run: |
-        curl -o ${{ github.workspace }}${{ inputs.target-filepath }} -u "${{ POOLPARTY_USERNAME }}:${{ POOLPARTY_PASSWORD }}" -H "Content-Type: application/json" -d '{
-          "prettyPrint": true,
-          "format": "TriG",
-          "modules": [ "concepts" ]
-        }' ${{ inputs.poolparty-instance-api-endpoint }}projects/${{ inputs.project-name }}/export
+        api_url="https://digitaalerfgoed-test.poolparty.biz/PoolParty//api/projects/caf6168c-9636-4ad8-b6b2-383276bbfb50/export"
+        json_payload='{"prettyPrint":true,"format":"TriG","modules":["concepts"]}'
+        output_file="cht_backup.trig"
         
-    - name: Check if there are any changes
-      id: verify_diff
-      run: |
-        git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
-
-    - name: Commit and push
-      if: steps.verify_diff.outputs.changed == 'true'
-      run: |
-        git config user.name github-actions[bot]
-        git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-        git add ${{ inputs.target-filepath }}
-        git commit -m 'Scheduled PoolParty CHT Backup'
-        git push
+        curl -X POST -H "Content-Type: application/json" -u "$API_USERNAME:$API_PASSWORD" --data "$json_payload" "$api_url" --output "$output_file"
+      
+    - name: Upload exported file
+      if: success()
+      uses: actions/upload-artifact@v2
+      with:
+        name: exported-file
+        path: ${{ github.workspace }}/cht_backup.trig
