@@ -39,13 +39,14 @@ jobs:
         PROJECT_NAME: ${{ env.PROJECT_NAME }}
 
     - name: Check for changes
-      run: |
-        if [[ -n $(git status -s) ]]; then
-          git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add ${{ github.workspace }}/${{ env.TARGET_FILEPATH }}
-          git commit -m 'Scheduled PoolParty CHT Backup'
-          git push
-        else
-          echo "No CHT changes to commit."
-        fi
+        run: |
+          if [[ -n $(git status -s) ]]; then
+            git config user.name github-actions[bot]
+            git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+            git add ${{ github.workspace }}/${{ env.TARGET_FILEPATH }}
+            git commit -m 'Scheduled PoolParty CHT Backup'
+            git push
+          else
+            git commit --allow-empty -m 'No CHT changes to commit.'
+            git push
+          fi
