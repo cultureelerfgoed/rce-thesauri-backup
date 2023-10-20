@@ -6,11 +6,10 @@ env:
   TARGET_FILEPATH: 'cht_backup.trig'
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '0 5 * * *'  # Runs daily at 5 AM
-  push:  # Trigger on every push
-    branches:
-      - main  # Adjust to your repository's main branch
+    - cron: '10 9 * * *'
+  
  
 jobs:
   update-file:
