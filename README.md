@@ -1,6 +1,6 @@
 # Repo to store automatic backups of key thesauri of the Dutch Cultural Heritage Agency
 
-Repo to store and set the workflow for automatic backup of key RCE thesauri from the Poolparty server. Backup is executed daily. An updated TriG is only pushed if there are changes to the current back-upped file. 
+Repo to store and set the workflow for automatic backup of key RCE thesauri from the Poolparty server. Backup is executed daily. A new TriG of a thesaurus is only pushed if there are changes to the current repo file. 
 
 ## Current thesauri backup workflows
 - [Cultural Heritage Thesaurus (CHT)](https://data.cultureelerfgoed.nl/term/id/cht.html)
