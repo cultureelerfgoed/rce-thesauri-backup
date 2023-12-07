@@ -18,7 +18,7 @@ json_payload = {
 }
 
 # Set the output file path on your desktop
-output_file = f"LOCAL_FOLDER\\cht_backup.trig"
+output_file = f"LOCAL_FOLDER\\THESAURUSNAME_backup.trig"
 
 # Perform the API request using the requests library
 headers = {
