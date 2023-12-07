@@ -1,4 +1,4 @@
-name: 'PoolParty CHT Backup'
+name: 'PoolParty WO2 Thesaurus Backup'
 
 env:
   POOLPARTY_API_ENDPOINT: 'https://digitaalerfgoed.poolparty.biz/PoolParty/api'
