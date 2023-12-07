@@ -1,0 +1,54 @@
+name: 'PoolParty CHT Backup'
+
+env:
+  POOLPARTY_API_ENDPOINT: 'https://digitaalerfgoed.poolparty.biz/PoolParty/api'
+  PROJECT_NAME: '1DE00318-CB07-0001-FBB4-C620F33C1540'
+  TARGET_FILEPATH: 'wo2_thesaurus_backup.trig'
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 3 * * *'
+ 
+jobs:
+  update-file:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Download file with curl
+      run: |
+        response=$(curl -o ${{ github.workspace }}/${{ env.TARGET_FILEPATH }} -u "${{ secrets.POOLPARTY_USERNAME }}:${{ secrets.POOLPARTY_PASSWORD }}" -H "Content-Type: application/json" -d '{
+          "prettyPrint": true,
+          "format": "TriG",
+          "modules": [ "concepts" ]
+        }' $POOLPARTY_API_ENDPOINT/projects/$PROJECT_NAME/export)
+        
+        exit_code=$?
+
+        if [ $exit_code -ne 0 ]; then
+          echo "Curl command failed with exit code $exit_code"
+          echo "$response"
+          exit $exit_code
+        fi
+      env:
+        TARGET_FILEPATH: ${{ env.TARGET_FILEPATH }}
+        POOLPARTY_API_ENDPOINT: ${{ env.POOLPARTY_API_ENDPOINT }}
+        PROJECT_NAME: ${{ env.PROJECT_NAME }}
+
+    - name: Check for changes
+      run: |
+        if [[ -n $(git status -s) ]]; then
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add ${{ github.workspace }}/${{ env.TARGET_FILEPATH }}
+          git commit -m "Automatic PoolParty CHT Backup"
+          git push
+        else
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit --allow-empty -m "No CHT changes to commit"
+          git push
+        fi
