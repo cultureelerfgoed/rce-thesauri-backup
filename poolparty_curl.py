@@ -6,9 +6,11 @@ from getpass import getpass
 api_username = input("Enter your PoolParty username: ")
 api_password = getpass("Enter your PoolParty password: ")  # This will securely hide the password input
 
-# Define the API URL
-api_url = f"https://digitaalerfgoed.poolparty.biz/PoolParty/api/projects/POOLPARTY_PROJECT_NUMBER/export"
+# Define the PoolParty project number
+poolparty_project_number = "YOUR_PROJECT_NUMBER"
 
+# Define the API URL using the project number
+api_url = f"https://digitaalerfgoed.poolparty.biz/PoolParty/api/projects/{poolparty_project_number}/export"
 
 # Define the JSON payload
 json_payload = {
@@ -21,8 +23,7 @@ json_payload = {
 output_file = f"LOCAL_FOLDER\\THESAURUSNAME_backup.trig"
 
 # Perform the API request using the requests library
-headers = {
-    "Content-Type": "application/json"}
+headers = {"Content-Type": "application/json"}
 auth = (api_username, api_password)
 response = requests.post(api_url, headers=headers, data=json.dumps(json_payload), auth=auth)
 
