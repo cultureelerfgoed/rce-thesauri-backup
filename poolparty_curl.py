@@ -7,7 +7,7 @@ api_username = input("Enter your PoolParty username: ")
 api_password = getpass("Enter your PoolParty password: ")  # This will securely hide the password input
 
 # Define the PoolParty project number
-poolparty_project_number = "YOUR_PROJECT_NUMBER"
+poolparty_project_number = "3deabaf3-f49f-4eapc0-9490-03ed89ef8550"
 
 # Define the API URL using the project number
 api_url = f"https://digitaalerfgoed.poolparty.biz/PoolParty/api/projects/{poolparty_project_number}/export"
@@ -20,7 +20,7 @@ json_payload = {
 }
 
 # Set the output file path on your desktop
-output_file = f"LOCAL_FOLDER\\THESAURUSNAME_backup.trig"
+output_file = f"C:\\Users\\Ruben\\Documents\\05. RCE\\rn-test.trig"
 
 # Perform the API request using the requests library
 headers = {"Content-Type": "application/json"}
