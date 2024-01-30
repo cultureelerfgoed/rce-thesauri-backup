@@ -49,6 +49,6 @@ jobs:
         else
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit --allow-empty -m "No Referentie Netwerk changes to commit"
+          git commit --allow-empty -m "No Referentie Netwerk 2 changes to commit"
           git push
         fi
