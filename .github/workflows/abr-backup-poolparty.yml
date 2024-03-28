@@ -2,7 +2,7 @@ name: 'PoolParty ABR Backup'
 
 env:
   POOLPARTY_API_ENDPOINT: 'https://digitaalerfgoed.poolparty.biz/PoolParty/api'
-  PROJECT_NAME: '1DF17ED9-DAFE-0001-A3D1-1EA390F11DB9'
+  PROJECT_NAME: 'b3205050-a1ce-4768-ac6f-a39e86b53492'
   TARGET_FILEPATH: 'abr_backup.trig'
 
 on:
