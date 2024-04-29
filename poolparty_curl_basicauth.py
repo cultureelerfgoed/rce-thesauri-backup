@@ -1,10 +1,6 @@
 import requests
 import json
-from getpass import getpass
-
-# Define the API credentials
-api_username = input("Enter your PoolParty username: ")
-api_password = getpass("Enter your PoolParty password: ")  # This will securely hide the password input
+import base64
 
 # Define the PoolParty project number
 poolparty_project_number = "dd659218-9128-4fee-8cfe-d66797b595d1"
@@ -20,11 +16,19 @@ json_payload = {
 }
 
 # Set the output file path on your desktop
-output_file = f"C:\\Users\\Ruben\\Documents\\05. RCE\\rn2-test.trig"
+output_file = f"C:\\Users\\Ruben\\Documents\\05. RCE\\rn2-test_basicauth.trig"
 
-# Perform the API request using the requests library
+# Base64 encoded credentials
+base64_credentials = "YXBpdXNlcl9zY2hhbGs6VHJlaW4jMTMw"
+
+# Decode base64 credentials
+credentials = base64.b64decode(base64_credentials).decode('utf-8').split(':')
+api_username = credentials[0]
+api_password = credentials[1]
+
+# Perform the API request using the requests library with Basic Authentication
 headers = {"Content-Type": "application/json"}
-auth = (api_username, api_password)
+auth = requests.auth.HTTPBasicAuth(api_username, api_password)
 response = requests.post(api_url, headers=headers, data=json.dumps(json_payload), auth=auth)
 
 # Check if the request was successful
