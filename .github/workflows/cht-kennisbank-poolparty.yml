@@ -24,7 +24,7 @@ jobs:
     - name: Run SPARQL query and save as TTL
       run: |
         python scripts/cht_poolparty_kennisbank.py
-        mv cht-kennisbank.ttl new-cht-kennisbank.ttl  # Rename new TTL file
+        cp cht-kennisbank.ttl new-cht-kennisbank.ttl  # Copy new TTL file
 
     - name: Check for changes in TTL file
       id: ttl-check
@@ -41,8 +41,6 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add new-cht-kennisbank.ttl
+        git add cht-kennisbank.ttl
         git commit -m "Update cht-kennisbank.ttl"
         git push
-      
-    
