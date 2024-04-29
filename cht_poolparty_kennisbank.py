@@ -44,6 +44,6 @@ if response.status_code == 200:
     # Save the response as a TTL file
     with open("cht-kennisbank.ttl", "w", encoding='utf-8') as f:
         f.write(response.text)
-    print("Response saved as output.ttl")
+    print("Response saved as cht-kennisbank.ttl")
 else:
     print("Error:", response.status_code, response.reason)
