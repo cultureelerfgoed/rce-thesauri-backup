@@ -34,8 +34,10 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add cht-kennisbank.ttl
-        git commit -m "Add cht-kennisbank.ttl"
+        git add output.ttl
+        git commit -m "Add output.ttl"
         git push
-      else:
-        run: echo "No changes to commit"
+      
+    - name: No changes message
+      if: steps.git-check.outputs.changed != 'true'
+      run: echo "No changes to commit"
