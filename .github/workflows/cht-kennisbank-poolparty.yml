@@ -29,6 +29,6 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add output.ttl
+        git add cht-kennisbank.ttl
         git commit -m "Add cht-kennisbank.ttl"
         git push
