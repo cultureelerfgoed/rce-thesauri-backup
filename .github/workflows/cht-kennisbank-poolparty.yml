@@ -1,4 +1,4 @@
-name: SPARQL Query and Save as TTL
+name: Get CHT concepts with scopeNote for Kennisbank
 
 on:
   schedule:
