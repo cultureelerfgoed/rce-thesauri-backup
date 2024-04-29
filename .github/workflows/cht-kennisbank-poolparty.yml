@@ -35,7 +35,7 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add cht-kennisbank.ttl
-        git commit -m "Add cht-kennisbank.ttl"
+        git commit -m "Update cht-kennisbank.ttl"
         git push
       
     - name: No changes message
