@@ -1,4 +1,4 @@
-name: Get CHT concepts with scopeNote for Kennisbank
+name: SPARQL Query and Save as TTL
 
 on:
   schedule:
@@ -23,24 +23,21 @@ jobs:
 
     - name: Run SPARQL query and save as TTL
       run: |
-        python scripts/cht_poolparty_kennisbank.py
-        cp cht-kennisbank.ttl new-cht-kennisbank.ttl  # Copy new TTL file
+        python scripts/sparql_query.py
 
-    - name: Check for changes in TTL file
-      id: ttl-check
-      run: |
-        if diff -q cht-kennisbank.ttl new-cht-kennisbank.ttl >/dev/null; then
-          echo "No changes in TTL file"
-          touch no-changes.txt
-        else
-          echo "Changes detected in TTL file"
-        fi
+    - name: Check for changes
+      id: git-check
+      run: echo ::set-output name=changed::$(if [ -n "$(git status --porcelain)" ]; then echo true; else echo false; fi)
 
     - name: Commit changes
-      if: steps.ttl-check.outputs.run == 'Changes detected in TTL file'
+      if: steps.git-check.outputs.changed == 'true'
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add cht-kennisbank.ttl
-        git commit -m "Update cht-kennisbank.ttl"
+        git add output.ttl
+        git commit -m "Add output.ttl"
         git push
+      
+    - name: No changes message
+      if: steps.git-check.outputs.changed != 'true'
+      run: echo "No changes to commit"
