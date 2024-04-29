@@ -23,7 +23,7 @@ jobs:
 
     - name: Run SPARQL query and save as TTL
       run: |
-        python scripts/sparql_query.py
+        python scripts/cht_poolparty_kennisbank.py
 
     - name: Check for changes
       id: git-check
