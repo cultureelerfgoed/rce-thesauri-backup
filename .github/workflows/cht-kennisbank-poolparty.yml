@@ -1,4 +1,4 @@
-name: SPARQL Query and Save as TTL
+name: CHT concepts + scopeNotes for Kennisbank
 
 on:
   schedule:
@@ -34,8 +34,8 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add output.ttl
-        git commit -m "Add output.ttl"
+        git add cht-kennisbank.ttl
+        git commit -m "Add cht-kennisbank.ttl"
         git push
       
     - name: No changes message
