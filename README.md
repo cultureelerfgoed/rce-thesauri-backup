@@ -1,4 +1,4 @@
-# Repo to automatically store backups of key thesauri of the Dutch Cultural Heritage Agency
+# Auto backups of key thesauri of the Dutch Cultural Heritage Agency
 
 Repo to store and set the workflow for automatic backup of key RCE thesauri from the Poolparty server. Backup is executed daily. A new TriG of a thesaurus is only pushed if there are changes to the current repo file. 
 
