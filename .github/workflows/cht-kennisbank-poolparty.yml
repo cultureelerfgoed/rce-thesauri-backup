@@ -29,7 +29,7 @@ jobs:
       id: git-check
       run: echo ::set-output name=changed::$(if [ -n "$(git status --porcelain)" ]; then echo true; else echo false; fi)
 
-    - name: Commit and push changes
+    - name: Commit changes
       if: steps.git-check.outputs.changed == 'true'
       run: |
         git config --local user.email "action@github.com"
@@ -37,3 +37,5 @@ jobs:
         git add cht-kennisbank.ttl
         git commit -m "Add cht-kennisbank.ttl"
         git push
+      else:
+        run: echo "No changes to commit"
