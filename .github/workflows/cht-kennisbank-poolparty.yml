@@ -32,10 +32,10 @@ jobs:
     - name: Commit changes
       if: steps.git-check.outputs.changed == 'true'
       run: |
-        git config --local user.email "action@github.com" 
-        git config --local user.name "GitHub Action"
-        git add output.ttl
-        git commit -m "Add output.ttl"
+        git config user.name github-actions[bot]
+        git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+        git add cht-kennisbank.ttl
+        git commit -m "Add cht-kennisbank.ttl"
         git push
       
     - name: No changes message
