@@ -21,11 +21,16 @@ jobs:
     - name: Install dependencies
       run: pip install requests
 
-    - name: Get CHT concepts with scopeNote for Kennisbank
+    - name: Run SPARQL query and save as TTL
       run: |
         python scripts/cht_poolparty_kennisbank.py
 
+    - name: Check for changes
+      id: git-check
+      run: echo ::set-output name=changed::$(if [ -n "$(git status --porcelain)" ]; then echo true; else echo false; fi)
+
     - name: Commit and push changes
+      if: steps.git-check.outputs.changed == 'true'
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
