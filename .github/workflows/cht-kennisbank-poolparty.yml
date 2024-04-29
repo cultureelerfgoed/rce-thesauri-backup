@@ -21,6 +21,14 @@ jobs:
     - name: Install dependencies
       run: pip install requests
 
-    - name: Run SPARQL query and save as TTL
+    - name: Get CHT concepts with scopeNote for Kennisbank
       run: |
         python cht_poolparty_kennisbank.py
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add output.ttl
+        git commit -m "Add cht-kennisbank.ttl"
+        git push
