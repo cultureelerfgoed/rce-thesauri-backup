@@ -4,10 +4,10 @@ from getpass import getpass
 
 # Define the API credentials
 api_username = input("Enter your PoolParty username: ")
-api_password = getpass("Enter your PoolParty password: ")  # This will securely hide the password input
+api_password = getpass("Enter your PoolParty password: ")  
 
 # Define the PoolParty project number
-poolparty_project_number = "dd659218-9128-4fee-8cfe-d66797b595d1"
+poolparty_project_number = "WO2_biografieen" 
 
 # Define the API URL using the project number
 api_url = f"https://digitaalerfgoed.poolparty.biz/PoolParty/api/projects/{poolparty_project_number}/export"
@@ -15,12 +15,12 @@ api_url = f"https://digitaalerfgoed.poolparty.biz/PoolParty/api/projects/{poolpa
 # Define the JSON payload
 json_payload = {
     "prettyPrint": True,
-    "format": "TriG",
+    "format": "JSON-LD",
     "modules": ["concepts"]
 }
 
 # Set the output file path on your desktop
-output_file = f"C:\\Users\\Ruben\\Documents\\05. RCE\\rn2-test.trig"
+output_file = f"C:\\Users\\Ruben\\Documents\\05. RCE\\w02bio-test_naam.jsonld"
 
 # Perform the API request using the requests library
 headers = {"Content-Type": "application/json"}
