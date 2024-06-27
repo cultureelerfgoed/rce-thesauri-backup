@@ -16,10 +16,20 @@ CONSTRUCT {
   ?subject skos:broader ?broader .
   ?subject skos:narrower ?narrower .
   ?subject skos:inScheme ?scheme .
+  
   ?scheme rdf:type skos:ConceptScheme .
-  ?scheme skos:hasTopConcept ?topConcept .
-  ?topConcept skos:topConceptOf ?scheme .
   ?scheme dct:title ?schemetitle .
+
+  ?topconcept rdf:type ?type .
+  ?topconcept skos:prefLabel ?prefLabel .
+  ?topconcept skos:scopeNote ?scopeNote .
+  ?topconcept skos:altLabel ?altLabel .
+  ?topconcept skos:hiddenLabel ?hiddenLabel .
+  ?topconcept skos:broader ?broader .
+  ?topconcept skos:narrower ?narrower .
+  ?topconcept skos:inScheme ?scheme .
+  ?scheme skos:hasTopConcept ?topconcept .
+  ?topconcept skos:topConceptOf ?scheme .
 }
 WHERE {
   {
@@ -35,7 +45,8 @@ WHERE {
         OPTIONAL { ?subject skos:hiddenLabel ?hiddenLabel . FILTER(LANG(?hiddenLabel) = 'nl') }
         OPTIONAL { ?subject skos:broader ?broader }
         OPTIONAL { ?subject skos:narrower ?narrower }
-
+        FILTER NOT EXISTS{?subject skos:topConceptOf ?scheme}
+        FILTER NOT EXISTS {?scheme skos:hasTopConcept ?subject}
         ?subject skos:inScheme ?scheme .
         ?scheme a skos:ConceptScheme .
         ?scheme dct:title ?schemetitle .
@@ -45,13 +56,25 @@ WHERE {
   }
   UNION
   {
-    SELECT DISTINCT ?scheme ?topConcept
+    SELECT DISTINCT ?topconcept ?type ?prefLabel ?scopeNote ?narrower ?broader ?altLabel ?hiddenLabel ?scheme 
     WHERE {
       GRAPH <https://data.cultureelerfgoed.nl/term/id/cht/thesaurus> {
+        ?topconcept rdf:type ?type ;
+                 skos:prefLabel ?prefLabel ;
+                 skos:scopeNote ?scopeNote .
+        FILTER (?type = skos:Concept && LANG(?prefLabel) = 'nl' && LANG(?scopeNote) = 'nl')
+
+        OPTIONAL { ?topconcept skos:altLabel ?altLabel . FILTER(LANG(?altLabel) = 'nl') }
+        OPTIONAL { ?topconcept skos:hiddenLabel ?hiddenLabel . FILTER(LANG(?hiddenLabel) = 'nl') }
+        OPTIONAL { ?topconcept skos:broader ?broader }
+        OPTIONAL { ?topconcept skos:narrower ?narrower }
+
+        ?topconcept skos:topConceptOf ?scheme .
+        ?scheme skos:hasTopConcept ?topconcept.
+        
+        ?topconcept skos:inScheme ?scheme .
         ?scheme a skos:ConceptScheme .
-        ?scheme skos:hasTopConcept ?topConcept .
-        ?topConcept skos:topConceptOf ?scheme .
-        FILTER(?scheme = <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>)
+         FILTER(?scheme = <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>)
       }
     }
   }
