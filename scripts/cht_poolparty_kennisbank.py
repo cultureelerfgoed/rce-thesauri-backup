@@ -4,7 +4,6 @@ import requests
 query = """
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-
 CONSTRUCT {
   ?subject rdf:type ?type .
   ?subject skos:prefLabel ?prefLabel .
@@ -13,9 +12,16 @@ CONSTRUCT {
   ?subject skos:hiddenLabel ?hiddenLabel .
   ?subject skos:broader ?broader .
   ?subject skos:narrower ?narrower .
+
+  ?subject skos:inScheme ?scheme .
+  ?scheme skos:hasTopConcept ?subject .
+  ?subject skos:topConceptOf ?scheme .
+  ?scheme rdf:type skos:ConceptScheme .
 }
+
 WHERE {
   GRAPH <https://data.cultureelerfgoed.nl/term/id/cht/thesaurus> {
+   
     ?subject rdf:type ?type ;
              skos:prefLabel ?prefLabel ;
              skos:scopeNote ?scopeNote .
@@ -24,8 +30,14 @@ WHERE {
     OPTIONAL { ?subject skos:hiddenLabel ?hiddenLabel . FILTER(LANG(?hiddenLabel) = 'nl') }
     OPTIONAL { ?subject skos:broader ?broader }
     OPTIONAL { ?subject skos:narrower ?narrower }
+ 
+ ?subject skos:inScheme ?scheme .
+ ?scheme a skos:ConceptScheme .
+optional{ ?scheme skos:hasTopConcept ?subject } .
+optional{ ?subject skos:topConceptOf ?scheme .}
+     
   }
-}
+} 
 """
 
 # Endpoint URL
