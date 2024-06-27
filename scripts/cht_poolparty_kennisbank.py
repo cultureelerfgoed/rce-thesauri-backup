@@ -4,6 +4,8 @@ import requests
 query = """
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX dcat: <http://www.w3.org/ns/dcat#>
+PREFIX dct: <http://purl.org/dc/terms/>
 
 CONSTRUCT {
   ?subject rdf:type ?type .
@@ -17,10 +19,11 @@ CONSTRUCT {
   ?scheme rdf:type skos:ConceptScheme .
   ?scheme skos:hasTopConcept ?topConcept .
   ?topConcept skos:topConceptOf ?scheme .
+  ?scheme dct:title ?schemetitle .
 }
 WHERE {
   {
-    SELECT DISTINCT ?subject ?type ?prefLabel ?scopeNote ?narrower ?broader ?altLabel ?hiddenLabel ?scheme
+    SELECT DISTINCT ?subject ?type ?prefLabel ?scopeNote ?narrower ?broader ?altLabel ?hiddenLabel ?scheme ?schemetitle
     WHERE {
       GRAPH <https://data.cultureelerfgoed.nl/term/id/cht/thesaurus> {
         ?subject rdf:type ?type ;
@@ -35,6 +38,7 @@ WHERE {
 
         ?subject skos:inScheme ?scheme .
         ?scheme a skos:ConceptScheme .
+        ?scheme dct:title ?schemetitle .
         FILTER(?scheme = <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>)
       }
     }
