@@ -14,6 +14,7 @@ CONSTRUCT {
   ?subject skos:broader ?broader .
   ?subject skos:narrower ?narrower .
   ?subject skos:inScheme ?scheme .
+  ?scheme rdf:type skos:ConceptScheme .
   ?scheme skos:hasTopConcept ?topConcept .
   ?topConcept skos:topConceptOf ?scheme .
 }
