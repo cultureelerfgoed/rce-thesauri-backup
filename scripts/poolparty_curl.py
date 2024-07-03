@@ -7,7 +7,7 @@ api_username = input("Enter your PoolParty username: ")
 api_password = getpass("Enter your PoolParty password: ")  
 
 # Define the PoolParty project number
-poolparty_project_number = "WO2_biografieen" 
+poolparty_project_number = "1DF17ED4-4A38-0001-C6FF-883013B04AD0" # cultuurhistorische thesaurus project nr.
 
 # Define the API URL using the project number
 api_url = f"https://digitaalerfgoed.poolparty.biz/PoolParty/api/projects/{poolparty_project_number}/export"
@@ -15,12 +15,12 @@ api_url = f"https://digitaalerfgoed.poolparty.biz/PoolParty/api/projects/{poolpa
 # Define the JSON payload
 json_payload = {
     "prettyPrint": True,
-    "format": "JSON-LD",
+    "format": "TriG",
     "modules": ["concepts"]
 }
 
 # Set the output file path on your desktop
-output_file = f"C:\\Users\\Ruben\\Documents\\05. RCE\\w02bio-test_naam.jsonld"
+output_file = f"C:\\Users\\Ruben\\Documents\\05. RCE\\cht-export.ttl"
 
 # Perform the API request using the requests library
 headers = {"Content-Type": "application/json"}
