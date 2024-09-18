@@ -35,7 +35,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add cht-kennisbank-*.ttl
+        git add instanties-rce-count-*.trig
         git commit -m "Add new instanties-rce-count file: $(date +'%Y-%m-%dT%H-%M-%S')"
         git push
       
