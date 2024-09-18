@@ -1,0 +1,44 @@
+name: Daily count of LDV CHO triples
+
+on:
+  schedule:
+    - cron: "0 17 * * *"  # Schedule daily at 23:00
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  run_sparql_query:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: pip install requests
+
+    - name: Run SPARQL query and save as TTL
+      run: |
+        current_time=$(date +'%Y-%m-%dT%H-%M-%S')
+        python scripts/construct_count_cho.py --output "instanties-rce-count-${current_time}.trig"
+
+    - name: Check for changes
+      id: git-check
+      run: echo ::set-output name=changed::$(if [ -n "$(git status --porcelain)" ]; then echo true; else echo false; fi)
+
+    - name: Commit changes
+      if: steps.git-check.outputs.changed == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add cht-kennisbank-*.ttl
+        git commit -m "Add new instanties-rce-count file: $(date +'%Y-%m-%dT%H-%M-%S')"
+        git push
+      
+    - name: No changes message
+      if: steps.git-check.outputs.changed != 'true'
+      run: echo "No changes to commit"
