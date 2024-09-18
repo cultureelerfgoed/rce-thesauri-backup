@@ -4,10 +4,9 @@ import argparse
 
 # Argument parsing for dynamic filename
 parser = argparse.ArgumentParser(description='Run SPARQL query and save the result.')
-parser.add_argument('--output', type=str, help='The output filename', default=f'instanties-rce-count-{datetime.datetime.now().strftime("%Y-%m-%dT%H-%M-%S")}.trig')
+parser.add_argument('--output', type=str, help='The output file path', required=True)
 args = parser.parse_args()
 
-output_filename = args.output
 # Stap 1: Haal de huidige datum en tijd op om de graph naam te genereren
 current_time = datetime.datetime.now().strftime("%Y-%m-%dT%H-%M-%S")
 new_graph_uri = f"https://linkeddata.cultureelerfgoed.nl/graph/instanties-rce/count{current_time}"
@@ -46,7 +45,7 @@ if response.status_code == 200:
     output_lines.append("}")
 
     # Stap 4: Sla het resultaat op in een TriG-bestand
-    output_filename = f"instanties-rce-count-{current_time}.trig"
+    output_filename = args.output
     with open(output_filename, "w", encoding="utf-8") as output_file:
         for line in output_lines:
             output_file.write(line + "\n")
