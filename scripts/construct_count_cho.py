@@ -1,6 +1,12 @@
 import datetime
 import requests
 
+# Argument parsing for dynamic filename
+parser = argparse.ArgumentParser(description='Run SPARQL query and save the result.')
+parser.add_argument('--output', type=str, help='The output filename', default=f'instanties-rce-count-{datetime.datetime.now().strftime("%Y-%m-%dT%H-%M-%S")}.trig')
+args = parser.parse_args()
+
+output_filename = args.output
 # Stap 1: Haal de huidige datum en tijd op om de graph naam te genereren
 current_time = datetime.datetime.now().strftime("%Y-%m-%dT%H-%M-%S")
 new_graph_uri = f"https://linkeddata.cultureelerfgoed.nl/graph/instanties-rce/count{current_time}"
