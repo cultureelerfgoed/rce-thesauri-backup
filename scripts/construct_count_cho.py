@@ -1,5 +1,6 @@
 import datetime
 import requests
+import argparse
 
 # Argument parsing for dynamic filename
 parser = argparse.ArgumentParser(description='Run SPARQL query and save the result.')
