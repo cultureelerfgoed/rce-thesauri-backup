@@ -2,7 +2,7 @@ name: Daily count of LDV CHO triples
 
 on:
   schedule:
-    - cron: "0 17 * * *"  # Schedule daily at 23:00
+    - cron: "0 7 * * *"  # Schedule daily at 7:00
   workflow_dispatch:  # Manual trigger
 
 jobs:
@@ -24,7 +24,7 @@ jobs:
     - name: Run SPARQL query and save as TTL
       run: |
         current_time=$(date +'%Y-%m-%dT%H-%M-%S')
-        python scripts/construct_count_cho.py --output "instanties-rce-count-${current_time}.trig"
+        python scripts/construct_count_cho.py --output "cho-count/instanties-rce-count-${current_time}.trig"
 
     - name: Check for changes
       id: git-check
@@ -35,7 +35,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add instanties-rce-count-*.trig
+        git add cho-count/instanties-rce-count-*.trig
         git commit -m "Add new instanties-rce-count file: $(date +'%Y-%m-%dT%H-%M-%S')"
         git push
       
