@@ -70009,7 +70009,7 @@ Bijvoorbeeld een (deel van een) glasstuk dat een lacune invult. (Werkgroep Vlakg
 <https://data.cultureelerfgoed.nl/term/id/cht/e752b4ae-1ed7-4ebb-b4e8-6e16f037b1b2>
   a skos:Concept;
   skos:prefLabel "kolonel (landmacht)"@nl;
-  skos:scopeNote "Een kolonel in de landmacht is een rang binnen de hoofdofficieren van de landmacht. Deze rang staat direct onder de rang van brigadegeneraal en boven de rang van luitenant-kolonel. Kolonels hebben doorgaans de leiding over regimenten of brigades en vervullen belangrijke staf- of leidinggevende functies binnen het leger."@nl;
+  skos:scopeNote "Een luitenant-kolonel in de landmacht is een rang binnen de hoofdofficieren, direct onder de rang van kolonel en boven de rang van majoor. Luitenant-kolonels vervullen onder meer commandofuncties, bijvoorbeeld als commandant van een bataljon, en leidinggevende of adviserende functies binnen een staf."@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/de0d727e-b0a5-4fd6-9bbe-6c7d7bae76cc>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
 
