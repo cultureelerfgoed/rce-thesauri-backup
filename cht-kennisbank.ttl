@@ -168916,7 +168916,8 @@ eerst een oog gevormd wordt. (Zeilvaart Lexicon)"""@nl,
     <https://data.cultureelerfgoed.nl/term/id/cht/5e2e0000-a065-438d-a2ec-ac8f2cd89860>,
     <https://data.cultureelerfgoed.nl/term/id/cht/60c4b3e6-21a3-4937-9382-3144c7f790c1>,
     <https://data.cultureelerfgoed.nl/term/id/cht/78131f68-201d-4c58-82d4-9ce617d71ff5>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/88cc6f08-463f-4096-a301-d23bcb757b54>;
+    <https://data.cultureelerfgoed.nl/term/id/cht/88cc6f08-463f-4096-a301-d23bcb757b54>,
+    <https://data.cultureelerfgoed.nl/term/id/cht/cf99517c-111a-4cc2-ae24-8d7508a91bf1>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
 
 <https://data.cultureelerfgoed.nl/term/id/cht/06f83cfc-06b6-49c9-8bb8-0f9688f9ef12>
@@ -174779,8 +174780,9 @@ eerst een oog gevormd wordt. (Zeilvaart Lexicon)"""@nl,
 <https://data.cultureelerfgoed.nl/term/id/cht/422c1c90-76b6-41a7-9965-541d8a8f5fad>
   a skos:Concept;
   skos:prefLabel "strandvisserij"@nl;
-  skos:scopeNote "Te voet of te paard langs het strand vissen. Vissers trekken op het strand een zegen met de vangst naar zich toe nadat deze met een vlet in het zeewater is gebracht; vooral gebezigd rond Den Helder, Huisduinen en Texel, en werd ook haringtrekken genoemd."@nl;
+  skos:scopeNote "Visserij die vanaf het strand of in het direct aan het strand grenzende ondiepe water wordt uitgeoefend. Daarbij kunnen verschillende vangstmethoden worden toegepast, zoals vissen met zegens, lijnen, sleep- of duwnetten en staande netten. De vistuigen kunnen te voet, met een trekdier of vanaf het strand worden uitgezet of binnengehaald. Een historische vorm van strandvisserij waarbij een met een vaartuig uitgezette zegen vanaf het strand werd binnengehaald, kwam onder meer voor rond Den Helder, Huisduinen en Texel en werd daar ook haringtrekken genoemd."@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/f9fc1c3c-b9bc-4502-807a-6f49f243706a>;
+  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/9dd80a01-b1f6-4372-9b20-bcdfa5f47980>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
 
 <https://data.cultureelerfgoed.nl/term/id/cht/04acdd99-d00a-4e42-922c-976f084e4670>
@@ -176092,9 +176094,10 @@ eerst een oog gevormd wordt. (Zeilvaart Lexicon)"""@nl,
   a skos:Concept;
   skos:prefLabel "twaalfvoetsjollen"@nl;
   skos:scopeNote "Overnaads gebouwde tweemansmiddenzwaardboot, in 1914 ontworpen door de Engelsman George Cockshott; de romp is geheel open; de tuigage bestaat uit een cattuig met een loggerzeil met zeer steile gaffel en boom."@nl;
-  skos:altLabel "12-voetsjol"@nl, "12-voetsjollen"@nl, "twaalfvoetsjol"@nl;
+  skos:altLabel "12-voetsjol"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/44003694-5228-42b4-8aff-b20947e930db>;
-  skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
+  skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
+  skos:altLabel "12-voetsjollen"@nl, "twaalfvoetsjol"@nl .
 
 <https://data.cultureelerfgoed.nl/term/id/cht/5906e7ca-9691-4c24-9b3a-c9e4254d56d6>
   a skos:Concept;
@@ -177284,11 +177287,11 @@ eerst een oog gevormd wordt. (Zeilvaart Lexicon)"""@nl,
     <https://data.cultureelerfgoed.nl/term/id/cht/074ca7c2-30f2-4674-b8c5-51571f50edc8>,
     <https://data.cultureelerfgoed.nl/term/id/cht/12682390-2589-4672-b592-f4bda6b715cb>,
     <https://data.cultureelerfgoed.nl/term/id/cht/4c9f7398-f035-419c-8c1f-97233c9b3501>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/ad1675ae-30eb-4f86-bfe2-9c93cea1deac>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/ae26904b-31c5-4fde-a916-5806c6ab1b3b>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/af0356b0-856d-4fcc-b734-25cfa7217cff>;
+    <https://data.cultureelerfgoed.nl/term/id/cht/ad1675ae-30eb-4f86-bfe2-9c93cea1deac>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
-  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/bcfab76b-ea37-46ab-8687-2f65e49f61e5>,
+  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/ae26904b-31c5-4fde-a916-5806c6ab1b3b>,
+    <https://data.cultureelerfgoed.nl/term/id/cht/af0356b0-856d-4fcc-b734-25cfa7217cff>,
+    <https://data.cultureelerfgoed.nl/term/id/cht/bcfab76b-ea37-46ab-8687-2f65e49f61e5>,
     <https://data.cultureelerfgoed.nl/term/id/cht/c87d4d23-84c9-4235-ad39-1a1335061ca8>,
     <https://data.cultureelerfgoed.nl/term/id/cht/e1c2ce35-c284-4a5d-b135-1114d5962953>,
     <https://data.cultureelerfgoed.nl/term/id/cht/f6ec1149-8387-4b68-a00e-73eff4a39247>,
@@ -181020,10 +181023,10 @@ hout aan een oud stuk hout."""@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/01643834-cbcd-471a-ab95-2264c550d8c7>;
   skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/30ccc48c-c51b-4e39-8bd3-1b60029212aa>,
     <https://data.cultureelerfgoed.nl/term/id/cht/66262f13-4f70-4413-b08f-6b47c69de5f6>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/695f0e97-f447-45f4-aba5-628a631fb25b>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/d0e0e536-63df-4106-8242-2e911d163d2e>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/e4db5502-c6d5-4be8-9a1e-838548504b21>;
-  skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
+    <https://data.cultureelerfgoed.nl/term/id/cht/695f0e97-f447-45f4-aba5-628a631fb25b>;
+  skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
+  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/d0e0e536-63df-4106-8242-2e911d163d2e>,
+    <https://data.cultureelerfgoed.nl/term/id/cht/e4db5502-c6d5-4be8-9a1e-838548504b21> .
 
 <https://data.cultureelerfgoed.nl/term/id/cht/a42478da-fcce-42a4-b3fd-4c2462d2d1f1>
   a skos:Concept;
@@ -187244,11 +187247,11 @@ hout aan een oud stuk hout."""@nl;
     <https://data.cultureelerfgoed.nl/term/id/cht/b15ebfe5-47b7-4c90-a210-5e9c7f0163a9>,
     <https://data.cultureelerfgoed.nl/term/id/cht/c5b1c1fb-8a40-402e-b79a-e257a4613b0c>,
     <https://data.cultureelerfgoed.nl/term/id/cht/cd7c3f66-4186-455e-8848-ce526954ce67>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/da8c3594-4f1e-4d0f-be16-62b86f04a991>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/dd8b1567-cbf7-49c9-b05d-b2b16c4054d3>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/e8c0f711-0623-4eac-b65c-aa4630fd8c09>;
+    <https://data.cultureelerfgoed.nl/term/id/cht/da8c3594-4f1e-4d0f-be16-62b86f04a991>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
-  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/ec000ff8-560f-4da7-866d-a3286eacb5a2>,
+  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/dd8b1567-cbf7-49c9-b05d-b2b16c4054d3>,
+    <https://data.cultureelerfgoed.nl/term/id/cht/e8c0f711-0623-4eac-b65c-aa4630fd8c09>,
+    <https://data.cultureelerfgoed.nl/term/id/cht/ec000ff8-560f-4da7-866d-a3286eacb5a2>,
     <https://data.cultureelerfgoed.nl/term/id/cht/f24d4421-3615-4654-8586-ee5d49fa31a1>,
     <https://data.cultureelerfgoed.nl/term/id/cht/f7d047a4-c73d-4330-b51e-bb1f8a1399a6>,
     <https://data.cultureelerfgoed.nl/term/id/cht/0777ae6d-c9c2-44a5-bebf-dac2451f2763>,
@@ -189758,12 +189761,12 @@ hout aan een oud stuk hout."""@nl;
 <https://data.cultureelerfgoed.nl/term/id/cht/19f216e1-65b6-44b8-a6ea-d44ed4b78c39>
   a skos:Concept;
   skos:prefLabel "lijken (vervoer)"@nl;
-  skos:scopeNote "Aan de zomen van het zeil bevestigd touw ter versteviging daarvan, onderscheiden in het boven- of ralijk, het onderlijk en de twee staande lijken. (Woordenlijst vocsite.nl)"@nl;
+  skos:scopeNote "Aan de zomen van het zeil bevestigd touw ter versteviging daarvan, onderscheiden in het boven- of ralijk, het onderlijk en de twee staande lijken. (Woordenlijst vocsite.nl)"@nl,
+    "Het touwwerk dat langs drie zijden om het zeil is genaaid. Dit aan het zeil zetten van het touw heet lijken. De funktie is het overnemen van de trekkrachten op het zeil. (Molenwoordenboek B.D. Poppen)"@nl;
   skos:altLabel "lijk"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/0d77a983-2cee-4522-8d5f-76a583191155>;
   skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/8cf46b0a-7f7b-45f3-8173-65d2f462493f>;
-  skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
-  skos:scopeNote "Het touwwerk dat langs drie zijden om het zeil is genaaid. Dit aan het zeil zetten van het touw heet lijken. De funktie is het overnemen van de trekkrachten op het zeil. (Molenwoordenboek B.D. Poppen)"@nl .
+  skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
 
 <https://data.cultureelerfgoed.nl/term/id/cht/eda7e405-d25c-4633-8d37-443889238806>
   a skos:Concept;
@@ -190987,7 +190990,7 @@ hout aan een oud stuk hout."""@nl;
   a skos:Concept;
   skos:prefLabel "masten"@nl;
   skos:scopeNote "Lange opstaande paal op schepen, bestemd om de zeilen en het want te dragen."@nl;
-  skos:altLabel "mast"@nl, "scheepsmast"@nl, "scheepsmasten"@nl;
+  skos:altLabel "mast"@nl, "scheepsmast"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/1557bed5-9337-4f79-b016-aded10a5c852>;
   skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/2f20e117-1272-4007-989a-3b5a568fb92e>,
     <https://data.cultureelerfgoed.nl/term/id/cht/67360db6-53c5-41cf-9d83-ea35baeb7171>,
@@ -190997,7 +191000,8 @@ hout aan een oud stuk hout."""@nl;
     <https://data.cultureelerfgoed.nl/term/id/cht/5a678bc0-6185-4b06-83fe-d88c808ff8ba>,
     <https://data.cultureelerfgoed.nl/term/id/cht/5ad70e78-dc47-4d48-966b-8aa4c276e6e0>,
     <https://data.cultureelerfgoed.nl/term/id/cht/a73636db-2c26-469e-a385-0e923df10929>;
-  skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
+  skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
+  skos:altLabel "scheepsmasten"@nl .
 
 <https://data.cultureelerfgoed.nl/term/id/cht/4bfa3a58-373e-41a5-ae72-bbfae0c12309>
   a skos:Concept;
@@ -197502,10 +197506,11 @@ hout aan een oud stuk hout."""@nl;
   a skos:Concept;
   skos:prefLabel "spoelenopnames"@nl;
   skos:scopeNote "Een spoelen(recorder)opname is een opname gemaakt op geluidsband die opgespoeld is op open spoelen in plaats van in een cassette. (Conservation Dictionary)"@nl;
-  skos:altLabel "spoelenopname"@nl, "spoelenrecorderopname"@nl, "spoelenrecorderopnames"@nl;
+  skos:altLabel "spoelenopname"@nl, "spoelenrecorderopname"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/91712616-6dec-4871-8fdc-c317850c20d1>;
   skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/63be41c0-651c-4c8d-bcf7-77813e9aeff9>;
-  skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
+  skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
+  skos:altLabel "spoelenrecorderopnames"@nl .
 
 <https://data.cultureelerfgoed.nl/term/id/cht/43b16580-ccbe-4a41-a23f-0904e21ac11c>
   a skos:Concept;
@@ -217073,11 +217078,11 @@ Een methode voor chemische analyse waarbij een klein materiaalmonster in een pyr
     <https://data.cultureelerfgoed.nl/term/id/cht/af48f61c-8fd2-4e90-8ca4-bb44ab8693e4>,
     <https://data.cultureelerfgoed.nl/term/id/cht/cf6be8cf-a44f-4892-afef-3b00c5a15b00>,
     <https://data.cultureelerfgoed.nl/term/id/cht/6fe5b332-634b-4b02-81b9-d2e37a2acb5c>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/803db62c-0f7f-43fa-b716-087dbf555a9a>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/11a008fe-39f4-4356-af77-e3f897936674>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/84392fc6-b99a-44f5-bae2-f6fa640072ad>;
+    <https://data.cultureelerfgoed.nl/term/id/cht/803db62c-0f7f-43fa-b716-087dbf555a9a>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
-  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/8a202a5f-f5b7-4bbe-85b9-6cd05d71763b>;
+  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/11a008fe-39f4-4356-af77-e3f897936674>,
+    <https://data.cultureelerfgoed.nl/term/id/cht/84392fc6-b99a-44f5-bae2-f6fa640072ad>,
+    <https://data.cultureelerfgoed.nl/term/id/cht/8a202a5f-f5b7-4bbe-85b9-6cd05d71763b>;
   skos:altLabel "glas-in-loodvensters"@nl, "glaspaneel"@nl, "glaspanelen"@nl, "glas-in-loodpaneel"@nl,
     "glas in loodpanelen"@nl, "glas in loodpaneel"@nl, "glas in loodvenster"@nl, "glas in loodvensters"@nl .
 
@@ -218332,6 +218337,13 @@ Their function is to prevent outward displacement of supporting elements (e.g. r
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/b425528a-1808-49d8-bc07-7c0b49d8de19>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
 
+<https://data.cultureelerfgoed.nl/term/id/cht/9dd80a01-b1f6-4372-9b20-bcdfa5f47980>
+  a skos:Concept;
+  skos:prefLabel "haringtrekkerij"@nl;
+  skos:scopeNote "Vorm van strandvisserij waarbij een in zee uitgezette zegen vanaf het strand werd binnengehaald voor de vangst van haring. Onder meer toegepast rond Den Helder, Huisduinen en Texel."@nl;
+  skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/422c1c90-76b6-41a7-9965-541d8a8f5fad>;
+  skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
+
 <https://data.cultureelerfgoed.nl/term/id/cht/bece25a6-eb64-46e8-85a8-2a7991f02a2c>
   a skos:Concept;
   skos:prefLabel "objecten"@nl;
@@ -219317,28 +219329,26 @@ Their function is to prevent outward displacement of supporting elements (e.g. r
     <https://data.cultureelerfgoed.nl/term/id/cht/22c4ce2d-158b-4e7b-82ef-b1f4a992f3ff>,
     <https://data.cultureelerfgoed.nl/term/id/cht/673c5f29-33e5-42ba-b2b0-6c91a0c20908>,
     <https://data.cultureelerfgoed.nl/term/id/cht/40766ec4-4368-4614-a988-c11925841758>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/27d613bf-16f2-4656-8ad4-332656cba974>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/4c8b3905-3d3d-4f73-be92-a33a95f378fd>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/ea80b6a8-81a7-4e51-9a81-cb2b5a227846>;
+    <https://data.cultureelerfgoed.nl/term/id/cht/27d613bf-16f2-4656-8ad4-332656cba974>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
-  skos:topConceptOf <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
+  skos:topConceptOf <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
+  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/4c8b3905-3d3d-4f73-be92-a33a95f378fd>,
+    <https://data.cultureelerfgoed.nl/term/id/cht/ea80b6a8-81a7-4e51-9a81-cb2b5a227846> .
 
 <https://data.cultureelerfgoed.nl/term/id/cht/63cca950-f545-467a-9d70-db3a2b21bba3>
   a skos:Concept;
   skos:prefLabel "stijlen en perioden"@nl;
   skos:scopeNote "Een stijl en een periode zijn tijdsaanduidingen. (Rijksdienst voor Cultureel Erfgoed)"@nl;
-  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/af2fa9bf-95d2-4e26-9c1b-74c32b585f27>;
-  skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
+  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/af2fa9bf-95d2-4e26-9c1b-74c32b585f27>,
+    <https://data.cultureelerfgoed.nl/term/id/cht/c25c400b-29ea-4a2f-9ef5-77043a8ccb7d>,
+    <https://data.cultureelerfgoed.nl/term/id/cht/e7f9e2a8-64f7-4aad-84a4-21e70423b0a0>;
+  skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
+  skos:topConceptOf <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
 
 <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>
   skos:hasTopConcept <https://data.cultureelerfgoed.nl/term/id/cht/63cca950-f545-467a-9d70-db3a2b21bba3>,
     <https://data.cultureelerfgoed.nl/term/id/cht/e64acd7a-b323-414a-a9bc-8def7616fe8b>,
     <https://data.cultureelerfgoed.nl/term/id/cht/26248efb-16f3-4fc2-bd0b-244626594eb9> .
-
-<https://data.cultureelerfgoed.nl/term/id/cht/63cca950-f545-467a-9d70-db3a2b21bba3>
-  skos:topConceptOf <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
-  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/c25c400b-29ea-4a2f-9ef5-77043a8ccb7d>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/e7f9e2a8-64f7-4aad-84a4-21e70423b0a0> .
 
 <https://data.cultureelerfgoed.nl/term/id/cht/e64acd7a-b323-414a-a9bc-8def7616fe8b>
   a skos:Concept;
