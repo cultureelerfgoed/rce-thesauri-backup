@@ -37821,7 +37821,7 @@ Eenvoudige gegoten ronde kachels waarop men koken kan."""@nl;
 <https://data.cultureelerfgoed.nl/term/id/cht/2ec20216-ee85-46d7-a97c-d5ffc74d1289>
   a skos:Concept;
   skos:prefLabel "guéridons"@nl;
-  skos:scopeNote "Franse benaming, waarvan de herkomst niet vast staat, voor decoratieve kaarshouders. Het oorspronkelijke type had een rond blad met een standaard in het midden. Ze hadden vaak de vorm van een Moor of, naarmate de interesse in exotica toenam, een negerin of Indiaan. In de periode van Louis XV en Louis XVI werden guéridons kleine, verplaatsbare tafels. (AAT-Ned)"@nl;
+  skos:scopeNote "Franse benaming voor een type klein meubel waarvan de precieze oorsprong van de naam niet vaststaat. Vroege guéridons dienden als decoratieve kaarsenstandaards en hadden doorgaans een rond blad op een centrale standaard. Deze standaard kon zijn uitgevoerd als een menselijke figuur, soms als een exotiserende voorstelling van personen van Afrikaanse, Moorse of Aziatische herkomst. In de periode van Lodewijk XV en Lodewijk XVI ontwikkelde de guéridon zich tot een kleine, verplaatsbare tafel."@nl;
   skos:altLabel "guéridon"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/485c66da-6e8c-4809-beb3-e6ec75d62419>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
