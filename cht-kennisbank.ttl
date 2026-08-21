@@ -55823,7 +55823,7 @@ Wordt aangegeven voor de objectklassen Wegdeel, Spoorbaandeel, Waterdeel en Terr
 <https://data.cultureelerfgoed.nl/term/id/cht/7e789f0d-6217-48eb-aee0-a7e7b1e713cc>
   a skos:Concept;
   skos:prefLabel "mezzotinten"@nl;
-  skos:scopeNote "Prenten met een grotendeels donkere achtergrond, waarin lichtere partijen zijn uitgespaard, vervaardigd door de metalen, doorgaans koperen, plaat te bewerken met roulette of wiegijzer en vervolgens met schrapers en polijststalen sommige putjes weer te dichten. (AAT-Ned)"@nl;
+  skos:scopeNote "Prenten vervaardigd in een diepdruktechniek waarbij het oppervlak van een metalen, doorgaans koperen, plaat eerst gelijkmatig wordt geruwd met een roulette of wiegijzer, zodat putjes en braampjes ontstaan die veel inkt vasthouden en bij afdrukken een donkere toon geven. Door delen van het oppervlak met schrapers en polijststalen weer glad te maken, houden deze minder of geen inkt vast en ontstaan lichtere partijen en geleidelijke toonovergangen."@nl;
   skos:altLabel "mezzotint"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/288867ab-ad79-41aa-97b7-4bb959f3b0b8>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
