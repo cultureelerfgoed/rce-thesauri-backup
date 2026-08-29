@@ -3387,7 +3387,9 @@ In de Rijn-Maasdelta liggen oeverwallen gemiddeld 1 à 2 meter hoger in het land
   skos:altLabel "hogeschool"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/f6451643-0a3a-4077-a19c-d6a30a4e2583>;
   skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/e2e22686-bd2f-4117-ad95-71551edc6a9c>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/5ea58e28-3ef9-4acf-b2d4-d2eb275b4d71>;
+    <https://data.cultureelerfgoed.nl/term/id/cht/5ea58e28-3ef9-4acf-b2d4-d2eb275b4d71>,
+    <https://data.cultureelerfgoed.nl/term/id/cht/5dc4cacb-69ce-463a-8eca-d3a212914218>,
+    <https://data.cultureelerfgoed.nl/term/id/cht/fe16e66f-cd67-4c0c-8af2-15a733e2ccfb>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
 
 <https://data.cultureelerfgoed.nl/term/id/cht/69686c35-dc08-48f3-9c04-3e2c984d1762>
@@ -4299,11 +4301,11 @@ Een hutkom was een half ingegraven, rechthoekig gebouwtje. Het had geen bovengro
     <https://data.cultureelerfgoed.nl/term/id/cht/41f33a10-6726-45ac-a868-5d9d4de8feb5>,
     <https://data.cultureelerfgoed.nl/term/id/cht/aa471311-fc24-4fe6-b245-889860e06be7>,
     <https://data.cultureelerfgoed.nl/term/id/cht/ccbead8b-aedc-4d89-a871-4109ac6bfbfb>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/bf95cc22-92f6-4b3b-99ac-418830b687e4>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/9604ae5f-d75c-41b7-aee0-56fc3856e908>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/5c688668-31a7-4080-b6ad-95e7d2b1ea9f>;
+    <https://data.cultureelerfgoed.nl/term/id/cht/bf95cc22-92f6-4b3b-99ac-418830b687e4>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
-  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/676c9f43-eb1d-4201-b274-7db0a2e54ca4>,
+  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/9604ae5f-d75c-41b7-aee0-56fc3856e908>,
+    <https://data.cultureelerfgoed.nl/term/id/cht/5c688668-31a7-4080-b6ad-95e7d2b1ea9f>,
+    <https://data.cultureelerfgoed.nl/term/id/cht/676c9f43-eb1d-4201-b274-7db0a2e54ca4>,
     <https://data.cultureelerfgoed.nl/term/id/cht/522dd6da-e9d0-4c9f-9973-0af8c18c658f>,
     <https://data.cultureelerfgoed.nl/term/id/cht/4594eb85-b01f-4a90-9461-d2523534a491>;
   skos:altLabel "bedehuizen"@nl, "kerk"@nl, "kerkgebouw"@nl, "kerkgebouwen"@nl .
@@ -6478,11 +6480,11 @@ Volkstuinen zijn aaneengesloten tuinen aan de rand van een stad of dorp of langs
     <https://data.cultureelerfgoed.nl/term/id/cht/215d28b4-2407-403c-91e4-53af46e94083>,
     <https://data.cultureelerfgoed.nl/term/id/cht/475d07fb-1d35-44be-ae59-9dd23b082395>,
     <https://data.cultureelerfgoed.nl/term/id/cht/e3f50df4-4a8b-4ee0-a461-409aea7f01a8>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/9e25a572-e802-4fd3-923b-78db81dee56b>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/0a1e4c6e-473d-4905-ba3c-63c2baf3cdc7>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/4ae656b6-cbdc-413d-8987-2c43dca4b8b4>;
+    <https://data.cultureelerfgoed.nl/term/id/cht/9e25a572-e802-4fd3-923b-78db81dee56b>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
-  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/3042018c-ef31-4cb8-96f2-f0450035eca8>,
+  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/0a1e4c6e-473d-4905-ba3c-63c2baf3cdc7>,
+    <https://data.cultureelerfgoed.nl/term/id/cht/4ae656b6-cbdc-413d-8987-2c43dca4b8b4>,
+    <https://data.cultureelerfgoed.nl/term/id/cht/3042018c-ef31-4cb8-96f2-f0450035eca8>,
     <https://data.cultureelerfgoed.nl/term/id/cht/2547df38-8fb2-4503-b01b-d5721081071e>,
     <https://data.cultureelerfgoed.nl/term/id/cht/de807506-c12b-45ba-9d6b-f9401614b76e>,
     <https://data.cultureelerfgoed.nl/term/id/cht/f6d4c2ad-7bf6-431a-a33a-464bb80967d1>,
@@ -7491,11 +7493,11 @@ Volkstuinen zijn aaneengesloten tuinen aan de rand van een stad of dorp of langs
   skos:scopeNote "Langwerpig vlak waarop meerdere personen naast elkaar kunnen zitten, doorgaans voorzien van een leuning of muurvlak aan de achterzijde, van steen of hout. In kerken kwamen houten banken en stoelen pas eind XVI in zwang toen de preek een belangrijk deel van de dienst werd. In de M.e. vond men stenen zitbanken vooral in kerkportalen, kloostergangen, vorstelijke en publieke zalen, ter weerszijden van de stookplaatsen, in vensternissen ( (zie) vensterbank). In een park of tuin spreekt men van een tuinbank, gemaakt van steen, hout of ijzer. (Haslinghuis)"@nl;
   skos:altLabel "zitbanken"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/9a68822b-0f32-4a61-91c8-5dce828a63b5>;
-  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/30b9be05-6e3d-438e-b79e-0bac9c130d99>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/4a23c8f2-87a6-44d3-a08f-8ee2940e2d12>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/41d4a0f4-9b97-4fd0-8311-7a591e116e59>;
+  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/30b9be05-6e3d-438e-b79e-0bac9c130d99>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
-  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/9e5d555f-ae1c-437e-a88f-df684d0f916d>,
+  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/4a23c8f2-87a6-44d3-a08f-8ee2940e2d12>,
+    <https://data.cultureelerfgoed.nl/term/id/cht/41d4a0f4-9b97-4fd0-8311-7a591e116e59>,
+    <https://data.cultureelerfgoed.nl/term/id/cht/9e5d555f-ae1c-437e-a88f-df684d0f916d>,
     <https://data.cultureelerfgoed.nl/term/id/cht/c69c324e-b23a-4a84-808f-3211010eb5d3>,
     <https://data.cultureelerfgoed.nl/term/id/cht/db0aa923-a342-40b9-bf96-edba04d991f2>,
     <https://data.cultureelerfgoed.nl/term/id/cht/feee07d7-652e-4237-9f12-9f2ccfce86e2>,
@@ -8575,11 +8577,11 @@ Het zand heeft een vrij constante korrelgrootte, gemiddeld 150-210 µm (0,15-0,2
     <https://data.cultureelerfgoed.nl/term/id/cht/74ce9bc6-b41d-4c15-af48-410de87208e4>,
     <https://data.cultureelerfgoed.nl/term/id/cht/d5a6bf09-719d-4428-b547-81d7524d9e64>,
     <https://data.cultureelerfgoed.nl/term/id/cht/0f3145f1-446f-4150-b2cb-cfd3f0f052a0>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/246154cd-82cd-41b5-aa7b-ea0d316a1de9>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/ce07fc2f-44a3-470b-b434-97836833e15e>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/5afc3939-cca3-4e88-bad0-80002f61d058>;
+    <https://data.cultureelerfgoed.nl/term/id/cht/246154cd-82cd-41b5-aa7b-ea0d316a1de9>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
-  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/e33583ac-01fd-4f65-bd61-381fa5337eef>,
+  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/ce07fc2f-44a3-470b-b434-97836833e15e>,
+    <https://data.cultureelerfgoed.nl/term/id/cht/5afc3939-cca3-4e88-bad0-80002f61d058>,
+    <https://data.cultureelerfgoed.nl/term/id/cht/e33583ac-01fd-4f65-bd61-381fa5337eef>,
     <https://data.cultureelerfgoed.nl/term/id/cht/90f510f5-d44b-4af0-ae2d-ec7cff18560d>,
     <https://data.cultureelerfgoed.nl/term/id/cht/09cf5ace-5f26-4f83-bbb1-441d556eb948>,
     <https://data.cultureelerfgoed.nl/term/id/cht/9c173e54-d705-4999-bc22-4238aa8ad6f7>,
@@ -11932,9 +11934,10 @@ Een psychiatrische inrichting is een instelling voor de opvang en behandeling va
   a skos:Concept;
   skos:prefLabel "overhemden"@nl;
   skos:scopeNote "Een overhemd of kortweg hemd is een kledingstuk voor het bovenlichaam gedragen door mannen. (Wikipedia)"@nl;
-  skos:altLabel "overhemdjes"@nl, "overhemdje"@nl, "overhemd"@nl;
+  skos:altLabel "overhemdjes"@nl, "overhemdje"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/7deba87b-1ac5-450f-bff7-78865d3b4742>;
-  skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
+  skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
+  skos:altLabel "overhemd"@nl .
 
 <https://data.cultureelerfgoed.nl/term/id/cht/86dfd145-2626-4836-80e6-9b6d0dbaab93>
   a skos:Concept;
@@ -20238,12 +20241,10 @@ De norm voor bliksembeveiliging van monumenten is LPL-III."""@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/f6451643-0a3a-4077-a19c-d6a30a4e2583>;
   skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/1bc1e75a-6698-4ae0-a219-3ce71db66351>,
     <https://data.cultureelerfgoed.nl/term/id/cht/5d25baea-99cd-47f6-a015-ddd6728816ab>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/5dc4cacb-69ce-463a-8eca-d3a212914218>,
     <https://data.cultureelerfgoed.nl/term/id/cht/612d9da8-4819-46ab-ab55-365f3596e6fb>,
     <https://data.cultureelerfgoed.nl/term/id/cht/6c24077c-9be5-4005-a7e7-a43a494bbe37>,
     <https://data.cultureelerfgoed.nl/term/id/cht/770fb466-9374-4ced-9d65-1e4b106b5ee9>,
     <https://data.cultureelerfgoed.nl/term/id/cht/8514042a-746b-46da-9398-8945560ee3ac>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/fe16e66f-cd67-4c0c-8af2-15a733e2ccfb>,
     <https://data.cultureelerfgoed.nl/term/id/cht/ffa87313-4cca-4425-8626-ded183b1902b>,
     <https://data.cultureelerfgoed.nl/term/id/cht/63fd7cef-4eeb-4d9e-b1c9-93c742d024af>,
     <https://data.cultureelerfgoed.nl/term/id/cht/3064181f-cc27-4c61-9b77-f85bcffed9ce>,
@@ -42724,9 +42725,9 @@ Eenvoudige gegoten ronde kachels waarop men koken kan."""@nl;
 <https://data.cultureelerfgoed.nl/term/id/cht/5dc4cacb-69ce-463a-8eca-d3a212914218>
   a skos:Concept;
   skos:prefLabel "hoger economisch en administratief onderwijs"@nl;
-  skos:scopeNote "Het hoger economisch en administratief onderwijs was een opleiding binnen de middelbare scholen die zich richtte op economische en administratieve vakken. Deze scholen vormden een voorbereidende stap voor beroepen in de handel, administratie, en management, en boden een breed scala aan vakken die gericht waren op zakelijke vaardigheden."@nl;
+  skos:scopeNote "Het hoger economisch en administratief onderwijs (HEAO) was een vorm van hoger beroepsonderwijs in Nederland, gericht op opleidingen op economisch, administratief en bedrijfskundig gebied. HEAO-opleidingen werden vanaf de jaren 1960 aangeboden door afzonderlijke scholen en gingen later op in bredere hogescholen."@nl;
   skos:altLabel "HEAO"@nl;
-  skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/d73bfa19-273a-416b-8c4d-dad7fd384484>;
+  skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/0f30650b-d425-4a45-9cbe-9c6750f701cf>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
 
 <https://data.cultureelerfgoed.nl/term/id/cht/5e298d9b-c3fa-4a14-b927-8cbaa01b38a5>
@@ -45879,7 +45880,7 @@ Het werd bepaald als het gemiddelde waterpeil van het IJ in de periode september
   skos:prefLabel "hogere technische school"@nl;
   skos:scopeNote "Hogere technische scholen waren instellingen voor middelbaar onderwijs die een technische opleiding aanboden. Binnen de bredere categorie van middelbare scholen richtten deze scholen zich op leerlingen die een carrière in de techniek, zoals bouwkunde, elektrotechniek, of werktuigbouwkunde, wilden nastreven."@nl;
   skos:altLabel "HTS"@nl;
-  skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/d73bfa19-273a-416b-8c4d-dad7fd384484>;
+  skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/0f30650b-d425-4a45-9cbe-9c6750f701cf>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
 
 <https://data.cultureelerfgoed.nl/term/id/cht/ffa87313-4cca-4425-8626-ded183b1902b>
@@ -89484,7 +89485,7 @@ Smeltwaterdalen komen veel in reliëfrijke gebieden, zoals op de stuwwallen en i
 <https://data.cultureelerfgoed.nl/term/id/cht/2aca4f44-62db-40d9-aa77-243517b876c2>
   a skos:Concept;
   skos:prefLabel "archeologisch monument"@nl;
-  skos:scopeNote "Een archeologisch monument is een terrein dat deel uitmaakt van ons cultureel erfgoed, omdat op of in de bodem van dat terrein resten, voorwerpen of andere sporen van menselijke aanwezigheid in het verleden bewaard zijn gebleven. De zichtbare monumenten zoals grafheuvels, terpen en hunebedden zijn het bekendst. De meeste archeologische monumenten zijn echter onzichtbaar, verscholen in de bodem of onder het wateroppervlak. Behalve het verschil tussen zichtbaar en onzichtbaar is er ook verschil in status van terreinen. De hoogste categorie wordt gevormd door de archeologische rijksmonumenten. Dit zijn terreinen waar archeologische resten aanwezig zijn die een cruciale wetenschappelijke en cultuurhistorische waarde hebben bezien vanuit een nationaal perspectief. Als belangrijke bronnen voor de nationale geschiedschrijving hebben zij een rijksbeschermde status. Het streven is om in de Nederlandse bodem een representatief deel van deze bronnen als rijksmonument te bewaren voor toekomstige generaties. Op grond van de eerste Monumentenwet zijn er vanaf 1967 archeologische rijksmonumenten aangewezen. De sterke toename van monumenten in de jaren ’70 en ’80 van de vorige eeuw zijn het gevolg van een actief beschermingsbeleid. Hierbij lag de nadruk sterk op het beschermen van zichtbare archeologische resten. Vanaf 1987 vlakt deze trend iets af maar het monumentenbestand blijft gestaag groeien. In de loop der tijd is steeds meer aandacht gekomen voor de bescherming van onzichtbare monumenten. Andere archeologische monumenten zijn terreinen waarvan bekend is dat op die plekken archeologische resten aanwezig zijn, maar die geen beschermde status hebben. In totaal zijn er ca. 15.000 van dergelijke terreinen. Voor deze terreinen gelden over het algemeen wel bepaalde beperkingen (bijvoorbeeld in het grondgebruik) en in sommige gevallen hebben zij een provinciale of gemeentelijke status."@nl;
+  skos:scopeNote "Terrein of plaats waar resten, voorwerpen of andere sporen van menselijke aanwezigheid uit het verleden in de bodem of onder water aanwezig zijn en die van archeologische waarde zijn."@nl;
   skos:altLabel "archeologische monumenten"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/ad135d24-7f48-48de-a641-1d694f5c3b25>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
@@ -118222,7 +118223,7 @@ niet meer gebonden en het aangetaste materiaal is tot de oorspronkelijke zandkor
 <https://data.cultureelerfgoed.nl/term/id/cht/44e43c88-c673-4098-bda7-6551c83e6a1c>
   a skos:Concept;
   skos:prefLabel "rijksmonument"@nl;
-  skos:scopeNote "Een rijksmonument is in Nederland een zaak (een bouwwerk of object, of het restant daarvan) die van algemeen belang is wegens de schoonheid, de betekenis voor de wetenschap of de cultuurhistorische waarde. Een formeel juistere aanduiding is: 'beschermd monument als bedoeld in de Erfgoedwet'. (Wikipedia)"@nl;
+  skos:scopeNote "Monument of archeologische vindplaats die van nationaal belang is en daarom is opgenomen in het rijksmonumentenregister. (naar: Erfgoedwet, artikel 1.1)"@nl;
   skos:altLabel "rijksmonumenten"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/1287327e-cb98-4a8f-b994-688eea50e08b>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
@@ -119374,7 +119375,7 @@ niet meer gebonden en het aangetaste materiaal is tot de oorspronkelijke zandkor
 <https://data.cultureelerfgoed.nl/term/id/cht/ad135d24-7f48-48de-a641-1d694f5c3b25>
   a skos:Concept;
   skos:prefLabel "archeologisch rijksmonument"@nl;
-  skos:scopeNote "Een archeologische monument is een van rijkswege beschermde plaats in het landschap die waardevol is vanwege de aanwezige sporen uit het verleden. De bescherming is geregeld in de Nederlandse monumentenwet van 1988. Eigenaren moeten voorkomen dat de archeologische inhoud van de bodem wordt beschadigd.Nederland telt 1436 archeologische rijksmonumenten (augustus 2014)."@nl;
+  skos:scopeNote "Archeologisch monument dat vanwege het nationale belang is opgenomen in het rijksmonumentenregister."@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/1287327e-cb98-4a8f-b994-688eea50e08b>;
   skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/2aca4f44-62db-40d9-aa77-243517b876c2>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
@@ -176294,7 +176295,7 @@ eerst een oog gevormd wordt. (Zeilvaart Lexicon)"""@nl,
 <https://data.cultureelerfgoed.nl/term/id/rn/599e8ecc-9abf-4f02-bc8e-f0b3ac8fcfba>
   a skos:Concept;
   skos:prefLabel "archeologisch monument (erfgoedwet)"@nl;
-  skos:scopeNote "Erfgoedwet: terrein dat deel uitmaakt van cultureel erfgoed vanwege de daar aanwezige overblijfselen, voorwerpen of andere sporen van menselijke aanwezigheid in het verleden, met inbegrip van die overblijfselen, voorwerpen en sporen. (Archeologische monumenten zijn bijvoorbeeld: grafheuvels, hunebedden, scheepswrakken, nederzettingen uit de prehistorie of recentere tijden (zoals terpen/wierden), of het bodemarchief onder een slotgracht of kasteeltuin)"@nl;
+  skos:scopeNote "Archeologisch monument dat vanwege het nationale belang is opgenomen in het rijksmonumentenregister."@nl;
   skos:altLabel "archeologisch rijksmonument (erfgoedwet)"@nl, "archeologische monumenten (erfgoedwet)"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/f4b34dd7-f715-4cc8-b4c1-712fe8416223>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
