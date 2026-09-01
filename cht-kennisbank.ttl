@@ -23117,7 +23117,7 @@ De norm voor bliksembeveiliging van monumenten is LPL-III."""@nl;
 <https://data.cultureelerfgoed.nl/term/id/cht/1e8ac156-db21-4d42-a195-0673d8b42fa4>
   a skos:Concept;
   skos:prefLabel "oleografieën"@nl;
-  skos:scopeNote "Een in de steendruktechniek vervaardigde kleurenreproductie van een olieverfschilderij, voorzien van een linnenstructuur en gevernist."@nl;
+  skos:scopeNote "In steendruk vervaardigde kleurenafdrukken die door blinddruk een structuur, vaak een linnenstructuur, kregen en werden gevernist om een olieverfschilderij na te bootsen. Oleografieën waren vooral populair aan het einde van de 19e eeuw."@nl;
   skos:altLabel "oleografie"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/623e7274-a6cb-4133-b9b4-83f0db8d4f01>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
