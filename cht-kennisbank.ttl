@@ -74206,7 +74206,7 @@ Meestal bestaat de deurklopper uit een beweegbare gietijzeren of koperen ring of
 <https://data.cultureelerfgoed.nl/term/id/cht/83f475cf-972a-4b98-93a5-039d08c7b29a>
   a skos:Concept;
   skos:prefLabel "laddertrappen"@nl;
-  skos:scopeNote "Laddertrappen zijn rechte, open trappen bestaande uit twee bomen en ingeschoven treden. Er zijn geen sporten en stootborden zoals bij ladders. Laddertrappen kunnen verplaatsbaar zijn, maar zijn ook vaak permanent aan de vloeren bevestigd."@nl;
+  skos:scopeNote "Laddertrappen zijn rechte, open trappen met twee bomen waartussen treden zijn aangebracht. Ze hebben geen stootborden. Laddertrappen kunnen verplaatsbaar zijn, maar zijn ook vaak permanent aan vloeren bevestigd."@nl;
   skos:altLabel "laddertrap"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/4568d082-f2fd-4dfb-b1b9-4d71334e1d9a>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
