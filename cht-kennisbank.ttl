@@ -10358,7 +10358,7 @@ Een psychiatrische inrichting is een instelling voor de opvang en behandeling va
 <https://data.cultureelerfgoed.nl/term/id/cht/cb7fedd9-9678-4e3f-86d2-8f98ca238240>
   a skos:Concept;
   skos:prefLabel "fabrieksschoorstenen"@nl;
-  skos:scopeNote "Wordt gebruikt voor grote schoorstenen waardoor rook en verbrandingsgassen worden uitgestoten. (AAT-Ned)"@nl;
+  skos:scopeNote "Vrijstaande, hoge schoorstenen bij fabrieken en andere industriële installaties, bestemd voor de afvoer van rook en verbrandingsgassen en voor het verkrijgen van voldoende trek in de stookinstallatie. Gemetselde fabrieksschoorstenen zijn vaak opgebouwd uit speciaal gevormde radiaalstenen."@nl;
   skos:altLabel "fabrieksschoorsteen"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/84cffb71-5ca0-43b2-b21f-33014471e95c>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
@@ -123873,7 +123873,7 @@ Veel soorten worden als schadelijk gezien. Het voedsel van de rupsen bestaat ove
 <https://data.cultureelerfgoed.nl/term/id/cht/84cffb71-5ca0-43b2-b21f-33014471e95c>
   a skos:Concept;
   skos:prefLabel "schoorstenen"@nl;
-  skos:scopeNote "Schoorstenen zijn gemetselde rookkanalen boven aangelegde stookplaatsen, dienende om voor de verbranding nodige luchttrek te krijgen en tot doorlating en uitleiding van de rook. De rookkanalen zitten doorgaans een deel binnen onder het dak en een deel buiten het dak. Bij stookplaatsen behoren rookvangers om de rook en verbandingsgassen via de rookkanalen af te voeren. De oorsprong van het woord staat niet vast, doch de meeste waarschijnlijkheid heeft de afleiding van schoren, “schragen, stutten, steunen”. (Haslinghuis)"@nl;
+  skos:scopeNote "Schoorstenen zijn verticale bouwdelen voor de afvoer van rook en verbrandingsgassen van een stookplaats. Door hun hoogte zorgen ze tevens voor trek in het rookkanaal. Schoorstenen kunnen onderdeel zijn van een gebouw of als vrijstaande constructie voorkomen, zoals fabrieksschoorstenen."@nl;
   skos:altLabel "scharensteen"@nl, "scharenstein"@nl, "scharsteen"@nl, "schayrsteen"@nl,
     "schoorsteen"@nl, "schoorstein"@nl, "schoorsten"@nl, "schoorstien"@nl, "schorensteen"@nl,
     "schorenstein"@nl, "schornsteen"@nl, "schornstein"@nl, "schorstein"@nl, "schorstên"@nl,
