@@ -19983,7 +19983,7 @@ De norm voor bliksembeveiliging van monumenten is LPL-III."""@nl;
   skos:prefLabel "diabas"@nl;
   skos:scopeNote "Gemengd uitvloeiïngsgesteente; bevat vooral veldspaat (plagioklaas) en augiet. Donkergroene kleur. (Bouwmaterialen : encyclopaedische gids voor theorie en practijk / P.W. Scharroo, 3e herz. en verm. dr.)"@nl,
     "Het stollingsgesteente doleriet, ook wel diabaas genoemd, is een mafisch ganggesteente met tussen 48 en 52% silica. Doleriet is een middelkristallijn ganggesteente, het mafische equivalent van het felsische ganggesteente granofier. Doleriet is gevormd uit minder viskeus magma dan granofier. De mineralen die doorgaans in dolerieten gevonden worden, zijn olivijn, plagioklaas, biotiet, amfibolen en pyroxenen. Dolerieten komen voor in die gebieden waar, door de geologische geschiedenis heen, mafisch vulkanisme is ontstaan en wordt gevormd tussen het uitvloeiingsgesteente basalt en het dieptegesteente gabbro. Varianten van doleriet zijn ofiet (voornamelijk tijdens het laat-Trias in de Pyreneeën gevormde doleriet) of diabaas, dolerieten met veel olivijn, waardoor het gesteente groengekleurd wordt. In Suriname vormen resistente dolerietgangen lange gebergteketens zoals het Van Asch van Wijckgebergte."@nl;
-  skos:altLabel "diabaas"@nl, "doloriet"@nl, "doleriet"@nl;
+  skos:altLabel "doleriet"@nl, "diabaas"@nl, "doloriet"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/a1dfa66f-8cfb-41ce-b550-dc0d53676480>;
   skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/eb3cb175-0331-4c76-b4ce-2ae4d0bc9983>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
@@ -24519,7 +24519,7 @@ De norm voor bliksembeveiliging van monumenten is LPL-III."""@nl;
   skos:prefLabel "Oegstgeester pannen"@nl;
   skos:scopeNote "Oegstgeesterpannen zijn schubvormige, machinaal vervaardigde dakpannen. Deze pannen zijn van 1852 tot ca. 1914 vervaardigd aan de Oude Rijn in de gemeente Oegstgeest. Ze worden ook wel hartjespannen genoemd."@nl,
     "Beverstaarten zijn daktegels die aan de onderzijde afgerond en schubvormig gedekt zijn. Ze zijn voornamelijk in Duitsland toegepast (Biberschwanz). In Nederland wordt de naam ook wel gebruikt voor Oegstgeester pannen."@nl;
-  skos:altLabel "beverstaartpannen"@nl, "beverstaarten"@nl, "beverstaart"@nl, "Oegstgeester pan"@nl,
+  skos:altLabel "beverstaarten"@nl, "beverstaartpannen"@nl, "beverstaart"@nl, "Oegstgeester pan"@nl,
     "hartjespan"@nl, "hartjespannen"@nl, "beverstaartpan"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/f1834398-e32b-4a85-acf4-7f71ab3f94d1>;
   skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/667ab1e6-7a73-4063-bb76-1e7b4c07457b>;
@@ -39628,7 +39628,7 @@ Eenvoudige gegoten ronde kachels waarop men koken kan."""@nl;
   a skos:Concept;
   skos:prefLabel "vleugeldeuren"@nl;
   skos:scopeNote "Een vleugeldeur, of porte-brisée, is een dubbele, openslaande deur tussen twee vertrekken, waarvan de helften met een naald aan elkaar sluiten, dus zonder middenstijl."@nl;
-  skos:altLabel "porte-brisée"@nl, "porte brisée"@nl, "vleugeldeur"@nl;
+  skos:altLabel "porte brisée"@nl, "porte-brisée"@nl, "vleugeldeur"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/ae5086cc-98d2-4091-84e1-7386f80c39be>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
 
@@ -41104,8 +41104,8 @@ Eenvoudige gegoten ronde kachels waarop men koken kan."""@nl;
 <https://data.cultureelerfgoed.nl/term/id/cht/6c6a94e6-a741-42de-9983-8385f6a7c89d>
   a skos:Concept;
   skos:prefLabel "hoekers"@nl;
-  skos:scopeNote "Een robuust gladboordig rondspant kielschip met scherpe lijnen in het achterschip. Als vissersschip zo genoemd omdat het met hoekwant viste, waarbij in het laatst van de 18e eeuw ook de naam 'hoekerbuis' opduikt voor een buis met bun zoals de hoekers. Men noemde dat 'kweeën'. De benaming hoeker is zoals gezegd ontleend aan de visserijmethode die werd bedreven: het vissen met haken of houcken. (vaartips.nl)"@nl,
-    "Klein tot middelgroot zeeschip van in de Middeleeuwen tot in de 19de eeuw vooral in de Nederlanden gebruikt voor de visserij en koopvaardij. (MARDOC)"@nl;
+  skos:scopeNote "Klein tot middelgroot zeeschip van in de Middeleeuwen tot in de 19de eeuw vooral in de Nederlanden gebruikt voor de visserij en koopvaardij. (MARDOC)"@nl,
+    "Een robuust gladboordig rondspant kielschip met scherpe lijnen in het achterschip. Als vissersschip zo genoemd omdat het met hoekwant viste, waarbij in het laatst van de 18e eeuw ook de naam 'hoekerbuis' opduikt voor een buis met bun zoals de hoekers. Men noemde dat 'kweeën'. De benaming hoeker is zoals gezegd ontleend aan de visserijmethode die werd bedreven: het vissen met haken of houcken. (vaartips.nl)"@nl;
   skos:altLabel "hoeker"@nl, "koopvaardijhoekers"@nl, "koopvaardijhoeker"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/32d80748-50d1-4c9c-b06d-dfca42e46ac6>;
   skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/189df523-f1e7-414d-9d04-f1a8abae0990>,
@@ -53316,7 +53316,7 @@ Het werd bepaald als het gemiddelde waterpeil van het IJ in de periode september
 """@nl,
     "Een heechhout is in de provincie Friesland de benaming voor een hoge vaste voetbrug, hoog genoeg om skûtsjes (met gestreken mast) te laten passeren. De Friese benaming betekent letterlijk hoog hout, al werden ze in de loop der jaren ook van andere materialen gemaakt. Aan beide zijden van de brug bevindt zich een trap. In de provincie Groningen staan deze bruggen bekend als hoogholtjes."@nl,
     "Een hoogholtje is in de provincie Groningen de benaming voor een hoge vaste voetbrug, hoog genoeg om schepen te laten passeren. Aan beide zijden bevindt zich een trap of steile opgang, vaak met dwarslatten."@nl;
-  skos:altLabel "heechhouten"@nl, "hoogholtjes"@nl, "hoogholte"@nl, "hogholtje"@nl,
+  skos:altLabel "hoogholtjes"@nl, "heechhouten"@nl, "hoogholte"@nl, "hogholtje"@nl,
     "hogholtjes"@nl, "hoogholt"@nl, "hoogholtje"@nl, "heechout"@nl, "hooghout"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/b0df8b0e-8df3-41d5-9ab0-0d146024907a>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
@@ -54314,7 +54314,7 @@ ander cultureel erfgoed als bedoeld in artikel 1.1 van de Erfgoedwet***\""""@nl;
   skos:scopeNote "Rimpels zijn kleine golven en vouwen die zijn ontstaan door zwelling van de oppervlaktelaag of door krimp van de ondergrond. Dit kan komen door verschil in vochtabsorptie in bijvoorbeeld huid of gefineerd hout of door krimp in de drager van een verflaag."@nl,
     "Rimpeling is een kleinschalig golfpatroon in de verflaag als gevolg van een te groot bindmiddelgehalte in de verf."@nl,
     "Het verschijnen van oneven (kleine) vouwen, groeven en richels met gevolg een golvende laag in de verflaag, meestal in pasteuse verf."@nl;
-  skos:altLabel "rimpels"@nl, "rimpeling"@nl;
+  skos:altLabel "rimpeling"@nl, "rimpels"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/19a4249c-f03b-4c4c-9806-45c04fb0bceb>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
 
@@ -75541,7 +75541,7 @@ Een uitgebreider model is de brandvijfhoek. (Wikipedia)"""@nl;
   a skos:Concept;
   skos:prefLabel "logegebouwen"@nl;
   skos:scopeNote "Logegebouwen zijn gebouwen waarin bijeenkomsten van de Vrijmetselarij plaats vinden. De loge is de ruimte waar de vrijmetselaars vergaderen, maar is ook een aanduiding voor de vergadering zelf. (Rijksdienst voor het Cultureel Erfgoed)"@nl;
-  skos:altLabel "logegebouw"@nl, "loge"@nl;
+  skos:altLabel "loge"@nl, "logegebouw"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/c1f698ea-a359-4c65-a13e-dfd50f8260b3>;
   skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/370d7c0c-5548-4073-ab4e-d95e640e3912>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
@@ -87163,7 +87163,7 @@ Lambda (printer), Lightjet (printer) (Project Fotografie)"""@nl;
   a skos:Concept;
   skos:prefLabel "figuurglas"@nl;
   skos:scopeNote "Gegoten vlakglas waar (aan één zijde) een patroon in reliëf in gewalst is. Het wordt gemaakt door glas uit te gieten en te walsen op een tafel die voorzien is van een ornament, of door vloeibaar glas door te voeren tussen een gladde rol en een geornamenteerde rol."@nl;
-  skos:altLabel "gewalst glas"@nl, "reliëfglas"@nl, "ornamentglas"@nl, "gefigureerd glas"@nl,
+  skos:altLabel "reliëfglas"@nl, "gewalst glas"@nl, "ornamentglas"@nl, "gefigureerd glas"@nl,
     "patroonglas"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/963156e3-7f49-4073-ab86-cea592518c26>;
   skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/ac92760b-9bf4-4257-abca-83c60aa0610d>,
@@ -95547,9 +95547,8 @@ Smeltwaterdalen komen veel in reliëfrijke gebieden, zoals op de stuwwallen en i
   skos:prefLabel "getande spalters"@nl;
   skos:scopeNote "Getande spalters zijn spalters waar de haren als losse bosjes of als losse penselen naast elkaar zijn gezet. Getande spalters worden gebruikt voor het maken van houtdraden bij houtimitaties. Zij zijn leverbaar is verschillende vormen en breedten."@nl,
     "Een houtkam, ook wel verfkam of draadtrekker genoemd, is een handgereedschap met een reeks gelijkmatige tanden, gebruikt om verf, lijm of andere coatings in strepen of patronen aan te brengen. Dit gereedschap wordt vaak ingezet bij decoratieve schildertechnieken, zoals het creëren van houtnerfeffecten of marmerimitaties. De breedte en vorm van de tanden bepalen de structuur van het patroon. Houtkammen worden gebruikt door schilders, decorateurs en restaurateurs voor zowel ambachtelijke als industriële toepassingen."@nl;
-  skos:altLabel "draadtrekkers"@nl, "getande spalter"@nl, "getande structuurkwast"@nl,
-    "tandspalters"@nl, "houtkammen"@nl, "houtkam"@nl, "draadtrekker"@nl, "verfkam"@nl,
-    "verfkammen"@nl;
+  skos:altLabel "houtkammen"@nl, "draadtrekkers"@nl, "getande spalter"@nl, "getande structuurkwast"@nl,
+    "tandspalters"@nl, "houtkam"@nl, "draadtrekker"@nl, "verfkam"@nl, "verfkammen"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/5a83bdca-8978-4f12-a5b1-ce3c095b13a2>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
 
@@ -110277,7 +110276,7 @@ niet meer gebonden en het aangetaste materiaal is tot de oorspronkelijke zandkor
   skos:prefLabel "pannenlappen"@nl;
   skos:scopeNote "Een pannenlap bestaat uit een dik stuk stof en wordt gebruikt om een hete pan of ovenschalen mee op te tillen."@nl;
   skos:altLabel "pannenlap"@nl;
-  skos:hiddenLabel "pannelappen"@nl, "pannelap"@nl;
+  skos:hiddenLabel "pannelap"@nl, "pannelappen"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/cf2cff8c-6b76-4b02-ba35-3c93e9f84894>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
 
@@ -118564,7 +118563,7 @@ niet meer gebonden en het aangetaste materiaal is tot de oorspronkelijke zandkor
   a skos:Concept;
   skos:prefLabel "bedieningsgebouwen"@nl;
   skos:scopeNote "Gebouwen die speciaal zijn ingericht voor het bedienen of bewaken van infrastructurele werken of objecten. Hierin bevindt zich de besturingsinstallatie, bijvoorbeeld voor het openen en sluiten van een brug of sluis, vaak elektrisch of hydraulisch. Voorbeelden zijn brugwachtershuisjes, sluiswachtershuisjes en seinhuizen."@nl;
-  skos:altLabel "bedieningsgebouw"@nl, "bedieningshuizen"@nl, "bedieningshuis"@nl, "bedieningshuisje"@nl,
+  skos:altLabel "bedieningshuizen"@nl, "bedieningsgebouw"@nl, "bedieningshuis"@nl, "bedieningshuisje"@nl,
     "bedieningshuisjes"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/d648c14d-3493-4003-8aaa-11a7786f8c32>;
   skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/a45cb338-385e-4066-be1c-2bd06aade603>,
@@ -119774,7 +119773,7 @@ Perpendicular (of Rectilinear) tot in de 16e eeuw"""@nl;
   a skos:Concept;
   skos:prefLabel "glas-in-loodramen"@nl;
   skos:scopeNote "Glas-in-lood bestaat uit een hoeveelheid stukjes (gekleurd) glas gevat in loodstrippen met een H-vormige doorsnede die samengevoegd een glaspaneel vormen. Komt ook voor als glas-in-zink. (Rijksdienst voor het Cultureel Erfgoed)"@nl;
-  skos:altLabel "glasvensters"@nl, "glasramen"@nl, "glasvenster"@nl, "glasraam"@nl,
+  skos:altLabel "glasvenster"@nl, "glasraam"@nl, "glasvensters"@nl, "glasramen"@nl,
     "glas-in-loodraam"@nl, "glas-in-loodvenster"@nl, "glas-in-loodvensters"@nl, "glas in loodvenster"@nl,
     "glas in loodraam"@nl, "glas in loodramen"@nl;
   skos:hiddenLabel "glas in lood"@nl;
@@ -125932,7 +125931,7 @@ van de vermenigvuldiging van bestralingssterkte (E in W.m-2) met bestralingsduur
   a skos:Concept;
   skos:prefLabel "Hollands-classicisme (tuinstijl)"@nl;
   skos:scopeNote "Het Hollands classcisime is een tuinstijl uit de periode 1620-1680 waarbij de Hollandse opvattingen van classicistische principes werden toegepast. Een as van symmetrie verdeelt de tuin in twee gelijke delen en is midden op het huis is gericht. De tuin kent harmonische verhoudingen en heeft een besloten karakter door omheining met hoge hagen en loofgangen. De invulling bestaat uit loofwerken met buxus. (Rijksdienst voor het Cultureel Erfgoed)"@nl;
-  skos:altLabel "Hollands classicisme (tuinstijl)"@nl, "Hollands-classicistische tuinstijl"@nl;
+  skos:altLabel "Hollands-classicistische tuinstijl"@nl, "Hollands classicisme (tuinstijl)"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/594fd333-f17d-4457-9a23-8bcbd4f497eb>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
 
@@ -175302,7 +175301,7 @@ eerst een oog gevormd wordt. (Zeilvaart Lexicon)"""@nl,
   a skos:Concept;
   skos:prefLabel "watersnood"@nl;
   skos:scopeNote "Een overstroming is een gebeurtenis waarbij een aanzienlijke hoeveelheid water uit zeeën, rivieren of meren gebieden bereikt die normaal droog staan. Als dit ernstige vormen aanneemt, spreekt men van een watersnoodramp. Dit soort rampen veroorzaakt grote schade aan mensen, natuur en infrastructuur. Ze ontstaan vaak door dijkdoorbraken, buiten hun oevers tredende rivieren of binnendringend zeewater. Land dat blijvend onder water komt te staan, wordt verdronken land genoemd. Een bekend voorbeeld is de Watersnood van 1953 in Nederland."@nl;
-  skos:altLabel "watersnoodrampen"@nl, "watersnoodramp"@nl;
+  skos:altLabel "watersnoodramp"@nl, "watersnoodrampen"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/77d35334-da8b-46a4-bf44-74b03cf1d551>;
   skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/f747d26e-2052-41b8-be10-4568c3ea73c1>,
     <https://data.cultureelerfgoed.nl/term/id/cht/a7ac7e57-0750-4f87-ac26-40f7f642f72f>;
@@ -217085,8 +217084,9 @@ Een methode voor chemische analyse waarbij een klein materiaalmonster in een pyr
     <https://data.cultureelerfgoed.nl/term/id/cht/11a008fe-39f4-4356-af77-e3f897936674>,
     <https://data.cultureelerfgoed.nl/term/id/cht/84392fc6-b99a-44f5-bae2-f6fa640072ad>,
     <https://data.cultureelerfgoed.nl/term/id/cht/8a202a5f-f5b7-4bbe-85b9-6cd05d71763b>;
-  skos:altLabel "glas-in-loodvensters"@nl, "glaspaneel"@nl, "glaspanelen"@nl, "glas-in-loodpaneel"@nl,
-    "glas in loodpanelen"@nl, "glas in loodpaneel"@nl, "glas in loodvenster"@nl, "glas in loodvensters"@nl .
+  skos:altLabel "glas-in-loodvensters"@nl, "glas in loodvenster"@nl, "glaspaneel"@nl,
+    "glaspanelen"@nl, "glas-in-loodpaneel"@nl, "glas in loodpanelen"@nl, "glas in loodpaneel"@nl,
+    "glas in loodvensters"@nl .
 
 <https://data.cultureelerfgoed.nl/term/id/cht/004b6832-2a7e-436f-a2f9-f8cc72a16869>
   a skos:Concept;
@@ -217580,8 +217580,8 @@ Een methode voor chemische analyse waarbij een klein materiaalmonster in een pyr
   a skos:Concept;
   skos:prefLabel "sanguineverf"@nl;
   skos:scopeNote "Verf die gebruikt wordt bij het brandschilderen, bestaande uit ijzeroxidepigment en smeltmiddelen. Na het brandschilderen kan de kleur variëren van lichtroze tot donkerrood. (Werkgroep Vlakglas)"@nl;
-  skos:altLabel "carnatie"@nl, "Jean Cousin-rood"@nl, "Cousin-rood"@nl, "sanguinerood"@nl,
-    "brandverf"@nl, "brandschilderverf"@nl;
+  skos:altLabel "brandverf"@nl, "brandschilderverf"@nl, "carnatie"@nl, "Jean Cousin-rood"@nl,
+    "Cousin-rood"@nl, "sanguinerood"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/7a795abe-51b8-4f72-85bf-aa2ccce7ff02>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
 
@@ -217605,7 +217605,7 @@ Een methode voor chemische analyse waarbij een klein materiaalmonster in een pyr
   a skos:Concept;
   skos:prefLabel "loodprofielen"@nl;
   skos:scopeNote "Loodstrippen met een H-vormige dwarsdoorsnede, waarin glasstukken gezet kunnen worden. Het rechtopstaande binnenste gedeelte heet de kern, die onzichtbaar is nadat het glas in het lood gezet is. De buitenste bladen worden vleugels genoemd en deze blijven zichtbaar nadat het glas in het lood gezet is. (Werkgroep Vlakglas)"@nl;
-  skos:altLabel "plat lood"@nl, "loodstrip"@nl, "zetlood"@nl, "loden strip"@nl, "loden glaslijst"@nl,
+  skos:altLabel "loodstrip"@nl, "plat lood"@nl, "zetlood"@nl, "loden strip"@nl, "loden glaslijst"@nl,
     "loodprofiel"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/2bb9e948-a44c-458d-824b-031b81d443e0>;
   skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/df74feca-c496-4c90-89cc-495093905bce>;
