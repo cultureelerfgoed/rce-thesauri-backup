@@ -1,7 +1,23 @@
+
+
+
+
+<!DOCTYPE html>
 <html>
-<head><title>502 Bad Gateway</title></head>
-<body>
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx</center>
-</body>
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Graph Modeling - Internal Error</title>
+        <link rel="stylesheet" href="cached-10.3.1/styles/error-pages.css;jsessionid=335D33F6BA97FBA1536EA1146AD05E4E1EEDA05FDC81D6630C9794A5CB20AADE4DA2B1B4E0B5753C14BA0E6D94BAD1B301886015C0C0F654CAF0EF36FE41C393" type="text/css"/>
+        <link rel="SHORTCUT ICON" href="/favicon.svg">
+    </head>
+    <body>
+        <div class="error-container">
+            <div class="error-content">
+                <img src="cached-10.3.1/images/graph_modeling_logo.svg;jsessionid=335D33F6BA97FBA1536EA1146AD05E4E1EEDA05FDC81D6630C9794A5CB20AADE4DA2B1B4E0B5753C14BA0E6D94BAD1B301886015C0C0F654CAF0EF36FE41C393" width="50%" border="0" alt="GraphModeling"><br>
+                <h2>Internal Error</h2>
+                <p></p>
+            </div>
+        </div>
+    </body>
 </html>
