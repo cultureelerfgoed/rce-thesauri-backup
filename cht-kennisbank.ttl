@@ -118278,7 +118278,7 @@ niet meer gebonden en het aangetaste materiaal is tot de oorspronkelijke zandkor
 <https://data.cultureelerfgoed.nl/term/id/cht/4b050de0-9f58-4a9d-9133-91606604d289>
   a skos:Concept;
   skos:prefLabel "meelfabrieken"@nl;
-  skos:scopeNote "De verzameling van de bewegende delen of een bepaalde portie van de delen van klokken en horloges, exclusief de wijzerplaten of omhulsels. (AAT-Ned)"@nl;
+  skos:scopeNote "Gebouwen die zijn uitgerust met machines die graan vermalen tot bloem. (AAT-Ned)"@nl;
   skos:altLabel "meelfabriek"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/a752382f-2254-4aba-b325-7d966c4c40f8>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
