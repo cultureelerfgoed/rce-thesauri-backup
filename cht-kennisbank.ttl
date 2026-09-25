@@ -117571,7 +117571,8 @@ niet meer gebonden en het aangetaste materiaal is tot de oorspronkelijke zandkor
     <https://data.cultureelerfgoed.nl/term/id/cht/9b0ecda5-789d-457b-a54a-c35cc0348e74>,
     <https://data.cultureelerfgoed.nl/term/id/cht/442f6aa8-73d3-48ee-8816-d4d26fd5d5ae>,
     <https://data.cultureelerfgoed.nl/term/id/cht/38da4a0f-72f7-4376-999f-ab2952bf655a>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/97587112-000d-420f-88c8-bf3e08e7dd76>;
+    <https://data.cultureelerfgoed.nl/term/id/cht/97587112-000d-420f-88c8-bf3e08e7dd76>,
+    <https://data.cultureelerfgoed.nl/term/id/cht/428fea2d-3b88-4228-8ebd-b3e06745af24>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
 
 <https://data.cultureelerfgoed.nl/term/id/cht/9bddfb1f-d4dc-4d09-9458-5fccd6cadb1d>
@@ -122430,7 +122431,7 @@ Een bekend voorbeeld in Nederland is de Peelrandbreuk."""@nl;
   a skos:Concept;
   skos:prefLabel "muren"@nl;
   skos:scopeNote "Zware rechtopstaande afsluitende afscheidingen van steenachtig materiaal die meestal een dragende functie hebben. Gebruik 'wanden' voor lichte afscheidingen die geen dragende functie hebben. (AAT-Ned)"@nl;
-  skos:altLabel "afsluitmuren"@nl, "afsluitmuur"@nl, "muur"@nl;
+  skos:altLabel "afsluitmuren"@nl, "afsluitmuur"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/4e481c81-319a-44da-86bf-106f145d22c1>;
   skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/8a57149d-1091-4dc6-8dd3-46ed93fb44bc>,
     <https://data.cultureelerfgoed.nl/term/id/cht/cce87d56-cb7b-45e4-9f8e-2c592cbb41b6>,
@@ -122477,7 +122478,7 @@ Een bekend voorbeeld in Nederland is de Peelrandbreuk."""@nl;
     <https://data.cultureelerfgoed.nl/term/id/cht/17c478e2-2f9e-48d6-a0da-45b8cb3c8a14>,
     <https://data.cultureelerfgoed.nl/term/id/cht/302420c6-69ce-4c53-a88a-4b86b5147dae>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
-  skos:altLabel "scheidsmuren"@nl, "scheidsmuur"@nl .
+  skos:altLabel "muur"@nl, "scheidsmuren"@nl, "scheidsmuur"@nl .
 
 <https://data.cultureelerfgoed.nl/term/id/cht/9bd426b9-0801-4bc2-a02a-705625737327>
   a skos:Concept;
@@ -124850,9 +124851,9 @@ In veel diepe droogmakerijen in West-Nederland ligt deze afzetting aan de opperv
   skos:scopeNote "Fotografische procédés waarbij een beeld in kleur wordt vastgelegd door drie opnames van het tafereel te maken op een monochrome plaat, waarbij op elke opname één van de drie primaire kleuren (rood, groen en blauw) gefilterd wordt. Het beeld is zichtbaar doordat de afzonderlijke opnames weer in register bij elkaar worden gevoegd, waarbij elke opname wordt getoond in het licht van de eigen opname; zo wordt de rode opname getoond met rood licht. (Project Fotografie)"@nl;
   skos:altLabel "additief kleurenprocedé"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/bf0d6dee-99b9-44e8-b61b-369ba2a50402>;
-  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/2da437ad-bee9-44d2-89c4-116a52cb0e59>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/15d26695-4a51-4fbf-aec2-65a18b5a5cc5>;
-  skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
+  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/2da437ad-bee9-44d2-89c4-116a52cb0e59>;
+  skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
+  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/15d26695-4a51-4fbf-aec2-65a18b5a5cc5> .
 
 <https://data.cultureelerfgoed.nl/term/id/cht/5ade462c-1df1-4329-9453-d47450e1ec86>
   a skos:Concept;
@@ -126083,10 +126084,10 @@ van de vermenigvuldiging van bestralingssterkte (E in W.m-2) met bestralingsduur
     <https://data.cultureelerfgoed.nl/term/id/cht/fb0d2d9c-8b31-420b-8afd-5fc847180dce>,
     <https://data.cultureelerfgoed.nl/term/id/cht/22acc346-d6ba-452d-b2ed-bfd722468347>,
     <https://data.cultureelerfgoed.nl/term/id/cht/2003f691-e977-47c7-81ea-05cada282ed4>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/da352ce4-7cf6-4b47-9ebf-b65a12899055>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/79f0bc8b-2a32-43a7-8664-7c8442c4bf8f>;
+    <https://data.cultureelerfgoed.nl/term/id/cht/da352ce4-7cf6-4b47-9ebf-b65a12899055>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
-  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/19610a29-4269-4932-9d1b-5b33d9fbac8b>,
+  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/79f0bc8b-2a32-43a7-8664-7c8442c4bf8f>,
+    <https://data.cultureelerfgoed.nl/term/id/cht/19610a29-4269-4932-9d1b-5b33d9fbac8b>,
     <https://data.cultureelerfgoed.nl/term/id/cht/8eba59fa-c330-4eb2-90ff-9b555c852635>,
     <https://data.cultureelerfgoed.nl/term/id/cht/e34df939-3959-436f-8139-c6bffc798cc0>,
     <https://data.cultureelerfgoed.nl/term/id/cht/b2a35d6f-d4b1-4e45-b05a-b5c968309b76>,
@@ -128568,10 +128569,10 @@ Het zand heeft een vrij constante korrelgrootte, gemiddeld 150-210 µm (0,15-0,2
   skos:scopeNote "Dakpannen zijn uit klei gebakken tegels (tegenwoordig ook van cementsteen) ter dekking van een dak, schubsgewijs over elkaar liggend. (Haslinghuis)"@nl;
   skos:altLabel "broekstukken (dakpan)"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/70b2da84-0d06-438f-a809-5d76078d4fa4>;
-  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/33555589-3dce-4f0a-a54c-83480a1ee810>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/1b58434e-51b9-48c9-a8df-0ca6b75db894>;
+  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/33555589-3dce-4f0a-a54c-83480a1ee810>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
-  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/1c1e8e89-b3ad-4039-9789-9d5d0a0a9165>,
+  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/1b58434e-51b9-48c9-a8df-0ca6b75db894>,
+    <https://data.cultureelerfgoed.nl/term/id/cht/1c1e8e89-b3ad-4039-9789-9d5d0a0a9165>,
     <https://data.cultureelerfgoed.nl/term/id/cht/fb07e742-ab00-4629-ade7-b98db4367550>,
     <https://data.cultureelerfgoed.nl/term/id/cht/21c0681d-8204-43f9-944b-d64d19916724>,
     <https://data.cultureelerfgoed.nl/term/id/cht/9f13d7dc-7a21-48a1-b6f0-351d1a93c52e>,
@@ -144853,10 +144854,10 @@ Fotografische afdrukken van verschillende fasen van een beweging worden samenges
     <https://data.cultureelerfgoed.nl/term/id/cht/bd8bd360-3ea1-4513-8109-aeb15da963df>,
     <https://data.cultureelerfgoed.nl/term/id/cht/d0e36eae-7dcc-4a84-a8db-15190c69eaf9>,
     <https://data.cultureelerfgoed.nl/term/id/cht/d1fbf674-3c2d-4047-afee-4a4d5ed41823>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/d6361a97-0d32-4f2d-8d3c-c23e3ad649a2>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/d9ba06dd-54de-4d35-90d2-c75c4c66db4e>;
+    <https://data.cultureelerfgoed.nl/term/id/cht/d6361a97-0d32-4f2d-8d3c-c23e3ad649a2>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
-  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/e072221b-9ba3-4f4c-86d1-51a887ab1e03>,
+  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/d9ba06dd-54de-4d35-90d2-c75c4c66db4e>,
+    <https://data.cultureelerfgoed.nl/term/id/cht/e072221b-9ba3-4f4c-86d1-51a887ab1e03>,
     <https://data.cultureelerfgoed.nl/term/id/cht/e346fe1f-224a-4088-84ce-b27d8bf86d5c>,
     <https://data.cultureelerfgoed.nl/term/id/cht/e3971452-38ad-4076-8cc2-db4fdba49f72>,
     <https://data.cultureelerfgoed.nl/term/id/cht/ec0e7fd4-5631-4467-8f1f-327cb8f1b708>,
@@ -146049,10 +146050,10 @@ Fotografische afdrukken van verschillende fasen van een beweging worden samenges
     <https://data.cultureelerfgoed.nl/term/id/cht/452ab06f-a2b9-4edd-848b-c30cc7ceea26>,
     <https://data.cultureelerfgoed.nl/term/id/cht/a3327418-d3ff-440d-acc1-e60a8e54815e>,
     <https://data.cultureelerfgoed.nl/term/id/cht/9a7e6c97-542b-468f-a326-d5e587927132>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/6760c500-a604-47d1-be12-ea22fcbe2d77>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/2f7cbf2f-9bf9-4ad6-ad13-c5e9c2e3fc5e>;
+    <https://data.cultureelerfgoed.nl/term/id/cht/6760c500-a604-47d1-be12-ea22fcbe2d77>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
-  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/ea74471e-b6bb-47b2-a4b2-f38090dee421>,
+  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/2f7cbf2f-9bf9-4ad6-ad13-c5e9c2e3fc5e>,
+    <https://data.cultureelerfgoed.nl/term/id/cht/ea74471e-b6bb-47b2-a4b2-f38090dee421>,
     <https://data.cultureelerfgoed.nl/term/id/cht/474582da-0040-4f91-91cb-82f944833036>,
     <https://data.cultureelerfgoed.nl/term/id/cht/8c5eac87-16de-4041-a656-7361b871f1f9>,
     <https://data.cultureelerfgoed.nl/term/id/cht/fa7e3b67-1f7c-40e2-acb0-a9f7f45fc18c>,
@@ -156302,10 +156303,10 @@ Fotografische afdrukken van verschillende fasen van een beweging worden samenges
   skos:scopeNote "Wapenuitrusting staat in het algemeen voor gebruik voor van kostuums die zijn ontworpen om te dragen ter bescherming van het lichaam tijdens een gevecht. (bron: Encyclo.nl)"@nl;
   skos:altLabel "wapenrusting"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/9912210b-59ce-4b7c-a907-cf85f0749514>;
-  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/1ddfaa44-903a-450b-aade-2a688842d50b>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/ea93b7c6-a6ef-463a-8556-7b37e0fa7200>;
+  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/1ddfaa44-903a-450b-aade-2a688842d50b>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
-  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/f638b9da-1715-4826-abaa-e09b9179c6b1>,
+  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/ea93b7c6-a6ef-463a-8556-7b37e0fa7200>,
+    <https://data.cultureelerfgoed.nl/term/id/cht/f638b9da-1715-4826-abaa-e09b9179c6b1>,
     <https://data.cultureelerfgoed.nl/term/id/cht/c7e30d6f-193e-4e46-9359-e346c4305bd9>,
     <https://data.cultureelerfgoed.nl/term/id/cht/cfa994ca-40d5-41ba-b994-61157df89ac8>,
     <https://data.cultureelerfgoed.nl/term/id/cht/03a76177-d4f6-42b5-bb5c-8bc2b0d9d313>,
@@ -169847,9 +169848,9 @@ eerst een oog gevormd wordt. (Zeilvaart Lexicon)"""@nl,
     <https://data.cultureelerfgoed.nl/term/id/cht/84a51013-9793-4940-80cf-045d6bff8e8e>,
     <https://data.cultureelerfgoed.nl/term/id/cht/60d37475-4db6-4bb6-9425-6e7f82f3408a>,
     <https://data.cultureelerfgoed.nl/term/id/cht/5ebda6fc-0a0b-4e9f-8ae4-1bbb1d64f09b>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/0f4ca0c2-4f64-4fd1-b6c8-a6715117aa50>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/d232d019-0cea-4906-bdcc-56abdffbb1c3>;
-  skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
+    <https://data.cultureelerfgoed.nl/term/id/cht/0f4ca0c2-4f64-4fd1-b6c8-a6715117aa50>;
+  skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
+  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/d232d019-0cea-4906-bdcc-56abdffbb1c3> .
 
 <https://data.cultureelerfgoed.nl/term/id/cht/02d17c8f-805d-4d06-a75a-d2683a1a3453>
   a skos:Concept;
@@ -176089,9 +176090,9 @@ eerst een oog gevormd wordt. (Zeilvaart Lexicon)"""@nl,
   skos:scopeNote "Een licht bewapend, snel varend oorlogsschip dat aanvankelijk als bescherming werd ingezet voor konvooien met handelsschepen of grote oorlogsschepen. Hun voornaamste bewapening besrond uit torpedobuizen die in de boeg of aan dek waren gemonteerd. Met grote snelheden konden ze vijandelijke schepen aanvallen met torpedo's en secundair geschut aan dek."@nl;
   skos:altLabel "torpedoboot"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/4b64c746-06bc-4db7-a7eb-7bbe788599f5>;
-  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/a7e0effa-909a-42aa-b82c-1e569ea0b595>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/c89159d9-cf2c-4c6f-9eba-76ca7c6a0bc8>;
-  skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
+  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/a7e0effa-909a-42aa-b82c-1e569ea0b595>;
+  skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
+  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/c89159d9-cf2c-4c6f-9eba-76ca7c6a0bc8> .
 
 <https://data.cultureelerfgoed.nl/term/id/cht/562af8f5-9636-42f5-8c6a-cb75ba5174f2>
   a skos:Concept;
@@ -177282,10 +177283,10 @@ eerst een oog gevormd wordt. (Zeilvaart Lexicon)"""@nl,
     <https://data.cultureelerfgoed.nl/term/id/cht/5f873593-98cf-4d2c-80a0-a7973a9bb146>,
     <https://data.cultureelerfgoed.nl/term/id/cht/631c4b7c-30d4-47f8-b37f-386584946d99>,
     <https://data.cultureelerfgoed.nl/term/id/cht/70041718-6025-4503-ae2f-2a11d3bdffe0>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/79d1c8e3-7cbc-4381-88fe-bbf7fe0ae993>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/9d7f380a-cae7-4eb8-a02b-4f3ae7dc5aff>;
+    <https://data.cultureelerfgoed.nl/term/id/cht/79d1c8e3-7cbc-4381-88fe-bbf7fe0ae993>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
-  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/a2408625-a088-4e48-b671-3f28336ccfdd>,
+  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/9d7f380a-cae7-4eb8-a02b-4f3ae7dc5aff>,
+    <https://data.cultureelerfgoed.nl/term/id/cht/a2408625-a088-4e48-b671-3f28336ccfdd>,
     <https://data.cultureelerfgoed.nl/term/id/cht/2ecc39ff-4a1d-4fd7-955c-d9890867c016>,
     <https://data.cultureelerfgoed.nl/term/id/cht/074ca7c2-30f2-4674-b8c5-51571f50edc8>,
     <https://data.cultureelerfgoed.nl/term/id/cht/12682390-2589-4672-b592-f4bda6b715cb>,
@@ -187242,10 +187243,10 @@ hout aan een oud stuk hout."""@nl;
     <https://data.cultureelerfgoed.nl/term/id/cht/3a7759ec-7350-4dbe-b3fc-0cd01c740a0a>,
     <https://data.cultureelerfgoed.nl/term/id/cht/6bb1c445-2d45-4da3-a497-3a606f2437c2>,
     <https://data.cultureelerfgoed.nl/term/id/cht/753df04a-cdf0-4d3f-bfd2-9d3c0aa97a78>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/7ab6ef21-3f08-4a56-bc1c-b283376f5345>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/801a744b-d1ad-4ee9-88e7-cd01f3b9ff3f>;
+    <https://data.cultureelerfgoed.nl/term/id/cht/7ab6ef21-3f08-4a56-bc1c-b283376f5345>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
-  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/85238786-bae0-4858-a330-5f44ccc53db7>,
+  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/801a744b-d1ad-4ee9-88e7-cd01f3b9ff3f>,
+    <https://data.cultureelerfgoed.nl/term/id/cht/85238786-bae0-4858-a330-5f44ccc53db7>,
     <https://data.cultureelerfgoed.nl/term/id/cht/99b96519-cf90-45ca-936a-4d2e98979ab0>,
     <https://data.cultureelerfgoed.nl/term/id/cht/b15ebfe5-47b7-4c90-a210-5e9c7f0163a9>,
     <https://data.cultureelerfgoed.nl/term/id/cht/c5b1c1fb-8a40-402e-b79a-e257a4613b0c>,
@@ -190995,10 +190996,10 @@ hout aan een oud stuk hout."""@nl;
   skos:altLabel "mast"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/1557bed5-9337-4f79-b016-aded10a5c852>;
   skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/2f20e117-1272-4007-989a-3b5a568fb92e>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/67360db6-53c5-41cf-9d83-ea35baeb7171>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/9970219e-a126-43cb-8286-4dc6197a2aba>;
+    <https://data.cultureelerfgoed.nl/term/id/cht/67360db6-53c5-41cf-9d83-ea35baeb7171>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
-  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/ff853ea2-7c8c-471d-93b7-bdc6378cdf09>,
+  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/9970219e-a126-43cb-8286-4dc6197a2aba>,
+    <https://data.cultureelerfgoed.nl/term/id/cht/ff853ea2-7c8c-471d-93b7-bdc6378cdf09>,
     <https://data.cultureelerfgoed.nl/term/id/cht/52c2ae12-8eb6-4f45-a371-4e6713ee45c9>,
     <https://data.cultureelerfgoed.nl/term/id/cht/5a678bc0-6185-4b06-83fe-d88c808ff8ba>,
     <https://data.cultureelerfgoed.nl/term/id/cht/5ad70e78-dc47-4d48-966b-8aa4c276e6e0>,
@@ -192252,10 +192253,10 @@ hout aan een oud stuk hout."""@nl;
     <https://data.cultureelerfgoed.nl/term/id/cht/0f3f865e-2f05-410b-a1b7-74b8a41ac9b3>,
     <https://data.cultureelerfgoed.nl/term/id/cht/100d34dc-ed0b-4e91-aa19-91dabd52c8c7>,
     <https://data.cultureelerfgoed.nl/term/id/cht/339c49d4-f06f-49ab-b2e3-4db38e5d127e>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/4bed5861-932a-42e3-b343-68502317dc6f>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/755ff08a-24a4-40a2-9e0b-0b4cf34114b6>;
+    <https://data.cultureelerfgoed.nl/term/id/cht/4bed5861-932a-42e3-b343-68502317dc6f>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
-  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/7e8a5498-7cfa-47df-9a65-74d6f48bc8ef>,
+  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/755ff08a-24a4-40a2-9e0b-0b4cf34114b6>,
+    <https://data.cultureelerfgoed.nl/term/id/cht/7e8a5498-7cfa-47df-9a65-74d6f48bc8ef>,
     <https://data.cultureelerfgoed.nl/term/id/cht/8ccc224d-4631-4721-b1bb-4649396e1e29>,
     <https://data.cultureelerfgoed.nl/term/id/cht/96cec15e-dc9c-406e-a34a-9f1dd2bc5810>,
     <https://data.cultureelerfgoed.nl/term/id/cht/b5363b8a-5ee4-4e66-a232-3f66228422ff> .
@@ -217074,9 +217075,8 @@ Een methode voor chemische analyse waarbij een klein materiaalmonster in een pyr
   skos:scopeNote "Glasstukken die in loodprofielen gevat zijn en zo één object vormen. (Werkgroep Vlakglas)"@nl;
   skos:altLabel "glas-in-loodvenster"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/d84ed060-716a-4879-9615-078504fee07d>;
-  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/1afb975b-dca2-4d92-ad9b-d249826b891f>;
-  skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
-  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/6ed8d324-3d65-4e10-b735-c9b72d384f9b>,
+  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/1afb975b-dca2-4d92-ad9b-d249826b891f>,
+    <https://data.cultureelerfgoed.nl/term/id/cht/6ed8d324-3d65-4e10-b735-c9b72d384f9b>,
     <https://data.cultureelerfgoed.nl/term/id/cht/af48f61c-8fd2-4e90-8ca4-bb44ab8693e4>,
     <https://data.cultureelerfgoed.nl/term/id/cht/cf6be8cf-a44f-4892-afef-3b00c5a15b00>,
     <https://data.cultureelerfgoed.nl/term/id/cht/6fe5b332-634b-4b02-81b9-d2e37a2acb5c>,
@@ -217084,6 +217084,7 @@ Een methode voor chemische analyse waarbij een klein materiaalmonster in een pyr
     <https://data.cultureelerfgoed.nl/term/id/cht/11a008fe-39f4-4356-af77-e3f897936674>,
     <https://data.cultureelerfgoed.nl/term/id/cht/84392fc6-b99a-44f5-bae2-f6fa640072ad>,
     <https://data.cultureelerfgoed.nl/term/id/cht/8a202a5f-f5b7-4bbe-85b9-6cd05d71763b>;
+  skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
   skos:altLabel "glas-in-loodvensters"@nl, "glas in loodvenster"@nl, "glaspaneel"@nl,
     "glaspanelen"@nl, "glas-in-loodpaneel"@nl, "glas in loodpanelen"@nl, "glas in loodpaneel"@nl,
     "glas in loodvensters"@nl .
@@ -218386,6 +218387,32 @@ Their function is to prevent outward displacement of supporting elements (e.g. r
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/64fcf78f-2b6f-416f-ba96-ab91c0a77068>;
   skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
 
+<https://data.cultureelerfgoed.nl/term/id/cht/064dbe0b-0e65-4cca-a38b-fc13db02d6c8>
+  a skos:Concept;
+  skos:prefLabel "klokkenvordering"@nl;
+  skos:scopeNote "Het van overheidswege opeisen van kerkklokken en andere luidklokken, doorgaans om het metaal voor andere doeleinden te gebruiken. De term wordt vooral gebruikt voor klokkenvorderingen in oorlogstijd."@nl;
+  skos:altLabel "klokkenvorderingen"@nl;
+  skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/2f04ae7b-0832-4b54-8694-6d3b857634fb>;
+  skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
+
+<https://data.cultureelerfgoed.nl/term/id/cht/428fea2d-3b88-4228-8ebd-b3e06745af24>
+  a skos:Concept;
+  skos:prefLabel "waterschapsgebouwen"@nl;
+  skos:scopeNote "Gebouwen waarin een college van heemraden vergaderde en van waaruit het bestuur en beheer van een waterschap of vergelijkbaar waterstaatkundig gebied werd uitgevoerd."@nl;
+  skos:altLabel "waterschapshuis"@nl, "waterschapshuizen"@nl, "waterschapsgebouw"@nl;
+  skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/a0b6bec9-cb1d-43c2-8f3e-0e955674b26f>;
+  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/ada0c01f-2c62-461b-9c65-ebd3eb3f134a>,
+    <https://data.cultureelerfgoed.nl/term/id/cht/0b55d656-c063-44f5-8f5a-9eba78201603>;
+  skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
+
+<https://data.cultureelerfgoed.nl/term/id/cht/ada0c01f-2c62-461b-9c65-ebd3eb3f134a>
+  a skos:Concept;
+  skos:prefLabel "koggehuis"@nl;
+  skos:scopeNote "Gebouw waarin het bestuur van een kogge bijeenkwam en zijn administratieve taken uitvoerde. Koggen waren historische bestuurlijke eenheden in met name West-Friesland en speelden onder meer een rol in het regionale waterbeheer."@nl;
+  skos:altLabel "koggenhuis"@nl, "koggehuizen"@nl, "koggenhuizen"@nl;
+  skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/428fea2d-3b88-4228-8ebd-b3e06745af24>;
+  skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
+
 <https://data.cultureelerfgoed.nl/term/id/cht/bece25a6-eb64-46e8-85a8-2a7991f02a2c>
   a skos:Concept;
   skos:prefLabel "objecten"@nl;
@@ -219305,8 +219332,10 @@ Their function is to prevent outward displacement of supporting elements (e.g. r
     <https://data.cultureelerfgoed.nl/term/id/cht/cb6567e7-fb59-4dc6-8627-91e45e36a837>,
     <https://data.cultureelerfgoed.nl/term/id/cht/cb9211e5-3eac-4c86-9635-7f455193b449>,
     <https://data.cultureelerfgoed.nl/term/id/cht/cc681e8d-b4df-44f0-8882-d98e95d055a4>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/cc839a6b-8ef3-4c69-bf61-94c0d27be028>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/d0136f3d-5107-4a39-a791-f80db3521a5d>,
+    <https://data.cultureelerfgoed.nl/term/id/cht/cc839a6b-8ef3-4c69-bf61-94c0d27be028>;
+  skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
+  skos:topConceptOf <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
+  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/d0136f3d-5107-4a39-a791-f80db3521a5d>,
     <https://data.cultureelerfgoed.nl/term/id/cht/d3dbc0ef-285f-4823-8c30-b14c539efe77>,
     <https://data.cultureelerfgoed.nl/term/id/cht/d45555be-1925-4dc9-b2a4-39c6694360c7>,
     <https://data.cultureelerfgoed.nl/term/id/cht/d5c000b1-9555-419e-9694-daa2a690cf4d>,
@@ -219330,10 +219359,8 @@ Their function is to prevent outward displacement of supporting elements (e.g. r
     <https://data.cultureelerfgoed.nl/term/id/cht/efcaec99-e9aa-4846-8663-bea0b501cd25>,
     <https://data.cultureelerfgoed.nl/term/id/cht/f1072066-08e8-42f6-8628-29354cf0c5e9>,
     <https://data.cultureelerfgoed.nl/term/id/cht/f143574c-85e3-40a3-a06f-06dbb812e4ec>,
-    <https://data.cultureelerfgoed.nl/term/id/cht/f2155c84-d0b3-4f6a-8892-55924d911c99>;
-  skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
-  skos:topConceptOf <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
-  skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/f29976a5-1e2a-4e12-abc9-22ef0fa63ef6>,
+    <https://data.cultureelerfgoed.nl/term/id/cht/f2155c84-d0b3-4f6a-8892-55924d911c99>,
+    <https://data.cultureelerfgoed.nl/term/id/cht/f29976a5-1e2a-4e12-abc9-22ef0fa63ef6>,
     <https://data.cultureelerfgoed.nl/term/id/cht/f448913c-68ed-4dd9-a1de-e31cf61c3637>,
     <https://data.cultureelerfgoed.nl/term/id/cht/f49b3f63-4aa7-4127-94c8-e7699ca6f979>,
     <https://data.cultureelerfgoed.nl/term/id/cht/f5ce4c0b-8a96-4cb9-b081-0c9c4140173e>,
