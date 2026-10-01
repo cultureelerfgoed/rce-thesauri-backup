@@ -1166,7 +1166,7 @@
 <https://data.cultureelerfgoed.nl/term/id/cht/15ea7a1d-3250-43de-bbd0-2946e0a833e4>
   a skos:Concept;
   skos:prefLabel "bierbrouwerijen"@nl;
-  skos:scopeNote "Gebouw waarin bier gebrouwen wordt. (Haslinghuis)"@nl;
+  skos:scopeNote "Een bierbrouwerij is een gebouw of een ruimte die gebruikt wordt voor het productieproces van het brouwen van bier met een brouwinstallatie."@nl;
   skos:altLabel "brouwerijen"@nl, "bierbrouwerij"@nl, "brouwerij"@nl, "brouwhuis"@nl,
     "brouwhuizen"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/a752382f-2254-4aba-b325-7d966c4c40f8>;
