@@ -330595,11 +330595,10 @@ Het zand heeft een vrij constante korrelgrootte, gemiddeld 150-210 µm (0,15-0,2
   
   <https://data.cultureelerfgoed.nl/term/id/cht/9f593ce6-cc37-4fc4-944d-c730340bc538>
     a skos:Concept;
-    skos:scopeNote "Eindvorsten zijn de laatste rietvorsten op een rieten dak. Bij een zadeldak zijn telkens twee eindvorsten nodig. De eindvorsten kunnen uit drie losse, vrijwel vlakken delen bestaan die met specie worden vastgezet of uit een kwartbolvormig deel, een zogenoemde apekont."@nl,
-      "Eindvorsten zijn de laatste rietvorsten op een rieten dak. Bij een zadeldak zijn telkens twee eindvorsten nodig. De eindvorsten kunnen uit drie losse, vrijwel vlakken delen bestaan die met specie worden vastgezet of uit een kwartbolvormig deel, een zogenoemde apekont. (Het weke dak: riet- en strobedekkingen / , RV bijdrage 11, Zeist 1990)"@nl;
+    skos:scopeNote "Eindvorsten zijn de laatste rietvorsten op een rieten dak. Bij een zadeldak zijn telkens twee eindvorsten nodig. De eindvorsten kunnen uit drie losse, vrijwel vlakken delen bestaan die met specie worden vastgezet of uit een kwartbolvormig deel, een zogenoemde apekont. (Het weke dak: riet- en strobedekkingen / , RV bijdrage 11, Zeist 1990)"@nl;
     dcterms:created "2016-10-11T09:43:33.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2024-08-20T09:24:40.769Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-12T07:08:23.295Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/bece25a6-eb64-46e8-85a8-2a7991f02a2c>;
     <http://schema.semantic-web.at/ppt/NLP/corpusStatistic> _:genid-074f426ee6bf43688789818a90d7336f1423-CD95402F06A04129D28F7EF0FE768E98;
     skos:altLabel "eindvorst"@nl;
