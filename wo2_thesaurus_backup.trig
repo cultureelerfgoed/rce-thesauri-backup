@@ -127174,7 +127174,7 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
   <https://data.niod.nl/WO2_Thesaurus/events/8173> a <http://schema.org/Thing>, skos:Concept,
       <http://schema.org/Event>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/klijne>;
-    dcterms:modified "2024-08-02T04:50:17.595Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-15T06:33:17.400Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/18209>;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/wo2nedindieThema> "Inval Japan";
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/imageURL> "https://upload.wikimedia.org/wikipedia/commons/1/13/COLLECTIE_TROPENMUSEUM_Het_schip_de_Imhoff_ligt_op_de_rede_van_Donggala._TMnr_60008284.jpg";
@@ -127191,7 +127191,7 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     dcterms:created "2019-03-19T14:47:41.000Z"^^xsd:dateTime;
     skos:prefLabel "Scheepsramp Van Imhoff"@nl;
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>, <https://data.niod.nl/WO2_Thesaurus/events/4329>;
-    skos:scopeNote "De Scheepsramp s.s. Van Imhoff vindt plaats op 18 januari 1942 in de Indische Oceaan, nadat het schip door een Japanse verkenningsvliegtuig wordt gebombardeerd en lek slaat. De Van Imhoff transporteert 473 gevangenen Duitsers en NSB’ers van Sumatra naar Brits-Indië. Het zinkende schip wordt door de scheepsbemanning en de bewaking verlaten zonder achterlating van voldoende reddingsmiddelen voor de gevangenen, waardoor er circa 400 gevangenen om het leven komen."@nl;
+    skos:scopeNote "De Scheepsramp s.s. Van Imhoff vindt plaats op 18 januari 1942 in de Indische Oceaan, nadat het schip door een Japanse verkenningsvliegtuig wordt gebombardeerd en lek slaat. De Van Imhoff transporteert 473 gevangenen Duitsers en NSB’ers van Sumatra naar Brits-Indië. Het zinkende schip wordt door de scheepsbemanning en de bewaking verlaten zonder achterlating van voldoende reddingsmiddelen voor de gevangenen, waardoor er 415 gevangenen om het leven komen."@nl;
     skos:altLabel "Van Imhoff"@nl .
   
   <https://data.niod.nl/WO2_Thesaurus/events/8174> a <http://schema.org/Thing>, skos:Concept,
