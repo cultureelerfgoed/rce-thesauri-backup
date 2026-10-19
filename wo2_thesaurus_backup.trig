@@ -82897,8 +82897,8 @@ Wikipedia, https://nl.wikipedia.org/w/index.php?title=Kamikaze&oldid=50264377 [g
   
   <https://data.niod.nl/WO2_Thesaurus/corporaties/4495> a <http://schema.org/Thing>,
       skos:Concept, <http://schema.org/Organization>, <http://schema.org/Event>;
-    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
-    dcterms:modified "2025-12-04T13:31:13.064Z"^^xsd:dateTime;
+    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/klijne>;
+    dcterms:modified "2026-10-19T04:52:50.388Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/imageURL> "https://images.memorix.nl/niod/thumb/1000x1000/f461425c-bdfc-0ef2-7ada-d0c94bfe66f9.jpg";
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/sourceImage> "https://beeldbankwo2.nl/nl/beelden/detail/33cbb722-025a-11e7-904b-d89d6717b464/media/f461425c-bdfc-0ef2-7ada-d0c94bfe66f9";
     dcterms:source "https://nl.wikipedia.org/w/index.php?title=Speciaal:Citeren&page=5._SS-Panzer-Division_Wiking&id=45580134"@nl;
@@ -82914,7 +82914,7 @@ Wikipedia, https://nl.wikipedia.org/w/index.php?title=Kamikaze&oldid=50264377 [g
       <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De 5. SS-Panzer-Division Wiking was een pantserdivisie van de Waffen-SS. De divisie werd opgericht in december 1940 en gaf zich over aan het Amerikaanse Leger in mei 1945. Ze stond bekend als een fanatieke en harde divisie en bestond voor een groot deel uit buitenlandse vrijwilligers, onder wie Nederlanders. De Divisie Wiking heeft de hele oorlog aan het oostfront gevochten, in verschillende regio’s en als onderdeel van verschillende Heeresgruppen."@nl;
     skos:altLabel "5e SS-Panzer-Division"@nl, "SS-Panzer-Division Wiking"@nl, "SS-Panzer-Grenadier-Division Wiking"@nl,
-      "5th SS Panzer Division Wiking"@en, "Divisie Viking"@nl;
+      "5th SS Panzer Division Wiking"@en, "Divisie Viking"@nl, "Wiking"@nl;
     skos:related <https://data.niod.nl/WO2_Thesaurus/corporaties/7830>;
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Organization> .
   
