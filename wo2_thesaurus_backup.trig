@@ -81334,7 +81334,7 @@ Wikipedia, https://nl.wikipedia.org/w/index.php?title=Kamikaze&oldid=50264377 [g
     dcterms:references "N.J.G. Sikkel (red.), Documentatie. Samengesteld ten behoeve van de Bijzondere Rechtspleging, op last van de Procureur-Fiscaal bij het Bijzonder Gerechtshof te Amsterdam (Amsterdam 1947) "@nl,
       "T. Pollman, Mussert & Co. De NSB-Leider en zijn vertrouwelingen (Amsterdam 2012)"@nl;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/baltussenl_2>;
-    dcterms:modified "2024-08-12T13:08:44.421Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-20T08:06:14.857Z"^^xsd:dateTime;
     <https://data.niod.nl/organizationsWO2/startDate> "1940-09-01"^^xsd:date;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/imageURL> "https://images.memorix.nl/niod/thumb/1000x1000/63e790b2-c674-df9c-27f7-c36d045462d4.jpg";
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/sourceImage> "https://beeldbankwo2.nl/nl/beelden/detail/2c33921e-025a-11e7-904b-d89d6717b464/media/63e790b2-c674-df9c-27f7-c36d045462d4";
@@ -81353,7 +81353,8 @@ Wikipedia, https://nl.wikipedia.org/w/index.php?title=Kamikaze&oldid=50264377 [g
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>, <https://data.niod.nl/WO2_Thesaurus/corporaties/4434>;
     skos:scopeNote "De Lijfwacht van den Leider werd in september 1940 opgericht en was belast met de persoonlijke beveiliging van de leider van de NSB. De lijfwacht droeg zwarte uniformen met armband 'Lijfwacht Mussert' en op de kraagspiegels stond de 'fasces', pijlenbundel met bijl, die de standaard van Mussert vormde. De leden waren bewapend, maar bezaten geen militaire en politionele bevoegdheden. Vanaf 1943 bestond deze categorie uit 40 tot 70 man, waarbij het verloop echter groot was. Hiernaast bestonden in enkele grote steden kleine groepen van jonge NSB’ers die ook tot de lijfwacht behoorden, maar hierin geen betrekking hadden. Bij bijzondere gelegenheden, zoals openbare manifestaties, mengden zij zich in burgerkleding onder de aanwezigen om eventuele aanslagen te voorkomen. De rangen waren gelijk aan die van de WA."@nl;
     skos:altLabel "Lijfwacht van Mussert"@nl, "Lijfwacht Mussert"@nl, "Mussert Lijfwacht"@nl,
-      "Lijfwacht der Leider"@nl;
+      "Lijfwacht der Leider"@nl, "Lijfwacht v. d. Leider"@nl, "Lijfwacht v.d. Leider"@nl,
+      "Lijfwacht Leider"@nl;
     skos:related <https://data.niod.nl/WO2_Thesaurus/19854>, <https://data.niod.nl/WO2_Thesaurus/19855>,
       <https://data.niod.nl/WO2_Thesaurus/19856>, <https://data.niod.nl/WO2_Thesaurus/19857>,
       <https://data.niod.nl/WO2_Thesaurus/19858>, <https://data.niod.nl/WO2_Thesaurus/19860>,
