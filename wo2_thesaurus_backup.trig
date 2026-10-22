@@ -6309,7 +6309,7 @@ Het Gewestelijk Arbeidsbureau was de voortzetting en uitbreiding van de gemeente
   
   <https://data.niod.nl/WO2_Thesaurus/1560> a skos:ConceptScheme;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/NIOD>;
-    dcterms:modified "2026-10-20T14:52:34.045Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-21T14:15:04.585Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogDichtbijConcept> false;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/NIOD>;
     dcterms:created "2016-08-01T19:18:59.000Z"^^xsd:dateTime;
@@ -53151,11 +53151,12 @@ nl """@en;
       <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
     <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "51.35741063813758"^^xsd:float;
     <http://www.w3.org/2003/01/geo/wgs84_pos#long> "5.147020400429633"^^xsd:float;
-    dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    dcterms:modified "2025-08-29T07:19:25.659Z"^^xsd:dateTime;
+    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
+    dcterms:modified "2026-10-21T13:25:24.572Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/imageURL> "https://upload.wikimedia.org/wikipedia/commons/a/af/Overzicht_straatzijde_fabriek_-_Reusel_-_20338788_-_RCE.jpg"@nl;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/sourceImage> "https://commons.wikimedia.org/w/index.php?title=File:Overzicht_straatzijde_fabriek_-_Reusel_-_20338788_-_RCE.jpg&oldid=954151900"@nl;
-    dcterms:source "https://www.werkgroepherkenning.nl/zoektocht/lijst-van-interneringskampen-voor-collaborateurs-in-nederland/"@nl;
+    dcterms:source "https://www.werkgroepherkenning.nl/zoektocht/lijst-van-interneringskampen-voor-collaborateurs-in-nederland/"@nl,
+      "https://www.niod.nl/longreads/de-arrestaties-van-collaboratieverdachten-1944-1945/"@nl;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogDichtbijConcept> true;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogVoordeRechterConcept> true;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
@@ -53163,7 +53164,7 @@ nl """@en;
     dcterms:created "2025-03-24T10:20:58.430Z"^^xsd:dateTime;
     skos:prefLabel "Kamp Reusel"@nl;
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>, <https://data.niod.nl/WO2_Thesaurus/kampen/3650>;
-    skos:scopeNote "Kamp Reusel in Reusel was vanaf 1944 in gebruik als interneringskamp (bijzondere rechtspleging). Hier zaten verdachten van en veroordeelden voor collaboratie opgesloten."@nl;
+    skos:scopeNote "Kamp Reusel in Reusel was vanaf september 1944 in gebruik als interneringskamp (bijzondere rechtspleging). Hier zaten verdachten van en veroordeelden voor collaboratie opgesloten. Het kamp bevond zich in een sigarenfabriek. Er werden zeker 1300 personen in het kamp geïnterneerd."@nl;
     <http://schema.semantic-web.at/ppt/appliedType> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
   
   <https://data.niod.nl/WO2_Thesaurus/2161> a <http://schema.org/Thing>, skos:Concept;
@@ -56676,7 +56677,7 @@ Leeuwarden en van cassaties in Groningse zaken (Universiteit Leiden. 2016)"""@nl
   
   <https://data.niod.nl/WO2_Thesaurus/21902> a <http://schema.org/Thing>, skos:Concept;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
-    dcterms:modified "2026-05-19T10:22:31.683Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-21T14:17:07.660Z"^^xsd:dateTime;
     dcterms:creator <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
     skos:narrower <https://data.niod.nl/WO2_Thesaurus/locations/10924>, <https://data.niod.nl/WO2_Thesaurus/locations/19048>,
       <https://data.niod.nl/WO2_Thesaurus/locations/19383>, <https://data.niod.nl/WO2_Thesaurus/locations/21633>,
@@ -56689,7 +56690,7 @@ Leeuwarden en van cassaties in Groningse zaken (Universiteit Leiden. 2016)"""@nl
       <https://data.niod.nl/WO2_Thesaurus/21728>, <https://data.niod.nl/WO2_Thesaurus/21729>,
       <https://data.niod.nl/WO2_Thesaurus/21730>, <https://data.niod.nl/WO2_Thesaurus/21731>,
       <https://data.niod.nl/WO2_Thesaurus/22021>, <https://data.niod.nl/WO2_Thesaurus/22040>,
-      <https://data.niod.nl/WO2_Thesaurus/22041>;
+      <https://data.niod.nl/WO2_Thesaurus/22041>, <https://data.niod.nl/WO2_Thesaurus/22094>;
     skos:broader <https://data.niod.nl/WO2_Thesaurus/2715>;
     dcterms:created "2026-01-13T08:40:14.195Z"^^xsd:dateTime;
     skos:prefLabel "Politiebureaus"@nl;
@@ -58844,6 +58845,32 @@ https://wo2.collectienederland.nl/"""@nl;
     skos:scopeNote "Kamp Amsvorde in Amersfoort was een legerplaats en interneringskamp (bijzondere rechtspleging). Het kamp bevond zich naast Huis te Kalkwegh dichtbij Kamp Amersfoort. De legerplaats van het Nederlandse leger werd in 1941 in gebruik genomen als opleidingscentrum en kazerne van het SS-Wachkommando Nord-West. Hier werden Nederlanders en Duitsers opgeleid tot bewakingseenheden. Vanaf 1945 was Kamp Amsvorde een interneringskamp. Hier zaten voornamelijk vrouwelijke verdachten van en veroordeelden voor collaboratie opgesloten."@nl;
     skos:altLabel "Amsvorde-kamp"@nl, "Centraal Bewaringskamp Amsvorde"@nl, "Lager Amsvorde"@nl,
       "Ziekenkamp Amsvorde"@nl, "Verblijfs- en Bewaringskamp Amsvorde"@nl;
+    <http://schema.semantic-web.at/ppt/appliedType> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+  
+  <https://data.niod.nl/WO2_Thesaurus/22094> a <http://schema.org/Thing>, skos:Concept,
+      <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "51.84744661290325"^^xsd:float;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#long> "5.868602851745759"^^xsd:float;
+    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
+    dcterms:modified "2026-10-21T14:26:35.481Z"^^xsd:dateTime, "2026-10-21T14:26:43.705Z"^^xsd:dateTime,
+      "2026-10-21T14:26:43.948Z"^^xsd:dateTime;
+    <https://data.niod.nl/thesaurus_wo2/ImagesWW2/imageURL> "https://studiezaal.nijmegen.nl/HttpHandler//icoon.ico?file=2285880704";
+    <https://data.niod.nl/thesaurus_wo2/ImagesWW2/sourceImage> "https://studiezaal.nijmegen.nl/detail.php?id=2276014151";
+    <https://data.niod.nl/thesaurus_wo2/ImagesWW2/hasHighlightedObjects> <https://studiezaal.nijmegen.nl/detail.php?id=177046>;
+    dcterms:source "https://www.nieuwsuitnijmegen.nl/Nieuws/2904/Nijmegen-Toen-en-Nu-Burgerlust.html"@nl,
+      "https://www.noviomagus.nl/Particulier/ZP0198.html"@nl;
+    <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogDichtbijConcept> true;
+    <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogVoordeRechterConcept> true;
+    dcterms:creator <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
+    skos:broader <https://data.niod.nl/WO2_Thesaurus/4999>, <https://data.niod.nl/WO2_Thesaurus/8176>,
+      <https://data.niod.nl/WO2_Thesaurus/21902>;
+    dcterms:created "2026-10-21T14:15:04.388Z"^^xsd:dateTime;
+    skos:prefLabel "Politiebureau aan de Lindenberg (Nijmegen)"@nl;
+    skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>, <https://data.niod.nl/WO2_Thesaurus/kampen/3650>;
+    skos:scopeNote "Politiebureau aan de Lindenberg (Nijmegen) was het hoofdbureau van de Nijmeegse politie op de Valkhof 10-12. Tijdens de Duitse bezetting was ook de Ortskommandantuur van de Wehrmacht in dit gebouw en in de naastgelegen Sociëteit Burgerlust gevestigd. Hier werd Joodse roofkunst opgeslagen en werd een bunker gebouwd. Van september 1944 tot december 1945 waren de gebouwen een interneringskamp (bijzondere rechtspleging). Hier zaten verdachten van en veroordeelden van collaboratie opgesloten. Dit kamp werd Interneeringskamp der Grensbewaking Nijmegen of simpelweg Kamp Valkhof genoemd."@nl;
+    skos:altLabel "Politiebureau Valkenhof"@nl, "Interneeringskamp Valkhof"@nl, "Interneeringskamp der Grensbewaking te Nijmegen"@nl,
+      "Kamp van Bewaking Valkhof"@nl, "Kamp van Bewaring Nijmegen"@nl, "Kamp Valkhof 12"@nl,
+      "Kamp De Valkhof"@nl, "Hoofdbureau van politie aan de Lindenberg"@nl;
     <http://schema.semantic-web.at/ppt/appliedType> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
   
   <https://data.niod.nl/WO2_Thesaurus/2210> a <http://schema.org/Thing>, skos:Concept;
@@ -71285,7 +71312,8 @@ De erevelden zijn ingericht door of onder toezicht van een staat, ter nagedachte
       <https://data.niod.nl/WO2_Thesaurus/21809>, <https://data.niod.nl/WO2_Thesaurus/21899>,
       <https://data.niod.nl/WO2_Thesaurus/21900>, <https://data.niod.nl/WO2_Thesaurus/21901>,
       <https://data.niod.nl/WO2_Thesaurus/21903>, <https://data.niod.nl/WO2_Thesaurus/22033>,
-      <https://data.niod.nl/WO2_Thesaurus/22078>, <https://data.niod.nl/WO2_Thesaurus/22092>;
+      <https://data.niod.nl/WO2_Thesaurus/22078>, <https://data.niod.nl/WO2_Thesaurus/22092>,
+      <https://data.niod.nl/WO2_Thesaurus/22094>;
     skos:broader <https://data.niod.nl/WO2_Thesaurus/8217>;
     dcterms:created "2016-11-17T09:22:09.000Z"^^xsd:dateTime;
     skos:prefLabel "Interneringskampen (bijzondere rechtspleging)"@nl;
@@ -76402,7 +76430,7 @@ Wikipedia, https://nl.wikipedia.org/w/index.php?title=Kamikaze&oldid=50264377 [g
   
   <https://data.niod.nl/WO2_Thesaurus/8176> a skos:Concept, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
-    dcterms:modified "2026-10-20T15:13:53.865Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-21T14:18:42.976Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogDichtbijConcept> false;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     skos:narrower <https://data.niod.nl/WO2_Thesaurus/kampen/3676>, <https://data.niod.nl/WO2_Thesaurus/kampen/5718>,
@@ -76735,7 +76763,7 @@ Wikipedia, https://nl.wikipedia.org/w/index.php?title=Kamikaze&oldid=50264377 [g
       <https://data.niod.nl/WO2_Thesaurus/22065>, <https://data.niod.nl/WO2_Thesaurus/22066>,
       <https://data.niod.nl/WO2_Thesaurus/22067>, <https://data.niod.nl/WO2_Thesaurus/22074>,
       <https://data.niod.nl/WO2_Thesaurus/22078>, <https://data.niod.nl/WO2_Thesaurus/22089>,
-      <https://data.niod.nl/WO2_Thesaurus/22092>;
+      <https://data.niod.nl/WO2_Thesaurus/22092>, <https://data.niod.nl/WO2_Thesaurus/22094>;
     dcterms:created "2019-03-20T09:03:33.000Z"^^xsd:dateTime;
     skos:prefLabel "Europese kampen"@nl;
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/kampen/3650>;
@@ -130070,12 +130098,12 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
       <http://schema.org/Event>, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
     <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "52.093291"^^xsd:float;
     <http://www.w3.org/2003/01/geo/wgs84_pos#long> "4.283498"^^xsd:float;
-    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/helfricha>;
-    dcterms:modified "2024-12-19T10:39:06.852Z"^^xsd:dateTime;
+    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
+    dcterms:modified "2026-10-21T14:11:49.727Z"^^xsd:dateTime, "2026-10-21T14:11:43.994Z"^^xsd:dateTime,
+      "2026-10-21T14:11:43.764Z"^^xsd:dateTime, "2026-10-21T14:11:46.566Z"^^xsd:dateTime,
+      "2026-10-21T14:11:54.881Z"^^xsd:dateTime, "2026-10-21T14:11:46.725Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/7047>;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/wo2nedindieThema> "Erkenning en rechtsherstel";
-    <https://data.niod.nl/thesaurus_wo2/ImagesWW2/imageURL> "https://service.archief.nl/gaf/api/file/v1/img/2de95051-8127-45ed-b00d-f2701c792823?h=1000";
-    <https://data.niod.nl/thesaurus_wo2/ImagesWW2/sourceImage> "https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ad79ee0a-d0b4-102d-bcf8-003048976d84";
     <http://schema.org/location> "Den Haag";
     <http://schema.org/startDate> "1970-08-15"^^xsd:date;
     dcterms:source "https://nl.wikipedia.org/w/index.php?title=Nationale_herdenking_15_augustus_1945&oldid=53684549"@nl;
@@ -139751,7 +139779,7 @@ Evacuaties in Nederland 1939-1940 door J. Koolhaas Revers"""@nl;
   
   <https://data.niod.nl/WO2_Thesaurus/kampen/3650> a skos:ConceptScheme;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/NIOD>;
-    dcterms:modified "2026-10-20T15:14:36.423Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-21T14:19:31.740Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogDichtbijConcept> false;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/demoadmin>;
     dcterms:created "2016-09-07T09:18:28.000Z"^^xsd:dateTime;
