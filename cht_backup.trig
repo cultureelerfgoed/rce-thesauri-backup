@@ -28361,12 +28361,12 @@
       "Een kleurstof is een organisch molecuul dat aan vezels kan worden gehecht om textiel en ander organisch materiaal aan te kleuren. Een kleurstof bevat chromofore en auxochrome radicalen. Moderne synthetische kleurstoffen worden geprefereerd boven natuurlijke kleurstoffen omdat ze betere licht- en wasechtheid en een constante kwaliteit hebben en gemakkelijker zijn te verwerken."@nl;
     dcterms:created "2016-10-03T06:51:15.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2026-10-22T10:28:17.340Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T15:55:01.962Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     <http://schema.semantic-web.at/ppt/NLP/corpusStatistic> _:genid-074f426ee6bf43688789818a90d7336f1423-8C17C6672FA8CC61028FF347DFE9D8BF;
     skos:exactMatch <http://vocab.getty.edu/aat/300013029>;
     skos:altLabel "dye"@en, "kleurstof"@nl;
-    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/673c5f29-33e5-42ba-b2b0-6c91a0c20908>;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/6d7e37a7-bc90-4f59-a8fc-27dea0321ea3>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/f2257225-dc94-42ad-ad72-5eac0a5e053e>,
       <https://data.cultureelerfgoed.nl/term/id/cht/0faf2862-d6e4-45d5-b4e0-c121d4465f91>,
       <https://data.cultureelerfgoed.nl/term/id/cht/236c3f34-bafb-4bfe-bee6-7e697dec8b7c>,
@@ -28380,7 +28380,9 @@
       <https://data.cultureelerfgoed.nl/term/id/cht/e006145e-cc01-4a77-bc41-76d0a69306fe>,
       <https://data.cultureelerfgoed.nl/term/id/cht/ebb77dac-b466-450f-824a-bfab4dffe56f>,
       <https://data.cultureelerfgoed.nl/term/id/cht/ed5ce78a-17de-45b7-ac7a-10a1cbd66195>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/fbeebed9-2230-41b1-8658-7cbc4159f5b6>;
+      <https://data.cultureelerfgoed.nl/term/id/cht/fbeebed9-2230-41b1-8658-7cbc4159f5b6>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/f2db1352-a7d5-4eac-8996-0750aca65269>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/a8fc43b3-ea1d-4528-b995-7acc20351b28>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "kleurstoffen"@nl, "dyes"@en;
     <https://data.cultureelerfgoed.nl/id/rnce#hasSource> <https://data.cultureelerfgoed.nl/term/id/cht/c41d3b25-4a9a-4a96-b273-79e2312c61a2>;
@@ -39442,10 +39444,10 @@ L. Ploos van Amstel jr., Bouwstoffen, 's-Gravenhage-Leiden-Naarden 1960."""@nl .
       "Nitrogen oxides, NOx, are forms of air pollution resulting from combustion processes."@en;
     dcterms:created "2016-10-03T08:37:09.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2026-10-22T15:42:43.350Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T16:07:53.757Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     skos:altLabel "stikstofoxiden"@nl;
-    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/40766ec4-4368-4614-a988-c11925841758>;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/c0904d22-db0c-43de-bb36-f90e8dd66fbf>;
     skos:related <https://data.cultureelerfgoed.nl/term/id/cht/87cd0312-95b6-46b2-b7ff-5af74be98986>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "nitrogen oxides"@en, "stikstofoxides"@nl;
@@ -63419,7 +63421,7 @@ https://hdl.handle.net/20.500.11840/termmaster10068601U"""@nl;
     a skos:Concept;
     dcterms:created "2026-10-20T15:28:32.992Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    dcterms:modified "2026-10-22T16:10:50.484Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T15:28:54.091Z"^^xsd:dateTime;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/673c5f29-33e5-42ba-b2b0-6c91a0c20908>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/f8d8be06-9bdd-4412-811d-6728ea59d3c0>,
       <https://data.cultureelerfgoed.nl/term/id/cht/a15fd224-3f45-47ca-bfd7-bec01fefac74>,
@@ -63430,7 +63432,8 @@ https://hdl.handle.net/20.500.11840/termmaster10068601U"""@nl;
       <https://data.cultureelerfgoed.nl/term/id/cht/ae0917ab-06a0-4e26-a185-1b5fb443810d>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "fotografische lagen en beeldvormende stoffen"@nl;
-    skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
+    skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
+    <https://data.cultureelerfgoed.nl/id/rnce#hasConceptStatus> <https://data.cultureelerfgoed.nl/term/id/cht/85c4d302-765c-44be-a3fa-c01c0a376cba> .
   
   <https://data.cultureelerfgoed.nl/term/id/cht/15fcb819-e48b-4cf8-abf1-c786b23b698e>
     a skos:Concept;
@@ -66097,10 +66100,10 @@ https://hdl.handle.net/20.500.11840/termmaster10068601U"""@nl;
       "Sulfur difluoride dioxide (SO2F2) is a gaseous pesticide that can cause corrosion of glass and metals."@en;
     dcterms:created "2016-10-03T09:01:31.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2024-08-20T09:23:44.732Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T16:09:58.078Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     skos:altLabel "sulfuryl fluoride"@en, "sulfurylfluoride"@nl;
-    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/c0904d22-db0c-43de-bb36-f90e8dd66fbf>;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/b18a7403-0249-471a-a625-7de8d979a2fa>;
     skos:related <https://data.cultureelerfgoed.nl/term/id/cht/b852addd-5f0e-4d00-9070-b44814ea3d76>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "zwaveldifluoridedioxide"@nl, "sulfur difluoride dioxide"@en;
@@ -103824,6 +103827,8 @@ Volkstuinen zijn aaneengesloten tuinen aan de rand van een stad of dorp of langs
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     dcterms:modified "2026-08-27T11:24:59.645Z"^^xsd:dateTime;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/5db74efc-e56d-4ff9-b60c-5c3bd938226c>;
+    skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/b47a5f0a-2ff9-443e-b267-6910d07772e3>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/938dcc56-495d-487a-b551-f4b972ce68af>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "boerenbont"@nl;
     <https://data.cultureelerfgoed.nl/id/rnce#hasSource> <https://data.cultureelerfgoed.nl/term/id/cht/335e0ad9-4675-4fb4-b512-53201c577fd0>;
@@ -105885,7 +105890,7 @@ Volkstuinen zijn aaneengesloten tuinen aan de rand van een stad of dorp of langs
       "Een pigment is een onoplosbaar fijn poeder dat wordt gebruikt als kleur voor verf en andere stoffen zoals plastic en cement. (Conservation Dictionary)"@nl;
     dcterms:created "2016-10-03T07:33:13.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2026-10-22T09:11:28.811Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T15:55:27.744Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     <http://schema.semantic-web.at/ppt/NLP/corpusStatistic> _:genid-074f426ee6bf43688789818a90d7336f1423-F9EFE3545B6D8AD261BBBEA32A24B5F8;
     <http://schema.semantic-web.at/sparql/1.0/list/orderedBy> _:genid-074f426ee6bf43688789818a90d7336f1423-D3135FEA5D05A36673BDFD7D0623FDB7;
@@ -105899,6 +105904,8 @@ Volkstuinen zijn aaneengesloten tuinen aan de rand van een stad of dorp of langs
       <https://data.cultureelerfgoed.nl/term/id/cht/32322bbf-0d46-4bd5-a5a5-1aecbb11da09>,
       <https://data.cultureelerfgoed.nl/term/id/cht/2101da1e-65f4-4f94-9295-2edb7ce42471>,
       <https://data.cultureelerfgoed.nl/term/id/cht/99a3cc31-4853-4e93-9399-68c1a0d0e9ce>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/546951f5-fd6d-4a69-bedd-f5a12b08ebda>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/56ca8f6f-3ae1-4722-9a38-cc95a72d4a9a>,
       <https://data.cultureelerfgoed.nl/term/id/cht/744e6622-b8aa-463c-b494-2357a903915f>,
       <https://data.cultureelerfgoed.nl/term/id/cht/83e9cec5-5de4-4301-abdc-da10177592c4>,
       <https://data.cultureelerfgoed.nl/term/id/cht/4ffdc083-983a-4947-b54d-d48abe60183f>,
@@ -125427,10 +125434,10 @@ Volkstuinen zijn aaneengesloten tuinen aan de rand van een stad of dorp of langs
       "Dichlorvos, 2,2-dichlorovinyl dimethylphosphate, is a pesticide gradually released into an enclosed space that kills insects at a certain concentration."@en;
     dcterms:created "2016-10-03T07:03:15.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2026-05-08T15:40:53.944Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T16:04:53.987Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     skos:altLabel "DDVP"@en;
-    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/40766ec4-4368-4614-a988-c11925841758>;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/c6096d4a-e341-4ba0-ac03-19bf6e11529f>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "dichlorvos"@en, "dichloorvos"@nl;
     <https://data.cultureelerfgoed.nl/id/rnce#hasSource> <https://data.cultureelerfgoed.nl/term/id/cht/c41d3b25-4a9a-4a96-b273-79e2312c61a2>;
@@ -132734,11 +132741,11 @@ Lambda (printer), Lightjet (printer) (Project Fotografie)"""@nl,
       "Lacquer is a coating or binder made from the excretory products of a number of tree species. Different countries use local names for lacquer: urushi from Japan, China and Korea derived from Rhus verniciflua, yun from Burma derived from Melanorrhoea usitate, while similar materials are used in Thailand, Vietnam, Indonesia and Taiwan.' (Conservation Dictionary)"@en;
     dcterms:created "2016-10-03T06:57:23.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2026-05-08T15:15:36.269Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T15:56:43.908Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     <http://schema.semantic-web.at/ppt/NLP/corpusStatistic> _:genid-074f426ee6bf43688789818a90d7336f1423-FCEE4B499CAA0CBF167154A531522CBC;
     skos:exactMatch <http://vocab.getty.edu/aat/300014916>, <https://hdl.handle.net/20.500.11840/termmaster10065504>;
-    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/673c5f29-33e5-42ba-b2b0-6c91a0c20908>;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/a6eb5d80-a5d1-46f7-b5ec-1d4209d7f202>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/d163dd06-173b-4a3c-8d28-659cd737a377>,
       <https://data.cultureelerfgoed.nl/term/id/cht/4788f131-262a-431a-ac0f-24444f3687b5>,
       <https://data.cultureelerfgoed.nl/term/id/cht/c3caaff3-fb19-472a-99d0-f1705b250ffb>,
@@ -137873,9 +137880,9 @@ Op de 244 Joodse begraafplaatsen die Nederland nu nog kent, zijn in totaal 85 me
       "DDT is the acronym for dichlorodiphenyltrichloroethane (IUPAC name: 1,1-bis(4-chlorophenyl)-2,2,2-trichloroethane). It is an insecticide that was widely used on museum exhibits before it was banned due to its long-term toxicity to animals and humans."@en;
     dcterms:created "2016-10-03T07:03:13.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2026-05-08T15:40:31.633Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T16:04:46.442Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
-    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/40766ec4-4368-4614-a988-c11925841758>;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/c6096d4a-e341-4ba0-ac03-19bf6e11529f>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "DDT"@en, "DDT"@nl;
     <https://data.cultureelerfgoed.nl/id/rnce#hasSource> <https://data.cultureelerfgoed.nl/term/id/cht/c41d3b25-4a9a-4a96-b273-79e2312c61a2>;
@@ -138005,12 +138012,12 @@ Op de 244 Joodse begraafplaatsen die Nederland nu nog kent, zijn in totaal 85 me
       "Pearl is a white, iridescent, hard material found on the inside of a shell. It is composed of successive layers of aragonite and organic material."@en;
     dcterms:created "2016-10-03T07:27:06.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2024-08-20T12:42:58.918Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T16:12:16.879Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     skos:exactMatch <https://data.cultureelerfgoed.nl/koloniaalverleden/e2e985a3-a706-40b1-b12e-274553eb2039>,
       dbpedia:Nacre, <https://hdl.handle.net/20.500.11840/termmaster10065804>;
     skos:altLabel "paarlemoer"@nl, "nacre"@en;
-    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/b4a07f8c-07ee-4f80-aa5b-2ef1e240ee79>;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/b1ca166b-00c7-4a58-afb9-221b63f91b7b>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "mother of pearl"@en, "Perlmutt"@de, "nacre"@fr, "parelmoer"@nl;
     <https://data.cultureelerfgoed.nl/id/rnce#hasSource> <https://data.cultureelerfgoed.nl/term/id/cht/c41d3b25-4a9a-4a96-b273-79e2312c61a2>,
@@ -141750,26 +141757,19 @@ Op de 244 Joodse begraafplaatsen die Nederland nu nog kent, zijn in totaal 85 me
     a skos:Concept;
     dcterms:created "2026-05-08T14:38:59.022Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    dcterms:modified "2026-10-22T16:16:06.766Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T16:07:53.759Z"^^xsd:dateTime;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/4c2121de-9a3d-4bbd-93d8-db06f86545ac>,
       <https://data.cultureelerfgoed.nl/term/id/cht/bc3bcd42-fb5e-424f-8dec-e20637dc520f>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/51bbe8e3-5ffb-4aef-910d-5b9648263a41>,
       <https://data.cultureelerfgoed.nl/term/id/cht/b5018c8d-6fc1-4dcd-9211-ada740aafde3>,
       <https://data.cultureelerfgoed.nl/term/id/cht/d9a67076-bf41-4415-bb0b-0e5c5cd318ce>,
       <https://data.cultureelerfgoed.nl/term/id/cht/8b33a656-26b9-45e0-a13f-e19d19af1645>,
       <https://data.cultureelerfgoed.nl/term/id/cht/9fc66d89-a20e-4145-864f-025c2a22b299>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/6d8de185-1738-4577-9bf4-5d5ebc0cef0e>,
       <https://data.cultureelerfgoed.nl/term/id/cht/d87fea0b-829d-4d72-a37d-42be6f4d4bc4>,
       <https://data.cultureelerfgoed.nl/term/id/cht/7dda4a08-2248-49fc-b5de-b36aba989ff8>,
       <https://data.cultureelerfgoed.nl/term/id/cht/a09b6596-b025-41bc-b3a7-7c11d707b503>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/07cd3eb1-133b-4f1c-bfdb-5348036a70f7>,
       <https://data.cultureelerfgoed.nl/term/id/cht/0c41c9b8-fb66-48af-b44a-46dd24503c6c>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/36c51d71-f8aa-40c4-bb7f-148004c1ea53>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/3e49dc70-a907-4e5a-a61c-4d64d02d549b>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/ede1b88e-0597-40be-ad23-c982807091d4>,
       <https://data.cultureelerfgoed.nl/term/id/cht/f5b91653-21a3-4993-a15b-90a944a868b3>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/ffbb38ff-5d04-4e46-8f07-8347f3802667>,
       <https://data.cultureelerfgoed.nl/term/id/cht/c6096d4a-e341-4ba0-ac03-19bf6e11529f>,
       <https://data.cultureelerfgoed.nl/term/id/cht/aff6cb99-4caa-4fe5-a4fd-1069a90a62b4>,
       <https://data.cultureelerfgoed.nl/term/id/cht/6d0dca0b-ed12-4a6b-a373-00e001904cfd>,
@@ -172931,12 +172931,12 @@ Bijvoorbeeld een (deel van een) glasstuk dat een lacune invult. (Werkgroep Vlakg
     skos:scopeNote "Een base of loog – ook wel alkali genoemd – is een substantie die reageert met een zuur."@nl;
     dcterms:created "2021-02-09T12:58:16.473Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    dcterms:modified "2026-05-08T15:23:47.606Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T16:01:13.014Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/NLP/corpusStatistic> _:genid-074f426ee6bf43688789818a90d7336f1423-9ECF83CC67CF180E89C008A0768FB2C5,
       _:genid-074f426ee6bf43688789818a90d7336f1423-31D9D7379C351485F90C533742F7BEE2, _:genid-074f426ee6bf43688789818a90d7336f1423-B8EF3CC7A10C40C0C0AA6B6A0B0844F7,
       _:genid-074f426ee6bf43688789818a90d7336f1423-2D7FE080624C926D627F31C5C0F594F9, <https://digitaalerfgoed-test.poolparty.biz/ccCHT2/convertedBNode/node1f0qi6usqx7483>;
     skos:altLabel "base"@nl, "loog"@nl, "alkali"@nl;
-    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/40766ec4-4368-4614-a988-c11925841758>;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/66600f1f-0f18-4184-a260-64f15131719c>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "basen"@nl;
     skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
@@ -177985,9 +177985,9 @@ Bijvoorbeeld een (deel van een) glasstuk dat een lacune invult. (Werkgroep Vlakg
       "A lacquer pigment is prepared by depositing an organic dye on a solid substrate (such as chalk or barite)."@en;
     dcterms:created "2016-10-03T06:57:29.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2026-10-20T15:54:47.153Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T15:55:22.012Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
-    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/6d7e37a7-bc90-4f59-a8fc-27dea0321ea3>;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/2d4ff601-9025-4667-811d-a4fe8da87b4d>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "lake pigment"@en, "lakpigment"@nl;
     <https://data.cultureelerfgoed.nl/id/rnce#hasSource> <https://data.cultureelerfgoed.nl/term/id/cht/c41d3b25-4a9a-4a96-b273-79e2312c61a2>;
@@ -178578,7 +178578,7 @@ Bijvoorbeeld een (deel van een) glasstuk dat een lacune invult. (Werkgroep Vlakg
     dcterms:created "2016-09-30T12:48:06.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
-    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/ffbb38ff-5d04-4e46-8f07-8347f3802667>;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/6d0dca0b-ed12-4a6b-a373-00e001904cfd>;
     skos:prefLabel "nantokite"@en, "nantokiet"@nl;
     <https://data.cultureelerfgoed.nl/id/rnce#hasSource> <https://data.cultureelerfgoed.nl/term/id/cht/c41d3b25-4a9a-4a96-b273-79e2312c61a2>;
     skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
@@ -182214,9 +182214,9 @@ Bijvoorbeeld een (deel van een) glasstuk dat een lacune invult. (Werkgroep Vlakg
     skos:scopeNote "Massicot is het minerale gele loodoxide (PbO)."@nl, "Massicot is the mineral yellow lead oxide (PbO)."@en;
     dcterms:created "2016-10-03T07:02:49.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2026-10-20T15:51:42.288Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T15:55:28.734Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
-    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/6d7e37a7-bc90-4f59-a8fc-27dea0321ea3>;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/2d4ff601-9025-4667-811d-a4fe8da87b4d>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "massicot"@en, "massicot"@nl;
     <https://data.cultureelerfgoed.nl/id/rnce#hasSource> <https://data.cultureelerfgoed.nl/term/id/cht/c41d3b25-4a9a-4a96-b273-79e2312c61a2>;
@@ -189302,9 +189302,11 @@ Fotografische afdrukken van verschillende fasen van een beweging worden samenges
       "Handelsmerknaam voor een reeks zuurstofabsorbers die worden gebruikt om de houdbaarheid van commerciële levensmiddelen te verlengen; zij worden ook gebruikt voor insectenverdelging en zuurstofvrije opslag in musea en archieven. (AAT)"@nl;
     dcterms:created "2022-09-26T11:17:12.591Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
+    dcterms:modified "2026-10-23T16:05:38.693Z"^^xsd:dateTime;
     skos:exactMatch <http://vocab.getty.edu/aat/300380478>;
     skos:altLabel "Ageless (TM)"@nl;
-    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/b18a7403-0249-471a-a625-7de8d979a2fa>;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/e1ea269b-003b-46d4-9250-5579ba2bad7f>;
+    dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "Ageless"@nl, "Ageless"@en;
     skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
     <https://data.cultureelerfgoed.nl/id/rnce#hasConceptStatus> <https://data.cultureelerfgoed.nl/term/id/cht/c58475d5-0795-4623-b4be-ea1524f4b4fb> .
@@ -204143,14 +204145,14 @@ tijden gunstig genoeg voor de vorming van een toendravegetatie en van veen. De j
       "1. A varnish is a solution of a film-forming material that dries to a hard, shiny layer. 2. A varnish is a translucent coating that protects and/or enhances the appearance of a surface. 3. A varnish, resin varnish, is a protective lacquer consisting of a resin dissolved in an evaporating solvent, for example, damar in petroleum ether."@en;
     dcterms:created "2016-10-03T08:46:32.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2026-05-08T15:16:09.659Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T15:56:37.665Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     <http://schema.semantic-web.at/ppt/NLP/corpusStatistic> _:genid-074f426ee6bf43688789818a90d7336f1423-2F5ABFA9A24AA10BB63D58371A534008;
     <http://schema.semantic-web.at/sparql/1.0/list/orderedBy> _:genid-074f426ee6bf43688789818a90d7336f1423-71CE0B53C3F48CD2445F3CEB088DAA94,
       _:genid-074f426ee6bf43688789818a90d7336f1423-D9C109F0634B4D23FE9424CC3FE555A3;
     skos:exactMatch <http://vocab.getty.edu/aat/300014974>, <https://hdl.handle.net/20.500.11840/termmaster10065506>;
     skos:altLabel "spirit varnish"@en;
-    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/673c5f29-33e5-42ba-b2b0-6c91a0c20908>;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/a6eb5d80-a5d1-46f7-b5ec-1d4209d7f202>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/5361f4ea-42d3-4eba-9176-c07affe6e10b>,
       <https://data.cultureelerfgoed.nl/term/id/cht/636302af-e7ab-477a-951a-67f4f8405dc8>,
       <https://data.cultureelerfgoed.nl/term/id/cht/6d888bb5-56e6-4934-9d06-1041df0f1620>,
@@ -210121,9 +210123,11 @@ tijden gunstig genoeg voor de vorming van een toendravegetatie en van veen. De j
     a skos:Concept;
     dcterms:created "2026-10-20T14:34:46.256Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    dcterms:modified "2026-10-20T15:20:10.060Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T16:01:11.824Z"^^xsd:dateTime;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/40766ec4-4368-4614-a988-c11925841758>;
-    skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/75fb3c0c-a53b-4cfd-bc05-7f2f1c4ae211>;
+    skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/51bbe8e3-5ffb-4aef-910d-5b9648263a41>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/75fb3c0c-a53b-4cfd-bc05-7f2f1c4ae211>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/6d8de185-1738-4577-9bf4-5d5ebc0cef0e>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "zuren en basen"@nl;
     skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
@@ -211595,14 +211599,9 @@ tijden gunstig genoeg voor de vorming van een toendravegetatie en van veen. De j
     a skos:Concept;
     dcterms:created "2026-05-08T14:38:45.778Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    dcterms:modified "2026-10-22T09:11:28.814Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T15:56:43.911Z"^^xsd:dateTime;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/c4b6fd34-b141-4107-b149-d504a6dda8a9>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/6340ddd5-1366-423b-a501-88cfc45f8746>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/3b108ea7-8f50-46b0-a4e2-4dda410f0cab>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/02c7623a-d3c7-48da-abd0-ac3f64cf2480>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/cbf4bd02-8195-4157-a9ad-a2fb0c0c7ccc>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/7a795abe-51b8-4f72-85bf-aa2ccce7ff02>,
       <https://data.cultureelerfgoed.nl/term/id/cht/edbb2440-1a77-4698-b754-c6dcc9a01dfc>,
       <https://data.cultureelerfgoed.nl/term/id/cht/30e7807f-4d31-4ec8-b8b2-aa6874ae0c0d>,
       <https://data.cultureelerfgoed.nl/term/id/cht/e2105d2d-5c4d-41c8-9e73-7aa6d89c1f18>,
@@ -222035,22 +222034,31 @@ Een psychiatrische inrichting is een instelling voor de opvang en behandeling va
   
   <https://data.cultureelerfgoed.nl/term/id/cht/6d0dca0b-ed12-4a6b-a373-00e001904cfd>
     a skos:Concept;
+    skos:scopeNote "Een corrosieproduct is de stof die wordt gevormd als een materiaal reageert met water, zuurstof, elektrolyten of bacteriën."@nl;
     dcterms:created "2026-10-20T14:31:34.533Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    dcterms:modified "2026-10-20T14:51:01.118Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T16:00:30.012Z"^^xsd:dateTime;
+    <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
+    skos:altLabel "corrosieproduct"@nl, "vervalproduct"@nl, "corrosieproducten"@nl, "vervalproducten"@nl;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/40766ec4-4368-4614-a988-c11925841758>;
-    skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/7447ca59-e69c-495f-95be-f7c8b3181d4e>,
+    skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/54b917e2-d94b-4536-b2c2-a025bf058b65>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/7447ca59-e69c-495f-95be-f7c8b3181d4e>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/7636ff0d-300f-4bbc-a64d-c921c3cc6b88>,
       <https://data.cultureelerfgoed.nl/term/id/cht/7a5c0538-137f-48b9-ac14-a6d7da682a99>,
       <https://data.cultureelerfgoed.nl/term/id/cht/93af3ec9-46ee-410c-ac2b-fc1333f416e9>,
       <https://data.cultureelerfgoed.nl/term/id/cht/387e79f8-942c-4712-b7a4-54c708e95638>,
       <https://data.cultureelerfgoed.nl/term/id/cht/42024b71-30fb-4f6a-907e-14f0dd631f42>,
       <https://data.cultureelerfgoed.nl/term/id/cht/428689cc-8e8a-4829-b048-6cc605b9d92b>,
       <https://data.cultureelerfgoed.nl/term/id/cht/a847d497-9ccd-4eea-8cf4-d9bef4ba9ca6>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/d3ac7622-bb4f-4408-b21f-45fda1b41c10>,
       <https://data.cultureelerfgoed.nl/term/id/cht/ecfd9f41-d1b5-45e8-8844-70f3703fd0ba>,
       <https://data.cultureelerfgoed.nl/term/id/cht/f9358134-a3a0-48bd-8a1c-18b0f68b2800>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    skos:prefLabel "corrosie- en vervalproducten"@nl;
-    skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
+    skos:prefLabel "corrosion product"@en, "corrosie- en vervalproducten"@nl;
+    <https://data.cultureelerfgoed.nl/id/rnce#hasSource> <https://data.cultureelerfgoed.nl/term/id/cht/c41d3b25-4a9a-4a96-b273-79e2312c61a2>;
+    skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
+    <https://data.cultureelerfgoed.nl/id/rnce#hasConceptStatus> <https://data.cultureelerfgoed.nl/term/id/cht/c58475d5-0795-4623-b4be-ea1524f4b4fb>;
+    <https://data.cultureelerfgoed.nl/id/rnce#hasSourceHolder> <https://data.cultureelerfgoed.nl/term/id/cht/1576adc6-1af1-44d0-9d46-593eb6bcad09> .
   
   <https://data.cultureelerfgoed.nl/term/id/cht/6d0fdb65-e009-4d4c-9c5a-b21ed48d5592>
     a skos:Concept;
@@ -222867,14 +222875,11 @@ Een psychiatrische inrichting is een instelling voor de opvang en behandeling va
     a skos:Concept;
     dcterms:created "2026-10-20T15:29:00.504Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    dcterms:modified "2026-10-22T09:11:27.833Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T15:55:28.737Z"^^xsd:dateTime;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/673c5f29-33e5-42ba-b2b0-6c91a0c20908>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/2d4ff601-9025-4667-811d-a4fe8da87b4d>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/546951f5-fd6d-4a69-bedd-f5a12b08ebda>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/56ca8f6f-3ae1-4722-9a38-cc95a72d4a9a>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/f2db1352-a7d5-4eac-8996-0750aca65269>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/34315555-3b94-4aa1-a248-d02122c6aa7d>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/a8fc43b3-ea1d-4528-b995-7acc20351b28>;
+      <https://data.cultureelerfgoed.nl/term/id/cht/02c7623a-d3c7-48da-abd0-ac3f64cf2480>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/34315555-3b94-4aa1-a248-d02122c6aa7d>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "pigmenten en kleurstoffen"@nl;
     skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
@@ -222995,9 +223000,9 @@ Een psychiatrische inrichting is een instelling voor de opvang en behandeling va
     skos:scopeNote "Een zuur is een begrip uit de scheikunde waarvan de definitie een aantal malen aangescherpt is. Zuren zijn de tegenhangers van de basen. Zuren en basen reageren met elkaar in een proces dat neutralisatie genoemd wordt. Een waterige oplossing wordt zuur genoemd wanneer de zuurgraad (pH) lager is dan 7."@nl;
     dcterms:created "2021-07-22T11:26:06.973Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    dcterms:modified "2026-05-08T15:22:02.857Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T16:00:59.304Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/NLP/corpusStatistic> _:genid-074f426ee6bf43688789818a90d7336f1423-FDAA586E9038FF1515F4EF2DB91ECB4C;
-    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/40766ec4-4368-4614-a988-c11925841758>;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/66600f1f-0f18-4184-a260-64f15131719c>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/92f8e75d-e82d-4e70-9ae4-4c1f441eef9f>,
       <https://data.cultureelerfgoed.nl/term/id/cht/b99aad62-2bf1-414d-b18d-2d34413b43ad>,
       <https://data.cultureelerfgoed.nl/term/id/cht/8a58d380-380a-48f2-b486-e06666ca33ae>,
@@ -240780,7 +240785,7 @@ Binnen het domein Religieus Erfgoed verstaat men onder opaline een witte glassoo
     dcterms:created "2016-09-30T12:48:06.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
-    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/ffbb38ff-5d04-4e46-8f07-8347f3802667>;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/6d0dca0b-ed12-4a6b-a373-00e001904cfd>;
     skos:prefLabel "akaganeite"@en, "akaganeïet"@nl;
     <https://data.cultureelerfgoed.nl/id/rnce#hasSource> <https://data.cultureelerfgoed.nl/term/id/cht/c41d3b25-4a9a-4a96-b273-79e2312c61a2>;
     skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
@@ -250502,12 +250507,12 @@ Gebruikelijke lengte 9 tot 12 meter, lengte-breedte verhouding circa 3:1. Alhoew
     skos:scopeNote "Iedere dispersie van een pigment in een oplosmiddel van water, olie of een andere organische stof. (AAT-Ned)"@nl;
     dcterms:created "2016-10-03T08:46:04.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2026-10-22T10:26:54.323Z"^^xsd:dateTime, "2026-10-22T10:26:54.786Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T15:56:29.437Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     <http://schema.semantic-web.at/ppt/NLP/corpusStatistic> _:genid-074f426ee6bf43688789818a90d7336f1423-3C1C52E43E23F451DF7CD0E6D32F723E;
     <http://schema.semantic-web.at/sparql/1.0/list/orderedBy> _:genid-074f426ee6bf43688789818a90d7336f1423-6D92368BC5B60CBA42CA02E5294A984B;
     skos:exactMatch dbpedia:Paint, <https://hdl.handle.net/20.500.11840/termmaster10065533>;
-    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/673c5f29-33e5-42ba-b2b0-6c91a0c20908>;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/a6eb5d80-a5d1-46f7-b5ec-1d4209d7f202>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/9056cb31-4d00-401f-9293-92fe751745cd>,
       <https://data.cultureelerfgoed.nl/term/id/cht/33638a1c-5f0d-4f8b-ab02-e5a428812caf>,
       <https://data.cultureelerfgoed.nl/term/id/cht/6383169e-ee77-4a7c-bb87-b6822c4be3e3>,
@@ -273375,7 +273380,7 @@ In het bouwbedrijf werd leem gebruikt voor het bestrijken van wanden, schoorstee
       "Structural placeholder used to organize the hierarchy. Not intended for indexing or cataloguing."@en;
     dcterms:created "2019-05-28T10:22:30.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    dcterms:modified "2026-10-20T13:39:17.275Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T15:32:18.706Z"^^xsd:dateTime;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/d159858d-d746-4de5-98be-82cc5b697f6b>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "gidsterm"@nl, "guideterm"@en;
@@ -283708,7 +283713,7 @@ hoeveelheid data, snelheid en diversiteit."""@nl;
     a skos:Concept;
     dcterms:created "2026-10-20T15:28:50.592Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    dcterms:modified "2026-10-20T15:43:43.762Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T15:32:57.962Z"^^xsd:dateTime;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/673c5f29-33e5-42ba-b2b0-6c91a0c20908>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/9d9e957c-ba7b-4138-b09c-c19653b04ea4>,
       <https://data.cultureelerfgoed.nl/term/id/cht/ee4d916d-3ec3-4a3e-8a42-1b5d08377fa7>,
@@ -283720,7 +283725,8 @@ hoeveelheid data, snelheid en diversiteit."""@nl;
       <https://data.cultureelerfgoed.nl/term/id/cht/d0136f3d-5107-4a39-a791-f80db3521a5d>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "grondlagen"@nl;
-    skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
+    skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
+    <https://data.cultureelerfgoed.nl/id/rnce#hasConceptStatus> <https://data.cultureelerfgoed.nl/term/id/cht/c58475d5-0795-4623-b4be-ea1524f4b4fb> .
   
   <https://data.cultureelerfgoed.nl/term/id/cht/8b625be5-b4a7-4fef-a0f5-8ca409ee5860>
     a skos:Concept;
@@ -298139,6 +298145,16 @@ Vanwege de aanwezige permafrost kon dit water niet wegzakken, moest het afstrome
     <https://data.cultureelerfgoed.nl/id/rnce#hasConceptStatus> <https://data.cultureelerfgoed.nl/term/id/cht/c58475d5-0795-4623-b4be-ea1524f4b4fb>;
     <https://data.cultureelerfgoed.nl/id/rnce#hasSourceHolder> <https://data.cultureelerfgoed.nl/term/id/cht/1576adc6-1af1-44d0-9d46-593eb6bcad09> .
   
+  <https://data.cultureelerfgoed.nl/term/id/cht/938dcc56-495d-487a-b551-f4b972ce68af>
+    a skos:Concept;
+    dcterms:created "2026-10-23T10:35:35.318Z"^^xsd:dateTime;
+    dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
+    dcterms:modified "2026-10-23T10:44:12.751Z"^^xsd:dateTime;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/2c45046a-d0f3-47c0-8f7e-b186f1bb5695>;
+    dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
+    skos:prefLabel "Decor: 483a - Société Céramique"@nl;
+    skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
+  
   <https://data.cultureelerfgoed.nl/term/id/cht/93908431-0818-4973-8814-79225b45666c>
     a skos:Concept;
     dcterms:created "2016-10-17T07:38:25.000Z"^^xsd:dateTime;
@@ -306100,10 +306116,11 @@ Meestal bestaat de deurklopper uit een beweegbare gietijzeren of koperen ring of
       "A surfactant is a substance that, when dissolved in a solvent (usually water), increases the penetration of the solvent by lowering its surface tension. Surfactants also make the solvent have better washing power by emulsifying greasy dirt."@en;
     dcterms:created "2016-10-03T07:09:42.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2026-10-20T15:11:39.031Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T16:06:55.067Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     skos:altLabel "surface active agent"@en;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/fb9effd6-c78f-4558-8ad7-3a51d499ec5e>;
+    skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/ede1b88e-0597-40be-ad23-c982807091d4>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "surfactant"@en, "oppervlakte-actieve stof"@nl;
     <https://data.cultureelerfgoed.nl/id/rnce#hasSource> <https://data.cultureelerfgoed.nl/term/id/cht/c41d3b25-4a9a-4a96-b273-79e2312c61a2>;
@@ -326782,8 +326799,9 @@ Het zand heeft een vrij constante korrelgrootte, gemiddeld 150-210 µm (0,15-0,2
     a skos:Concept;
     dcterms:created "2025-10-17T13:23:20.988Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    dcterms:modified "2025-10-17T13:23:21.008Z"^^xsd:dateTime;
-    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/f8acb877-b5a9-491a-b622-b2912675b277>;
+    dcterms:modified "2026-10-23T16:11:24.577Z"^^xsd:dateTime;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/d9a67076-bf41-4415-bb0b-0e5c5cd318ce>;
+    skos:related <https://data.cultureelerfgoed.nl/term/id/cht/f8acb877-b5a9-491a-b622-b2912675b277>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "waterstof"@nl;
     skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
@@ -337226,13 +337244,16 @@ In Nederland zijn deze afzettingen veelal gevormd tijdens en vlak na de ijsbedek
     a skos:Concept;
     dcterms:created "2026-10-20T15:29:22.828Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    dcterms:modified "2026-10-20T15:48:36.463Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T15:56:42.764Z"^^xsd:dateTime;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/673c5f29-33e5-42ba-b2b0-6c91a0c20908>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/dc705b65-64e5-4063-aeb7-a3421a003f5f>,
       <https://data.cultureelerfgoed.nl/term/id/cht/1acb2a7c-ec24-46d9-8c0d-99b2c3d4c5c5>,
       <https://data.cultureelerfgoed.nl/term/id/cht/51967ebd-0826-4f8a-9229-ac2e1d3e241e>,
       <https://data.cultureelerfgoed.nl/term/id/cht/60c7fc56-437c-456d-8eb3-e16db8967c2a>,
       <https://data.cultureelerfgoed.nl/term/id/cht/e63c82e0-070c-409f-85a7-37ee5a2c107a>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/6340ddd5-1366-423b-a501-88cfc45f8746>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/3b108ea7-8f50-46b0-a4e2-4dda410f0cab>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/7a795abe-51b8-4f72-85bf-aa2ccce7ff02>,
       <https://data.cultureelerfgoed.nl/term/id/cht/8f086171-24bf-47b4-b971-b878bef0215e>,
       <https://data.cultureelerfgoed.nl/term/id/cht/a7cb2c38-1675-4e0e-97f7-f2f7b27b2bb4>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
@@ -340630,10 +340651,10 @@ In Nederland zijn deze afzettingen veelal gevormd tijdens en vlak na de ijsbedek
       "A metal dye is a synthetic mordant with a metal atom that binds the dye to the substance. There are two types: 1:1 complexes used in acidic dye baths and 2:1 complexes used in nearly neutral solutions. Metal dyes are used in dyeing wool, silk and nylon."@en;
     dcterms:created "2016-10-03T07:06:18.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2026-10-20T15:52:08.089Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T15:55:03.166Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     skos:altLabel "metal-complex dye"@en;
-    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/6d7e37a7-bc90-4f59-a8fc-27dea0321ea3>;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/02c7623a-d3c7-48da-abd0-ac3f64cf2480>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "pre-metallized dye"@en, "metaalkleurstof"@nl;
     <https://data.cultureelerfgoed.nl/id/rnce#hasSource> <https://data.cultureelerfgoed.nl/term/id/cht/c41d3b25-4a9a-4a96-b273-79e2312c61a2>;
@@ -355634,16 +355655,16 @@ E.J. Haslinghuis-H. Janse, Bouwkundige termen, Leiden 1997."""@nl .
       "A pesticide is a vaporous biocide used in gasification."@en;
     dcterms:created "2016-09-30T12:45:25.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2026-10-22T08:26:30.704Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T16:09:52.312Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     skos:exactMatch <https://data.cultureelerfgoed.nl/term/id/gst/4eedee0a-f809-4a47-a339-fcdebc019755>;
     skos:closeMatch <http://vocab.getty.edu/aat/300343375>;
     skos:altLabel "biocide"@nl, "biocides"@nl, "pesticide"@en, "pesticide"@nl, "fumigant"@en,
       "verdelgingsmiddel"@nl;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/c6096d4a-e341-4ba0-ac03-19bf6e11529f>;
-    skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/5998edd1-368f-40bc-9c4a-83b9be84cd9b>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/8eaa4297-5674-4395-b70f-745e2b3d8fc5>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/5abed07e-21a2-45c9-af61-6156a3bc79a0>;
+    skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/1749b605-36cf-4464-bdf7-2c70eb0157ee>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/5998edd1-368f-40bc-9c4a-83b9be84cd9b>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/8eaa4297-5674-4395-b70f-745e2b3d8fc5>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "biociden"@nl, "biocides"@en;
     <https://data.cultureelerfgoed.nl/id/rnce#hasSource> <https://data.cultureelerfgoed.nl/term/id/cht/c41d3b25-4a9a-4a96-b273-79e2312c61a2>;
@@ -356065,9 +356086,10 @@ E.J. Haslinghuis-H. Janse, Bouwkundige termen, Leiden 1997."""@nl .
     a skos:Concept;
     dcterms:created "2026-10-20T13:36:42.761Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    dcterms:modified "2026-10-20T13:37:42.184Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T16:12:15.810Z"^^xsd:dateTime;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/b4a07f8c-07ee-4f80-aa5b-2ef1e240ee79>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/c1726829-b45a-484d-ae76-d42f419f7703>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/3e6302c4-7ad8-4d66-a4b4-9dca1daa3b21>,
       <https://data.cultureelerfgoed.nl/term/id/cht/7bacb54e-017f-4a84-903e-7e5d9219659d>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "schelp en parel"@nl;
@@ -361287,6 +361309,16 @@ De singels leverden bovendien brand- en geriefhout, waaraan in het gemengde bedr
     skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
     <https://data.cultureelerfgoed.nl/id/rnce#hasConceptStatus> <https://data.cultureelerfgoed.nl/term/id/cht/c58475d5-0795-4623-b4be-ea1524f4b4fb> .
   
+  <https://data.cultureelerfgoed.nl/term/id/cht/b47a5f0a-2ff9-443e-b267-6910d07772e3>
+    a skos:Concept;
+    dcterms:created "2026-10-23T10:34:07.154Z"^^xsd:dateTime;
+    dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
+    dcterms:modified "2026-10-23T10:34:07.384Z"^^xsd:dateTime;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/2c45046a-d0f3-47c0-8f7e-b186f1bb5695>;
+    dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
+    skos:prefLabel "Decor: 15 - Petrus Regout / Sphinx"@nl;
+    skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
+  
   <https://data.cultureelerfgoed.nl/term/id/cht/b47ca61e-f2e6-42b7-81ee-748eb45e195b>
     a skos:Concept;
     skos:scopeNote "Gran Turismo, meestal afgekort tot GT, is een type auto. Voorheen was een GT een wagen die gemaakt is om grote afstanden op hoge snelheid af te kunnen leggen. Het is een sportieve wagen, maar die in tegenstelling tot een echte sportwagen niet volledig gericht is op prestaties ten nadele van comfort."@nl;
@@ -361637,7 +361669,7 @@ De singels leverden bovendien brand- en geriefhout, waaraan in het gemengde bedr
     skos:scopeNote "Te gebruiken voor materiaal van dierlijke oorsprong. (AAT)"@nl;
     dcterms:created "2016-09-30T12:48:10.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2026-10-22T15:56:27.487Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T16:12:16.882Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     <http://schema.semantic-web.at/ppt/NLP/corpusStatistic> _:genid-074f426ee6bf43688789818a90d7336f1423-CE7BEDEDF26911E61B15ACB1189E593B;
     skos:exactMatch <http://vocab.getty.edu/aat/300011793>;
@@ -361648,7 +361680,6 @@ De singels leverden bovendien brand- en geriefhout, waaraan in het gemengde bedr
       <https://data.cultureelerfgoed.nl/term/id/cht/2c5af06e-b0f2-4c09-81bf-48be46ce8b53>,
       <https://data.cultureelerfgoed.nl/term/id/cht/a31df309-1d98-4577-8265-24aea6d3834b>,
       <https://data.cultureelerfgoed.nl/term/id/cht/e8a7b99a-75ca-4be5-86b2-ccac8976bcdf>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/3e6302c4-7ad8-4d66-a4b4-9dca1daa3b21>,
       <https://data.cultureelerfgoed.nl/term/id/cht/4fd21d37-0c62-48d3-98a1-818c23710726>,
       <https://data.cultureelerfgoed.nl/term/id/cht/f7b33cbf-1b28-4932-aa33-866bed7f7a0d>,
       <https://data.cultureelerfgoed.nl/term/id/cht/62dabb51-b78a-4e4a-aa9c-626fb5997c77>,
@@ -362449,7 +362480,7 @@ De singels leverden bovendien brand- en geriefhout, waaraan in het gemengde bedr
     a skos:ConceptScheme;
     dcterms:created "2017-04-26T06:46:32.000Z"^^xsd:dateTime;
     dcterms:creator <https://digitaalerfgoed.poolparty.biz/user/moutp>;
-    dcterms:modified "2026-10-22T13:38:00.241Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T10:35:35.555Z"^^xsd:dateTime;
     skos:hasTopConcept <https://data.cultureelerfgoed.nl/term/id/cht/bece25a6-eb64-46e8-85a8-2a7991f02a2c>,
       <https://data.cultureelerfgoed.nl/term/id/cht/7433e248-ff09-429d-9d57-a39737e413a2>,
       <https://data.cultureelerfgoed.nl/term/id/cht/24656072-e4a3-424b-bcde-b9ab4dbb7593>,
@@ -362609,12 +362640,14 @@ De singels leverden bovendien brand- en geriefhout, waaraan in het gemengde bedr
     a skos:Concept;
     dcterms:created "2026-10-20T15:28:42.087Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    dcterms:modified "2026-10-20T15:42:17.327Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T15:32:18.702Z"^^xsd:dateTime;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/673c5f29-33e5-42ba-b2b0-6c91a0c20908>;
-    skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/13625c5c-e04c-4aae-bdef-6731137eba68>;
+    skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/cbf4bd02-8195-4157-a9ad-a2fb0c0c7ccc>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/13625c5c-e04c-4aae-bdef-6731137eba68>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "glazuur en email"@nl;
-    skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
+    skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
+    <https://data.cultureelerfgoed.nl/id/rnce#hasConceptStatus> <https://data.cultureelerfgoed.nl/term/id/cht/85c4d302-765c-44be-a3fa-c01c0a376cba> .
   
   <https://data.cultureelerfgoed.nl/term/id/cht/b54ff02b-d0ed-4151-91c9-05957a9e9add>
     a skos:Concept;
@@ -382931,7 +382964,7 @@ Een hutkom was een half ingegraven, rechthoekig gebouwtje. Het had geen bovengro
       "Orthorhombic mineral of the sound element sulfur. (AAT-Ned)"@en;
     dcterms:created "2016-10-03T09:01:31.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2026-10-20T14:49:31.238Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T16:09:58.080Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     <http://schema.semantic-web.at/ppt/NLP/corpusStatistic> _:genid-074f426ee6bf43688789818a90d7336f1423-9812A2A95D18FDD2FC9AF03084E3AE82;
     skos:exactMatch <https://data.cultureelerfgoed.nl/term/id/gst/577b3017-d381-4213-88d0-cbeb968cdbcc>,
@@ -382939,7 +382972,7 @@ Een hutkom was een half ingegraven, rechthoekig gebouwtje. Het had geen bovengro
     skos:altLabel "solfer"@nl;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/d9a67076-bf41-4415-bb0b-0e5c5cd318ce>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/cb9e659b-44c0-481d-8786-a04e43d36141>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/1749b605-36cf-4464-bdf7-2c70eb0157ee>;
+      <https://data.cultureelerfgoed.nl/term/id/cht/07cd3eb1-133b-4f1c-bfdb-5348036a70f7>;
     skos:related <https://data.cultureelerfgoed.nl/term/id/cht/c0119828-6ed6-44e4-983b-ea40c6b9b253>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "zwavel"@nl, "Schwefel"@de, "sulfur"@en, "soufre"@fr;
@@ -391038,7 +391071,6 @@ Een hutkom was een half ingegraven, rechthoekig gebouwtje. Het had geen bovengro
       <https://data.cultureelerfgoed.nl/term/id/cht/ff6e35ad-5434-4f2a-8a49-2f37d7b9b139>,
       <https://data.cultureelerfgoed.nl/term/id/cht/ff7151fc-9f77-43e6-91eb-6c5e648b9360>,
       <https://data.cultureelerfgoed.nl/term/id/cht/ffaede48-8117-4eac-a360-a0af73117ee1>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/ffbb38ff-5d04-4e46-8f07-8347f3802667>,
       <https://data.cultureelerfgoed.nl/term/id/cht/4547b8a9-a52d-4b67-9f2d-1eac67d2d1e2>,
       <https://data.cultureelerfgoed.nl/term/id/cht/4cb6455e-4c06-49f7-97c2-3230b80a55e2>,
       <https://data.cultureelerfgoed.nl/term/id/cht/4fd25ecd-14ec-41e4-a298-c7a964971b24>,
@@ -391070,7 +391102,8 @@ Een hutkom was een half ingegraven, rechthoekig gebouwtje. Het had geen bovengro
       <https://data.cultureelerfgoed.nl/term/id/cht/c441be48-3291-45f9-a138-f17d48c2a8b5>,
       <https://data.cultureelerfgoed.nl/term/id/cht/f51f1d2a-5e29-429e-95a4-663df5208177>,
       <https://data.cultureelerfgoed.nl/term/id/cht/15d56ed2-9431-48e0-bfca-48306ef1ca9a>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/016b0980-4fed-40d2-aca2-c423a90f4802> .
+      <https://data.cultureelerfgoed.nl/term/id/cht/016b0980-4fed-40d2-aca2-c423a90f4802>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/6d0dca0b-ed12-4a6b-a373-00e001904cfd> .
   
   <https://data.cultureelerfgoed.nl/term/id/cht/c41f3be8-cc29-44f2-8e61-98fb652f072d>
     a skos:Concept;
@@ -393503,7 +393536,7 @@ Een hutkom was een half ingegraven, rechthoekig gebouwtje. Het had geen bovengro
       "Voorlopige term. Er is nog geen definitief besluit genomen over opname of structuur. Gebruik deze status tijdens het overleg- of ontwikkelproces."@nl;
     dcterms:created "2016-09-29T09:14:01.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>;
-    dcterms:modified "2026-10-22T07:58:28.708Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T15:32:57.965Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/d159858d-d746-4de5-98be-82cc5b697f6b>;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/d159858d-d746-4de5-98be-82cc5b697f6b>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
@@ -394490,7 +394523,7 @@ Specifiek verwijst de \"kruistaart\" naar een kruisvormige verbinding of verster
     a skos:Concept;
     dcterms:created "2026-10-20T14:30:57.982Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    dcterms:modified "2026-10-22T08:26:10.284Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T16:04:52.938Z"^^xsd:dateTime;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/40766ec4-4368-4614-a988-c11925841758>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/9e39742f-1387-43b7-bd34-44e038631c23>,
       <https://data.cultureelerfgoed.nl/term/id/cht/b18a7403-0249-471a-a625-7de8d979a2fa>,
@@ -394498,6 +394531,8 @@ Specifiek verwijst de \"kruistaart\" naar een kruisvormige verbinding of verster
       <https://data.cultureelerfgoed.nl/term/id/cht/048aa785-9819-41c2-99d9-9ffa90b54e44>,
       <https://data.cultureelerfgoed.nl/term/id/cht/0bd71fc9-a63d-427b-8bbd-6ffcc1b5e03d>,
       <https://data.cultureelerfgoed.nl/term/id/cht/0d22b520-b0ac-47cb-a890-ecccc60ee339>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/36c51d71-f8aa-40c4-bb7f-148004c1ea53>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/3e49dc70-a907-4e5a-a61c-4d64d02d549b>,
       <https://data.cultureelerfgoed.nl/term/id/cht/a6bbd69a-0c80-496e-a6ab-bfa62139e2e1>,
       <https://data.cultureelerfgoed.nl/term/id/cht/f49b3f63-4aa7-4127-94c8-e7699ca6f979>,
       <https://data.cultureelerfgoed.nl/term/id/cht/8c8f6c91-0b96-4555-a4c6-b796cb52399a>;
@@ -404990,12 +405025,12 @@ Haaknaalden worden gemaakt in allerlei maten, vaak aangeduid in millimeters, die
     skos:scopeNote "Dun, meestal glanzend deklaagje. (Toegepaste Kunst Project, RKD)"@nl;
     dcterms:created "2016-09-30T13:50:19.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2026-05-08T15:15:10.032Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T15:29:26.267Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     <http://schema.semantic-web.at/ppt/NLP/corpusStatistic> _:genid-074f426ee6bf43688789818a90d7336f1423-E5A72758D7F7A16F28E270D006C30ECF;
     skos:exactMatch <https://hdl.handle.net/20.500.11840/termmaster10065548>;
     skos:closeMatch dbpedia:Ceramic_glaze;
-    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/673c5f29-33e5-42ba-b2b0-6c91a0c20908>;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/b54dd6e5-e25b-4e9a-ace6-4a819b042db5>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/1effb1c2-ce5d-4227-a8f0-ee66ee042c5d>,
       <https://data.cultureelerfgoed.nl/term/id/cht/253368ef-aba9-4ea8-8340-684c1f996063>,
       <https://data.cultureelerfgoed.nl/term/id/cht/3b50d584-137c-4e75-ab40-3c25ab6fd267>,
@@ -424407,7 +424442,7 @@ Haaknaalden worden gemaakt in allerlei maten, vaak aangeduid in millimeters, die
     dcterms:created "2016-09-30T12:48:07.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
-    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/ffbb38ff-5d04-4e46-8f07-8347f3802667>;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/6d0dca0b-ed12-4a6b-a373-00e001904cfd>;
     skos:prefLabel "tenorite"@en, "tenoriet"@nl;
     <https://data.cultureelerfgoed.nl/id/rnce#hasSource> <https://data.cultureelerfgoed.nl/term/id/cht/c41d3b25-4a9a-4a96-b273-79e2312c61a2>;
     skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
@@ -434612,7 +434647,7 @@ Bron	Internet: De taal van het water (maart 2005)
     skos:scopeNote "Een chemisch of scheikundig element is een stof die met scheikundige middelen en methoden niet in andere stoffen opgesplitst kan worden. Een element bestaat uit één soort atomen met alle hetzelfde atoomnummer, dus met hetzelfde aantal protonen in de kern. Het aantal neutronen in de atomen van een element kan variëren."@nl;
     dcterms:created "2021-02-12T12:58:42.294Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    dcterms:modified "2026-10-20T14:48:28.863Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T16:10:36.250Z"^^xsd:dateTime;
     skos:exactMatch dbpedia:Chemical_element;
     skos:altLabel "element (scheikunde)"@nl, "natuurkundig element"@nl, "scheikundig element"@nl,
       "chemisch element"@nl;
@@ -434623,7 +434658,8 @@ Bron	Internet: De taal van het water (maart 2005)
       <https://data.cultureelerfgoed.nl/term/id/cht/c0904d22-db0c-43de-bb36-f90e8dd66fbf>,
       <https://data.cultureelerfgoed.nl/term/id/cht/960ba592-7383-41e4-a8fc-a6e6ea14000a>,
       <https://data.cultureelerfgoed.nl/term/id/cht/6ceaa840-c126-46e2-af51-2849acf1dc55>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/f29976a5-1e2a-4e12-abc9-22ef0fa63ef6>;
+      <https://data.cultureelerfgoed.nl/term/id/cht/f29976a5-1e2a-4e12-abc9-22ef0fa63ef6>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/a14c82b8-a392-40d7-91b7-626cde22c472>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "chemische elementen"@nl, "Chemisches Element"@de, "chemical element"@en,
       "élément chimique"@fr;
@@ -449227,10 +449263,11 @@ Vlucht bij solo-motorfietsen is de sprong, de stand van de vooras ten opzichte v
     a skos:Concept;
     dcterms:created "2026-10-20T14:09:28.623Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    dcterms:modified "2026-10-20T14:22:27.773Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T16:05:33.544Z"^^xsd:dateTime;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/4c8b3905-3d3d-4f73-be92-a33a95f378fd>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/6c3744a6-2fe6-4119-90a7-1b3dc36258b8>,
       <https://data.cultureelerfgoed.nl/term/id/cht/479d49be-bd24-4328-9b47-5539a8356877>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/5abed07e-21a2-45c9-af61-6156a3bc79a0>,
       <https://data.cultureelerfgoed.nl/term/id/cht/47f36dec-8617-4f0f-b450-0396523bbad7>,
       <https://data.cultureelerfgoed.nl/term/id/cht/aa671267-dd79-4e49-a054-b5e43742c264>,
       <https://data.cultureelerfgoed.nl/term/id/cht/ac5fa588-c59b-4637-8ae6-c716b865aed8>,
@@ -468915,11 +468952,11 @@ ander cultureel erfgoed als bedoeld in artikel 1.1 van de Erfgoedwet***\""""@nl,
       "A detergent (laundry detergent) is added to water to promote cleaning in washing. It is a pure surfactant or it has other additives. See also surfactant."@en;
     dcterms:created "2016-10-03T07:03:15.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2026-05-08T15:20:04.593Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T16:06:56.203Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     skos:exactMatch <https://hdl.handle.net/20.500.11840/termmaster10065597>;
     skos:altLabel "detergent"@nl;
-    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/40766ec4-4368-4614-a988-c11925841758>;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/965133b9-b10b-497b-a309-422bbc636000>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "detergent"@en, "detergenten"@nl;
     <https://data.cultureelerfgoed.nl/id/rnce#hasSource> <https://data.cultureelerfgoed.nl/term/id/cht/c41d3b25-4a9a-4a96-b273-79e2312c61a2>;
@@ -479576,10 +479613,10 @@ In veel diepe droogmakerijen in West-Nederland ligt deze afzetting aan de opperv
     skos:scopeNote "Cachou (ook catechu) is een looistofhoudende, organische kleurstof. Cachou is afkomstig uit de bast van tropische bomen, vooral van de acacia, de betelpalm en de mimosa. Het hoofdbestanddeel van deze stof is taan. De bewerking heet cachouën of tanen en dit wordt in een taanketel gedaan, waarin door het koken van de bast de taan wordt verkregen. De bruin-gele kleur van cachou wordt taneet genoemd. Cachou heeft een conserverende werking. Het werd vooral door vissers gebruikt om touw, visnetten en katoenen zeilen te tanen en het rottingsproces door schimmels of bacteriën te voorkomen."@nl;
     dcterms:created "2018-09-03T14:03:02.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/oostingr>;
-    dcterms:modified "2026-10-20T15:51:19.130Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T15:54:50.933Z"^^xsd:dateTime;
     skos:closeMatch <http://vocab.getty.edu/aat/300013357>, dbpedia:Catechu;
     skos:altLabel "catechu"@nl;
-    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/6d7e37a7-bc90-4f59-a8fc-27dea0321ea3>;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/02c7623a-d3c7-48da-abd0-ac3f64cf2480>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "cachou"@nl;
     <https://data.cultureelerfgoed.nl/id/rnce#hasSource> <https://data.cultureelerfgoed.nl/term/id/cht/80bce233-9106-4139-96c6-92a99060f778>;
@@ -492600,16 +492637,16 @@ Wordt aangegeven voor de objectklassen Wegdeel, Spoorbaandeel, Waterdeel en Terr
     skos:scopeNote "Materiaal dat wordt gebruikt om hitte of energie te leveren door verbranding. (Zuiderzeemuseum)"@nl;
     dcterms:created "2016-09-30T12:45:30.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2026-10-22T12:30:17.448Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-23T16:11:24.582Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     <http://schema.semantic-web.at/ppt/NLP/corpusStatistic> _:genid-074f426ee6bf43688789818a90d7336f1423-61D8AECB75121BBBF6E28CCD1434A2A6;
     skos:exactMatch <https://data.cultureelerfgoed.nl/term/id/gst/1c2d0f9d-1f8d-4e8c-9dc2-5450abd30104>,
       <https://hdl.handle.net/20.500.11840/termmaster10048538>;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/aff6cb99-4caa-4fe5-a4fd-1069a90a62b4>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/91676b62-cc7d-4ef2-b623-54fde8ad745f>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/45ef2925-93b7-4f33-b897-39706b795c64>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/45ef2925-93b7-4f33-b897-39706b795c64>;
+    skos:related <https://data.cultureelerfgoed.nl/term/id/cht/0dbc0800-1b42-491b-83e0-a5f690ca0488>,
       <https://data.cultureelerfgoed.nl/term/id/cht/a14c82b8-a392-40d7-91b7-626cde22c472>;
-    skos:related <https://data.cultureelerfgoed.nl/term/id/cht/0dbc0800-1b42-491b-83e0-a5f690ca0488>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "brandstof"@nl;
     <https://data.cultureelerfgoed.nl/id/rnce#hasSource> <https://data.cultureelerfgoed.nl/term/id/cht/ef60d8b9-3be5-449a-ab0a-bb4d76d279d8>;
@@ -505850,25 +505887,6 @@ Eenvoudige gegoten ronde kachels waarop men koken kan."""@nl;
     skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
     <https://data.cultureelerfgoed.nl/id/rnce#hasConceptStatus> <https://data.cultureelerfgoed.nl/term/id/cht/c58475d5-0795-4623-b4be-ea1524f4b4fb>;
     <https://data.cultureelerfgoed.nl/id/rnce#image> <https://images.memorix.nl/rce/thumb/440x440/7a9791ef-2448-7efb-d763-df86b535f29d.jpg> .
-  
-  <https://data.cultureelerfgoed.nl/term/id/cht/ffbb38ff-5d04-4e46-8f07-8347f3802667>
-    a skos:Concept;
-    skos:scopeNote "Een corrosieproduct is de stof die wordt gevormd als een materiaal reageert met water, zuurstof, elektrolyten of bacteriën."@nl;
-    dcterms:created "2016-09-30T12:48:06.000Z"^^xsd:dateTime;
-    dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2026-05-08T15:21:41.781Z"^^xsd:dateTime;
-    <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
-    skos:altLabel "corrosieproduct"@nl;
-    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/40766ec4-4368-4614-a988-c11925841758>;
-    skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/54b917e2-d94b-4536-b2c2-a025bf058b65>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/7636ff0d-300f-4bbc-a64d-c921c3cc6b88>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/d3ac7622-bb4f-4408-b21f-45fda1b41c10>;
-    dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    skos:prefLabel "corrosion product"@en, "corrosieproducten"@nl;
-    <https://data.cultureelerfgoed.nl/id/rnce#hasSource> <https://data.cultureelerfgoed.nl/term/id/cht/c41d3b25-4a9a-4a96-b273-79e2312c61a2>;
-    skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
-    <https://data.cultureelerfgoed.nl/id/rnce#hasConceptStatus> <https://data.cultureelerfgoed.nl/term/id/cht/c58475d5-0795-4623-b4be-ea1524f4b4fb>;
-    <https://data.cultureelerfgoed.nl/id/rnce#hasSourceHolder> <https://data.cultureelerfgoed.nl/term/id/cht/1576adc6-1af1-44d0-9d46-593eb6bcad09> .
   
   <https://data.cultureelerfgoed.nl/term/id/cht/ffbf9bea-eb65-4e3a-982f-170408bf89d3>
     a skos:Concept;
