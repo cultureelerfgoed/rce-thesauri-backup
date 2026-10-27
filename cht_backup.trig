@@ -89469,7 +89469,7 @@ hout aan een oud stuk hout."""@nl;
       "A physical feature is a characteristic of an object or organism. (Rijksdienst voor het Cultureel Erfgoed)"@en;
     dcterms:created "2016-09-30T09:39:38.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>;
-    dcterms:modified "2026-10-22T10:31:25.021Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-27T09:15:52.426Z"^^xsd:dateTime;
     skos:topConceptOf <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/2dbd49c7-c0c2-4901-9612-c012f8e6ba76>,
       <https://data.cultureelerfgoed.nl/term/id/cht/681ce67c-5ed6-42f5-9c91-7055a72df014>,
@@ -89910,7 +89910,6 @@ hout aan een oud stuk hout."""@nl;
       <https://data.cultureelerfgoed.nl/term/id/cht/467653cd-5894-46da-a8f4-d3ac9f1ed5c7>,
       <https://data.cultureelerfgoed.nl/term/id/cht/4953b85f-7e50-4c97-8bc1-ed367bd86be9>,
       <https://data.cultureelerfgoed.nl/term/id/cht/4a8bc934-ab0a-4fb4-88d1-37f2b9b352e5>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/4d861ff7-5963-488a-b6eb-2eb8b0833caf>,
       <https://data.cultureelerfgoed.nl/term/id/cht/a826a01e-d0bc-43cd-9774-b016fca6f910>,
       <https://data.cultureelerfgoed.nl/term/id/cht/ada69041-8ecd-41ff-bbd3-8b066613aa50>,
       <https://data.cultureelerfgoed.nl/term/id/cht/aeb8f3b1-3f40-4498-8882-64a0792bd541>,
@@ -165358,16 +165357,16 @@ Ooivaaggronden zijn daarnaast ook leemgronden, met roest en grijze vlekken begin
   
   <https://data.cultureelerfgoed.nl/term/id/cht/4d861ff7-5963-488a-b6eb-2eb8b0833caf>
     a skos:Concept;
-    skos:scopeNote "Foxing is een schade aan papier die zichtbaar is als onregelmatige roodbruine vlekken verspreid over het papieroppervlak. De vlekken bestaan uit resten van schimmels, afkomstig uit de droogvilten die bij het papiermaken gebruikt worden, die verkleuren onder vochtige omstandigheden."@nl,
-      "Kleine bruine of roodachtige vlekjes die in het oppervlak zijn, vaak gezien op werken op papier, maar ook soms op schilderijen met doek als drager. Foxing wordt veroorzaakt door schimmel, of door oxiderende metalen in papier."@nl,
-      "Small brown or reddish blotches found IN the surface of a painting, often on works done on paper but sometimes also those with canvas supports. Foxing is caused by mould growth or by oxidizing metals in paper."@nl,
-      "Foxing is a damage to paper that is visible as irregular reddish-brown spots scattered across the paper surface. The spots consist of residues of fungi, from the dry felts used in papermaking, which discolor under moist conditions."@en,
-      "Small brown or reddish spots that are in the surface, often seen on works on paper, but also sometimes on paintings with canvas as the support. Foxing is caused by mold, or by oxidizing metals in paper."@en,
-      "Small brown or reddish blotches found IN the surface of a painting, often on works done on paper but sometimes also those with canvas supports. Foxing is caused by mould growth or by oxidizing metals in paper."@en;
+    skos:scopeNote "Foxing is een vorm van plaatselijke verkleuring, vooral op papier, zichtbaar als verspreide geelachtige, roodbruine of roestbruine vlekken. Het ontstaan wordt in verband gebracht met micro-organismen, metaalhoudende verontreinigingen in het papier en vochtige omstandigheden; de precieze oorzaak is niet altijd eenduidig vast te stellen."@nl,
+      "Foxing is a form of localized discoloration, mainly found on paper, appearing as scattered yellowish, reddish-brown or rust-brown spots. Its formation is associated with microorganisms, metallic impurities in the paper and humid conditions; the precise cause cannot always be determined."@en;
     dcterms:created "2016-09-30T10:05:47.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
+    dcterms:modified "2026-10-27T09:18:18.791Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/24656072-e4a3-424b-bcde-b9ab4dbb7593>;
-    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/24656072-e4a3-424b-bcde-b9ab4dbb7593>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300078853>;
+    skos:altLabel "roestbruine verkleuring"@nl, "roestvlekken"@nl, "fox spots"@en, "foxmarks"@en;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/fba63d82-3ed8-4a47-b47b-7ae9e750855f>;
+    dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "foxing"@en, "foxing"@nl;
     <https://data.cultureelerfgoed.nl/id/rnce#hasSource> <https://data.cultureelerfgoed.nl/term/id/cht/c41d3b25-4a9a-4a96-b273-79e2312c61a2>;
     skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
@@ -497716,14 +497715,15 @@ De woning is voorzien van een kookgelegenheid en sanitaire voorzieningen waarop 
     skos:scopeNote "Schade en veroudering verwijzen naar de fysieke veranderingen en degradatie die objecten ondergaan door slijtage, verwering, chemische reacties of biologische invloeden over tijd."@nl;
     dcterms:created "2024-08-13T10:50:50.094Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    dcterms:modified "2024-08-13T15:59:44.430Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-27T09:15:47.232Z"^^xsd:dateTime;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/24656072-e4a3-424b-bcde-b9ab4dbb7593>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/e0121334-ce90-48c0-9baf-35fac2c9c3f3>,
       <https://data.cultureelerfgoed.nl/term/id/cht/12a734f6-1232-4858-850a-a26abbf77918>,
       <https://data.cultureelerfgoed.nl/term/id/cht/938cf378-a0a5-4522-aa05-70e8a3ea6e22>,
       <https://data.cultureelerfgoed.nl/term/id/cht/44911502-f7bb-4318-8682-f7aa579cf2b1>,
       <https://data.cultureelerfgoed.nl/term/id/cht/314c8890-f3bb-4014-a011-320ba130667e>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/c0dc6904-f7eb-4d96-a77c-526c6b55f348>;
+      <https://data.cultureelerfgoed.nl/term/id/cht/c0dc6904-f7eb-4d96-a77c-526c6b55f348>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/4d861ff7-5963-488a-b6eb-2eb8b0833caf>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "schade en veroudering"@nl;
     skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
