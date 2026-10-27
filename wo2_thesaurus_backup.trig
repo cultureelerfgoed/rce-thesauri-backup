@@ -1426,7 +1426,8 @@
       <https://data.niod.nl/WO2_Thesaurus/corporaties/4434>;
     <http://schema.semantic-web.at/ppt/propagateType> <http://schema.org/Event> .
   
-  <https://data.niod.nl/WO2_Thesaurus/10664> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/10664> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Organization>;
     dcterms:references "W. Willems, De uittocht uit Indië, 1945-1995 (Amsterdam 2001) 26. Bewerking van oorspronkelijke tekst op website Oorlogsgetroffenen.nl."@nl;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/klijne>;
     dcterms:modified "2024-04-09T14:48:28.332Z"^^xsd:dateTime;
@@ -1463,7 +1464,8 @@ Bewerking van oorspronkelijke tekst op website Oorlogsgetroffenen.nl."""@nl;
     skos:related <https://data.niod.nl/WO2_Thesaurus/1627>;
     <http://schema.semantic-web.at/ppt/propagateType> <http://schema.org/Organization> .
   
-  <https://data.niod.nl/WO2_Thesaurus/10670> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/10670> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Organization>;
     dcterms:references """- Bossenbroek, M., De Meelstreep. Terugkeer en opvang na de Tweede Wereldoorlog (Amsterdam 2001).
 - Fraenkel-Verkade, E., ‘Nederlandse SS-Frontarbeiders’, in: Studies over Nederland in oorlogstijd, deel 1, (Den Haag 1972).
 - Sijes, B.A., De arbeidsinzet. De gedwongen arbeid van Nederlanders in Duitsland 1940-1945 (Den Haag 1990).
@@ -3569,8 +3571,8 @@ ARTIS lag middenin een deel van de stad dat de Duitsers in februari 1941 aanmerk
     skos:scopeNote "De Dodenmars vanuit Natzweiler vond plaats begin september 1944. De gevangenen werden door de SS naar Kamp Dachau gedreven. Voorafgaand aan de dodenmars werden 141 gefusilleerd op 31 augustus en 1 september 1944."@nl;
     <http://schema.semantic-web.at/ppt/propagateType> <http://schema.org/Event> .
   
-  <https://data.niod.nl/WO2_Thesaurus/11215> a skos:Concept, <http://schema.org/Event>,
-      <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
+  <https://data.niod.nl/WO2_Thesaurus/11215> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/jornaj>;
     dcterms:modified "2021-03-17T13:14:44.280Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/imageURL> "https://images.memorix.nl/niod/thumb/1000x1000/3ccd0941-7338-b57b-5341-65e0462521ff.jpg";
@@ -6307,7 +6309,7 @@ Het Gewestelijk Arbeidsbureau was de voortzetting en uitbreiding van de gemeente
   
   <https://data.niod.nl/WO2_Thesaurus/1560> a skos:ConceptScheme;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/NIOD>;
-    dcterms:modified "2026-10-22T09:31:51.358Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-26T13:25:41.959Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogDichtbijConcept> false;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/NIOD>;
     dcterms:created "2016-08-01T19:18:59.000Z"^^xsd:dateTime;
@@ -22189,7 +22191,8 @@ Bron: Wikipedia"""@nl;
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/6564>;
     skos:exactMatch <http://www.wikidata.org/entity/Q580016> .
   
-  <https://data.niod.nl/WO2_Thesaurus/19015> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/19015> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Organization>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
     dcterms:modified "2025-09-09T14:34:01.965Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/imageURL> "https://images.memorix.nl/niod/download/high_res/7fb9b989-d577-4793-1192-bbb385d24f88.jpg";
@@ -24738,7 +24741,8 @@ In het krijgsgevangenkamp moesten Australische, Britse en Nederlandse krijgsgeva
     skos:scopeNote "Tokyo is een Japanse prefectuur (vergelijkbaar met een provincie), waar zich tijdens de Tweede Wereldoorlog verschillende krijgsgevangenkampen bevonden."@de;
     skos:altLabel "Tokio krijgsgevangenkampen"@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/1922> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/1922> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:references "Van Dale Groot Woordenboek van de Nederlandse Taal (14e durk, 2005)"@nl;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/klijne>;
     dcterms:modified "2024-03-01T12:55:23.800Z"^^xsd:dateTime;
@@ -24944,7 +24948,8 @@ In het krijgsgevangenkamp moesten Australische, Britse en Nederlandse krijgsgeva
     skos:scopeNote "Nagoya 11B was een krijgsgevangenkamp in de Japanse stad Toyama. Het kamp werd op 18 juni 1945 opgericht en in september 1945 opgeheven. Werkzaamheden waren o.a. werk in de hoogovens van Toyama Nippon Soda Iwase Ironworks Company."@nl;
     skos:altLabel "Iwase"@nl, "Toyama 5"@nl, "Nihon Soda"@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/1923> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/1923> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:references "Van Dale Groot Woordenboek der Nederlandse Taal (12e druk, 1992)"@nl;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2020-09-01T07:45:51.000Z"^^xsd:dateTime;
@@ -41124,7 +41129,8 @@ Stafkwartier van den “Nationale Jeugdstorm”, Dienstvoorschrift I. Statuut, o
     skos:topConceptOf <https://data.niod.nl/WO2_Thesaurus/corporaties/4434>;
     skos:scopeNote "Erfgoedinstellingen zijn organisaties die zich bezighouden met het behoud, beheer, onderzoek en de presentatie van cultureel erfgoed. "@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/20701> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/20701> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Organization>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
     dcterms:modified "2026-02-25T14:16:10.593Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogDichtbijConcept> false;
@@ -44712,7 +44718,8 @@ Stafkwartier van den “Nationale Jeugdstorm”, Dienstvoorschrift I. Statuut, o
     skos:altLabel "POD Gendringen"@nl, "Politieke Opsporings Dienst te Gendringen"@nl,
       "Politieke Opsporings Dienst district Gendringen"@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/20928> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/20928> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Organization>;
     dcterms:references "S.C. Kooijman, ‘Verraders waarvoor in een bevrijd Nederland geen plaats zal zijn’. Institutioneel onderzoek naar het beleidsterrein van de bijzondere rechtspleging, 1945-1952 (’s-Gravenhage: Rijksarchiefdienst, 2000), 22."@nl;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     dcterms:modified "2025-08-29T07:35:41.263Z"^^xsd:dateTime;
@@ -44737,7 +44744,8 @@ Stafkwartier van den “Nationale Jeugdstorm”, Dienstvoorschrift I. Statuut, o
     skos:related <https://data.niod.nl/WO2_Thesaurus/20632>;
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Organization> .
   
-  <https://data.niod.nl/WO2_Thesaurus/20929> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/20929> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Organization>;
     dcterms:references "S.C. Kooijman, ‘Verraders waarvoor in een bevrijd Nederland geen plaats zal zijn’. Institutioneel onderzoek naar het beleidsterrein van de bijzondere rechtspleging, 1945-1952 (’s-Gravenhage: Rijksarchiefdienst, 2000), 22."@nl;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     dcterms:modified "2025-08-29T07:34:47.302Z"^^xsd:dateTime;
@@ -44768,7 +44776,8 @@ Stafkwartier van den “Nationale Jeugdstorm”, Dienstvoorschrift I. Statuut, o
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>;
     skos:hiddenLabel "schrijvers"@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/20930> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/20930> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Organization>;
     dcterms:references "S.C. Kooijman, ‘Verraders waarvoor in een bevrijd Nederland geen plaats zal zijn’. Institutioneel onderzoek naar het beleidsterrein van de bijzondere rechtspleging, 1945-1952 (’s-Gravenhage: Rijksarchiefdienst, 2000), 22."@nl;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     dcterms:modified "2025-08-29T07:34:50.311Z"^^xsd:dateTime;
@@ -44787,7 +44796,8 @@ Stafkwartier van den “Nationale Jeugdstorm”, Dienstvoorschrift I. Statuut, o
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Organization>;
     skos:hiddenLabel "RP ’s-Hertogenbosch"@nl, "RP Den Bosch"@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/20931> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/20931> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Organization>;
     dcterms:references "S.C. Kooijman, ‘Verraders waarvoor in een bevrijd Nederland geen plaats zal zijn’. Institutioneel onderzoek naar het beleidsterrein van de bijzondere rechtspleging, 1945-1952 (’s-Gravenhage: Rijksarchiefdienst, 2000), 22."@nl;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     dcterms:modified "2025-08-29T07:37:41.169Z"^^xsd:dateTime;
@@ -44806,7 +44816,8 @@ Stafkwartier van den “Nationale Jeugdstorm”, Dienstvoorschrift I. Statuut, o
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Organization>;
     skos:hiddenLabel "RP Aalst/Waalre"@nl, "RP Aalst"@nl, "RP Waalre"@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/20932> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/20932> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Organization>;
     dcterms:references "S.C. Kooijman, ‘Verraders waarvoor in een bevrijd Nederland geen plaats zal zijn’. Institutioneel onderzoek naar het beleidsterrein van de bijzondere rechtspleging, 1945-1952 (’s-Gravenhage: Rijksarchiefdienst, 2000), 22."@nl;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     dcterms:modified "2025-08-29T07:37:26.726Z"^^xsd:dateTime;
@@ -44825,7 +44836,8 @@ Stafkwartier van den “Nationale Jeugdstorm”, Dienstvoorschrift I. Statuut, o
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Organization>;
     skos:hiddenLabel "RP Dordrecht"@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/20933> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/20933> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Organization>;
     dcterms:references "S.C. Kooijman, ‘Verraders waarvoor in een bevrijd Nederland geen plaats zal zijn’. Institutioneel onderzoek naar het beleidsterrein van de bijzondere rechtspleging, 1945-1952 (’s-Gravenhage: Rijksarchiefdienst, 2000), 22."@nl;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     dcterms:modified "2025-08-29T07:36:37.535Z"^^xsd:dateTime;
@@ -44844,7 +44856,8 @@ Stafkwartier van den “Nationale Jeugdstorm”, Dienstvoorschrift I. Statuut, o
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Organization>;
     skos:hiddenLabel "RP Eindhoven"@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/20934> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/20934> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Organization>;
     dcterms:references "S.C. Kooijman, ‘Verraders waarvoor in een bevrijd Nederland geen plaats zal zijn’. Institutioneel onderzoek naar het beleidsterrein van de bijzondere rechtspleging, 1945-1952 (’s-Gravenhage: Rijksarchiefdienst, 2000), 22."@nl;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     dcterms:modified "2025-08-29T07:32:50.715Z"^^xsd:dateTime;
@@ -44863,7 +44876,8 @@ Stafkwartier van den “Nationale Jeugdstorm”, Dienstvoorschrift I. Statuut, o
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Organization>;
     skos:hiddenLabel "RP Enschede"@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/20935> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/20935> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Organization>;
     dcterms:references "S.C. Kooijman, ‘Verraders waarvoor in een bevrijd Nederland geen plaats zal zijn’. Institutioneel onderzoek naar het beleidsterrein van de bijzondere rechtspleging, 1945-1952 (’s-Gravenhage: Rijksarchiefdienst, 2000), 22."@nl;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     dcterms:modified "2025-08-29T07:31:46.402Z"^^xsd:dateTime;
@@ -44882,7 +44896,8 @@ Stafkwartier van den “Nationale Jeugdstorm”, Dienstvoorschrift I. Statuut, o
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Organization>;
     skos:hiddenLabel "RP Groningen"@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/20936> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/20936> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Organization>;
     dcterms:references "S.C. Kooijman, ‘Verraders waarvoor in een bevrijd Nederland geen plaats zal zijn’. Institutioneel onderzoek naar het beleidsterrein van de bijzondere rechtspleging, 1945-1952 (’s-Gravenhage: Rijksarchiefdienst, 2000), 22."@nl;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     dcterms:modified "2025-08-29T07:31:33.218Z"^^xsd:dateTime;
@@ -44901,7 +44916,8 @@ Stafkwartier van den “Nationale Jeugdstorm”, Dienstvoorschrift I. Statuut, o
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Organization>;
     skos:hiddenLabel "RP Hardenberg"@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/20937> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/20937> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Organization>;
     dcterms:references "S.C. Kooijman, ‘Verraders waarvoor in een bevrijd Nederland geen plaats zal zijn’. Institutioneel onderzoek naar het beleidsterrein van de bijzondere rechtspleging, 1945-1952 (’s-Gravenhage: Rijksarchiefdienst, 2000), 22."@nl;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     dcterms:modified "2025-08-29T07:33:50.131Z"^^xsd:dateTime;
@@ -44920,7 +44936,8 @@ Stafkwartier van den “Nationale Jeugdstorm”, Dienstvoorschrift I. Statuut, o
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Organization>;
     skos:hiddenLabel "RP Leiderdorp"@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/20938> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/20938> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Organization>;
     dcterms:references "S.C. Kooijman, ‘Verraders waarvoor in een bevrijd Nederland geen plaats zal zijn’. Institutioneel onderzoek naar het beleidsterrein van de bijzondere rechtspleging, 1945-1952 (’s-Gravenhage: Rijksarchiefdienst, 2000), 22."@nl;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     dcterms:modified "2025-08-29T07:33:36.606Z"^^xsd:dateTime;
@@ -44939,7 +44956,8 @@ Stafkwartier van den “Nationale Jeugdstorm”, Dienstvoorschrift I. Statuut, o
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Organization>;
     skos:hiddenLabel "RP Maastricht"@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/20939> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/20939> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Organization>;
     dcterms:references "S.C. Kooijman, ‘Verraders waarvoor in een bevrijd Nederland geen plaats zal zijn’. Institutioneel onderzoek naar het beleidsterrein van de bijzondere rechtspleging, 1945-1952 (’s-Gravenhage: Rijksarchiefdienst, 2000), 22."@nl;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     dcterms:modified "2025-08-29T07:36:04.267Z"^^xsd:dateTime;
@@ -44969,7 +44987,8 @@ Stafkwartier van den “Nationale Jeugdstorm”, Dienstvoorschrift I. Statuut, o
     skos:prefLabel "Musiker"@de, "Musicians"@en, "Musici"@nl;
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560> .
   
-  <https://data.niod.nl/WO2_Thesaurus/20940> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/20940> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Organization>;
     dcterms:references "S.C. Kooijman, ‘Verraders waarvoor in een bevrijd Nederland geen plaats zal zijn’. Institutioneel onderzoek naar het beleidsterrein van de bijzondere rechtspleging, 1945-1952 (’s-Gravenhage: Rijksarchiefdienst, 2000), 22."@nl;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     dcterms:modified "2025-08-29T07:35:58.218Z"^^xsd:dateTime;
@@ -44988,7 +45007,8 @@ Stafkwartier van den “Nationale Jeugdstorm”, Dienstvoorschrift I. Statuut, o
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Organization>;
     skos:hiddenLabel "RP Stadskanaal"@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/20941> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/20941> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Organization>;
     dcterms:references "S.C. Kooijman, ‘Verraders waarvoor in een bevrijd Nederland geen plaats zal zijn’. Institutioneel onderzoek naar het beleidsterrein van de bijzondere rechtspleging, 1945-1952 (’s-Gravenhage: Rijksarchiefdienst, 2000), 22."@nl;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     dcterms:modified "2025-08-29T07:35:40.667Z"^^xsd:dateTime;
@@ -45170,7 +45190,8 @@ Stafkwartier van den “Nationale Jeugdstorm”, Dienstvoorschrift I. Statuut, o
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>;
     <http://schema.semantic-web.at/ppt/appliedType> <https://data.niod.nl/thesaurus_wo2/ImagesWW2/Legislation> .
   
-  <https://data.niod.nl/WO2_Thesaurus/20951> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/20951> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Organization>;
     dcterms:references "S.C. Kooijman, ‘Verraders waarvoor in een bevrijd Nederland geen plaats zal zijn’. Institutioneel onderzoek naar het beleidsterrein van de bijzondere rechtspleging, 1945-1952 (’s-Gravenhage: Rijksarchiefdienst, 2000), 30."@nl;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
     dcterms:modified "2025-10-22T11:00:43.610Z"^^xsd:dateTime;
@@ -45186,7 +45207,8 @@ Stafkwartier van den “Nationale Jeugdstorm”, Dienstvoorschrift I. Statuut, o
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Organization>;
     skos:hiddenLabel "BOOM"@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/20952> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/20952> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Organization>;
     dcterms:references "Loe de Jong, Het koninkrijk der Nederlanden in de Tweede Wereldoorlog. Deel 9: Londen, tweede helft (’s-Gravenhage: Martinus Nijhoff, 1979), 1389."@nl;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/ravend>;
     dcterms:modified "2024-12-13T08:45:20.896Z"^^xsd:dateTime;
@@ -49218,7 +49240,8 @@ nl """@en;
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>, <https://data.niod.nl/WO2_Thesaurus/corporaties/4434>;
     skos:scopeNote "De Gemeentepolitie / Rijkspolitie Winschoten was de reguliere lokale politie. Vanaf 1 januari 1948 namen de lokale afdelingen van de Gemeentepolitie taken over van de opsporingsdiensten van de bijzondere rechtspleging. Ze spoorden verdachten van collaboratie op, deden onderzoek en verhoorden verdachten, getuigen en slachtoffers."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/21242> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/21242> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Organization>;
     dcterms:references "S.C. Kooijman, ‘Verraders waarvoor in een bevrijd Nederland geen plaats zal zijn’. Institutioneel onderzoek naar het beleidsterrein van de bijzondere rechtspleging, 1945-1952 (’s-Gravenhage: Rijksarchiefdienst, 2000), 22."@nl;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     dcterms:modified "2025-08-29T07:36:50.216Z"^^xsd:dateTime;
@@ -49236,7 +49259,8 @@ nl """@en;
     skos:altLabel "Rijkspolitie district Assen"@nl, "Rijkspolitie te Assen"@nl;
     skos:hiddenLabel "RP Assen"@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/21243> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/21243> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Organization>;
     dcterms:references "S.C. Kooijman, ‘Verraders waarvoor in een bevrijd Nederland geen plaats zal zijn’. Institutioneel onderzoek naar het beleidsterrein van de bijzondere rechtspleging, 1945-1952 (’s-Gravenhage: Rijksarchiefdienst, 2000), 22."@nl;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     dcterms:modified "2025-08-29T07:37:37.675Z"^^xsd:dateTime;
@@ -49628,7 +49652,8 @@ nl """@en;
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>;
     skos:scopeNote "Brandstoffen zijn energiedragers waarvan de vrijkomende energie kan worden gebruikt om warmte, licht, en kinetische energie te leveren."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/21292> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/21292> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Organization>;
     dcterms:references "CABR, NL-HaNA, COOM, 2.09.61."@nl;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
     dcterms:modified "2024-11-26T12:05:13.114Z"^^xsd:dateTime;
@@ -58847,6 +58872,49 @@ https://wo2.collectienederland.nl/"""@nl;
     skos:altLabel "Politiebureau Valkenhof"@nl, "Interneeringskamp Valkhof"@nl, "Interneeringskamp der Grensbewaking te Nijmegen"@nl,
       "Kamp van Bewaking Valkhof"@nl, "Kamp van Bewaring Nijmegen"@nl, "Kamp Valkhof 12"@nl,
       "Kamp De Valkhof"@nl, "Hoofdbureau van politie aan de Lindenberg"@nl;
+    <http://schema.semantic-web.at/ppt/appliedType> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+  
+  <https://data.niod.nl/WO2_Thesaurus/22095> a <http://schema.org/Thing>, skos:Concept,
+      <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "53.17264656056259"^^xsd:float;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#long> "6.992827323254213"^^xsd:float;
+    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
+    dcterms:modified "2026-10-26T11:16:33.351Z"^^xsd:dateTime, "2026-10-26T11:16:04.186Z"^^xsd:dateTime,
+      "2026-10-26T11:16:48.039Z"^^xsd:dateTime, "2026-10-26T11:16:08.584Z"^^xsd:dateTime,
+      "2026-10-26T11:16:47.828Z"^^xsd:dateTime, "2026-10-26T11:16:02.535Z"^^xsd:dateTime;
+    dcterms:source "https://sites.google.com/view/historischeverenigingscheemda/Oude_Duvekoaters/duvekoater-65"@nl,
+      "https://www.niod.nl/longreads/seksueel-geweld-in-de-nederlandse-interneringskampen-voor-collaboratieverdachten-1944-1947/#ontsmetting-ter-hygiene-vernedering-en-straf"@nl,
+      "https://www.stichtingbehoudvanoud.nl/wo-ii/kampen-in-nederland-1930-1950/kamp-dika"@nl;
+    <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogDichtbijConcept> true;
+    <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogVoordeRechterConcept> true;
+    dcterms:creator <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
+    skos:broader <https://data.niod.nl/WO2_Thesaurus/4999>, <https://data.niod.nl/WO2_Thesaurus/8176>;
+    dcterms:created "2026-10-26T10:57:23.961Z"^^xsd:dateTime;
+    skos:prefLabel "Kamp Dika"@nl;
+    skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>, <https://data.niod.nl/WO2_Thesaurus/kampen/3650>;
+    skos:scopeNote "Kamp Dika in Midwolda was van 15 april 1945 tot 1946 een interneringskamp (bijzondere rechtspleging). Hier zaten verdachten van en veroordeelden van collaboratie opgesloten. Het kamp bevond zich in de groenteconservenfabriek Dika."@nl;
+    skos:altLabel "Interneeringskamp Dika"@nl, "Interneringskamp Dika"@nl, "Kamp Dika te Midwolda"@nl,
+      "Kamp Dika te Winschoten"@nl, "Kamp Dika te Scheemda"@nl, "Kamp Dika te Scheemdermeer"@nl,
+      "Fabriek Dika te Scheemdermeer"@nl, "Dika Scheemdermeer"@nl;
+    <http://schema.semantic-web.at/ppt/appliedType> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+  
+  <https://data.niod.nl/WO2_Thesaurus/22096> a <http://schema.org/Thing>, skos:Concept,
+      <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "51.911573354702924"^^xsd:float;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#long> "4.3536478122519"^^xsd:float;
+    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
+    dcterms:modified "2026-10-26T13:32:39.605Z"^^xsd:dateTime;
+    dcterms:source "https://www.niod.nl/longreads/seksueel-geweld-in-de-nederlandse-interneringskampen-voor-collaboratieverdachten-1944-1947/#ontsmetting-ter-hygiene-vernedering-en-straf"@nl,
+      "https://resolver.kb.nl/resolve?urn=MMSAVL02:000512059:mpeg21:a00005"@nl, "https://resolver.kb.nl/resolve?urn=MMSAVL02:000532072:mpeg21:a00026"@nl;
+    <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogDichtbijConcept> true;
+    <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogVoordeRechterConcept> true;
+    dcterms:creator <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
+    skos:broader <https://data.niod.nl/WO2_Thesaurus/4999>, <https://data.niod.nl/WO2_Thesaurus/8176>;
+    dcterms:created "2026-10-26T13:25:41.664Z"^^xsd:dateTime;
+    skos:prefLabel "Groen van Prinstererschool Vlaardingen"@nl;
+    skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>, <https://data.niod.nl/WO2_Thesaurus/kampen/3650>;
+    skos:scopeNote "De Groen van Prinstererschool te Vlaardingen was van 15 april 1945 tot 1946 een interneringskamp (bijzondere rechtspleging). Hier zaten verdachten van en veroordeelden van collaboratie opgesloten."@nl;
+    skos:altLabel "Groen van Prinstererschool te Vlaardingen"@nl;
     <http://schema.semantic-web.at/ppt/appliedType> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
   
   <https://data.niod.nl/WO2_Thesaurus/2210> a <http://schema.org/Thing>, skos:Concept;
@@ -71290,7 +71358,8 @@ De erevelden zijn ingericht door of onder toezicht van een staat, ter nagedachte
       <https://data.niod.nl/WO2_Thesaurus/21900>, <https://data.niod.nl/WO2_Thesaurus/21901>,
       <https://data.niod.nl/WO2_Thesaurus/21903>, <https://data.niod.nl/WO2_Thesaurus/22033>,
       <https://data.niod.nl/WO2_Thesaurus/22078>, <https://data.niod.nl/WO2_Thesaurus/22092>,
-      <https://data.niod.nl/WO2_Thesaurus/22094>;
+      <https://data.niod.nl/WO2_Thesaurus/22094>, <https://data.niod.nl/WO2_Thesaurus/22095>,
+      <https://data.niod.nl/WO2_Thesaurus/22096>;
     skos:broader <https://data.niod.nl/WO2_Thesaurus/8217>;
     dcterms:created "2016-11-17T09:22:09.000Z"^^xsd:dateTime;
     skos:prefLabel "Interneringskampen (bijzondere rechtspleging)"@nl;
@@ -76407,7 +76476,7 @@ Wikipedia, https://nl.wikipedia.org/w/index.php?title=Kamikaze&oldid=50264377 [g
   
   <https://data.niod.nl/WO2_Thesaurus/8176> a skos:Concept, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
-    dcterms:modified "2026-10-22T13:03:17.770Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-26T13:27:05.174Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogDichtbijConcept> false;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     skos:narrower <https://data.niod.nl/WO2_Thesaurus/kampen/3676>, <https://data.niod.nl/WO2_Thesaurus/kampen/5718>,
@@ -76741,7 +76810,8 @@ Wikipedia, https://nl.wikipedia.org/w/index.php?title=Kamikaze&oldid=50264377 [g
       <https://data.niod.nl/WO2_Thesaurus/22065>, <https://data.niod.nl/WO2_Thesaurus/22066>,
       <https://data.niod.nl/WO2_Thesaurus/22067>, <https://data.niod.nl/WO2_Thesaurus/22074>,
       <https://data.niod.nl/WO2_Thesaurus/22078>, <https://data.niod.nl/WO2_Thesaurus/22089>,
-      <https://data.niod.nl/WO2_Thesaurus/22092>, <https://data.niod.nl/WO2_Thesaurus/22094>;
+      <https://data.niod.nl/WO2_Thesaurus/22092>, <https://data.niod.nl/WO2_Thesaurus/22094>,
+      <https://data.niod.nl/WO2_Thesaurus/22095>, <https://data.niod.nl/WO2_Thesaurus/22096>;
     dcterms:created "2019-03-20T09:03:33.000Z"^^xsd:dateTime;
     skos:prefLabel "Europese kampen"@nl;
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/kampen/3650>;
@@ -80478,7 +80548,8 @@ Wikipedia, https://nl.wikipedia.org/w/index.php?title=Kamikaze&oldid=50264377 [g
     skos:scopeNote "Op de Maliebaan waren er meerdere adressen die verband hadden met het verzet. Zo woonde verzetsvrouw Marie Anne Tellegen op nummer 72b, bewaarde Jan de Jong het codeboek van het Utrechts Kindercomité in het Aartsbisschoppelijk paleis en waren er meerdere onderduikadressen."@nl;
     skos:altLabel "Verzet Maliebaan"@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/9184> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/9184> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:references "Kees Ribbens, & Joep Schenk, & Martijn Eickhoff, Oorlog op vijf continenten. Nieuwe Nederlanders & de geschiedenissen van de Tweede Wereldoorlog (Amsterdam: Boom Uitgevers, 2008)"@nl;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/schorsijm>;
     dcterms:modified "2025-11-24T10:12:05.225Z"^^xsd:dateTime;
@@ -80500,7 +80571,8 @@ Wikipedia, https://nl.wikipedia.org/w/index.php?title=Kamikaze&oldid=50264377 [g
       "Oorlog Caribisch gebied"@nl;
     skos:related <https://data.niod.nl/WO2_Thesaurus/9216>, <https://data.niod.nl/WO2_Thesaurus/8786> .
   
-  <https://data.niod.nl/WO2_Thesaurus/9185> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/9185> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:references "Kees Ribbens, & Joep Schenk, & Martijn Eickhoff, Oorlog op vijf continenten. Nieuwe Nederlanders & de geschiedenissen van de Tweede Wereldoorlog (Amsterdam: Boom Uitgevers, 2008)"@nl;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     dcterms:modified "2021-06-04T08:47:15.833Z"^^xsd:dateTime;
@@ -80531,7 +80603,8 @@ Wikipedia, https://nl.wikipedia.org/w/index.php?title=Kamikaze&oldid=50264377 [g
     skos:altLabel "Huize Melati"@nl;
     <http://schema.semantic-web.at/ppt/propagateType> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
   
-  <https://data.niod.nl/WO2_Thesaurus/9190> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/9190> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:references "Kees Ribbens, & Joep Schenk, & Martijn Eickhoff, Oorlog op vijf continenten. Nieuwe Nederlanders & de geschiedenissen van de Tweede Wereldoorlog (Amsterdam: Boom Uitgevers, 2008)"@nl;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     dcterms:modified "2025-08-29T07:35:29.186Z"^^xsd:dateTime;
@@ -85379,7 +85452,8 @@ https://de.wikipedia.org/w/index.php?title=Spezial:Zitierhilfe&page=NS-Frauensch
       "Groene politie"@nl, "Grune Polizei"@nl;
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Organization> .
   
-  <https://data.niod.nl/WO2_Thesaurus/corporaties/4629> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/corporaties/4629> a <http://schema.org/Thing>,
+      skos:Concept, <http://schema.org/Organization>;
     dcterms:references "NIOD"@nl, "https://nl.wikipedia.org/w/index.php?title=Speciaal:Citeren&page=Organisation_Todt&id=52381472"@nl;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     dcterms:modified "2025-08-29T07:34:36.207Z"^^xsd:dateTime;
@@ -85565,7 +85639,8 @@ https://de.wikipedia.org/w/index.php?title=Spezial:Zitierhilfe&page=NS-Frauensch
     skos:related <https://data.niod.nl/WO2_Thesaurus/2013>, <https://data.niod.nl/WO2_Thesaurus/corporaties/4639>;
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Organization> .
   
-  <https://data.niod.nl/WO2_Thesaurus/corporaties/4639> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/corporaties/4639> a <http://schema.org/Thing>,
+      skos:Concept, <http://schema.org/Organization>;
     dcterms:references "NIOD"@nl;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     dcterms:modified "2025-08-29T07:37:09.502Z"^^xsd:dateTime;
@@ -89977,7 +90052,8 @@ Bron: Wikipedia"""@nl;
     skos:altLabel "Kamers van Koophandel"@nl, "KvK"@nl;
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Organization> .
   
-  <https://data.niod.nl/WO2_Thesaurus/corporaties/5149> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/corporaties/5149> a <http://schema.org/Thing>,
+      skos:Concept, <http://schema.org/Organization>;
     dcterms:references "NIOD"@nl;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/klijne>;
     dcterms:modified "2024-06-03T12:44:06.363Z"^^xsd:dateTime;
@@ -96421,7 +96497,8 @@ Bron: Wikipedia"""@nl;
     skos:altLabel "Christelijke Nationale Actie"@nl;
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Organization> .
   
-  <https://data.niod.nl/WO2_Thesaurus/corporaties/6629> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/corporaties/6629> a <http://schema.org/Thing>,
+      skos:Concept, <http://schema.org/Organization>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/klijne>;
     dcterms:modified "2024-04-10T08:06:12.420Z"^^xsd:dateTime;
     dcterms:source "https://nl.wikipedia.org/w/index.php?title=Zuid-Afrikaanse_Waarheids-_en_Verzoeningscommissie&oldid=49926145"@nl;
@@ -96737,7 +96814,8 @@ Bron: Wikipedia"""@nl;
     skos:scopeNote "De War Refugee Board, ingesteld in januari 1944 door de Amerikaanse president Franklin D. Roosevelt, was een Amerikaanse overheidsinstelling voor hulp aan burgerslachtoffers in de gebieden van de As-mogendheden."@nl;
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Organization> .
   
-  <https://data.niod.nl/WO2_Thesaurus/corporaties/6665> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/corporaties/6665> a <http://schema.org/Thing>,
+      skos:Concept, <http://schema.org/Organization>;
     dcterms:references "Nationaal Archief"@nl, "Sjoerd Faber en Gretha Donker, Bijzonder gewoon. Het centraal archief bijzondere rechtspleging (1944-2010) en de ‘lichte gevallen’ (Zwolle: Uitgeverij Waanders, 2010), 39"@nl;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/baltussenl_2>;
     dcterms:modified "2024-10-03T08:46:44.437Z"^^xsd:dateTime;
@@ -97263,7 +97341,8 @@ rubberartikelen werden tot distributiegoederen verklaard. De directeuren van de 
     skos:related <https://data.niod.nl/WO2_Thesaurus/events/4382>;
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Organization> .
   
-  <https://data.niod.nl/WO2_Thesaurus/corporaties/7711> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/corporaties/7711> a <http://schema.org/Thing>,
+      skos:Concept, <http://schema.org/Organization>;
     dcterms:references "Winkler Prins - Encyclopedie van de Tweede Wereldoorlog"@nl;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/klijne>;
     dcterms:modified "2024-04-09T14:26:54.691Z"^^xsd:dateTime;
@@ -97280,7 +97359,8 @@ rubberartikelen werden tot distributiegoederen verklaard. De directeuren van de 
     skos:related <https://data.niod.nl/WO2_Thesaurus/events/4382>;
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Organization> .
   
-  <https://data.niod.nl/WO2_Thesaurus/corporaties/7712> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/corporaties/7712> a <http://schema.org/Thing>,
+      skos:Concept, <http://schema.org/Organization>;
     dcterms:references "Winkler Prins -  Encyclopedie van de Tweede Wereldoorlog"@nl,
       "Peter Post, ed. The Encyclopedia of Indonesia in the Pacific War (Leiden : Brill, 2010)"@en;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
@@ -97298,7 +97378,8 @@ rubberartikelen werden tot distributiegoederen verklaard. De directeuren van de 
     skos:related <https://data.niod.nl/WO2_Thesaurus/events/4382>;
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Organization> .
   
-  <https://data.niod.nl/WO2_Thesaurus/corporaties/7713> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/corporaties/7713> a <http://schema.org/Thing>,
+      skos:Concept, <http://schema.org/Organization>;
     dcterms:references "Peter Post - The Encyclopedia of Indonesia in the Pacific War"@en,
       "Peter Post, ed., The Encyclopedia of Indonesia in the Pacific War (Leiden : Brill, 2010)"@nl,
       "Winkler Prins - Encyclopedie van de Tweede Wereldoorlog"@nl;
@@ -97330,7 +97411,8 @@ rubberartikelen werden tot distributiegoederen verklaard. De directeuren van de 
     skos:scopeNote "Kung Yung Pao ontstond tijdens en bleef bestaan tot het eind van de Japanse bezetting van Nederlands-Indië. De krant werd opgericht door Tiang Tjoei Oey en was, tijdens de bezetting, de enige krant gericht op de Chinese bevolking. Dit kwam door de pro-Japanse invalshoek van de krant. "@nl;
     skos:related <https://data.niod.nl/WO2_Thesaurus/corporaties/4763> .
   
-  <https://data.niod.nl/WO2_Thesaurus/corporaties/7715> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/corporaties/7715> a <http://schema.org/Thing>,
+      skos:Concept, <http://schema.org/Organization>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     dcterms:modified "2025-08-29T07:37:39.802Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/8028>;
@@ -97359,7 +97441,8 @@ rubberartikelen werden tot distributiegoederen verklaard. De directeuren van de 
     skos:scopeNote "De Koreri-beweging (Koreri is, vrij vertaald, een paradijselijke toestand) is een oud geloof, in en rondom Nieuw-Guinea. Het gaat ervan uit dat het geheim van leven en dood, meegenomen door het mythische figuur Manarmakeri, ooit met iemand terug zal keren. Tijdens de bezetting verkondigde de gevangengenomen Angganitha Menufandu dat zij de boodschapper was. Een legertje (genaamd AB-Leger) probeerde Angganitha te bevrijden en begon een strijd tegen de Japanners en andere buitenlanders, maar deze opstand werd in de kiem gesmoord door de gevangenneming en onthoofding van de leiders achter de opstand (inclusief Angganitha).  "@nl;
     skos:altLabel "Koreri Beweging"@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/corporaties/7717> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/corporaties/7717> a <http://schema.org/Thing>,
+      skos:Concept, <http://schema.org/Organization>;
     dcterms:references "Peter Post, ed., The Encyclopedia of Indonesia in the Pacific War (Leiden : Brill, 2010)"@nl,
       " Peter Post - The Encyclopedia of Indonesia in the Pacific War"@en;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
@@ -97391,7 +97474,8 @@ rubberartikelen werden tot distributiegoederen verklaard. De directeuren van de 
     skos:related <https://data.niod.nl/WO2_Thesaurus/events/4382>;
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Organization> .
   
-  <https://data.niod.nl/WO2_Thesaurus/corporaties/7719> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/corporaties/7719> a <http://schema.org/Thing>,
+      skos:Concept, <http://schema.org/Organization>;
     dcterms:references "Peter Post - The Encyclopedia of Indonesia in the Pacific War"@en,
       """Peter Post, ed., The Encyclopedia of Indonesia in the Pacific War (Leiden : Brill, 2010)
 """@nl;
@@ -97409,7 +97493,8 @@ rubberartikelen werden tot distributiegoederen verklaard. De directeuren van de 
     skos:related <https://data.niod.nl/WO2_Thesaurus/events/4382>;
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Organization> .
   
-  <https://data.niod.nl/WO2_Thesaurus/corporaties/7720> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/corporaties/7720> a <http://schema.org/Thing>,
+      skos:Concept, <http://schema.org/Organization>;
     dcterms:references "Peter Post - The Encyclopedia of Indonesia in the Pacific War"@en,
       "Peter Post, ed., The Encyclopedia of Indonesia in the Pacific War (Leiden : Brill, 2010)"@nl;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
@@ -97442,7 +97527,8 @@ rubberartikelen werden tot distributiegoederen verklaard. De directeuren van de 
     skos:related <https://data.niod.nl/WO2_Thesaurus/events/4382>;
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Organization> .
   
-  <https://data.niod.nl/WO2_Thesaurus/corporaties/7722> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/corporaties/7722> a <http://schema.org/Thing>,
+      skos:Concept, <http://schema.org/Organization>;
     dcterms:references "Peter Post - The Encyclopedia of Indonesia in the Pacific War"@en,
       "Peter Post, ed., The Encyclopedia of Indonesia in the Pacific War (Leiden : Brill, 2010)"@nl;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
@@ -97471,7 +97557,8 @@ rubberartikelen werden tot distributiegoederen verklaard. De directeuren van de 
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/corporaties/4434>;
     skos:scopeNote "De Barisan F was een zelfstandig opererende lokale organisatie van de F-Kikan die in december 1941 ontstond na instructies gegeven door Fujiwara aan Abu Bakar Said. Nog voor de Japanse inname dwong deze groep de KNIL-militaire tot terugtrekking uit Atjeh. Ook was deze organisatie verantwoordelijk voor meerdere moorden op Nederlandse ambtenaren.  "@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/corporaties/7724> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/corporaties/7724> a <http://schema.org/Thing>,
+      skos:Concept, <http://schema.org/Organization>;
     dcterms:references "Peter Post - The Encyclopedia of Indonesia in the Pacific War"@en,
       "Peter Post, ed., The Encyclopedia of Indonesia in the Pacific War (Leiden : Brill, 2010)"@nl;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
@@ -97487,7 +97574,8 @@ rubberartikelen werden tot distributiegoederen verklaard. De directeuren van de 
     skos:related <https://data.niod.nl/WO2_Thesaurus/events/4382>;
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Organization> .
   
-  <https://data.niod.nl/WO2_Thesaurus/corporaties/7725> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/corporaties/7725> a <http://schema.org/Thing>,
+      skos:Concept, <http://schema.org/Organization>;
     dcterms:references "Peter Post - The Encyclopedia of Indonesia in the Pacific War"@en,
       "Peter Post, ed., The Encyclopedia of Indonesia in the Pacific War (Leiden : Brill, 2010)"@nl;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
@@ -97521,7 +97609,8 @@ rubberartikelen werden tot distributiegoederen verklaard. De directeuren van de 
     skos:altLabel "Jam'iyat al-Ishlah wal Irshad al-Islamiyya"@nl, "The Arab Association for Reform and Guidance"@en;
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Organization> .
   
-  <https://data.niod.nl/WO2_Thesaurus/corporaties/7727> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/corporaties/7727> a <http://schema.org/Thing>,
+      skos:Concept, <http://schema.org/Organization>;
     dcterms:references "Peter Post - The Encyclopedia of Indonesia in the Pacific War"@en,
       "Peter Post, ed., The Encyclopedia of Indonesia in the Pacific War (Leiden : Brill, 2010)"@nl;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
@@ -97538,7 +97627,8 @@ rubberartikelen werden tot distributiegoederen verklaard. De directeuren van de 
     skos:altLabel "BP3"@nl, "Kinro Senshi Engokai"@nl, "Association for Assisting the Work Soldiers"@en;
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Organization> .
   
-  <https://data.niod.nl/WO2_Thesaurus/corporaties/7728> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/corporaties/7728> a <http://schema.org/Thing>,
+      skos:Concept, <http://schema.org/Organization>;
     dcterms:references "Winkler Prins - Encyclopedie van de Tweede Wereldoorlog"@nl;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     dcterms:modified "2025-08-29T07:36:59.088Z"^^xsd:dateTime;
@@ -98573,7 +98663,8 @@ rubberartikelen werden tot distributiegoederen verklaard. De directeuren van de 
     skos:related <https://data.niod.nl/WO2_Thesaurus/events/4382>;
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Organization> .
   
-  <https://data.niod.nl/WO2_Thesaurus/corporaties/7799> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/corporaties/7799> a <http://schema.org/Thing>,
+      skos:Concept, <http://schema.org/Organization>;
     dcterms:references "Peter Post - The Encyclopedia of Indonesia in the Pacific War"@en;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     dcterms:modified "2025-08-29T07:37:39.206Z"^^xsd:dateTime;
@@ -101726,8 +101817,8 @@ Haarlem NGE-Risicokaart, Reaseuro, 2016"""@nl;
       <https://data.niod.nl/WO2_Thesaurus/2354>;
     <http://schema.semantic-web.at/ppt/propagateType> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/10683> a skos:Concept, <http://schema.org/Event>,
-      <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
+  <https://data.niod.nl/WO2_Thesaurus/events/10683> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     dcterms:modified "2025-08-29T07:37:05.552Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/10685>;
@@ -104261,7 +104352,8 @@ Bron: 4en5mei"""@nl .
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>, <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "Op 2 februari 1945 om 8.56 uur stort een V-1-bom neer achter een huis in de Burgemeester van Meursstraat in de Tilburgse wijk Zorgvlied, vlakbij Huize Mariëngaarde waar juist de ochtendmis werd opgedragen in de kapel. Er vallen 22 doden, 19 zwaargewonden en ongeveer 100 lichtgewonden. Tilburg lag in de maanden na de bevrijding precies in de baan van het Duitse luchtoffensief tegen de stad Antwerpen."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/16381> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/16381> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     dcterms:modified "2023-05-16T09:04:27.461Z"^^xsd:dateTime;
     <http://schema.org/startDate> "1941-12-07"^^xsd:date;
@@ -104315,10 +104407,8 @@ Bron: Wikipedia"""@nl .
   <https://data.niod.nl/WO2_Thesaurus/events/17510> a <http://schema.org/Thing>, skos:Concept,
       <http://schema.org/Event>, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
-    dcterms:modified "2026-05-19T13:23:52.896Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-26T13:50:19.318Z"^^xsd:dateTime, "2026-10-26T13:50:12.934Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/17511>;
-    <https://data.niod.nl/thesaurus_wo2/ImagesWW2/imageURL> <https://collectie.atlasvanstolk.nl/img/AVS/700px/06/AVS065911.jpg>;
-    <https://data.niod.nl/thesaurus_wo2/ImagesWW2/sourceImage> "http://collectie.atlasvanstolk.nl/data_nl.asp?startc=1&q0=978&subj=1&bron=g";
     <http://schema.org/location> "Hoensbroek";
     dcterms:source "https://nl.wikipedia.org/wiki/Kasteel_Hoensbroek"@nl, "https://www.kasteelhoensbroek.nl/overig/kasteel-hoensbroek-tijdens-de-tweede-wereldoorlog/"@nl;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogDichtbijConcept> true;
@@ -104435,7 +104525,8 @@ Bron: Wikipedia"""@nl .
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>, <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "Op 8 en 9 september 1941 vond de eerste Jodenrazzia in Gelderland plaats. In Arnhem en de Achterhoek worden 70 Joodse mannen opgepakt en afgevoerd naar Mauthausen. Ze komen allen om het leven"@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/18406> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/18406> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/klijne>;
     dcterms:modified "2021-11-22T13:20:37.995Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/10007>,
@@ -104453,7 +104544,8 @@ Bron: Wikipedia"""@nl .
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "Op 17 oktober 1944 evacueerden de Duitse autoriteiten de inwoners van Milsbeek, Ottersum, Gennep en Heijen, uit angst voor de oprukkende troepen van de geallieerden."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/18410> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/18410> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/klijne>;
     dcterms:modified "2021-11-22T14:28:20.201Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/9773>;
@@ -104468,7 +104560,8 @@ Bron: Wikipedia"""@nl .
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "Op 5 december 1944 werd een begin gemaakt aan de evacuatie van de inwoners van het Limburgse dorp Blerick. De evacuatie - twee dagen na de bevrijding - was noodzakelijk, omdat Blerick vanaf de bevrijding aan het Maasfront lag. Een deel van de inwoners werd geëvacueerd naar Weert, Eindhoven en het Belgische Aalst. Sommigen namen hun intrek bij vrienden of familie op veilige afstand van het front."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/18411> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/18411> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/klijne>;
     dcterms:modified "2021-11-22T14:42:52.844Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/6566>;
@@ -104516,7 +104609,8 @@ Bron: Wikipedia"""@nl .
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>, <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "Na de Duitse inval werd op 11 mei 1940 het centrum van Roosendaal zwaar gebombardeerd, waarbij tientallen slachtofffers vielen. Ondanks de hulp van Franse troepen trokken op 14 mei de Duitse troepen Roosendaal binnen."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/18564> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/18564> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:references "Geert-Jan Mellink, Verdreven voor de Atlantikwall. Ontruiming en afbraak van de Nederlandse kuststreek, 1942-1945 (Wbooks: Zwolle, 2016)"@nl;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/jornaj>;
     dcterms:modified "2022-02-01T12:52:13.997Z"^^xsd:dateTime;
@@ -104533,7 +104627,8 @@ Bron: Wikipedia"""@nl .
     skos:scopeNote "De Evacuaties van Den Haag vonden plaats tussen mei 1942 en januari 1944. Om ruimte te maken voor de Duitse verdedigingswerken van de Atlantik Wall - waaronder een 6 kilometer lange verdedigingslinie met tankgracht die dwars door Den Haag liep - werden ongeveer 143.000 mensen geëvacueerd en 2.400 woningen gesloopt. Werkenden werden elders in Den Haag ingekwartierd. Niet-werkenden moesten vertrekken naar diverse evacuatieoorden in het noorden en oosten van het land, zoals Doetinchem en Lochem. Vanaf de zomer van 1943 keerden steeds meer inwoners van Duindorp en Scheveningen terug naar hun woningen. Een deel van hen werd in het najaar van 1943 opnieuw geëvacueerd."@nl;
     skos:related <https://data.niod.nl/WO2_Thesaurus/events/4330> .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/18565> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/18565> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:references "Geert-Jan Mellink, Verdreven voor de Atlantikwall. Ontruiming en afbraak van de Nederlandse kuststreek, 1942-1945 (Wbooks: Zwolle, 2016)"@nl;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/jornaj>;
     dcterms:modified "2022-02-01T12:57:15.341Z"^^xsd:dateTime;
@@ -104568,7 +104663,8 @@ Bron: Wikipedia"""@nl .
       <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Evacuatie van Hoek van Holland van 1940 vond plaats in de nacht van 13 op 14 mei 1940. Zo'n 800 inwoners van de Oude Hoek vluchtten voor de bombardementen en beschietingen door het Duitse leger als gevolg van de aanwezigheid van Engelse speciale troepen in het dorp. Zij trokken in een stoet naar 's-Gravenzande. In de loop van 14 mei vluchtten nog eens circa 2.500 bewoners uit de Nieuwe Hoek naar Naaldwijk en Honselerdijk. Eind mei waren alle evacués teruggkeerd naar Hoek van Holland."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/18567> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/18567> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:references "Geert-Jan Mellink, Verdreven voor de Atlantikwall. Ontruiming en afbraak van de Nederlandse kuststreek, 1942-1945 (Wbooks: Zwolle, 2016)"@nl;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/jornaj>;
     dcterms:modified "2022-02-01T12:56:09.000Z"^^xsd:dateTime;
@@ -104586,7 +104682,8 @@ Bron: Wikipedia"""@nl .
     skos:scopeNote "De Evacuaties van Hoek van Holland van 1942-1944 vonden plaats tussen maart 1942 en oktober 1944. Ongeveer 3.600 inwoners werden gefaseerd geëvacueerd naar andere delen van Hoek van Holland, maar ook naar Rotterdam, Vlaardingen en Naaldwijk. Op 1 september 1944 kwam het bevel om heel Hoek van Holland te ontruimen. Uiteindelijk bleven er tot de bevrijding van Hoek van Holland op 10 mei 1945 nog ongeveer 300 inwoners achter. 412 woningen werden gesloopt in verband met de aanleg van Duitse verdedigingswerken ter voorkoming van een geallieerde invasie vanaf zee."@nl;
     skos:related <https://data.niod.nl/WO2_Thesaurus/events/4330> .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/18568> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/18568> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:references "Geert-Jan Mellink, Verdreven voor de Atlantikwall. Ontruiming en afbraak van de Nederlandse kuststreek, 1942-1945 (Wbooks: Zwolle, 2016)"@nl;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/jornaj>;
     dcterms:modified "2022-02-01T12:52:47.588Z"^^xsd:dateTime;
@@ -104603,7 +104700,8 @@ Bron: Wikipedia"""@nl .
     skos:scopeNote "De Evacuaties van Den Helder vonden plaats vanaf april 1942 tot oktober 1944. Een groot deel van de inwoners had de stad vóór april 1942 al vrijwillig verlaten vanwege de vele bombardementen. Op 1 oktober 1943 werd heel Den Helder spergebied en moest vrijwel iedereen gedwongen vertrekken. Evacués gingen veelal naar plaatsen in de regio, zoals Anna Paulowna, Schagen en delen van West-Friesland. Van de 38.000 inwoners woonden er eind 1944 nog maar een paar duizend in Den Helder. Sloopwerkzaamheden ten behoeve van de aanleg van Duitse verdedigingswerken ter voorkoming van een geallieerde invasie vanaf zee begonnen in 1944. Er werden in totaal 1.925 woningen gesloopt."@nl;
     skos:related <https://data.niod.nl/WO2_Thesaurus/events/4330> .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/18569> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/18569> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:references "Geert-Jan Mellink, Verdreven voor de Atlantikwall. Ontruiming en afbraak van de Nederlandse kuststreek, 1942-1945 (Wbooks: Zwolle, 2016)"@nl;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/jornaj>;
     dcterms:modified "2022-02-01T13:03:14.167Z"^^xsd:dateTime;
@@ -104835,7 +104933,8 @@ Bron: Wikipedia"""@nl .
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>, <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Evacuatie van Rhenen van 1944 vond plaats vanaf 3 oktober 1944, na het mislukken van Operatie Market-Garden. Om de inwoners van de gemeente Rhenen te beschermen tegen voornamelijk geallieerde oorlogshandelingen, werden de inwoners van Rhenen, Achterberg en Elst stapsgewijs geëvacueerd tussen 3 oktober 1944 en 22 oktober 1944. Zij vertrokken onder andere naar Amerongen, Leersum, Doorn en Driebergen. Ook de repatriëring vond stapsgewijs plaats: tussen 22 februari en 1 juni 1945 mochten de bewoners van Rhenen terugkeren."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/18583> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/18583> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/helfricha>;
     dcterms:modified "2022-01-06T12:19:15.577Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/14616>;
@@ -104851,7 +104950,8 @@ Bron: Wikipedia"""@nl .
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Evacuatie van Ingen vond plaats op 19 oktober 1944 op last van de bezetter. Begin december 1944 mochten de inwoners terugkeren, maar veel van hen moesten vanwege de Inundatie van de Betuwe hun huis al snel weer verlaten."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/18584> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/18584> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:references "G.B. Jansen, Oorlog over het Gelders Eiland (Copera Historia: Zevenaar, 1995)"@nl;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/jornaj>;
     dcterms:modified "2022-02-01T13:26:21.053Z"^^xsd:dateTime;
@@ -104905,7 +105005,8 @@ Bron: Wikipedia"""@nl .
     skos:scopeNote "De Evacuatie van de Neder-Betuwe van 1940 was al in september 1939 voorbereid vanwege de ligging van de Betuwestelling. Bij het uitbreken van de oorlog op 10 mei 1940 werd het evacuatieplan uitgevoerd. De inwoners van Echteld, Ochten, Kesteren, Opheusden en Dodewaard werden per schip geëvacueerd. De inwoners van Ochten werden ondergebracht in Papendrecht en de inwoners van Dodewaard in Sliedrecht. De evacués vanuit Opheusden en Kesteren bereikten de geplande eindbestemming niet en werden ondergebracht in de Krimpenerwaard. Ruim twee weken later konden de evacués terug naar huis."@nl;
     skos:related <https://data.niod.nl/WO2_Thesaurus/locations/8126> .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/18587> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/18587> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/helfricha>;
     dcterms:modified "2022-01-06T13:12:45.946Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/14925>;
@@ -104918,7 +105019,8 @@ Bron: Wikipedia"""@nl .
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Evacuatie van de Neder-Betuwe van 1944 vond plaats vanaf 1 oktober 1944 vanwege het geplande Duitse offensief om de geallieerden uit de Betuwe te verjagen. Inwoners van Kesteren, Ochten, Opheusden en IJzendoorn moesten op 1 oktober 1944 halsoverkop evacueren. Op 17 oktober 1944 moesten ook de inwoners van de niet ontruimde delen van Ochten en IJzendoorn en de dorpen Echteld en Lienden evacueren. Ook trokken evacués naar plaatsen ten westen van het Amsterdam-Rijnkanaal, Noord-Brabant en België. Meer dan 5.000 inwoners moesten evacueren, voornamelijk naar Maurik, Eck en Wiel en Tiel."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/18588> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/18588> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:references "Water en vuur. 1944-1945, Betuwenaren aan het front (2019)"@nl;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/helfricha>;
     dcterms:modified "2022-01-06T13:31:17.564Z"^^xsd:dateTime;
@@ -104936,7 +105038,8 @@ Bron: Wikipedia"""@nl .
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Evacuatie van Randwijk vond plaats na hevige gevechten tussen Engelse en Duitse troepen. Een groot deel van het dorp werd verwoest en er vielen 5 burgerslachtoffers. Op 29 september 1944 moesten de inwoners van Randwijk daarom het dorp verlaten naar Zetten of Herveld. Randwijk werd frontgebied en bleef verboden terrein tot de bevrijding in april 1945."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/18589> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/18589> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/helfricha>;
     dcterms:modified "2022-01-06T13:49:46.839Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/9568>;
@@ -104987,7 +105090,8 @@ Bron: Wikipedia"""@nl .
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>, <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Evacuatie van het Gelders Eiland vond plaats vanaf 10 februari 1944. Vanwege Operatie Vertitable waren er aanhoudende gevechten in de regio. Op last van de bezetter moesten de bewoners van het Gelders Eiland (Aerdt, Herwen, Lobith, Pannerden, Spijk en Tolkamer) evacueren naar de Liemers en Achterhoek. Veel van hen vonden op eigen initiatief onderdak in de omgeving van Wehl en Didam. Anderen vertrokken naar Overijssel, Groningen en Friesland. Vanaf 2 april 1945 (de meesten pas 2 weken later) keerden inwoners terug naar huis."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/18592> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/18592> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/jornaj>;
     dcterms:modified "2022-02-01T13:29:36.938Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/10492>;
@@ -105002,7 +105106,8 @@ Bron: Wikipedia"""@nl .
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Evacuatie van Duiven en Groessen vond plaats op 18 en 19 november 1944. De evacuatie werd afgekondigd omdat de frontlinie steeds dichterbij kwam en de geallieerden regelmatig beschietingen uitvoerden op de Duitse troepen die zich in de Liemers bevonden. Loo was al op 27 september 1944 geëvacueerd. De inwoners van Duiven en een deel van Groessen werden op 18 en 19 november 1944 via Wehl en Doetinchem naar evacuatieadressen in Varsseveld gebracht. In april 1945 keerden de inwoners van Duiven en Groessen terug naar hun dorpen."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/18593> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/18593> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/helfricha>;
     dcterms:modified "2022-01-06T15:01:45.880Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/14900>;
@@ -105057,7 +105162,8 @@ Bron: Wikipedia"""@nl .
       <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Evacuatie van Woudenberg, Scherpenzeel en Renswoude vond plaats op 10 en 11 mei 1940, vanwege de Duitse inval in Nederland en de ligging van de plaatsen in de Grebbelinie. Ongeveer 6.000 inwoners werden geëvacueerd naar Wieringermeer, Barsingerhorn, Winkel, Wieringerwaard en Oudorp. De evacuatie was al in februari 1940 voorbereid. Ongeveer 1.500 inwoners keerden na de capitulatie op 15 mei 1940 op eigen gelegenheid terug naar huis. De overige evacués werden op 20 en 21 mei 1940 met bussen teruggebracht."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/18596> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/18596> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/helfricha>;
     dcterms:modified "2022-01-10T13:11:34.324Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/10509>;
@@ -105074,7 +105180,8 @@ Bron: Wikipedia"""@nl .
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Evacuatie van Renkum vond plaats vanaf 23 september 1944 op last van de Duitse bezetter. Lopend of met wagens vertrokken de inwoners van de gemeente Renkum naar evacuatieadressen op de Veluwe en in het noorden van het land. Pas na de bevrijding in mei 1945 konden de inwoners van Renkum terugkeren naar huis."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/18597> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/18597> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/helfricha>;
     dcterms:modified "2022-01-10T13:16:52.790Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/9881>;
@@ -105091,7 +105198,8 @@ Bron: Wikipedia"""@nl .
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Evacuatie van Haarlem vond plaats vanaf 19 september 1944. Om de Duitse verdedigingslinie in Haarlem te voltooien moest een groot deel van de inwoners van Haarlem-Noord evacueren. 4.140 woningen kwamen leeg te staan. Na 5 mei 1945 konden de inwoners van Haarlem-Noord terug naar hun woningen."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/18598> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/18598> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/jornaj>;
     dcterms:modified "2022-02-01T13:32:41.666Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/imageURL> "https://imageviewer.kb.nl/ImagingService/imagingService?id=ddd:010945667:mpeg21:p001:image&w=1000";
@@ -105104,7 +105212,8 @@ Bron: Wikipedia"""@nl .
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "Het Vestigingsverbod dat vanaf oktober 1942 gold, beperkte waar niet-werkende evacués uit de kuststreek zich mochten vestigen. Dit verbod werd op 17 december 1942 uitgebreid in verband met de voorgenomen verplaatsing van Nederlandse ministeries. Daardoor mocht men ook niet evacueren naar een groot aantal plaatsen in Zuid-Holland, Utrecht, Noord-Brabant, Gelderland en Overijssel (onder andere Gouda, Utrecht, Zeist, Amersfoort, Deventer, Apeldoorn, Arnhem, Den Bosch en Tilburg)."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/18600> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/18600> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/jornaj>;
     dcterms:modified "2022-02-01T13:32:41.665Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/imageURL> "https://imageviewer.kb.nl/ImagingService/imagingService?id=ddd:010608704:mpeg21:p001:image&w=1000";
@@ -105136,7 +105245,8 @@ Bron: Wikipedia"""@nl .
       <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Evacuatie van Soest vond plaats tussen 10 en 14 mei 1940, vanwege de Duitse inval in Nederland. Ongeveer 9.000 inwoners werden geëvacueerd. De evacués vertrokken per trein vanaf station Baarn naar verschillende plaatsen in West-Friesland, waaronder Venhuizen, Andijk en Wervershoof. Op 15 mei 1940 keerden de meeste inwoners op eigen gelegenheid terug naar huis."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/18618> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/18618> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/helfricha>;
     dcterms:modified "2022-01-18T09:35:23.648Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/9950>;
@@ -105698,7 +105808,8 @@ Bron: Wikipedia"""@nl .
       <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "Op 13 januari 1944 werden 8 mensen gefusilleerd op de Waalsdorpervlakte: Maarten van Baarle, Nicolaas Beuzemaker, Remmert Huibert van Mil, Maarten Pronk, Cornelis Johannes Pieter Schalker, Arthur de Clerck en Deodatus de Clerck. Allen waren ter dood veroordeeld als represaille voor de moordaanslag op collaborateur Ries Jansen twee dagen eerder."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/18899> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/18899> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/klijne>;
     dcterms:modified "2022-04-15T10:49:28.524Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/16489>;
@@ -105730,7 +105841,8 @@ Bron: Wikipedia"""@nl .
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>, <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "Op 30 maart 1943 vond er een tweede Engels bombardement op de fabrieken van Philips plaats. De aanval was gericht tegen de gedeelten Emmasingel en Willemstraat. Naast de fabrieken werden ook een 60-tal huizen getroffen en het sportpark van PSV. 23 burgers werden gedood."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/18928> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/18928> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/klijne>;
     dcterms:modified "2022-04-22T12:45:55.471Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/13274>,
@@ -107626,7 +107738,8 @@ Bron: Wikipedia"""@nl .
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>, <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "Het Bombardement op Horst vond plaats op 12 en 13 oktober 1944. De Royal Canadian Air Force (RCAF) bombardeerde het dorp om Duitse aanvoerroutes naar het front onbruikbaar te maken. Er vielen door het bombardement 35 doden in Horst."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/21724> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/21724> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:references "Historische Kring Horst"@nl;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
     dcterms:modified "2025-07-21T12:01:13.355Z"^^xsd:dateTime;
@@ -109785,7 +109898,8 @@ Mede door onverwacht zware tegenstand lukte het de geallieerde luchtlandingstroe
     skos:altLabel "Dutch Batallion"@nl;
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Organization> .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/4655> a skos:Concept, <http://schema.org/Organization>;
+  <https://data.niod.nl/WO2_Thesaurus/events/4655> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Organization>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/klijne>;
     dcterms:modified "2024-06-03T13:03:36.603Z"^^xsd:dateTime;
     dcterms:source "https://nl.wikipedia.org/w/index.php?title=Speciaal:Citeren&page=Rijksbanier_Zwart-Rood-Goud&id=46714427"@nl;
@@ -122486,7 +122600,8 @@ afwachting van hun voettocht naar Duitsland, Leusden 9-23 mei 1945, Leusden, 201
     skos:scopeNote "Op 8 maart 1945 vond een massafusillade plaats in Kamp Amersfoort waarbij 49 mannen omkwamen. Het was bedoeld ter vergelding van de aanslag op Hanns Albin Rauter. Ook op andere plaatsen in Nederland voerden de Duitsers soortgelijke vergeldingsacties uit."@nl;
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Event> .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/7290> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/7290> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/helfricha>;
     dcterms:modified "2022-01-06T11:01:00.188Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/10160>;
@@ -122551,7 +122666,8 @@ afwachting van hun voettocht naar Duitsland, Leusden 9-23 mei 1945, Leusden, 201
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>;
     skos:scopeNote "Bevrijding van Wageningen (Gelderland), op 17 april 1945 werd Wageningen door Wageningen door het Duke of Wellington Regiment British 49th Infantry Division, bijgenaamd Polar Bears, bevrijd. Het regiment was toegevoegd aan het Eerste Canadese Legerkorps van de Canadese strijdkrachten."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/7294> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/7294> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2021-06-29T08:31:51.170Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/14704>;
@@ -122616,7 +122732,8 @@ afwachting van hun voettocht naar Duitsland, Leusden 9-23 mei 1945, Leusden, 201
     skos:altLabel "Bevrijding van Woensdrecht"@nl;
     <http://schema.semantic-web.at/ppt/propagateType> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/7298> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/7298> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:references "Geert-Jan Mellink, Peter Saal en Steven van Schuppen, Verdreven voor de Atlantikwall. Ontruiming en afbraak van de Nederlandse kuststreek, 1942-1945. Zwolle : WBooks, 2017"@nl;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/helfricha>;
     dcterms:modified "2022-01-06T10:31:06.514Z"^^xsd:dateTime;
@@ -123073,8 +123190,8 @@ afwachting van hun voettocht naar Duitsland, Leusden 9-23 mei 1945, Leusden, 201
     skos:scopeNote "De Verklaring tot spergebied van het Nederlandse kustgebied was op 1 mei 1942. Vanaf toen werd overal in Nederland het strand en duingebied tot 1 kilometer landinwaarts verboden terrein voor burgers. Het spergebied was bedoeld om vluchtpogingen naar Engeland te voorkomen en om het strand vrij van hindernissen te houden."@nl;
     skos:related <https://data.niod.nl/WO2_Thesaurus/events/7298> .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/7392> a skos:Concept, <http://schema.org/Event>,
-      <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
+  <https://data.niod.nl/WO2_Thesaurus/events/7392> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/klijne>;
     dcterms:modified "2022-04-15T11:18:21.930Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/kampen/6010>;
@@ -124616,7 +124733,8 @@ afwachting van hun voettocht naar Duitsland, Leusden 9-23 mei 1945, Leusden, 201
     skos:related <https://data.niod.nl/WO2_Thesaurus/17312>;
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Event> .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/7662> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/7662> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2021-06-29T08:34:23.509Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/9667>;
@@ -126912,8 +127030,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:related <https://data.niod.nl/WO2_Thesaurus/corporaties/4795>, <https://data.niod.nl/WO2_Thesaurus/corporaties/4765>,
       <https://data.niod.nl/WO2_Thesaurus/corporaties/7709> .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8153> a skos:Concept, <http://schema.org/Event>,
-      <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8153> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
     <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "-6.204827"^^xsd:float;
     <http://www.w3.org/2003/01/geo/wgs84_pos#long> "106.842446"^^xsd:float;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
@@ -127080,8 +127198,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>, <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Afkondiging van een algemeen handelsembargo tegen Japan vindt plaats als reactie op de Japanse bezetting van zuidelijk Indo-China en wordt gedaan door de Amerikaanse regering. Vanaf 1 augustus 1941 krijgt Japan te maken met een totaal embargo op de export van ruwe olie en benzine vanuit de Verenigde Staten. De Engelse regering volgt het Amerikaanse voorbeeld en op 28 juli sluit ook de Nederlands-Indische regering zich bij het embargo aan."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8162> a skos:Concept, <http://schema.org/Event>,
-      <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8162> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
     <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "35.675833"^^xsd:float;
     <http://www.w3.org/2003/01/geo/wgs84_pos#long> "139.745"^^xsd:float;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
@@ -127122,7 +127240,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>, <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "Met de Ondertekening Oorlogsbesluit op 15 november 1941 door Keizer Hirohito keurt de keizer de gedetailleerde oorlogsplannen goed die hem worden voorgelegd door de Japanse leger- en marineleiding. Als de diplomatieke onderhandelingen met de Verenigde Staten voor 1 december 1941 niet tot resultaat leiden, zal Japan een oorlog beginnen tegen de Verenigde Staten, Engeland en Nederlands-Indië."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8164> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8164> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2020-09-01T07:45:50.000Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/8019>;
@@ -127315,7 +127434,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>;
     skos:scopeNote "Tijdens de OD-processen werden 93 verzetsmensen, grotendeels van de Ordedienst groep, ter dood veroordeeld. De meeste vonnissen werden uitgevoerd, een aantal mannen kreeg gratie en tuchthuisstraf."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8184> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8184> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
     dcterms:modified "2026-03-04T14:58:19.035Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogDichtbijConcept> false;
@@ -127329,7 +127449,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:topConceptOf <https://data.niod.nl/WO2_Thesaurus/events/4329> .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8185> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8185> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
     dcterms:modified "2026-03-04T11:19:24.412Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogDichtbijConcept> false;
@@ -127419,7 +127540,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:related <https://data.niod.nl/WO2_Thesaurus/11465>;
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Event> .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8191> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8191> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2020-08-31T13:00:24.000Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogDichtbijConcept> false;
@@ -127548,7 +127670,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:scopeNote "De Japanse luchtaanvallen op Darwin in Noord-Australië vinden plaats in de ochtend van 19 februari 1942. Bij de aanval worden acht schepen tot zinken gebracht en komen 243 mensen om het leven. De Japanse aanval maakt grote indruk in Australië en wekt de indruk dat een invasie aanstaande is."@nl;
     <http://schema.semantic-web.at/ppt/appliedType> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8197> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8197> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2020-08-31T12:59:11.000Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogDichtbijConcept> false;
@@ -127628,7 +127751,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:scopeNote "Bij de Slag om Java voeren ruim 20.000 Japanse soldaten van de Tweede Divisie van het 16de Japanse Leger op 28 februari 1942 landingen uit op West-Java. De gevechtsgroep Sato trekt via Serang en Tangerang op naar Batavia dat op 5 maart wordt bereikt. Op 8 maart capituleert het KNIL en op 12 maart 1942 tekenen ook de nog overgebleven Britse, Amerikaanse en Australische strijdkrachten de onvoorwaardelijke overgave.  "@nl;
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Event> .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8202> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8202> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2019-04-29T11:45:11.000Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/8028>;
@@ -127647,7 +127771,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "Bij de Bevelsoverdracht naar militair opperbevel draagt gouverneur-generaal Tjarda van Starkenborgh Stachouwer op 4 maart 1943 het opperbevel van de strijdkrachten in Nederlands-Indië over aan luitenant-generaal H. ter Poorten (KNIL) en schout-bij-nacht J.J.A. van Staveren (marine). De gouverneur-generaal krijgt van de regering in Londen de instructie dat alleen zij en niet hij tot een algemene capitulatie mag besluiten. Het kabinet wil daarmee de staatsrechtelijke voorwaarde scheppen voor een guerrillaoorlog tegen de Japanners."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8206> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8206> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/helfricha>;
     dcterms:modified "2025-10-13T13:40:48.511Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/8019>;
@@ -127687,7 +127812,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>, <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Verovering van Tjiaterstelling, de noordelijke toegang naar de Bandoengse hoogvlakte, vond plaats op 7 maart 1942. Japanse troepen van de Shoji-brigade doorbraken de stelling van het KNIL, nadat een dag eerder de aanval in ingezet."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8208> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8208> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2021-06-29T07:54:15.741Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/8028>;
@@ -127802,7 +127928,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>, <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Start van registratie van de Europese burgerbevolking in Nederlands-Indië is op 11 april 1942. Alle Europeanen vanaf 17 jaar worden verplicht zicht te registreren bij de Japanse bezetter en op basis van deze registratie vindt internering van de burgerbevolking plaats. De Japanse autoriteiten maken een onderscheid tussen volbloed Nederlanders (totoks) en Nederlanders van gemengde afkomst (Indo-Europeanen)."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8218> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8218> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
     dcterms:modified "2026-03-03T11:48:06.297Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/8145>;
@@ -127864,7 +127991,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:scopeNote "Tijdens De slag in de Koraalzee, van 6 mei tot 8 mei 1942, behaalt de Japanse marine een tactische overwinning maar lijdt het een strategische nederlaag. In dit treffen lijdt de Japanse Gecombineerde Vloot in tegenstelling tot de Amerikaanse marine lichte verliezen. De zeeslag dwingt echter de Japanners om een geplande overzeese aanval op Port Moresby, aan de zuidkant van Australisch Nieuw-Guinea, op te geven."@nl;
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Event> .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8223> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8223> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2021-03-15T16:54:09.526Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/8028>;
@@ -127879,7 +128007,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "Bij de Terugkeer Soekarno uit ballingschap op 9 juli 1942 wordt hij door de Japanse autoriteiten naar Batavia ontboden. Na onderhandelingen verklaart Soekarno zich bereid om met het Japanse bestuur samen te werken. Imamura zegt hem op zijn beurt ‘een sterkere deelneming van de (Indonesische bevolking) aan het bestuur’ toe."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8224> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8224> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2019-04-15T10:42:45.000Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/8028>;
@@ -127982,7 +128111,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:scopeNote "Bij de Herovering van Hollandia van 21 tot 27 april 1944 gaan Amerikaanse troepen onder leiding van generaal MacArthur over tot een verrassingsaanval bij Hollandia in Nieuw-Guinea. Met de gedurfde operatie passeert MacArthur sterke Japanse troepenconcentraties op de noordkust van Nieuw-Guinea. De verovering van het zwak verdedigde Hollandia brengt MacArthur in één klap 650 km dichterbij de Filippijnen."@nl;
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Event> .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8229> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8229> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2019-04-14T06:49:57.000Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/8142>;
@@ -128046,7 +128176,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>, <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "Scheepsramp Junyo Maru, op 18 september 1944,  is één van de grootste scheepsrampen uit de maritieme geschiedenis. Het Japanse transportschip Junyo Maru werd op de Indische Oceaan tot zinken gebracht door de Engelse onderzeeboot HMS Tradewind. De Junyo Maru vervoerde naar schatting 6.500 Javaanse dwangarbeiders en geallieerde krijgsgevangenen van Tandjong Priok naar Padang waarvan circa 5.620 opvarenden omkomen."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8232> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8232> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     dcterms:modified "2025-08-29T07:31:25.964Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/8145>;
@@ -128091,7 +128222,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:related <https://data.niod.nl/WO2_Thesaurus/1870>;
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Event> .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8234> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8234> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/helfricha>;
     dcterms:modified "2025-06-03T11:54:41.524Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/8143>;
@@ -128112,7 +128244,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "Bij de Ondertekening Van Mook-MacArthur Civil Affairs Agreement wordt het herstel van het Nederlandse gezag in de heroverde Nederlands-Indische gebieden geregeld. Op 10 december 1944 wordt in Tacloban op het Filipijnse eiland Leyte de Van Mook-MacArthur Civil Affairs Agreement ondertekend."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8235> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8235> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2021-03-15T15:13:06.238Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/8142>;
@@ -128196,7 +128329,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:scopeNote "De Atoombom op Hiroshima vernietigt deze Japanse stad op 6 augustus 1945. Het is de eerste luchtaanval met een atoombom die door de Amerikaanse luchtmacht wordt uitgevoerd. Naar schatting 100.000 tot 140.000 Japanners komen daarbij direct om het leven."@nl;
     skos:related <https://data.niod.nl/WO2_Thesaurus/corporaties/8555> .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8239> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8239> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2019-09-05T08:06:46.000Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/8142>;
@@ -128216,7 +128350,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Atoombom op Nagasaki vernietigt deze stad op 9 augustus 1945. Deze luchtaanval met atoombom door de Amerikaanse luchtmacht volgt drie dagen naar de luchtaanval op Hiroshima. Ongeveer 35.000 tot 40.000 mensen worden daarbij direct gedood."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8240> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8240> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2019-04-14T07:22:52.000Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/8028>;
@@ -128545,7 +128680,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:altLabel "Van Roijen-Roem-verklaring"@nl;
     <http://schema.semantic-web.at/ppt/appliedType> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8257> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8257> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/helfricha>;
     dcterms:modified "2024-09-02T13:10:08.821Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/8028>;
@@ -128566,7 +128702,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "Bij de Couppoging APRA (Angkatan Per Angkatan Perang Ratu Adil - Leger van de Rechtvaardige Vorst), van 22 op 23 januari 1950, bezetten enkele honderden voormalige KNIL-militairen onder commando van ex-KNIL-officier Raymond Westerling een deel van Bandung. Het doel van de operatie is wapens in handen te krijgen om daarmee de Indonesische regering in Jakarta omver te werpen, maar de coup mislukt en Westerling vlucht naar Europa. Bij de gevechten komen 25 burgers, 60 Indonesische soldaten en twee APRA-soldaten om het leven."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8258> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8258> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2019-04-14T07:03:34.000Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/8028>;
@@ -128587,7 +128724,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "Bij de Gevechten in Makassar van 5 april 1950 tot 21 april 1950 raken Ambonese en Menadonese militairen in Nederlandse dienst in gevecht met Indonesische soldaten. Aan de strijd komt op 9 augustus 1950 een einde als de Nederlandse militairen door de torpedobootjager Hr.Ms. Kortenaer worden ontzet. Bij de strijd sneuvelen aan Nederlandse kant 120 Ambonese en 18 Nederlandse militairen en 80 Ambonese militairen raken gewond."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8259> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8259> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2019-04-14T06:50:23.000Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/8028>;
@@ -128607,7 +128745,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Aanval op Ambon door Indonesische strijdkrachten van 28 september 1950 tot 29 november 1950, begint met inleidende luchtaanvallen. Daaropvolgend gaan Indonesische troepen aan land op Ambon  om een einde te maken aan de onafhankelijke Republiek der Zuid-Molukken. Op 29 november 1950 is het eiland grotendeels in hun handen en wijkt de regering van de Republiek der Zuid-Molukken uit naar Ceram."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8260> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8260> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2021-01-12T08:36:29.989Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/8028>;
@@ -128637,7 +128776,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
       <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "Inwerkingtreding Algemene Oorlogsongevallen Regeling (AOR) in Indië vindt plaats op 3 juni 1946 en is bedoeld voor Nederlanders in Indië die door de oorlog geen inkomen meer konden verdienen. De verantwoordelijkheid voor uitvoering van de AOR ging bij de soevereiniteitsoverdracht op 27 december 1949 over naar de Indonesische staat, maar kwam op 1 februari 1954 weer voor rekening van Nederland."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8262> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8262> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2020-11-26T10:19:43.557Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/8028>;
@@ -128657,7 +128797,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Oprichting Stichting Pelita vindt plaats op 17 november 1947 en was een intiatief van mevrouw J.E. Eckenhausen-Tetzner. Pelita (het Maleise woord voor ‘olielampje’) heeft tot doel ‘bij te dragen tot de leniging van de zedelijke, maatschappelijke en stoffelijke noden van personen, die het slachtoffer zijn geworden van de oorlog met Japan’."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8263> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8263> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2019-04-14T07:12:12.000Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/8028>;
@@ -128859,7 +129000,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
       <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Oprichting Keibodan en Seinendan vindt plaats op 29 april 1943 te Java. Bij de Keibodan dienen Javaanse jongeren van 23 tot 35 jaar als hulppolitieagenten. Bij de Seinendan dienen jongeren van 14 tot 23 jaar bij de luchtbescherming."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8273> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8273> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     dcterms:modified "2025-08-29T07:36:05.620Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/8145>;
@@ -128922,7 +129064,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:scopeNote "De Oprichting Jawa Hokokai (Samenbundeling van de Dienstbaarheid op Java) vindt plaats op 8 januari 1944 als opvolger van Poetera. Het is een nieuwe mobilisatiebeweging die sterker wordt aangestuurd door het Japanse militaire bestuur. Soekarno is slechts adviseur."@nl;
     skos:altLabel "Oprichting Djawa Hokokai "@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8277> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8277> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     dcterms:modified "2025-08-29T07:36:54.050Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/8028>;
@@ -128977,7 +129120,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>, <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Benoeming van Raden Adipati Ario Soejono tot minister zonder portefeuille in kabinet Gerbrandy II vindt plaats in London op 9 juni 1942. Soejono is de eerste minister van Indonesische afkomst en eerste Islamitische minister van Nederland."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8288> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8288> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2021-08-02T19:17:38.309Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/9826>;
@@ -128994,7 +129138,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "Met de Aankomst van Mariniers in Batavia op 30 december 1945 weet het eerste Europese bataljon van 800 man aan land te gaan op Java, ondanks een verbod op landing. Op 19 november 1945 verbood het geallieerde opperbevel in Zuidoost-Azië de landing van Nederlandse troepen op Java om een verdere escalatie van geweld te voorkomen. Deze 800 man moeten de Molukse troepen in de stad vervangen."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8289> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8289> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2019-04-14T07:28:22.000Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/8028>;
@@ -129874,7 +130019,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:scopeNote "In de avond en nacht van 17 op 18 november 1942 werden in Nijmegen 196 Joodse inwoners uit hun huizen gehaald en ondergebracht in het gebouw van de Gemeentelijke HBS aan de Kronenburgersingel. De Nijmeegse politie werd hierbij geholpen door de marechaussee o.l.v. NSB-politiecommissaris Van Dijk. De volgende dag werden de Joden met de trein naar Westerbork gebracht."@nl;
     skos:related <https://data.niod.nl/WO2_Thesaurus/locations/10462> .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8382> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8382> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2020-11-16T10:59:08.872Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/wo2nedindieThema> "Erkenning en rechtsherstel";
@@ -129887,7 +130033,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Erkenning Recht op schadevergoeding Indisch overheidspersoneel houdt in dat de achterstallige salarissen en pensioenen van krijgsgevangen Indisch overheidspersoneel uitbetaald moest worden. De Commissie Achterstallige Betalingen(CAB) kwam tot deze conclusie na onderzoek. Op 13 januari 1953 concludeert deze commissie dat de Indische oorlogsgetroffenen onvoldoende gerehabiliteerd zijn en dat zij een juridisch en moreel recht hebben op backpay en materiële schadevergoeding."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8383> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8383> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2019-04-24T15:31:06.000Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/8142>,
@@ -129902,7 +130049,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "Het Yoshida-Stikker Akkoord houdt in dat Japan op 1 juni 1956 smartengeld gaat betalen aan Nederland. Het betreft 10 miljoen dollar aan schadevergoeding. Voormalige burgergeïnterneerden en ex-krijgsgevangenen ontvangen een eenmalige uitkering."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8384> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8384> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2021-01-12T08:39:16.739Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/wo2nedindieThema> "Nasleep dekolonisatie";
@@ -129918,7 +130066,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Oprichting Comité NASSI (Nationale Actie Steunt Spijtoptanten in Indonesië) vindt plaats op 5 april 1960. Het comité wordt opgericht door Indische prominenten. Het comité wil dat de overheid zich inspant voor de overkomst naar Nederland van ongeveer 30.000 spijtoptanten: Indische Nederlanders die voor de Indonesische nationaliteit kozen en daarop terug willen komen."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8385> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8385> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2020-08-12T08:09:42.000Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogDichtbijConcept> false;
@@ -129931,7 +130080,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:prefLabel "Periode voor 1927"@nl;
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329> .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8386> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8386> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2020-08-12T08:09:13.000Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogDichtbijConcept> false;
@@ -129955,7 +130105,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:prefLabel "Periode na 1950"@nl;
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329> .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8387> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8387> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/dijkvana>;
     dcterms:modified "2023-03-21T15:34:35.289Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/wo2nedindieThema> "Nasleep dekolonisatie";
@@ -129972,7 +130123,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:scopeNote "De 'Achter het Nieuws' uitzending Indië-veteraan J.E. Hueting vindt plaats op 17 januari 1969. Oorlogsmisdaden van Nederlandse militairen in de periode 1946-1949 worden openlijk besproken tijdens deze televisie-uitzending van de VARA. De aflevering leidt tot grote beroering."@nl;
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Event> .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8388> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8388> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/jacobsf>;
     dcterms:modified "2021-10-26T11:26:01.399Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/7047>;
@@ -129988,8 +130140,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "Bij de Publicatie Excessennota op 2 juni 1969, de nota betreffende het archievenonderzoek naar gegevens omtrent het handelen van Nederlandse militairen in de periode 1945-1950 te Indonesië, concludeert de regering dat er ‘stellig […] door Nederlandse militairen handelingen [zijn] gepleegd, die als wandaden moeten worden gebrandmerkt […] maar [de regering] handhaaft haar opvatting, dat de krijgsmacht als geheel zich in Indonesië correct heeft gedragen’. Voor de Zuid-Celebesaffaire wordt een voorbehoud gemaakt."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8389> a skos:Concept, <http://schema.org/Event>,
-      <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8389> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
     <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "52.093291"^^xsd:float;
     <http://www.w3.org/2003/01/geo/wgs84_pos#long> "4.283498"^^xsd:float;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
@@ -130072,8 +130224,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>, <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Wet buitengewoon pensioen Indisch Verzet treedt in werking op 16 augustus 1986. De WIV regelt de toekenning van uitkeringen aan (nabestaanden van) personen die door daad of houding hebben deelgenomen aan het verzet tegen de Japanse bezetter tijdens de Tweede Wereldoorlog."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8394> a skos:Concept, <http://schema.org/Event>,
-      <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8394> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
     <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "52.097807"^^xsd:float;
     <http://www.w3.org/2003/01/geo/wgs84_pos#long> "4.291665"^^xsd:float;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
@@ -130094,7 +130246,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:scopeNote "De onthulling Indisch Monument ‘De geest overwint’ vindt plaats door Koningin Beatrix in het Schevenings Bos in Den Haag op 15 augustus 1988. Het monument is opgericht ter nagedachtenis aan alle burgers en militairen die het slachtoffer zijn geworden van de Japanse bezetting van Nederlands-Indië (1942-1945)."@nl;
     <http://schema.semantic-web.at/ppt/appliedType> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8395> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8395> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2019-04-24T11:43:33.000Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/7047>;
@@ -130111,8 +130264,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Oprichting Indisch Platform (IP), een overkoepelende vertegenwoordiging van Indische organisaties vindt plaats op 26 augustus 1991, op verzoek van de regering. Het IP is de officiële gesprekspartner van de Nederlandse overheid over Indische onderwerpen."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8396> a skos:Concept, <http://schema.org/Event>,
-      <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8396> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
     <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "52.100243"^^xsd:float;
     <http://www.w3.org/2003/01/geo/wgs84_pos#long> "4.287754"^^xsd:float;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
@@ -130129,8 +130282,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:scopeNote "Oprichting Indisch Herinneringscentrum I kan plaatsvinden op 15 augustus 1998 door een toekenning van het ministerie van VWS van 5,3 miljoen gulden. De Villa Sandhaghe aan de Hogeweg 18 in Scheveningen wordt aangekocht als vestigingslocatie. Na aanhoudende berichten in de media over bestuursruzies en vermeende wantoestanden stopt het ministerie op 18 januari 2001 de subsidie."@nl;
     <http://schema.semantic-web.at/ppt/appliedType> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8397> a skos:Concept, <http://schema.org/Event>,
-      <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8397> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
     <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "52.087196"^^xsd:float;
     <http://www.w3.org/2003/01/geo/wgs84_pos#long> "4.300985"^^xsd:float;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
@@ -130148,8 +130301,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:scopeNote "De Opening Indisch Herinneringscentrum II, bekend als Het Indisch Huis, in Den Haag vindt plaats op 10 december 2001 door Minister Borst van VWS op de Javastraat 2b te Den Haag. Op 24 augustus 2006 wordt na berichten over grote financiële tekorten de subsidie stopgezet en vraagt het Indisch Huis faillissement aan. Volgens het niet openbaar gemaakte onderzoeksrapport was er bij het Indisch Huis sprake van ‘falend financieel management en ernstig tekortschietend bestuur’."@nl;
     <http://schema.semantic-web.at/ppt/appliedType> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8398> a skos:Concept, <http://schema.org/Event>,
-      <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8398> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
     <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "51.995854"^^xsd:float;
     <http://www.w3.org/2003/01/geo/wgs84_pos#long> "5.950374"^^xsd:float;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
@@ -130169,7 +130322,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:scopeNote "De Opening Indisch Herinneringscentrum III vindt plaats op Landgoed Bronbeek in Arnhem, op 22 augustus 2009. In 2017 verhuist het Indisch Herinneringscentrum naar de Sophialaan 10 te Den Haag."@nl;
     <http://schema.semantic-web.at/ppt/appliedType> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8399> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8399> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2019-04-24T13:23:33.000Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/7047>;
@@ -130185,7 +130339,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Oprichting tijdelijke onderzoeksorganisatie SOTO (Stichting Onderzoek Terugkeer en Opvang) vindt plaats op 22 juli 1998, op initiatief van de regering. SOTO krijgt de opdracht onderzoek te doen naar de terugkeer en opvang van oorlogsgetroffenen in Nederland na de Tweede Wereldoorlog. In de studie komt als één van de bevindingen naar voren dat de Indische oorlogsslachtoffers een 'kil' ontvangst in Nederland ten deel viel."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8400> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8400> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2019-04-24T13:29:23.000Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/wo2nedindieThema> "Erkenning en rechtsherstel";
@@ -130198,7 +130353,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Oprichting Stichting Het Gebaar vindt plaats op 12 december 2000 door de regering. Dit 'gebaar' houdt in dat de regering 350 miljoen gulden voor individuele uitkeringen en 35 miljoen voor collectieve doelen beschikbaar stelt aan de Indische gemeenschap. De 385 miljoen gulden is bedoeld als tegemoetkoming vanwege ‘vermoedelijke tekortkomingen in het naoorlogse rechtsherstel’ en een overheidsbeleid dat ‘kil, formalistisch en bureaucratisch’ is geweest."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8401> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8401> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2019-04-24T13:43:36.000Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/wo2nedindieThema> "Erkenning en rechtsherstel";
@@ -130214,7 +130370,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Bekendmaking regering geen verplichting backpay op 12 januari 2007 houdt in dat de Staat der Nederlanden niet verplicht is tot het uitkeren van achterstallig salaris aan KNIL-militairen en oud-ambtenaren. Het standpunt van de regering, zoals in 1956 en 1958 al vastgesteld door de Hoge Raad, blijft dat de verantwoordelijkheid voor de uitbetaling van achterstallig loon met de soevereiniteitsoverdracht op 27 december 1949 is overgegaan naar de Indonesische staat."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8402> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8402> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2020-12-08T13:22:32.409Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/8028>;
@@ -130229,7 +130386,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Start Ethische politiek is van kracht vanaf 17 september 1901. De term Ethische politiek geeft aan dat het Nederlands koloniale beleid er meer op is gericht de belangen van de Indonesische bevolking te behartigen."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8403> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8403> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2020-12-08T13:23:27.309Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/8145>;
@@ -130244,7 +130402,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Oprichting Vereniging Boedi Oetomo (‘Het schoone streven’) vindt plaats op 20 mei 1908 en de vereniging heeft tot doel om de toegang tot westers onderwijs voor Javanen te verbeteren. Vrijwel alle leerlingen van middelbare scholen op Java sluiten zich bij de vereniging aan. Boedi Oetomo is daarmee de eerste Indonesische emancipatiebeweging."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8404> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8404> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2020-12-08T13:25:29.848Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/wo2nedindieThema> "Indonesisch nationalisme";
@@ -130260,7 +130419,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Oprichting Sarekat Islam (Islamitische Vereniging) vindt plaats op 10 oktober 1912 door Raden Oemar Saïd Tjokroaminoto. Het ledenaantal groeit explosief, in 1916 telt de vereniging 16.000 leden. De Sarekat Islam is een volksvereniging met leden in heel Nederlands-Indië. Aanvankelijk was het hoofddoel het bevorderen van de materiële vooruitgang van de leden, maar al gauw werd de S.I. een politieke vereniging."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8405> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8405> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2020-12-08T13:24:59.777Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/wo2nedindieThema> "Indonesisch nationalisme";
@@ -130310,7 +130470,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
       <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Oprichting PKI, de Partij Kommunist India (later Indonesia) is een voortzetting van de Indische Sociaal Democratische Vereniging en wordt opgericht op 23 mei 1920, na de verbanning van Henk Sneevliet en de andere Europese leiders. De PKI maakt naam door de organisatie van een aantal grote stakingsacties. In december 1925 wordt onder leiding van Tan Malaka het eerste communistische congres gehouden in Semarang."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8408> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8408> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2019-04-24T14:36:01.000Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/wo2nedindieThema> "Betrekkingen Nederland-Indonesië";
@@ -130327,7 +130488,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Eenzijdige opzegging Nederlands-Indonesische Unie door Indonesische regering vindt plaats op 14 december 1954 en is een besluit van de Indonesische regering waarin zij aankondigen alle overige akkoorden van de Rondetafelconferentie niet langer na te leven. De opheffing maakt een einde van de bijzondere staatsrechtelijke band tussen Nederland en Indonesië die vanaf 27 december 1949 bestond."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8409> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8409> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2019-04-24T14:40:07.000Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/wo2nedindieThema> "Betrekkingen Nederland-Indonesië";
@@ -130339,7 +130501,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "Indonesië verbreekt betrekkingen met Nederland, op 19 augustus 1960, op diplomatiek gebied naar aanleiding van de oplopende spanningen rondom Nederlands Nieuw Guinea. De Indonesische diplomatieke missie in Nederland wordt gesloten. De ambassade van Egypte neemt de belangen van Indonesië waar."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8410> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8410> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2019-04-24T14:45:48.000Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/8028>;
@@ -130357,7 +130520,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Installatie Nieuw-Guinea Raad vindt plaats op 6 april 1962 te Hollandia. De raad heeft 28 leden: 21 Papoea’s, zes Nederlanders en een Keiees. Zestien leden zijn gekozen door de bevolking en twaalf benoemd door gouverneur Platteel. De verkiezingen zijn een eerste stap op weg naar zelfbeschikking door de Papoea’s."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8411> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8411> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2019-04-24T14:49:29.000Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/8028>;
@@ -130371,7 +130535,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Overdracht Nieuw-Guinea vindt plaats door Nederland aan de Tijdelijk Uitvoerend Gezagsorgaan van de VN (UNTEA: United Nations Temporary Executive Authority) op 1 oktober 1962. Dit orgaan neemt het gezag over. UNTEA is verantwoordelijk voor de handhaving van wet en orde in Westelijk Nieuw-Guinea/West-Irian, de bescherming van de rechten van de inwoners en voorlichting aan de bevolking over de nieuwe situatie."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8412> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8412> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2019-04-24T14:53:27.000Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/8028>;
@@ -130385,7 +130550,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Nationalisatie Nederlandse bedrijven door Indonesië vindt plaats op 5 december 1957, nadat radicale Indonesische nationalisten Nederlandse bedrijven bezetten. In Jakarta zijn de bedrijfspanden van het scheepvaartbedrijf KPM en de handelsondernemingen Borsumij, Jacobsen Van den Berg, Lindeteves, Internatio en Geo Wehry doelwit van de actie. De Indonesische regering is volkomen verrast door de spontane bezettingen."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8413> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8413> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2019-04-24T14:57:10.000Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/wo2nedindieThema> "Erkenning en rechtsherstel";
@@ -130397,7 +130563,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Inwerkingstelling Uitkeringsregeling Backpay wordt door de Staatssecretaris van Volksgezondheid, Welzijn en Sport gedaan op 16 december 2015. Deze regeling heeft betrekking op het toekennen van een eenmalige uitkering aan hen die ambtenaar of militair ten tijde van de Japanse bezetting in Nederlands-Indië in dienst waren van het Nederlands-Indisch Gouvernement en aan wie gedurende deze periode geen dan wel onvolledig salaris is uitbetaald."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8414> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8414> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2019-04-24T15:00:36.000Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/wo2nedindieThema> "Erkenning en rechtsherstel";
@@ -130409,7 +130576,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Start Subsidieregeling collectieve erkenning van Indisch en Moluks Nederland is op 8 juni 2018 en heeft betrekking op de subsidiëring van kosten voor activiteiten die bijdragen aan de collectieve erkenning van Indisch en Moluks Nederland."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8415> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8415> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2019-04-24T15:04:35.000Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/8147>;
@@ -130423,7 +130591,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Legerorder Molukse ex-KNIL-soldaten van 2 februari 1951 houdt in dat het Afwikkelingscommando van de Koninklijke Landmacht in Indonesië de Molukse ex-KNIL-militairen voor de keuze stelt tussen ‘afvloeiing binnen Indonesië’ of ‘tijdelijke opzending naar Nederland’."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8416> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8416> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2021-08-04T06:56:53.967Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/wo2nedindieThema> "Nasleep dekolonisatie";
@@ -131452,7 +131621,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     skos:scopeNote "Het afsluiten van de IJsselbruggen voor individuele reizigers vanaf 1 maart 1945 werd besloten door de voedselautoriteiten om zo het centrale distributiestelsel te ondersteunen en hongertochten en zwarthandel tegen te gaan."@nl;
     skos:altLabel "Afsluiten van IJsselbruggen voor personen"@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8607> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8607> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/b7354d29-49d5-4fe0-922a-3f3b5929fa84>;
     dcterms:modified "2025-01-17T10:33:58.038Z"^^xsd:dateTime;
     <http://schema.org/startDate> "1943-03-01"^^xsd:date;
@@ -131899,7 +132069,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Event>;
     skos:notation "Conferentie van München (29-30 september 1938)" .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8900> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8900> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2020-11-30T13:45:19.601Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/9653>;
@@ -131918,7 +132089,8 @@ Collaborateurs van niveau: opkomst en val van de hoogleraren Schrieke, Snijder e
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Event>;
     skos:notation "Tweede Chinees-Japanse oorlog (1937-1945)" .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/8901> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/8901> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2021-06-25T10:14:08.856Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/16888>;
@@ -136099,7 +136271,8 @@ Het bombardement bij de Blauwburgwal is een van de eerste bombardementen in Nede
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>, <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Inundatie van Muiden vond plaats op 16 april 1945. De nazi's bliezen de sluisdeuren in Muiden op om de geallieerde opmars te verhinderen. De actie leek in eerste instantie geslaagd, maar het lukte de Duitsers niet om de geallieerden te stoppen."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/9354> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/9354> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/helfricha>;
     dcterms:modified "2022-01-06T09:31:41.831Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/9987>;
@@ -136156,7 +136329,8 @@ Het bombardement bij de Blauwburgwal is een van de eerste bombardementen in Nede
     skos:scopeNote "Eind april 1945 werd de gevangenis Amstelveenseweg ontruimd. De vrouwen werden overgeplaatst naar de gevangenis Weteringschans en de mannen naar het Oranjehotel. Daarna werd de gevangenis onder meer in gebruik genomen om vermeende collaborateurs op te sluiten."@nl;
     <http://schema.semantic-web.at/ppt/propagateType> <http://schema.org/Event> .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/9358> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/9358> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/jornaj>;
     dcterms:modified "2025-09-16T11:35:47.958Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/9787>;
@@ -136174,8 +136348,8 @@ Het bombardement bij de Blauwburgwal is een van de eerste bombardementen in Nede
     skos:altLabel "De Vlucht van Breda"@nl;
     skos:definition "De Evacuatie van Breda vond plaats op zondag 12 mei 1940. 50.000 inwoners kregen die ochtend, op Eerste Pinksterdag, het bevel de stad te verlaten. Breda dreigde namelijk tussen de frontlinies terecht te komen van de Duitsers en de oprukkende Fransen. De burgermeester van Breda, die een militaire achtergrond had, bezat een uitgewerkt evacuatieplan: de helft naar omliggende gebieden, de andere helft naar het Zuiden. De laatste tocht duurde maanden en eindigde voor sommige burgers pas in Zuid-Frankrijk. Onder Bredanaars werd de evacuatie ‘De Vlucht’ genoemd. "@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/9359> a skos:Concept, <http://schema.org/Event>,
-      <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
+  <https://data.niod.nl/WO2_Thesaurus/events/9359> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2021-06-29T07:54:01.750Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/9600>;
@@ -136192,7 +136366,8 @@ Het bombardement bij de Blauwburgwal is een van de eerste bombardementen in Nede
     skos:scopeNote "De Evacuatie van Amersfoort werd vanaf 12 mei 1940 in gang gezet. Bijna 44.000 inwoners verlaten hun huizen, omdat de stad gevechtsterrein tussen Duitsland en de geallieerden leek te worden. Vele Amersfoorters vluchten naar Noord-Holland."@nl;
     <http://schema.semantic-web.at/ppt/propagateType> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/9360> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/9360> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2021-06-29T08:35:53.276Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/9663>;
@@ -136267,7 +136442,8 @@ Het bombardement bij de Blauwburgwal is een van de eerste bombardementen in Nede
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>, <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "De Inundatie van Goeree-Overvlakkee vond plaats in opdracht van de bezetter rond februari 1944. Een paar dagen voor de maatregel, kregen de inwoners het bericht dat hun leefomgeving onder water zou worden gezet. Zo’n 16.000 mensen moesten halsoverkop vertrekken en een evacuatieadres vinden."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/9364> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/9364> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2021-06-29T08:02:33.064Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/16917>;
@@ -136390,7 +136566,8 @@ Het bombardement bij de Blauwburgwal is een van de eerste bombardementen in Nede
     skos:altLabel "Inundatie Delfland"@nl, "Inundatie Krimpen aan de Ijssel"@nl, "Inundatie Capelle aan de Ijssel"@nl,
       "Inundatie Overschie"@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/9369> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/9369> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/helfricha>;
     dcterms:modified "2022-01-05T15:12:39.066Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/16922>;
@@ -136413,7 +136590,8 @@ Het bombardement bij de Blauwburgwal is een van de eerste bombardementen in Nede
     skos:scopeNote "De Evacuatie van Walcheren vond in 1944 plaats na de inundatie van het gebied. De evacuatieplannen kwamen eerst niet van de grond, omdat de inwoners wilden blijven. Meer dan 30.000 mensen zaten in kleine gebieden bij Domburg en Middelburg. Pas na de bevrijding zijn een kleine tienduizend mensen naar Zuid-Beveland geëvacueerd."@nl;
     skos:related <https://data.niod.nl/WO2_Thesaurus/events/6676> .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/9371> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/9371> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2020-09-09T11:04:10.000Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/imageURL> "https://images.memorix.nl/niod/thumb/640x480/740bc278-b8cd-79c9-ca3f-02f7423aafce.jpg"@nl;
@@ -136430,8 +136608,8 @@ Het bombardement bij de Blauwburgwal is een van de eerste bombardementen in Nede
     skos:scopeNote "De Evacuatie van het noorden van de provincie Groningen vond plaats naar aanleiding van de inundatie in september 1944. De bewoners van het gebied kregen een brief met de oproep om te verhuizen naar familie en vrienden in omringende dorpen. Niet alleen inwoners, maar ook vee, kippen, konijnen en geiten vertrokken naar hooggelegen gebieden."@nl;
     skos:related <https://data.niod.nl/WO2_Thesaurus/events/9343> .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/9372> a skos:Concept, <http://schema.org/Event>,
-      <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
+  <https://data.niod.nl/WO2_Thesaurus/events/9372> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2021-06-29T07:59:11.741Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/10423>;
@@ -136449,7 +136627,8 @@ Het bombardement bij de Blauwburgwal is een van de eerste bombardementen in Nede
     skos:related <https://data.niod.nl/WO2_Thesaurus/events/9361>;
     <http://schema.semantic-web.at/ppt/propagateType> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/9373> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/9373> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/schorsijm>;
     dcterms:modified "2025-11-24T10:12:33.287Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/16923>;
@@ -136488,7 +136667,8 @@ Het bombardement bij de Blauwburgwal is een van de eerste bombardementen in Nede
     skos:related <https://data.niod.nl/WO2_Thesaurus/events/9375>;
     skos:definition "De Inundatie van Schouwen-Duiveland, Tholen en Sint Philipsland vond begin 1944 plaats. Een groot deel van de Zeeuwse eilanden kwam onder water te staan en de bevolking kreeg voorafgaand een oproep om het gebied te verlaten. Hoewel Tholen en Sint Philipsland al in november 1944 bevrijd werden, verdreven de geallieerden de bezetter in Schouwen-Duiveland pas in mei 1945."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/9375> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/events/9375> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/schorsijm>;
     dcterms:modified "2025-11-24T10:15:27.126Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/16918>;
@@ -137219,8 +137399,8 @@ Het bombardement bij de Blauwburgwal is een van de eerste bombardementen in Nede
     skos:scopeNote "De stad Theresienstadt - in het bijzonder de Grote Vesting - was vanaf november 1941 tot het einde van de oorlog in gebruik als getto voor gedeporteerde Joden. Een groot deel werd vanuit hier doorgestuurd naar Kamp Auschwitz-Birkenau of andere vernietigingskampen. Ook zaten er een groep oude of prominente Joden, zoals de leider van de Joodsche Raad David Cohen. In 1944 bezocht het Rode Kruis Theresienstadt. Als voorbereiding hiervoor werden vele Joden naar Auschwitz gestuurd om zo de overbevolking te verbergen."@nl;
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Event> .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/9432> a skos:Concept, <http://schema.org/Event>,
-      <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
+  <https://data.niod.nl/WO2_Thesaurus/events/9432> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2021-02-04T09:39:53.607Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/kampen/5008>;
@@ -137236,8 +137416,8 @@ Het bombardement bij de Blauwburgwal is een van de eerste bombardementen in Nede
     skos:scopeNote "De Bevrijding van Theresienstadt vond plaats op 8 mei 1945 door het Rode Leger."@nl;
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Event> .
   
-  <https://data.niod.nl/WO2_Thesaurus/events/9433> a skos:Concept, <http://schema.org/Event>,
-      <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
+  <https://data.niod.nl/WO2_Thesaurus/events/9433> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/jornaj>;
     dcterms:modified "2021-03-15T14:03:33.240Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/kampen/5008>;
@@ -139645,7 +139825,7 @@ Evacuaties in Nederland 1939-1940 door J. Koolhaas Revers"""@nl;
   
   <https://data.niod.nl/WO2_Thesaurus/kampen/3650> a skos:ConceptScheme;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/NIOD>;
-    dcterms:modified "2026-10-22T13:03:42.587Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-26T13:27:35.834Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogDichtbijConcept> false;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/demoadmin>;
     dcterms:created "2016-09-07T09:18:28.000Z"^^xsd:dateTime;
@@ -140017,7 +140197,7 @@ Evacuaties in Nederland 1939-1940 door J. Koolhaas Revers"""@nl;
     <http://www.w3.org/2003/01/geo/wgs84_pos#long> "4.648056"^^xsd:float;
     dcterms:references "Geo: https://nl.wikipedia.org/wiki/Duin_en_Bosch [geraadpleegd 29 maart 2017] "@de;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
-    dcterms:modified "2025-05-19T14:10:07.490Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-26T11:44:30.023Z"^^xsd:dateTime;
     dcterms:source "https://nl.wikipedia.org/wiki/Duin_en_Bosch"@nl;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogDichtbijConcept> true;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogVoordeRechterConcept> true;
@@ -140030,7 +140210,7 @@ Evacuaties in Nederland 1939-1940 door J. Koolhaas Revers"""@nl;
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>, <https://data.niod.nl/WO2_Thesaurus/kampen/3650>;
     skos:scopeNote "Kamp Duin en Bosch in Bakkum was van 1945 tot 1948 in gebruik als interneringskamp (bijzondere rechtspleging). Hier zaten verdachten van en veroordeelden voor collaboratie opgesloten."@nl;
     skos:altLabel "Duin en Bosch"@nl, "Bewaringskamp Duin en Bosch"@nl, "Interneeringskamp Duin en Bosch"@nl,
-      "Interneringskamp Duin en Bosch"@nl .
+      "Interneringskamp Duin en Bosch"@nl, "Kamp Duin en Bosch"@nl .
   
   <https://data.niod.nl/WO2_Thesaurus/kampen/3662> a <http://schema.org/Thing>, skos:Concept,
       <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
@@ -149980,7 +150160,9 @@ https://commons.wikimedia.org/wiki/File:Ghetto_Glubokoe_1f.jpg
     <http://www.w3.org/2003/01/geo/wgs84_pos#long> "5.974688"^^xsd:float;
     dcterms:references "Nationaal Archief"@nl;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
-    dcterms:modified "2025-03-27T15:12:29.424Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-26T11:18:14.691Z"^^xsd:dateTime, "2026-10-26T11:18:17.215Z"^^xsd:dateTime,
+      "2026-10-26T11:18:17.343Z"^^xsd:dateTime;
+    dcterms:source "https://www.niod.nl/longreads/seksueel-geweld-in-de-nederlandse-interneringskampen-voor-collaboratieverdachten-1944-1947/#ontsmetting-ter-hygiene-vernedering-en-straf"@nl;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogDichtbijConcept> true;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogVoordeRechterConcept> true;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
@@ -151408,7 +151590,7 @@ https://commons.wikimedia.org/wiki/File:Ghetto_Glubokoe_1f.jpg
     <http://www.w3.org/2003/01/geo/wgs84_pos#long> "4.438964"^^xsd:float;
     dcterms:references "Nationaal Archief"@nl;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
-    dcterms:modified "2025-04-14T14:41:39.349Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-26T12:16:13.876Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/imageURL> "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/NIMH_-_2155_005253_-_Aerial_photograph_of_Numansdorp%2C_Fort_Buitensluis%2C_The_Netherlands.jpg/500px-NIMH_-_2155_005253_-_Aerial_photograph_of_Numansdorp%2C_Fort_Buitensluis%2C_The_Netherlands.jpg?20180827201527";
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/sourceImage> "https://commons.wikimedia.org/wiki/File:NIMH_-_2155_005253_-_Aerial_photograph_of_Numansdorp,_Fort_Buitensluis,_The_Netherlands.jpg";
     dcterms:source "https://wo2-hoekschewaard.nl/nsb/1945-1947-fort-buitensluis-numansdorp-1/"@nl,
@@ -151424,7 +151606,7 @@ https://commons.wikimedia.org/wiki/File:Ghetto_Glubokoe_1f.jpg
     skos:scopeNote "Kamp Buitensluis in Fort Buitensluis in Numansdorp was van 14 november 1945 tot 1 juni 1948 in gebruik als interneringskamp (bijzondere rechtspleging). Hier zaten verdachten van en veroordeelden voor collaboratie opgesloten. De gevangenen kwamen van Kamp Hoeksche Waard."@nl;
     skos:altLabel "Fort Buitensluis"@nl, "Interneringskamp Buitensluis"@nl, "Interneeringskamp Buitensluis"@nl,
       "Kamp Numansdorp"@nl, "Bewarings- en verblijfskamp Fort Buitensluis"@nl, "Kamp Hoeksche Waard-Numansdorp"@nl,
-      "Kamp Hoeksche Waard - Numansdorp"@nl;
+      "Kamp Hoeksche Waard - Numansdorp"@nl, "Fort Buitensluis Numansdorp"@nl;
     <http://schema.semantic-web.at/ppt/appliedType> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
   
   <https://data.niod.nl/WO2_Thesaurus/kampen/5787> a <http://schema.org/Thing>, skos:Concept,
@@ -152088,8 +152270,8 @@ In oktober 1941 werd het kamp gesloten en de gevangenen naar Oflag VI-B geëvacu
     skos:scopeNote "Kamp Linde, in het dorp Linde ten zuiden van Zuidwolde (Drenthe) was vanaf 1941 een werkkamp waar werklozen werden ingezet om de woeste gronden voor landbouwdoeleinden geschikt te maken. Van 10 januari 1942 tot 3 oktober 1942 was het een werkkamp voor Joodse dwangarbeiders. Vanaf januari 1943 werd het kamp gebruikt voor de opvang van ‘a-sociale’ evacués uit het westen van het land."@nl;
     skos:altLabel "Evacuatiekamp Linde"@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/kampen/6003> a skos:Concept, <http://schema.org/Event>,
-      <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
+  <https://data.niod.nl/WO2_Thesaurus/kampen/6003> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
     <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "52.374747"^^xsd:float;
     <http://www.w3.org/2003/01/geo/wgs84_pos#long> "5.762833"^^xsd:float;
     dcterms:references "Joodsewerkkampen.nl [geraadpleegd 21 februari 2018]"@nl;
@@ -157265,8 +157447,8 @@ Het kamp werd op 16 april 1945 door het Amerikaanse leger bevrijd.
     skos:altLabel "Bewarings- en verblijfkamp De Beetse"@nl, "Bewarings- en Interneringskamp Sellingerbeetse"@nl,
       "Interneeringskamp Sellinger-Beetse"@nl, "Interneringskamp Sellinger-Beetse"@nl, "Werk- en Interneringskamp de Beetse"@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/kampen/7287> a skos:Concept, <http://schema.org/Event>,
-      <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
+  <https://data.niod.nl/WO2_Thesaurus/kampen/7287> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/6e4ee238-8a05-4c4e-9c4b-6f61566cdfef>;
     dcterms:modified "2025-09-17T13:28:18.737Z"^^xsd:dateTime;
     <http://schema.org/startDate> "1942-01-13"^^xsd:date;
@@ -158033,8 +158215,8 @@ Het kamp werd op 16 april 1945 door het Amerikaanse leger bevrijd.
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>, <https://data.niod.nl/WO2_Thesaurus/kampen/3650>;
     skos:scopeNote "Opvangkamp Kampong Makassar functioneerde van 23 augustus 1945 tot 28 oktober 1945. Er werden 3500 vrouwen en kinderen opgevangen, waarvan 9 omkwamen ondanks verbeterde omstandigheden. "@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/kampen/7369> a skos:Concept, <http://schema.org/Event>,
-      <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
+  <https://data.niod.nl/WO2_Thesaurus/kampen/7369> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/klijne>;
     dcterms:modified "2024-06-18T14:29:22.519Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/kampen/5998>;
@@ -158393,8 +158575,8 @@ Het kamp werd op 16 april 1945 door het Amerikaanse leger bevrijd.
     skos:exactMatch <https://digitaalerfgoed.poolparty.biz/westerbork/2281>;
     skos:scopeNote "Joods werkkamp Vledder was in gebruik van 10 januari 1942 tot 3 oktober 1942. De dwangarbeiders moesten in en rond Vledderveen spitten op de heide, geulen graven, zandpaden aanleggen, bomen zagen en later aardappelen rooien in Wapse.  "@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/kampen/7393> a skos:Concept, <http://schema.org/Event>,
-      <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
+  <https://data.niod.nl/WO2_Thesaurus/kampen/7393> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
     <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "52.861111"^^xsd:float;
     <http://www.w3.org/2003/01/geo/wgs84_pos#long> "6.198333"^^xsd:float;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
@@ -264420,8 +264602,8 @@ Hitler en zijn naasten verbleven in de bunker van 3 februari 1945 tot 2 mei 1945
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>, <https://data.niod.nl/WO2_Thesaurus/6564>;
     skos:scopeNote "De kazernes in Ede werden door de Duitse bezetter gebruikt om eenheden van de Wehrmacht, Kriegsmarine en de SS onder te brengen. Deze grote militaire aanwezigheid had veel vorderingen en inkwartieringen in Ede tot gevolg. Duitse meisjes die de opleiding volgden tot 'Helferin' werden bijvoorbeeld ingekwartierd in villa Rozenburg en aan de Stationsweg was een Wehrmachtsheim gevestigd, waar militairen de nodige ontspanning vonden."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/locations/7962> a skos:Concept, <http://schema.org/Event>,
-      <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
+  <https://data.niod.nl/WO2_Thesaurus/locations/7962> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
     <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "52.039563"^^xsd:float;
     <http://www.w3.org/2003/01/geo/wgs84_pos#long> "5.693201"^^xsd:float;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
@@ -264467,8 +264649,8 @@ Hitler en zijn naasten verbleven in de bunker van 3 februari 1945 tot 2 mei 1945
     skos:altLabel "Arthur Koolkazerne"@nl, "Van Essenkazerne"@nl, "P.L. Bergansiuskazerne"@nl;
     <http://schema.semantic-web.at/ppt/appliedType> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
   
-  <https://data.niod.nl/WO2_Thesaurus/locations/7964> a skos:Concept, <http://schema.org/Event>,
-      <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
+  <https://data.niod.nl/WO2_Thesaurus/locations/7964> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
     <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "52.029409"^^xsd:float;
     <http://www.w3.org/2003/01/geo/wgs84_pos#long> "5.674977"^^xsd:float;
     dcterms:references "Evert van de Weerd & Gerjan Crebolder, Ede in wapenrok. Twee eeuwen militaire geschiedenis in de gemeente Ede (Barneveld: BDU/Boeken, 2004)"@nl;
@@ -265799,7 +265981,8 @@ Hitler en zijn naasten verbleven in de bunker van 3 februari 1945 tot 2 mei 1945
     skos:scopeNote "De Loopgraven aan de Rijnkade te Arnhem werden na de gewonnen Slag om Arnhem door de bezetter aangelegd als verdedigingslinie."@nl;
     <http://schema.semantic-web.at/ppt/appliedType> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
   
-  <https://data.niod.nl/WO2_Thesaurus/locations/8045> a skos:Concept, <http://schema.org/Event>;
+  <https://data.niod.nl/WO2_Thesaurus/locations/8045> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     dcterms:modified "2023-05-16T09:04:46.963Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/16962>;
@@ -266227,8 +266410,8 @@ Hitler en zijn naasten verbleven in de bunker van 3 februari 1945 tot 2 mei 1945
     skos:related <https://data.niod.nl/WO2_Thesaurus/corporaties/4642>, <https://data.niod.nl/WO2_Thesaurus/corporaties/4460>;
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Event> .
   
-  <https://data.niod.nl/WO2_Thesaurus/locations/8078> a skos:Concept, <http://schema.org/Event>,
-      <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
+  <https://data.niod.nl/WO2_Thesaurus/locations/8078> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
     <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "51.897505"^^xsd:float;
     <http://www.w3.org/2003/01/geo/wgs84_pos#long> "5.604614"^^xsd:float;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/ravend>;
@@ -266350,8 +266533,8 @@ Hitler en zijn naasten verbleven in de bunker van 3 februari 1945 tot 2 mei 1945
     skos:scopeNote "De Erlecomse Polder omgeving Erlecom/Leuth werd een slachtveld voor acht soldaten van het Canadian Scottisch Regiment R.C.I.C. 3th Canadian Infantry Division, toen zij als verkenner de Erlecomse polder ingestuurd  werden, ter voorbereiding op Operatie Veritable. Bij deze verkenningsactie werden zij echter ontdekt en door de mitrailleurstellingen die zij in kaart moesten brengen werden zeven van hen doodgeschoten doodgeschoten. Sergeant MacDonald is de enige overlevende van deze beschieting en wordt zwaar gewond tot krijgsgevangene gemaakt."@nl;
     <http://schema.semantic-web.at/ppt/appliedType> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
   
-  <https://data.niod.nl/WO2_Thesaurus/locations/8090> a skos:Concept, <http://schema.org/Event>,
-      <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
+  <https://data.niod.nl/WO2_Thesaurus/locations/8090> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2025-12-17T15:13:15.896Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/10208>;
@@ -266444,8 +266627,8 @@ Hitler en zijn naasten verbleven in de bunker van 3 februari 1945 tot 2 mei 1945
     skos:scopeNote "De Horrocks-boom is te vinden in Groesbeek. Vanuit een uitkijkpost in deze boom instrueerde de Britse Luitenant-Generaal Brian Horrocks een enorme troepenmacht aan het begin van operatie Veritable."@nl;
     skos:related <https://data.niod.nl/WO2_Thesaurus/corporaties/4466>, <https://data.niod.nl/WO2_Thesaurus/corporaties/4460> .
   
-  <https://data.niod.nl/WO2_Thesaurus/locations/8099> a skos:Concept, <http://schema.org/Event>,
-      <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
+  <https://data.niod.nl/WO2_Thesaurus/locations/8099> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
     dcterms:references "Gerrie G. Driessen, Over de Noordermolen, de Korenbloem en de Jonge Hermanus (Groesbeek: Uitgeverij Heemkunde Groesbeek, 2006)"@nl;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:modified "2025-12-17T15:14:49.052Z"^^xsd:dateTime;
@@ -266570,8 +266753,8 @@ Hitler en zijn naasten verbleven in de bunker van 3 februari 1945 tot 2 mei 1945
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>, <https://data.niod.nl/WO2_Thesaurus/6564>;
     skos:scopeNote "Op 17 september 1944, na de luchtlandingen bij Groesbeek, vestigde kapitein Arie Bestebreurtje, Nederlandse liaisonofficier bij de 82nd Airborne Division, zijn hoofdkwartier in Hotel Sionshof. Daarnaast diende het hotel als perscentrum voor de internationale media. Op 19 september vertrok van hieruit de eerste gecombineerde Amerikaans-Engelse aanval op de bruggen bij Nijmegen."@nl .
   
-  <https://data.niod.nl/WO2_Thesaurus/locations/8112> a skos:Concept, <http://schema.org/Event>,
-      <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
+  <https://data.niod.nl/WO2_Thesaurus/locations/8112> a <http://schema.org/Thing>, skos:Concept,
+      <http://schema.org/Event>, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
     <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "51.935001"^^xsd:float;
     <http://www.w3.org/2003/01/geo/wgs84_pos#long> "5.696557"^^xsd:float;
     dcterms:references "F. van Hemmen, Ooievaar brengt zondvloed. De onderwaterzetting van de Betuwe, december 1944 - maart 1945. (Kesteren: Archief en Informatiecentrum voor de Betuwe - Historische Kring Kesteren en Omstreken, 1995)"@nl;
