@@ -165361,10 +165361,11 @@ Ooivaaggronden zijn daarnaast ook leemgronden, met roest en grijze vlekken begin
       "Foxing is a form of localized discoloration, mainly found on paper, appearing as scattered yellowish, reddish-brown or rust-brown spots. Its formation is associated with microorganisms, metallic impurities in the paper and humid conditions; the precise cause cannot always be determined."@en;
     dcterms:created "2016-09-30T10:05:47.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2026-10-27T09:18:18.791Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-27T12:19:00.480Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/24656072-e4a3-424b-bcde-b9ab4dbb7593>;
     skos:exactMatch <http://vocab.getty.edu/aat/300078853>;
-    skos:altLabel "roestbruine verkleuring"@nl, "roestvlekken"@nl, "fox spots"@en, "foxmarks"@en;
+    skos:altLabel "roestbruine verkleuring"@nl, "roestvlekken"@nl, "fox spots"@en, "foxmarks"@en,
+      "roestvlekjes"@nl, "roeststipjes"@nl;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/fba63d82-3ed8-4a47-b47b-7ae9e750855f>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "foxing"@en, "foxing"@nl;
@@ -167414,12 +167415,14 @@ Bijvoorbeeld een (deel van een) glasstuk dat een lacune invult. (Werkgroep Vlakg
   
   <https://data.cultureelerfgoed.nl/term/id/cht/4e70000e-5761-42a1-9339-4ea2f44ac6aa>
     a skos:Concept;
-    skos:scopeNote "een superkoppel maakt het mogelijk om van alle ingedrukte toetsen ook dezelfde toets een octaaf hoger te laten meeklinken waardoor de totale klank met een hoger octaaf wordt versterkt. (Rijksdienst voor het Cultureel Erfgoed)"@nl;
+    skos:scopeNote "Een superkoppel is een koppel bij orgels en harmoniums waarmee bij een aangeslagen toets de overeenkomstige toon een octaaf hoger meeklinkt (Rijksdienst voor het Cultureel Erfgoed)"@nl;
     dcterms:created "2016-10-24T09:39:52.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
+    dcterms:modified "2026-10-27T14:23:42.976Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/bece25a6-eb64-46e8-85a8-2a7991f02a2c>;
     skos:altLabel "superkoppel"@nl;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/b391ff3f-fe77-436c-89bb-21f7944fd426>;
+    dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "superkoppels"@nl;
     skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
     <https://data.cultureelerfgoed.nl/id/rnce#hasConceptStatus> <https://data.cultureelerfgoed.nl/term/id/cht/aad68581-3960-4faf-9758-8ff6d65810d3>;
