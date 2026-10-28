@@ -54050,7 +54050,7 @@ https://nl.wikipedia.org/w/index.php?title=Edith_Stein_College&oldid=67460586
     <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "52.29739347127076"^^xsd:float;
     <http://www.w3.org/2003/01/geo/wgs84_pos#long> "5.164389373630873"^^xsd:float;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
-    dcterms:modified "2025-05-14T14:29:10.961Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-28T07:57:33.895Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/imageURL> "https://upload.wikimedia.org/wikipedia/commons/3/37/Voorgevel_-_Naarden_-_20162462_-_RCE.jpg";
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/sourceImage> "https://commons.wikimedia.org/w/index.php?title=File:Voorgevel_-_Naarden_-_20162462_-_RCE.jpg&oldid=963665258";
     dcterms:source "https://www.stelling-amsterdam.nl/stelling/extra/kampen/index.php"@nl,
@@ -54066,7 +54066,8 @@ https://nl.wikipedia.org/w/index.php?title=Edith_Stein_College&oldid=67460586
     skos:scopeNote "Kamp Proromo in Naarden was van 1945 tot 1948 een interneringskamp (bijzondere rechtspleging). Hier zaten verdachten van en veroordeelden voor collaboratie opgesloten. Het kamp bevond zich in vier kazernes van de Vesting Naarden, onder andere de Weeshuiskazerne en de kazerne Oude-Molen."@nl;
     skos:altLabel "Bewaringskamp Proromo"@nl, "Fort Promono"@nl, "Interneringskamp Proromo"@nl,
       "Interneeringskamp Proromo"@nl, "Promono te Naarden"@nl, "Kamp Naarden"@nl, "Weeshuiskazerne"@nl,
-      "Kazerne Oude-Molen"@nl, "Bastion Oude-Molen"@nl, "Kazerne Oude Molen"@nl, "Bastion Oude Molen"@nl .
+      "Kazerne Oude-Molen"@nl, "Bastion Oude-Molen"@nl, "Kazerne Oude Molen"@nl, "Bastion Oude Molen"@nl,
+      "Kamp Oude Molen"@nl, "Kamp De Oude Molen"@nl, "Kamp Oude-Molen"@nl .
   
   <https://data.niod.nl/WO2_Thesaurus/21657> a <http://schema.org/Thing>, skos:Concept,
       <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
@@ -54468,8 +54469,8 @@ https://nl.wikipedia.org/w/index.php?title=Edith_Stein_College&oldid=67460586
       <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
     <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "52.644396869705744"^^xsd:float;
     <http://www.w3.org/2003/01/geo/wgs84_pos#long> "5.062904013762232"^^xsd:float;
-    dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    dcterms:modified "2025-08-29T07:23:17.708Z"^^xsd:dateTime;
+    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
+    dcterms:modified "2026-10-28T08:53:02.296Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/imageURL> "https://upload.wikimedia.org/wikipedia/commons/c/cf/Mariaschool%2C_Eikstraat%2C_Hoorn_01.jpg";
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/sourceImage> "https://commons.wikimedia.org/w/index.php?title=File:Mariaschool,_Eikstraat,_Hoorn_01.jpg&oldid=935128417";
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogDichtbijConcept> true;
@@ -54480,8 +54481,9 @@ https://nl.wikipedia.org/w/index.php?title=Edith_Stein_College&oldid=67460586
     skos:prefLabel "Mariaschool Hoorn"@nl;
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>, <https://data.niod.nl/WO2_Thesaurus/kampen/3650>;
     skos:scopeNote "De Mariaschool in Hoorn was van mei 1945 tot oktober 1945 een interneringskamp (bijzondere rechtspleging). Hier zaten verdachten van en veroordeelden voor collaboratie opgesloten."@nl;
-    skos:altLabel "Mariaschool-Hoorn"@nl, "Maria-school Hoorn"@nl, "Mariaschool in Hoorn"@nl,
-      "Mariaschool te Hoorn"@nl .
+    skos:altLabel "Kamp Mariaschool"@nl, "Mariaschool-Hoorn"@nl, "Maria-school Hoorn"@nl,
+      "Mariaschool in Hoorn"@nl, "Mariaschool te Hoorn"@nl, "Interneerings- en Bewakingskamp Mariaschool"@nl,
+      "Bewakingskamp Mariaschool"@nl, "Interneringskamp Mariaschool"@nl .
   
   <https://data.niod.nl/WO2_Thesaurus/2168> a <http://schema.org/Thing>, skos:Concept;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
@@ -71186,7 +71188,7 @@ De erevelden zijn ingericht door of onder toezicht van een staat, ter nagedachte
   <https://data.niod.nl/WO2_Thesaurus/4999> a <http://schema.org/Thing>, skos:Concept;
     dcterms:references "NIOD"@nl;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
-    dcterms:modified "2026-10-22T13:01:20.896Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-28T08:36:24.747Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/imageURL> "https://images.memorix.nl/niod/thumb/250x250/47fd09d4-eca0-eb1e-dda4-50143c1b39ae.jpg";
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/sourceImage> "http://www.beeldbankwo2.nl/detail_no.jsp?action=detail&imid=184404";
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogDichtbijConcept> true;
@@ -71263,103 +71265,103 @@ De erevelden zijn ingericht door of onder toezicht van een staat, ter nagedachte
       <https://data.niod.nl/WO2_Thesaurus/kampen/3675>, <https://data.niod.nl/WO2_Thesaurus/kampen/5646>,
       <https://data.niod.nl/WO2_Thesaurus/kampen/5265>, <https://data.niod.nl/WO2_Thesaurus/kampen/3705>,
       <https://data.niod.nl/WO2_Thesaurus/kampen/3663>, <https://data.niod.nl/WO2_Thesaurus/kampen/5697>,
-      <https://data.niod.nl/WO2_Thesaurus/kampen/3680>, <https://data.niod.nl/WO2_Thesaurus/kampen/3652>,
-      <https://data.niod.nl/WO2_Thesaurus/kampen/5692>, <https://data.niod.nl/WO2_Thesaurus/8769>,
-      <https://data.niod.nl/WO2_Thesaurus/kampen/4869>, <https://data.niod.nl/WO2_Thesaurus/kampen/5261>,
-      <https://data.niod.nl/WO2_Thesaurus/kampen/4884>, <https://data.niod.nl/WO2_Thesaurus/kampen/5666>,
-      <https://data.niod.nl/WO2_Thesaurus/kampen/5755>, <https://data.niod.nl/WO2_Thesaurus/kampen/6000>,
-      <https://data.niod.nl/WO2_Thesaurus/locations/7985>, <https://data.niod.nl/WO2_Thesaurus/kampen/7312>,
-      <https://data.niod.nl/WO2_Thesaurus/corporaties/6052>, <https://data.niod.nl/WO2_Thesaurus/kampen/7305>,
-      <https://data.niod.nl/WO2_Thesaurus/kampen/7279>, <https://data.niod.nl/WO2_Thesaurus/kampen/7289>,
-      <https://data.niod.nl/WO2_Thesaurus/corporaties/4627>, <https://data.niod.nl/WO2_Thesaurus/9052>,
-      <https://data.niod.nl/WO2_Thesaurus/kampen/5678>, <https://data.niod.nl/WO2_Thesaurus/kampen/5736>,
-      <https://data.niod.nl/WO2_Thesaurus/kampen/5656>, <https://data.niod.nl/WO2_Thesaurus/kampen/7329>,
-      <https://data.niod.nl/WO2_Thesaurus/8567>, <https://data.niod.nl/WO2_Thesaurus/8565>,
-      <https://data.niod.nl/WO2_Thesaurus/kampen/5673>, <https://data.niod.nl/WO2_Thesaurus/kampen/5395>,
-      <https://data.niod.nl/WO2_Thesaurus/kampen/5687>, <https://data.niod.nl/WO2_Thesaurus/kampen/6152>,
-      <https://data.niod.nl/WO2_Thesaurus/kampen/5643>, <https://data.niod.nl/WO2_Thesaurus/8566>,
-      <https://data.niod.nl/WO2_Thesaurus/kampen/7307>, <https://data.niod.nl/WO2_Thesaurus/kampen/7339>,
-      <https://data.niod.nl/WO2_Thesaurus/kampen/7358>, <https://data.niod.nl/WO2_Thesaurus/kampen/7405>,
-      <https://data.niod.nl/WO2_Thesaurus/kampen/7201>, <https://data.niod.nl/WO2_Thesaurus/kampen/7377>,
-      <https://data.niod.nl/WO2_Thesaurus/9569>, <https://data.niod.nl/WO2_Thesaurus/kampen/5688>,
-      <https://data.niod.nl/WO2_Thesaurus/kampen/7398>, <https://data.niod.nl/WO2_Thesaurus/kampen/7592>,
-      <https://data.niod.nl/WO2_Thesaurus/kampen/7410>, <https://data.niod.nl/WO2_Thesaurus/kampen/7275>,
-      <https://data.niod.nl/WO2_Thesaurus/kampen/7262>, <https://data.niod.nl/WO2_Thesaurus/kampen/7281>,
-      <https://data.niod.nl/WO2_Thesaurus/kampen/7343>, <https://data.niod.nl/WO2_Thesaurus/kampen/7404>,
-      <https://data.niod.nl/WO2_Thesaurus/kampen/5648>, <https://data.niod.nl/WO2_Thesaurus/kampen/7359>,
-      <https://data.niod.nl/WO2_Thesaurus/kampen/7382>, <https://data.niod.nl/WO2_Thesaurus/kampen/7330>,
-      <https://data.niod.nl/WO2_Thesaurus/kampen/7403>, <https://data.niod.nl/WO2_Thesaurus/kampen/7270>,
-      <https://data.niod.nl/WO2_Thesaurus/kampen/7407>, <https://data.niod.nl/WO2_Thesaurus/kampen/7387>,
-      <https://data.niod.nl/WO2_Thesaurus/kampen/7375>, <https://data.niod.nl/WO2_Thesaurus/kampen/7328>,
-      <https://data.niod.nl/WO2_Thesaurus/kampen/7395>, <https://data.niod.nl/WO2_Thesaurus/kampen/7300>,
-      <https://data.niod.nl/WO2_Thesaurus/kampen/7286>, <https://data.niod.nl/WO2_Thesaurus/events/17510>,
-      <https://data.niod.nl/WO2_Thesaurus/locations/17631>, <https://data.niod.nl/WO2_Thesaurus/19657>,
-      <https://data.niod.nl/WO2_Thesaurus/locations/20156>, <https://data.niod.nl/WO2_Thesaurus/20586>,
-      <https://data.niod.nl/WO2_Thesaurus/21373>, <https://data.niod.nl/WO2_Thesaurus/21512>,
-      <https://data.niod.nl/WO2_Thesaurus/21574>, <https://data.niod.nl/WO2_Thesaurus/21575>,
-      <https://data.niod.nl/WO2_Thesaurus/21576>, <https://data.niod.nl/WO2_Thesaurus/21577>,
-      <https://data.niod.nl/WO2_Thesaurus/21578>, <https://data.niod.nl/WO2_Thesaurus/21579>,
-      <https://data.niod.nl/WO2_Thesaurus/21580>, <https://data.niod.nl/WO2_Thesaurus/21581>,
-      <https://data.niod.nl/WO2_Thesaurus/21582>, <https://data.niod.nl/WO2_Thesaurus/21583>,
-      <https://data.niod.nl/WO2_Thesaurus/21584>, <https://data.niod.nl/WO2_Thesaurus/21585>,
-      <https://data.niod.nl/WO2_Thesaurus/21586>, <https://data.niod.nl/WO2_Thesaurus/21587>,
-      <https://data.niod.nl/WO2_Thesaurus/21588>, <https://data.niod.nl/WO2_Thesaurus/21589>,
-      <https://data.niod.nl/WO2_Thesaurus/21590>, <https://data.niod.nl/WO2_Thesaurus/21591>,
-      <https://data.niod.nl/WO2_Thesaurus/21592>, <https://data.niod.nl/WO2_Thesaurus/21593>,
-      <https://data.niod.nl/WO2_Thesaurus/21594>, <https://data.niod.nl/WO2_Thesaurus/21595>,
-      <https://data.niod.nl/WO2_Thesaurus/21596>, <https://data.niod.nl/WO2_Thesaurus/21597>,
-      <https://data.niod.nl/WO2_Thesaurus/21598>, <https://data.niod.nl/WO2_Thesaurus/21599>,
-      <https://data.niod.nl/WO2_Thesaurus/21600>, <https://data.niod.nl/WO2_Thesaurus/21601>,
-      <https://data.niod.nl/WO2_Thesaurus/21602>, <https://data.niod.nl/WO2_Thesaurus/21603>,
-      <https://data.niod.nl/WO2_Thesaurus/21604>, <https://data.niod.nl/WO2_Thesaurus/21605>,
-      <https://data.niod.nl/WO2_Thesaurus/21606>, <https://data.niod.nl/WO2_Thesaurus/21607>,
-      <https://data.niod.nl/WO2_Thesaurus/21608>, <https://data.niod.nl/WO2_Thesaurus/21609>,
-      <https://data.niod.nl/WO2_Thesaurus/21610>, <https://data.niod.nl/WO2_Thesaurus/21611>,
-      <https://data.niod.nl/WO2_Thesaurus/21612>, <https://data.niod.nl/WO2_Thesaurus/21613>,
-      <https://data.niod.nl/WO2_Thesaurus/21614>, <https://data.niod.nl/WO2_Thesaurus/21615>,
-      <https://data.niod.nl/WO2_Thesaurus/21616>, <https://data.niod.nl/WO2_Thesaurus/21617>,
-      <https://data.niod.nl/WO2_Thesaurus/21618>, <https://data.niod.nl/WO2_Thesaurus/21619>,
-      <https://data.niod.nl/WO2_Thesaurus/21620>, <https://data.niod.nl/WO2_Thesaurus/21621>,
-      <https://data.niod.nl/WO2_Thesaurus/21622>, <https://data.niod.nl/WO2_Thesaurus/21623>,
-      <https://data.niod.nl/WO2_Thesaurus/21624>, <https://data.niod.nl/WO2_Thesaurus/21627>,
-      <https://data.niod.nl/WO2_Thesaurus/21628>, <https://data.niod.nl/WO2_Thesaurus/21629>,
-      <https://data.niod.nl/WO2_Thesaurus/21630>, <https://data.niod.nl/WO2_Thesaurus/21631>,
-      <https://data.niod.nl/WO2_Thesaurus/locations/21632>, <https://data.niod.nl/WO2_Thesaurus/locations/21633>,
-      <https://data.niod.nl/WO2_Thesaurus/locations/21634>, <https://data.niod.nl/WO2_Thesaurus/21635>,
-      <https://data.niod.nl/WO2_Thesaurus/21636>, <https://data.niod.nl/WO2_Thesaurus/21637>,
-      <https://data.niod.nl/WO2_Thesaurus/21638>, <https://data.niod.nl/WO2_Thesaurus/21639>,
-      <https://data.niod.nl/WO2_Thesaurus/21640>, <https://data.niod.nl/WO2_Thesaurus/21642>,
-      <https://data.niod.nl/WO2_Thesaurus/21643>, <https://data.niod.nl/WO2_Thesaurus/21644>,
-      <https://data.niod.nl/WO2_Thesaurus/21646>, <https://data.niod.nl/WO2_Thesaurus/21648>,
-      <https://data.niod.nl/WO2_Thesaurus/21649>, <https://data.niod.nl/WO2_Thesaurus/21650>,
-      <https://data.niod.nl/WO2_Thesaurus/21651>, <https://data.niod.nl/WO2_Thesaurus/21652>,
-      <https://data.niod.nl/WO2_Thesaurus/21653>, <https://data.niod.nl/WO2_Thesaurus/21655>,
-      <https://data.niod.nl/WO2_Thesaurus/21656>, <https://data.niod.nl/WO2_Thesaurus/21657>,
-      <https://data.niod.nl/WO2_Thesaurus/21658>, <https://data.niod.nl/WO2_Thesaurus/21659>,
-      <https://data.niod.nl/WO2_Thesaurus/21660>, <https://data.niod.nl/WO2_Thesaurus/21661>,
-      <https://data.niod.nl/WO2_Thesaurus/21665>, <https://data.niod.nl/WO2_Thesaurus/21666>,
-      <https://data.niod.nl/WO2_Thesaurus/21667>, <https://data.niod.nl/WO2_Thesaurus/21669>,
-      <https://data.niod.nl/WO2_Thesaurus/21670>, <https://data.niod.nl/WO2_Thesaurus/21671>,
-      <https://data.niod.nl/WO2_Thesaurus/21672>, <https://data.niod.nl/WO2_Thesaurus/21673>,
-      <https://data.niod.nl/WO2_Thesaurus/21674>, <https://data.niod.nl/WO2_Thesaurus/21675>,
-      <https://data.niod.nl/WO2_Thesaurus/21676>, <https://data.niod.nl/WO2_Thesaurus/21677>,
-      <https://data.niod.nl/WO2_Thesaurus/21678>, <https://data.niod.nl/WO2_Thesaurus/21680>,
-      <https://data.niod.nl/WO2_Thesaurus/21681>, <https://data.niod.nl/WO2_Thesaurus/21682>,
-      <https://data.niod.nl/WO2_Thesaurus/21683>, <https://data.niod.nl/WO2_Thesaurus/21725>,
-      <https://data.niod.nl/WO2_Thesaurus/21727>, <https://data.niod.nl/WO2_Thesaurus/21728>,
-      <https://data.niod.nl/WO2_Thesaurus/21729>, <https://data.niod.nl/WO2_Thesaurus/21730>,
-      <https://data.niod.nl/WO2_Thesaurus/21731>, <https://data.niod.nl/WO2_Thesaurus/21732>,
-      <https://data.niod.nl/WO2_Thesaurus/21771>, <https://data.niod.nl/WO2_Thesaurus/locations/21773>,
-      <https://data.niod.nl/WO2_Thesaurus/21798>, <https://data.niod.nl/WO2_Thesaurus/21799>,
-      <https://data.niod.nl/WO2_Thesaurus/21800>, <https://data.niod.nl/WO2_Thesaurus/21802>,
-      <https://data.niod.nl/WO2_Thesaurus/21805>, <https://data.niod.nl/WO2_Thesaurus/21806>,
-      <https://data.niod.nl/WO2_Thesaurus/21807>, <https://data.niod.nl/WO2_Thesaurus/21808>,
-      <https://data.niod.nl/WO2_Thesaurus/21809>, <https://data.niod.nl/WO2_Thesaurus/21899>,
-      <https://data.niod.nl/WO2_Thesaurus/21900>, <https://data.niod.nl/WO2_Thesaurus/21901>,
-      <https://data.niod.nl/WO2_Thesaurus/21903>, <https://data.niod.nl/WO2_Thesaurus/22033>,
-      <https://data.niod.nl/WO2_Thesaurus/22078>, <https://data.niod.nl/WO2_Thesaurus/22092>,
-      <https://data.niod.nl/WO2_Thesaurus/22094>, <https://data.niod.nl/WO2_Thesaurus/22095>,
-      <https://data.niod.nl/WO2_Thesaurus/22096>;
+      <https://data.niod.nl/WO2_Thesaurus/kampen/3680>, <https://data.niod.nl/WO2_Thesaurus/corporaties/8041>,
+      <https://data.niod.nl/WO2_Thesaurus/kampen/3652>, <https://data.niod.nl/WO2_Thesaurus/kampen/5692>,
+      <https://data.niod.nl/WO2_Thesaurus/8769>, <https://data.niod.nl/WO2_Thesaurus/kampen/4869>,
+      <https://data.niod.nl/WO2_Thesaurus/kampen/5261>, <https://data.niod.nl/WO2_Thesaurus/kampen/4884>,
+      <https://data.niod.nl/WO2_Thesaurus/kampen/5666>, <https://data.niod.nl/WO2_Thesaurus/kampen/5755>,
+      <https://data.niod.nl/WO2_Thesaurus/kampen/6000>, <https://data.niod.nl/WO2_Thesaurus/locations/7985>,
+      <https://data.niod.nl/WO2_Thesaurus/kampen/7312>, <https://data.niod.nl/WO2_Thesaurus/corporaties/6052>,
+      <https://data.niod.nl/WO2_Thesaurus/kampen/7305>, <https://data.niod.nl/WO2_Thesaurus/kampen/7279>,
+      <https://data.niod.nl/WO2_Thesaurus/kampen/7289>, <https://data.niod.nl/WO2_Thesaurus/corporaties/4627>,
+      <https://data.niod.nl/WO2_Thesaurus/9052>, <https://data.niod.nl/WO2_Thesaurus/kampen/5678>,
+      <https://data.niod.nl/WO2_Thesaurus/kampen/5736>, <https://data.niod.nl/WO2_Thesaurus/kampen/5656>,
+      <https://data.niod.nl/WO2_Thesaurus/kampen/7329>, <https://data.niod.nl/WO2_Thesaurus/8567>,
+      <https://data.niod.nl/WO2_Thesaurus/8565>, <https://data.niod.nl/WO2_Thesaurus/kampen/5673>,
+      <https://data.niod.nl/WO2_Thesaurus/kampen/5395>, <https://data.niod.nl/WO2_Thesaurus/kampen/5687>,
+      <https://data.niod.nl/WO2_Thesaurus/kampen/6152>, <https://data.niod.nl/WO2_Thesaurus/kampen/5643>,
+      <https://data.niod.nl/WO2_Thesaurus/8566>, <https://data.niod.nl/WO2_Thesaurus/kampen/7307>,
+      <https://data.niod.nl/WO2_Thesaurus/kampen/7339>, <https://data.niod.nl/WO2_Thesaurus/kampen/7358>,
+      <https://data.niod.nl/WO2_Thesaurus/kampen/7405>, <https://data.niod.nl/WO2_Thesaurus/kampen/7201>,
+      <https://data.niod.nl/WO2_Thesaurus/kampen/7377>, <https://data.niod.nl/WO2_Thesaurus/9569>,
+      <https://data.niod.nl/WO2_Thesaurus/kampen/5688>, <https://data.niod.nl/WO2_Thesaurus/kampen/7398>,
+      <https://data.niod.nl/WO2_Thesaurus/kampen/7592>, <https://data.niod.nl/WO2_Thesaurus/kampen/7410>,
+      <https://data.niod.nl/WO2_Thesaurus/kampen/7275>, <https://data.niod.nl/WO2_Thesaurus/kampen/7262>,
+      <https://data.niod.nl/WO2_Thesaurus/kampen/7281>, <https://data.niod.nl/WO2_Thesaurus/kampen/7343>,
+      <https://data.niod.nl/WO2_Thesaurus/kampen/7404>, <https://data.niod.nl/WO2_Thesaurus/kampen/5648>,
+      <https://data.niod.nl/WO2_Thesaurus/kampen/7359>, <https://data.niod.nl/WO2_Thesaurus/kampen/7382>,
+      <https://data.niod.nl/WO2_Thesaurus/kampen/7330>, <https://data.niod.nl/WO2_Thesaurus/kampen/7403>,
+      <https://data.niod.nl/WO2_Thesaurus/kampen/7270>, <https://data.niod.nl/WO2_Thesaurus/kampen/7407>,
+      <https://data.niod.nl/WO2_Thesaurus/kampen/7387>, <https://data.niod.nl/WO2_Thesaurus/kampen/7375>,
+      <https://data.niod.nl/WO2_Thesaurus/kampen/7328>, <https://data.niod.nl/WO2_Thesaurus/kampen/7395>,
+      <https://data.niod.nl/WO2_Thesaurus/kampen/7300>, <https://data.niod.nl/WO2_Thesaurus/kampen/7286>,
+      <https://data.niod.nl/WO2_Thesaurus/events/17510>, <https://data.niod.nl/WO2_Thesaurus/locations/17631>,
+      <https://data.niod.nl/WO2_Thesaurus/19657>, <https://data.niod.nl/WO2_Thesaurus/locations/20156>,
+      <https://data.niod.nl/WO2_Thesaurus/20586>, <https://data.niod.nl/WO2_Thesaurus/21373>,
+      <https://data.niod.nl/WO2_Thesaurus/21512>, <https://data.niod.nl/WO2_Thesaurus/21574>,
+      <https://data.niod.nl/WO2_Thesaurus/21575>, <https://data.niod.nl/WO2_Thesaurus/21576>,
+      <https://data.niod.nl/WO2_Thesaurus/21577>, <https://data.niod.nl/WO2_Thesaurus/21578>,
+      <https://data.niod.nl/WO2_Thesaurus/21579>, <https://data.niod.nl/WO2_Thesaurus/21580>,
+      <https://data.niod.nl/WO2_Thesaurus/21581>, <https://data.niod.nl/WO2_Thesaurus/21582>,
+      <https://data.niod.nl/WO2_Thesaurus/21583>, <https://data.niod.nl/WO2_Thesaurus/21584>,
+      <https://data.niod.nl/WO2_Thesaurus/21585>, <https://data.niod.nl/WO2_Thesaurus/21586>,
+      <https://data.niod.nl/WO2_Thesaurus/21587>, <https://data.niod.nl/WO2_Thesaurus/21588>,
+      <https://data.niod.nl/WO2_Thesaurus/21589>, <https://data.niod.nl/WO2_Thesaurus/21590>,
+      <https://data.niod.nl/WO2_Thesaurus/21591>, <https://data.niod.nl/WO2_Thesaurus/21592>,
+      <https://data.niod.nl/WO2_Thesaurus/21593>, <https://data.niod.nl/WO2_Thesaurus/21594>,
+      <https://data.niod.nl/WO2_Thesaurus/21595>, <https://data.niod.nl/WO2_Thesaurus/21596>,
+      <https://data.niod.nl/WO2_Thesaurus/21597>, <https://data.niod.nl/WO2_Thesaurus/21598>,
+      <https://data.niod.nl/WO2_Thesaurus/21599>, <https://data.niod.nl/WO2_Thesaurus/21600>,
+      <https://data.niod.nl/WO2_Thesaurus/21601>, <https://data.niod.nl/WO2_Thesaurus/21602>,
+      <https://data.niod.nl/WO2_Thesaurus/21603>, <https://data.niod.nl/WO2_Thesaurus/21604>,
+      <https://data.niod.nl/WO2_Thesaurus/21605>, <https://data.niod.nl/WO2_Thesaurus/21606>,
+      <https://data.niod.nl/WO2_Thesaurus/21607>, <https://data.niod.nl/WO2_Thesaurus/21608>,
+      <https://data.niod.nl/WO2_Thesaurus/21609>, <https://data.niod.nl/WO2_Thesaurus/21610>,
+      <https://data.niod.nl/WO2_Thesaurus/21611>, <https://data.niod.nl/WO2_Thesaurus/21612>,
+      <https://data.niod.nl/WO2_Thesaurus/21613>, <https://data.niod.nl/WO2_Thesaurus/21614>,
+      <https://data.niod.nl/WO2_Thesaurus/21615>, <https://data.niod.nl/WO2_Thesaurus/21616>,
+      <https://data.niod.nl/WO2_Thesaurus/21617>, <https://data.niod.nl/WO2_Thesaurus/21618>,
+      <https://data.niod.nl/WO2_Thesaurus/21619>, <https://data.niod.nl/WO2_Thesaurus/21620>,
+      <https://data.niod.nl/WO2_Thesaurus/21621>, <https://data.niod.nl/WO2_Thesaurus/21622>,
+      <https://data.niod.nl/WO2_Thesaurus/21623>, <https://data.niod.nl/WO2_Thesaurus/21624>,
+      <https://data.niod.nl/WO2_Thesaurus/21627>, <https://data.niod.nl/WO2_Thesaurus/21628>,
+      <https://data.niod.nl/WO2_Thesaurus/21629>, <https://data.niod.nl/WO2_Thesaurus/21630>,
+      <https://data.niod.nl/WO2_Thesaurus/21631>, <https://data.niod.nl/WO2_Thesaurus/locations/21632>,
+      <https://data.niod.nl/WO2_Thesaurus/locations/21633>, <https://data.niod.nl/WO2_Thesaurus/locations/21634>,
+      <https://data.niod.nl/WO2_Thesaurus/21635>, <https://data.niod.nl/WO2_Thesaurus/21636>,
+      <https://data.niod.nl/WO2_Thesaurus/21637>, <https://data.niod.nl/WO2_Thesaurus/21638>,
+      <https://data.niod.nl/WO2_Thesaurus/21639>, <https://data.niod.nl/WO2_Thesaurus/21640>,
+      <https://data.niod.nl/WO2_Thesaurus/21642>, <https://data.niod.nl/WO2_Thesaurus/21643>,
+      <https://data.niod.nl/WO2_Thesaurus/21644>, <https://data.niod.nl/WO2_Thesaurus/21646>,
+      <https://data.niod.nl/WO2_Thesaurus/21648>, <https://data.niod.nl/WO2_Thesaurus/21649>,
+      <https://data.niod.nl/WO2_Thesaurus/21650>, <https://data.niod.nl/WO2_Thesaurus/21651>,
+      <https://data.niod.nl/WO2_Thesaurus/21652>, <https://data.niod.nl/WO2_Thesaurus/21653>,
+      <https://data.niod.nl/WO2_Thesaurus/21655>, <https://data.niod.nl/WO2_Thesaurus/21656>,
+      <https://data.niod.nl/WO2_Thesaurus/21657>, <https://data.niod.nl/WO2_Thesaurus/21658>,
+      <https://data.niod.nl/WO2_Thesaurus/21659>, <https://data.niod.nl/WO2_Thesaurus/21660>,
+      <https://data.niod.nl/WO2_Thesaurus/21661>, <https://data.niod.nl/WO2_Thesaurus/21665>,
+      <https://data.niod.nl/WO2_Thesaurus/21666>, <https://data.niod.nl/WO2_Thesaurus/21667>,
+      <https://data.niod.nl/WO2_Thesaurus/21669>, <https://data.niod.nl/WO2_Thesaurus/21670>,
+      <https://data.niod.nl/WO2_Thesaurus/21671>, <https://data.niod.nl/WO2_Thesaurus/21672>,
+      <https://data.niod.nl/WO2_Thesaurus/21673>, <https://data.niod.nl/WO2_Thesaurus/21674>,
+      <https://data.niod.nl/WO2_Thesaurus/21675>, <https://data.niod.nl/WO2_Thesaurus/21676>,
+      <https://data.niod.nl/WO2_Thesaurus/21677>, <https://data.niod.nl/WO2_Thesaurus/21678>,
+      <https://data.niod.nl/WO2_Thesaurus/21680>, <https://data.niod.nl/WO2_Thesaurus/21681>,
+      <https://data.niod.nl/WO2_Thesaurus/21682>, <https://data.niod.nl/WO2_Thesaurus/21683>,
+      <https://data.niod.nl/WO2_Thesaurus/21725>, <https://data.niod.nl/WO2_Thesaurus/21727>,
+      <https://data.niod.nl/WO2_Thesaurus/21728>, <https://data.niod.nl/WO2_Thesaurus/21729>,
+      <https://data.niod.nl/WO2_Thesaurus/21730>, <https://data.niod.nl/WO2_Thesaurus/21731>,
+      <https://data.niod.nl/WO2_Thesaurus/21732>, <https://data.niod.nl/WO2_Thesaurus/21771>,
+      <https://data.niod.nl/WO2_Thesaurus/locations/21773>, <https://data.niod.nl/WO2_Thesaurus/21798>,
+      <https://data.niod.nl/WO2_Thesaurus/21799>, <https://data.niod.nl/WO2_Thesaurus/21800>,
+      <https://data.niod.nl/WO2_Thesaurus/21802>, <https://data.niod.nl/WO2_Thesaurus/21805>,
+      <https://data.niod.nl/WO2_Thesaurus/21806>, <https://data.niod.nl/WO2_Thesaurus/21807>,
+      <https://data.niod.nl/WO2_Thesaurus/21808>, <https://data.niod.nl/WO2_Thesaurus/21809>,
+      <https://data.niod.nl/WO2_Thesaurus/21899>, <https://data.niod.nl/WO2_Thesaurus/21900>,
+      <https://data.niod.nl/WO2_Thesaurus/21901>, <https://data.niod.nl/WO2_Thesaurus/21903>,
+      <https://data.niod.nl/WO2_Thesaurus/22033>, <https://data.niod.nl/WO2_Thesaurus/22078>,
+      <https://data.niod.nl/WO2_Thesaurus/22092>, <https://data.niod.nl/WO2_Thesaurus/22094>,
+      <https://data.niod.nl/WO2_Thesaurus/22095>, <https://data.niod.nl/WO2_Thesaurus/22096>;
     skos:broader <https://data.niod.nl/WO2_Thesaurus/8217>;
     dcterms:created "2016-11-17T09:22:09.000Z"^^xsd:dateTime;
     skos:prefLabel "Interneringskampen (bijzondere rechtspleging)"@nl;
@@ -99308,21 +99310,23 @@ rubberartikelen werden tot distributiegoederen verklaard. De directeuren van de 
     <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "51.985336"^^xsd:float;
     <http://www.w3.org/2003/01/geo/wgs84_pos#long> "5.878638"^^xsd:float;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
-    dcterms:modified "2026-05-19T09:35:19.919Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-28T08:36:24.744Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/imageURL> "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Bovenaanzicht_vanaf_zendmast_-_Arnhem_-_20365905_-_RCE.jpg/500px-Bovenaanzicht_vanaf_zendmast_-_Arnhem_-_20365905_-_RCE.jpg";
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/sourceImage> "https://commons.wikimedia.org/wiki/File:Bovenaanzicht_vanaf_zendmast_-_Arnhem_-_20365905_-_RCE.jpg";
     dcterms:source "http://mijngelderlandmedia.azureedge.net/2102/10-koepelgevangenis_nl.pdf"@nl;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogVoordeRechterConcept> true;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/isPointofInterest> true;
     dcterms:creator <https://digitaalerfgoed.poolparty.biz/user/gentrobrechtvan>;
-    skos:broader <https://data.niod.nl/WO2_Thesaurus/1686>, <https://data.niod.nl/WO2_Thesaurus/locations/9601>;
+    skos:broader <https://data.niod.nl/WO2_Thesaurus/1686>, <https://data.niod.nl/WO2_Thesaurus/4999>,
+      <https://data.niod.nl/WO2_Thesaurus/locations/9601>;
     dcterms:created "2019-03-12T08:33:33.000Z"^^xsd:dateTime;
     skos:prefLabel "Koepelgevangenis Arnhem"@nl;
-    skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>;
+    skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>, <https://data.niod.nl/WO2_Thesaurus/kampen/3650>;
     skos:scopeNote "De Koepelgevangenis Arnhem, ook het Hulp Huis van Bewaring Arnhem of na 1945 het Huis van Bewaring II Arnhem genoemd, diende tijdens de Duitse bezetting als doorgangsplaats voor gevangenen die per trein uit Duitsland werden aangevoerd. Meestal werden zij direct doorgezonden naar andere gevangenissen, zoals Scheveningen, of naar de Rijkswerksinrichting in Veenhuizen. De plek geniet echter vooral bekendheid om de bevrijding van verzetsstrijders uit de gevangenis, waaronder medeoprichter van de LO Frits Slomp."@nl;
     skos:altLabel "Koepelgevangenis te Arnhem"@nl, "Hulp Huis van Bewaring Arnhem"@nl,
       "Hulphuis van Bewaring Arnhem"@nl, "Gevangenis Wilhelminstraat"@nl, "Huis van Bewaring II Arnhem"@nl,
-      "De Koepel Arnhem"@nl, "Strafgevangenis te Arnhem"@nl, "Strafgevangenis Arnhem"@nl;
+      "De Koepel Arnhem"@nl, "Strafgevangenis te Arnhem"@nl, "Strafgevangenis Arnhem"@nl,
+      "Strafgevangenis van Arnhem"@nl, "Strafgevangenis in Arnhem"@nl;
     <http://schema.semantic-web.at/ppt/propagateType> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
   
   <https://data.niod.nl/WO2_Thesaurus/corporaties/8065> a <http://schema.org/Thing>,
@@ -115011,9 +115015,11 @@ afwachting van hun voettocht naar Duitsland, Leusden 9-23 mei 1945, Leusden, 201
       <http://schema.org/Event>, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
     <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "51.978497"^^xsd:float;
     <http://www.w3.org/2003/01/geo/wgs84_pos#long> "5.911497"^^xsd:float;
-    dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
-    dcterms:modified "2021-06-28T18:14:26.294Z"^^xsd:dateTime;
+    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
+    dcterms:modified "2026-10-28T08:31:23.791Z"^^xsd:dateTime, "2026-10-28T08:31:23.854Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/8566>;
+    <https://data.niod.nl/thesaurus_wo2/ImagesWW2/imageURL> "https://images.memorix.nl/niod/thumb/1000x1000/eea53593-b5ac-b396-df0e-ef60094755e0.jpg";
+    <https://data.niod.nl/thesaurus_wo2/ImagesWW2/sourceImage> "https://beeldbankwo2.nl/nl/beelden/detail/4435c80a-025a-11e7-904b-d89d6717b464/media/eea53593-b5ac-b396-df0e-ef60094755e0";
     <http://schema.org/startDate> "1944-06-11"^^xsd:date;
     dcterms:source "https://nl.wikipedia.org/w/index.php?title=Overval_op_het_huis_van_bewaring_te_Arnhem_(11_juni_1944)&oldid=50894240"@nl;
     dcterms:creator <https://digitaalerfgoed.poolparty.biz/user/jacobsf>;
@@ -139825,7 +139831,7 @@ Evacuaties in Nederland 1939-1940 door J. Koolhaas Revers"""@nl;
   
   <https://data.niod.nl/WO2_Thesaurus/kampen/3650> a skos:ConceptScheme;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/NIOD>;
-    dcterms:modified "2026-10-26T13:27:35.834Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-28T08:36:11.324Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogDichtbijConcept> false;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/demoadmin>;
     dcterms:created "2016-09-07T09:18:28.000Z"^^xsd:dateTime;
@@ -150116,7 +150122,7 @@ https://commons.wikimedia.org/wiki/File:Ghetto_Glubokoe_1f.jpg
     <http://www.w3.org/2003/01/geo/wgs84_pos#long> "5.8897807"^^xsd:float;
     dcterms:references "Nationaal Archief"@nl;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
-    dcterms:modified "2026-10-22T14:03:42.535Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-28T08:39:21.334Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/imageURL> "https://studiezaal.nijmegen.nl/HttpHandler//icoon.ico?icoonfromxmlbeschr=343356";
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/sourceImage> "https://studiezaal.nijmegen.nl/detail.php?id=343356";
     dcterms:source "https://www.geldersarchief.nl/bronnen/archieven?mizig=210&miadt=37&miaet=1&micode=3054&minr=25473855&miview=inv2"@nl,
@@ -150132,7 +150138,8 @@ https://commons.wikimedia.org/wiki/File:Ghetto_Glubokoe_1f.jpg
     skos:scopeNote "Tuchtschool Nijmegen was van 1945 tot 1948 in gebruik als interneringskamp (bijzondere rechtspleging). Hier zaten verdachten van en veroordeelden voor collaboratie opgesloten. Het interneringskamp bevond zich in de Tuchtschool voor Jongens aan de Berg en Dalscheweg in Nijmegen."@nl;
     skos:altLabel "Reformatory Nijmegen"@en, "Bewarings- en Verblijfskamp te Nijmegen, Tuchtschool"@nl,
       "Tuchtschool te Nijmegen"@nl, "Bewarings- en Interneeringskamp Tuchtschool"@nl, "Interneringskamp Tuchtschool"@nl,
-      "Interneeringskamp Tuchtschool"@nl, "Kamp Tuchtschool"@nl, "Bewaringskamp Tuchtschool"@nl .
+      "Interneeringskamp Tuchtschool"@nl, "Kamp Tuchtschool"@nl, "Bewaringskamp Tuchtschool"@nl,
+      "Kamp de Tuchtschool"@nl, "Bewarings- en Verblijfskamp de Tuchtschool"@nl .
   
   <https://data.niod.nl/WO2_Thesaurus/kampen/5693> a <http://schema.org/Thing>, skos:Concept,
       <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
@@ -151359,7 +151366,7 @@ https://commons.wikimedia.org/wiki/File:Ghetto_Glubokoe_1f.jpg
     <http://www.w3.org/2003/01/geo/wgs84_pos#long> "5.062360"^^xsd:float;
     dcterms:references "Nationaal Archief"@nl;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
-    dcterms:modified "2025-05-19T14:41:40.445Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-28T09:05:12.966Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/imageURL> "https://images.memorix.nl/niod/thumb/1000x1000/b1f5b8a4-1710-9469-2bd7-7aad772cdb06.jpg";
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/sourceImage> "https://beeldbankwo2.nl/nl/beelden/detail/b08db328-025a-11e7-904b-d89d6717b464/media/b1f5b8a4-1710-9469-2bd7-7aad772cdb06";
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogDichtbijConcept> true;
@@ -151371,7 +151378,10 @@ https://commons.wikimedia.org/wiki/File:Ghetto_Glubokoe_1f.jpg
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>, <https://data.niod.nl/WO2_Thesaurus/kampen/3650>;
     skos:scopeNote "Kamp De Krententuin in Hoorn was van mei 1945 tot 1951 in gebruik als interneringskamp (bijzondere rechtspleging). Hier zaten verdachten van en veroordeelden voor collaboratie opgesloten."@nl;
     skos:altLabel "Militaire inrichting De Krententuin"@nl, "Rijkswerkinrichting De Krententuin"@nl,
-      "Interneeringskamp De Krententuin"@nl, "Interneringskamp De Krententuin"@nl, "Rijkswerkinrichting Oostereiland"@nl .
+      "Interneeringskamp De Krententuin"@nl, "Interneringskamp De Krententuin"@nl, "Rijkswerkinrichting Oostereiland"@nl,
+      "Interneringskamp Hoorn"@nl, "Kamp te Hoorn"@nl, "Interneeringskamp Hoorn"@nl, "Kamp Hoorn"@nl,
+      "Interneringskamp te Hoorn"@nl, "Interneeringskamp te Hoorn"@nl, "Internerings en Bewaringskamp te Hoorn"@nl,
+      "Bewaringskamp te Hoorn"@nl, "Bewaringskamp Hoorn"@nl .
   
   <https://data.niod.nl/WO2_Thesaurus/kampen/5753> a <http://schema.org/Thing>, skos:Concept,
       <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
@@ -157872,7 +157882,7 @@ Het kamp werd op 16 april 1945 door het Amerikaanse leger bevrijd.
     <http://www.w3.org/2003/01/geo/wgs84_pos#long> "6.029264"^^xsd:float;
     dcterms:references "Annet Schoot Uiterkamp, Kolen en kampen: tewerkstelling van politieke delinquenten in Nederlandse steenkolenmijnen, 1945-1958 (Maastricht University, 2022), 329-330"@nl;
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
-    dcterms:modified "2025-04-10T10:49:42.787Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-28T08:42:16.302Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogDichtbijConcept> true;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogVoordeRechterConcept> true;
     dcterms:creator <https://digitaalerfgoed.poolparty.biz/user/jacobsf>;
@@ -157883,7 +157893,8 @@ Het kamp werd op 16 april 1945 door het Amerikaanse leger bevrijd.
     skos:scopeNote "Kamp Wilhelmina bij Staatsmijn Wilhelmina in Terwinselen was van augustus 1946 tot 4 juni 1947 in gebruik als interneringskamp (bijzondere rechtspleging). Hier zaten verdachten van en veroordeelden voor collaboratie opgesloten. Het kamp werd tot 1 december 1949 voortgezet als strafgevangenis en rijkswerkinrichting voor veroordeelden van collaboratie."@nl;
     skos:altLabel "Bewaringskamp Wilhelmina"@nl, "Interneeringskamp Wilhelmina"@nl, "Interneringskamp Wilhelmina"@nl,
       "Strafgevangenis Wilhelmina"@nl, "Strafgevangenis Terwinselen"@nl, "Rijkswerkinrichting Wilhelmina Terwinselen"@nl,
-      "RWI Terwinselen"@nl, "RWI Wilhelmina"@nl, "Kamp Terwinselen"@nl .
+      "RWI Terwinselen"@nl, "RWI Wilhelmina"@nl, "Kamp Terwinselen"@nl, "R.W.I. Terwinselen"@nl,
+      "Rijks Werk Inrichting Terwinselen"@nl .
   
   <https://data.niod.nl/WO2_Thesaurus/kampen/7330> a <http://schema.org/Thing>, skos:Concept,
       <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
