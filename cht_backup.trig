@@ -314891,7 +314891,7 @@ hout op de plaats waar aangetast hout is verwijderd."""@nl;
     skos:scopeNote "Gereedschap, apparatuur en benodigdheden oorspronkelijk gemaakt voor het beheer, toezicht, vangen, oogsten of verzamelen van hulpbronnen of te transformeren of wijzigen van bepaalde materialen, zowel ruw als bewerkt. (Nomenclature 3.0 for Museum Cataloging)"@nl;
     dcterms:created "2016-10-24T11:06:58.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2026-10-20T11:54:56.994Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-29T09:47:32.870Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/bece25a6-eb64-46e8-85a8-2a7991f02a2c>;
     <http://schema.semantic-web.at/ppt/NLP/corpusStatistic> _:genid-074f426ee6bf43688789818a90d7336f1423-341435573E5BDE7421B27415E641B8A8;
     skos:altLabel "gereedschap"@nl, "gereedschappen"@nl;
@@ -315133,7 +315133,6 @@ hout op de plaats waar aangetast hout is verwijderd."""@nl;
       <https://data.cultureelerfgoed.nl/term/id/cht/159964f2-2cd2-4106-bf0a-c017b04de897>,
       <https://data.cultureelerfgoed.nl/term/id/cht/4a4df2dd-74c0-4fb7-bf78-406dc6d966ad>,
       <https://data.cultureelerfgoed.nl/term/id/cht/3e7989fc-6bc3-4f2f-a0ee-fc9771278fed>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/c70cba0b-2916-4cb4-9967-49ce518f81c7>,
       <https://data.cultureelerfgoed.nl/term/id/cht/e3fef41b-33f1-46b0-872b-3d5e5ed53833>,
       <https://data.cultureelerfgoed.nl/term/id/cht/e1514980-a20a-4807-818b-b650db7fead6>,
       <https://data.cultureelerfgoed.nl/term/id/cht/85074203-7473-4702-87c7-b622d6f867fa>,
@@ -396503,14 +396502,17 @@ Specifiek verwijst de \"kruistaart\" naar een kruisvormige verbinding of verster
   <https://data.cultureelerfgoed.nl/term/id/cht/c70cba0b-2916-4cb4-9967-49ce518f81c7>
     a skos:Concept;
     skos:scopeNote "Meertandige ijzeren mestvorken, ook gebruikt voor het uitsteken van gewassen en het omsteken van de grond. (MARDOC)"@nl,
-      "Gebruiksvoorwerp bestaande uit een grote vork met smalle tanden voor het verplaatsen van bladeren, gras of gewied materiaal. (ABR)"@nl;
+      "Gebruiksvoorwerp bestaande uit een grote vork met smalle tanden voor het verplaatsen van bladeren, gras of gewied materiaal. (ABR)"@nl,
+      "Handgereedschappen met een steel en meerdere lange, stevige tanden, gebruikt voor het losmaken en omzetten van grond en het verplaatsen van mest of ander los materiaal. Onderscheiden zich van hooivorken, die vooral worden gebruikt voor het verplaatsen van hooi, stro en vergelijkbaar plantaardig materiaal."@nl;
     dcterms:created "2016-10-24T11:06:59.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
+    dcterms:modified "2026-10-29T09:55:39.839Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/bece25a6-eb64-46e8-85a8-2a7991f02a2c>;
     <http://schema.semantic-web.at/ppt/NLP/corpusStatistic> _:genid-074f426ee6bf43688789818a90d7336f1423-D1F7728EA27D6C35EFF8B10B9613CEB7;
     skos:exactMatch <https://hdl.handle.net/20.500.11840/termmaster10071561>;
     skos:altLabel "greep"@nl, "grepen"@nl, "hooivork"@nl, "hooivorken"@nl, "riek"@nl;
-    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/9b30d1b2-6088-4438-9589-ee7abea89c60>;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/ff6b78fd-20b6-40b0-b83c-7a27456086eb>;
+    dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "rieken"@nl;
     <https://data.cultureelerfgoed.nl/id/rnce#hasSource> <https://data.cultureelerfgoed.nl/term/id/cht/335e0ad9-4675-4fb4-b512-53201c577fd0>,
       <https://data.cultureelerfgoed.nl/term/id/cht/81eae1e9-3453-4bad-b24a-ec54fcd19d11>,
@@ -505088,11 +505090,13 @@ Eenvoudige gegoten ronde kachels waarop men koken kan."""@nl;
     skos:scopeNote "Uitrusting en gereedschap dat wordt gebruikt in het landbouw-, tuinbouw- en veehoudersbedrijf."@nl;
     dcterms:created "2016-10-24T11:06:58.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
+    dcterms:modified "2026-10-29T09:47:26.592Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/bece25a6-eb64-46e8-85a8-2a7991f02a2c>;
     skos:altLabel "agrarisch gereedschap"@nl, "boerengereedschap"@nl, "boerengereedschappen"@nl,
       "landbouwgereedschap"@nl, "landbouwgereedschappen"@nl;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/9b30d1b2-6088-4438-9589-ee7abea89c60>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/2c45002e-6879-4275-8a8b-1747f75a9066>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/c70cba0b-2916-4cb4-9967-49ce518f81c7>,
       <https://data.cultureelerfgoed.nl/term/id/cht/bf16e943-6a7f-403b-ac53-32345d51173c>,
       <https://data.cultureelerfgoed.nl/term/id/cht/a26a8504-0fa1-4b60-bae0-94becbf6955c>,
       <https://data.cultureelerfgoed.nl/term/id/cht/dedcee55-4f31-4a09-a76d-bf49cd8c220a>,
@@ -505115,6 +505119,7 @@ Eenvoudige gegoten ronde kachels waarop men koken kan."""@nl;
       <https://data.cultureelerfgoed.nl/term/id/cht/1fba253e-c23f-4176-bc12-7e7cdf3597bb>,
       <https://data.cultureelerfgoed.nl/term/id/cht/c8d7d442-e0ca-4e64-b64e-5e91c518c4ef>,
       <https://data.cultureelerfgoed.nl/term/id/cht/8c9f3730-a35e-4a25-aeae-dfd17b9b6469>;
+    dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "agrarische gereedschappen"@nl;
     <https://data.cultureelerfgoed.nl/id/rnce#hasSource> <https://data.cultureelerfgoed.nl/term/id/cht/ef60d8b9-3be5-449a-ab0a-bb4d76d279d8>;
     skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
