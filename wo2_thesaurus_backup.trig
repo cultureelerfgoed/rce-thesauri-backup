@@ -75226,7 +75226,7 @@ Wikipedia, https://nl.wikipedia.org/w/index.php?title=Kamikaze&oldid=50264377 [g
     dcterms:modified "2020-01-22T09:14:31.000Z"^^xsd:dateTime .
   
   <https://data.niod.nl/WO2_Thesaurus/6564> a skos:ConceptScheme;
-    dcterms:modified "2026-10-22T13:03:27.677Z"^^xsd:dateTime, "2026-10-22T13:03:27.804Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-29T13:38:18.632Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogDichtbijConcept> false;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:created "2018-08-27T11:46:50.000Z"^^xsd:dateTime;
@@ -214811,7 +214811,7 @@ Bron: Wikipedia"""@nl .
       <https://data.niod.nl/WO2_Thesaurus/locations/20988>, <https://data.niod.nl/WO2_Thesaurus/locations/21434>,
       <https://data.niod.nl/WO2_Thesaurus/locations/21654>, <https://data.niod.nl/WO2_Thesaurus/locations/21869>,
       <https://data.niod.nl/WO2_Thesaurus/locations/21870>, <https://data.niod.nl/WO2_Thesaurus/locations/21910>,
-      <https://data.niod.nl/WO2_Thesaurus/locations/22051>;
+      <https://data.niod.nl/WO2_Thesaurus/locations/22051>, <https://data.niod.nl/WO2_Thesaurus/locations/22097>;
     skos:broader <https://data.niod.nl/WO2_Thesaurus/locations/8165>;
     dcterms:created "2021-06-14T15:13:04.067Z"^^xsd:dateTime;
     skos:prefLabel "Verenigde Staten"@nl;
@@ -260949,6 +260949,18 @@ Bron: http://www.virtueelindie.nl/"""@nl .
     skos:prefLabel "Hinis"@nl;
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/6564>;
     skos:altLabel "Chnoes"@nl, "Hınıs"@nl .
+  
+  <https://data.niod.nl/WO2_Thesaurus/locations/22097> a skos:Concept, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "40.013119"^^xsd:float;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-74.320356"^^xsd:float;
+    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
+    dcterms:modified "2026-10-29T13:38:54.147Z"^^xsd:dateTime, "2026-10-29T13:38:54.298Z"^^xsd:dateTime,
+      "2026-10-29T13:39:02.402Z"^^xsd:dateTime, "2026-10-29T13:39:02.621Z"^^xsd:dateTime;
+    dcterms:creator <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
+    skos:broader <https://data.niod.nl/WO2_Thesaurus/locations/15070>;
+    dcterms:created "2026-10-29T13:38:18.403Z"^^xsd:dateTime;
+    skos:prefLabel "Lakehurst"@nl;
+    skos:inScheme <https://data.niod.nl/WO2_Thesaurus/6564> .
   
   <https://data.niod.nl/WO2_Thesaurus/locations/4358> a skos:Concept, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
     <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "49.42704"^^xsd:float;
