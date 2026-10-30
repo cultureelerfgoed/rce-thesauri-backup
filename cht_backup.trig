@@ -33534,8 +33534,8 @@
     a skos:Concept;
     dcterms:created "2026-05-08T14:29:21.136Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    dcterms:modified "2026-10-22T16:19:47.585Z"^^xsd:dateTime;
-    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/a84ab8b6-24c6-493d-939d-102bb982bd91>;
+    dcterms:modified "2026-10-29T15:52:56.723Z"^^xsd:dateTime;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/239b6e00-5ce9-49a1-aba9-ff0c01bdb3d3>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "keramische materialen"@nl;
@@ -39460,9 +39460,10 @@ L. Ploos van Amstel jr., Bouwstoffen, 's-Gravenhage-Leiden-Naarden 1960."""@nl .
     a skos:Concept;
     dcterms:created "2026-10-20T13:42:51.409Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    dcterms:modified "2026-10-20T13:50:07.214Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-29T15:59:57.022Z"^^xsd:dateTime;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/1e983a53-41b4-45d3-be8b-48871ac77ebd>;
-    skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/018cfc15-460b-4cd7-839d-8a549c35fcd3>,
+    skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/bc50e54d-2c3e-4b8e-8b4f-ab865b297b08>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/018cfc15-460b-4cd7-839d-8a549c35fcd3>,
       <https://data.cultureelerfgoed.nl/term/id/cht/b35ab4ce-8c59-4f84-8ad3-5b4d95fb1942>,
       <https://data.cultureelerfgoed.nl/term/id/cht/87fd5007-a103-40ab-b706-fef3464ac8e6>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
@@ -58986,11 +58987,10 @@ https://hdl.handle.net/20.500.11840/termmaster10068601U"""@nl;
       "An alcohol is an organic substance that contains a hydroxyl group."@en;
     dcterms:created "2016-09-30T12:42:27.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2026-10-20T14:59:42.950Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-29T15:58:37.700Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     <http://schema.semantic-web.at/ppt/NLP/corpusStatistic> _:genid-074f426ee6bf43688789818a90d7336f1423-9DB2058670B4DA4A3D5CBC51573AD6FC;
-    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/e1582d2d-8f71-4785-9c44-a91d5edebe5a>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/9fc66d89-a20e-4145-864f-025c2a22b299>;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/9fc66d89-a20e-4145-864f-025c2a22b299>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/4aa80fe7-54cc-409d-9c50-a0d1b73a0bf2>,
       <https://data.cultureelerfgoed.nl/term/id/cht/d1aa4658-8e2a-426a-a100-ff3867cf1fb3>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
@@ -88331,7 +88331,7 @@ hout aan een oud stuk hout."""@nl;
       "Kleiproducten zijn materialen die zijn vervaardigd uit klei, zoals aardewerk, bakstenen en tegels. Deze producten worden gevormd door de klei te bakken, wat resulteert in een hard, duurzaam materiaal dat veel wordt gebruikt in de bouw en kunstnijverheid."@nl;
     dcterms:created "2016-10-03T06:50:18.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2026-10-20T13:58:06.615Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-29T16:01:10.764Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     <http://schema.semantic-web.at/ppt/NLP/corpusStatistic> _:genid-074f426ee6bf43688789818a90d7336f1423-5437ECF2405C9D84DA5AF55497A0B194;
     skos:exactMatch <http://vocab.getty.edu/aat/300235507>, <https://data.cultureelerfgoed.nl/koloniaalverleden/e5a6d783-b06a-4edf-a453-fd850c353b24>,
@@ -88348,7 +88348,6 @@ hout aan een oud stuk hout."""@nl;
       <https://data.cultureelerfgoed.nl/term/id/cht/8c8cb118-6a9a-43dc-a494-6bab5e31cca1>,
       <https://data.cultureelerfgoed.nl/term/id/cht/d5761e0d-02c1-449c-be60-fe1845486a0a>,
       <https://data.cultureelerfgoed.nl/term/id/cht/fa23bde1-a76d-402d-9bab-43be3970a1af>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/2fa83420-0322-4464-a945-c1bb7d0d5d8c>,
       <https://data.cultureelerfgoed.nl/term/id/cht/0a4c8a5c-3e3b-488c-b549-2598bc873231>,
       <https://data.cultureelerfgoed.nl/term/id/cht/a826d4e5-45fc-4e5e-b24e-4c437c2ec6cd>,
       <https://data.cultureelerfgoed.nl/term/id/cht/7c5efabd-36ea-403c-9c20-a72c9112d59f>,
@@ -88357,6 +88356,7 @@ hout aan een oud stuk hout."""@nl;
       <https://data.cultureelerfgoed.nl/term/id/cht/4a40a9f7-f79e-44cb-89f8-7d4c0d07ec30>,
       <https://data.cultureelerfgoed.nl/term/id/cht/ec3f1dc6-10fe-4177-bdbe-3b71d0e3d26a>,
       <https://data.cultureelerfgoed.nl/term/id/cht/f1072066-08e8-42f6-8628-29354cf0c5e9>;
+    skos:related <https://data.cultureelerfgoed.nl/term/id/cht/2fa83420-0322-4464-a945-c1bb7d0d5d8c>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "keramiek"@nl, "Keramik"@de, "ceramic"@en, "céramique"@fr;
     <https://data.cultureelerfgoed.nl/id/rnce#hasSource> <https://data.cultureelerfgoed.nl/term/id/cht/748c6339-e114-40f8-9978-7cd800886c6c>,
@@ -96069,9 +96069,12 @@ Volkstuinen zijn aaneengesloten tuinen aan de rand van een stad of dorp of langs
       "A glassblowing stone is a flat surface, originally of stone or marble, later of iron, on which the glass post of molten glass can be rolled at the blowpipe into a cylindrical or convex shape."@en;
     dcterms:created "2016-09-30T13:50:17.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
+    dcterms:modified "2026-10-29T16:02:55.007Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     skos:altLabel "marvering"@en, "werken op de glasblazerssteen"@nl;
-    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/dcc2121b-8394-44f7-9664-86b109d079a4>;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/9b30d1b2-6088-4438-9589-ee7abea89c60>;
+    skos:related <https://data.cultureelerfgoed.nl/term/id/cht/dcc2121b-8394-44f7-9664-86b109d079a4>;
+    dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "marver"@en, "glasblazerssteen"@nl;
     <https://data.cultureelerfgoed.nl/id/rnce#hasSource> <https://data.cultureelerfgoed.nl/term/id/cht/c41d3b25-4a9a-4a96-b273-79e2312c61a2>;
     skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
@@ -97595,7 +97598,7 @@ Volkstuinen zijn aaneengesloten tuinen aan de rand van een stad of dorp of langs
       "Slate is a gray-black sedimentary rock that splits easily, forming thin slabs. In Europe in the 16th and 17th centuries, it was also used as a support for oil paintings, particularly in Italy."@en;
     dcterms:created "2016-10-03T08:31:51.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2024-08-20T09:24:31.073Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-29T16:00:33.466Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     <http://schema.semantic-web.at/ppt/NLP/corpusStatistic> _:genid-074f426ee6bf43688789818a90d7336f1423-BEB4ACAE90072109AD035681695581DF;
     skos:exactMatch dbpedia:Slate, <https://hdl.handle.net/20.500.11840/termmaster10065265>,
@@ -97608,6 +97611,7 @@ Volkstuinen zijn aaneengesloten tuinen aan de rand van een stad of dorp of langs
       <https://data.cultureelerfgoed.nl/term/id/cht/7f8b84b4-e420-433e-8e3e-6c8b7c13e989>,
       <https://data.cultureelerfgoed.nl/term/id/cht/ce81a8b2-5817-43cc-bcf6-0bdba817ad62>,
       <https://data.cultureelerfgoed.nl/term/id/cht/cf6962a4-3544-4002-ad2b-ed8f5b28899f>;
+    skos:related <https://data.cultureelerfgoed.nl/term/id/cht/bc50e54d-2c3e-4b8e-8b4f-ab865b297b08>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "leisteen"@nl, "slate"@en;
     <https://data.cultureelerfgoed.nl/id/rnce#hasSource> <https://data.cultureelerfgoed.nl/term/id/cht/c41d3b25-4a9a-4a96-b273-79e2312c61a2>;
@@ -109927,9 +109931,10 @@ Volkstuinen zijn aaneengesloten tuinen aan de rand van een stad of dorp of langs
     skos:scopeNote "Droge kleipoeder gemengd met 35% tot 45% water waaraan een kleine hoeveelheid elektrolyt (soda, waterglas of een mengsel van beide) wordt toegevoegd om het dun en vloeibaar te krijgen; de vloeibare klei wordt in mallen of gietvormen gegoten. Pag. 26-27 in: Ceramiek / werkgroep o.l.v. Marie-Rose Bogaers. - Leiden : Rijksuniversiteit, Kunsthistorisch Instituut, 1985. - (Technieken in de kunstnijverheid ; 3)"@nl;
     dcterms:created "2016-09-30T12:55:00.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2026-10-20T13:58:24.488Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-29T16:01:10.760Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
-    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/239b6e00-5ce9-49a1-aba9-ff0c01bdb3d3>;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/b9956996-fdd1-4d28-aa1c-d85235ece55b>;
+    skos:related <https://data.cultureelerfgoed.nl/term/id/cht/239b6e00-5ce9-49a1-aba9-ff0c01bdb3d3>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "gietklei"@nl;
     <https://data.cultureelerfgoed.nl/id/rnce#hasSource> <https://data.cultureelerfgoed.nl/term/id/cht/ef60d8b9-3be5-449a-ab0a-bb4d76d279d8>;
@@ -188515,10 +188520,11 @@ Fotografische afdrukken van verschillende fasen van een beweging worden samenges
     a skos:Concept;
     dcterms:created "2016-10-04T11:13:30.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2026-10-22T15:58:37.811Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-29T16:04:55.521Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/NLP/corpusStatistic> _:genid-074f426ee6bf43688789818a90d7336f1423-677EB64B9A98B7607FF781766595A873;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/4b88257a-99a9-48f3-8bf3-a25765587b3e>;
-    skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/f95b4c93-539f-485c-a131-47c302d3866b>;
+    skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/69de7df2-ff49-4a07-9408-c7657054f266>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/f95b4c93-539f-485c-a131-47c302d3866b>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "procedés"@nl;
     skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
@@ -210757,12 +210763,11 @@ tijden gunstig genoeg voor de vorming van een toendravegetatie en van veen. De j
     skos:scopeNote "Substantie die wordt toegevoegd aan materialen, natuurwetenschappelijke monsters of levensmiddelen om ze te beschermen tegen aantasting, verkleuring of bederf. (AAT)"@nl;
     dcterms:created "2016-09-30T12:48:05.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2026-05-08T15:31:39.770Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-29T15:57:21.714Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     <http://schema.semantic-web.at/ppt/NLP/corpusStatistic> _:genid-074f426ee6bf43688789818a90d7336f1423-12224C7F1A0B9FE31948A7D093E2559E;
     skos:exactMatch <http://vocab.getty.edu/aat/300015172>;
-    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/4c8b3905-3d3d-4f73-be92-a33a95f378fd>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/ea80b6a8-81a7-4e51-9a81-cb2b5a227846>;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/4c8b3905-3d3d-4f73-be92-a33a95f378fd>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/ff9b3081-3361-457e-995d-c9d7b19811ee>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "conserveringsmiddel"@nl;
@@ -216840,8 +216845,11 @@ tijden gunstig genoeg voor de vorming van een toendravegetatie en van veen. De j
       "A glass post is an amount of molten glass at the end of the blowpipe required for blowing the object."@en;
     dcterms:created "2016-09-30T13:50:18.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
+    dcterms:modified "2026-10-29T16:05:11.150Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
-    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/dcc2121b-8394-44f7-9664-86b109d079a4>;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/5a60a643-a6f2-4e50-81d0-45c21ab72ca9>;
+    skos:related <https://data.cultureelerfgoed.nl/term/id/cht/dcc2121b-8394-44f7-9664-86b109d079a4>;
+    dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "gather"@en, "glaspost"@nl;
     <https://data.cultureelerfgoed.nl/id/rnce#hasSource> <https://data.cultureelerfgoed.nl/term/id/cht/c41d3b25-4a9a-4a96-b273-79e2312c61a2>;
     skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
@@ -314891,7 +314899,7 @@ hout op de plaats waar aangetast hout is verwijderd."""@nl;
     skos:scopeNote "Gereedschap, apparatuur en benodigdheden oorspronkelijk gemaakt voor het beheer, toezicht, vangen, oogsten of verzamelen van hulpbronnen of te transformeren of wijzigen van bepaalde materialen, zowel ruw als bewerkt. (Nomenclature 3.0 for Museum Cataloging)"@nl;
     dcterms:created "2016-10-24T11:06:58.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2026-10-29T09:47:32.870Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-29T16:02:41.595Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/bece25a6-eb64-46e8-85a8-2a7991f02a2c>;
     <http://schema.semantic-web.at/ppt/NLP/corpusStatistic> _:genid-074f426ee6bf43688789818a90d7336f1423-341435573E5BDE7421B27415E641B8A8;
     skos:altLabel "gereedschap"@nl, "gereedschappen"@nl;
@@ -315535,6 +315543,7 @@ hout op de plaats waar aangetast hout is verwijderd."""@nl;
       <https://data.cultureelerfgoed.nl/term/id/cht/1ff3e782-34cc-48ff-8de6-d4a9c1a3471d>,
       <https://data.cultureelerfgoed.nl/term/id/cht/2375c6e7-027f-44e4-a32e-4f0f9f5a401e>,
       <https://data.cultureelerfgoed.nl/term/id/cht/274bef66-cd58-4451-bb4e-f22ec1d6d5c7>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/27adfa00-9217-452d-8fb9-dcf497abfddb>,
       <https://data.cultureelerfgoed.nl/term/id/cht/2b4fbb2e-3d80-4500-8784-bb7976e07a15>,
       <https://data.cultureelerfgoed.nl/term/id/cht/2e059798-b1d4-4adf-bf39-258c4aa6d818>,
       <https://data.cultureelerfgoed.nl/term/id/cht/36438dda-20f4-4ac1-b53e-88b7878cc7da>,
@@ -339581,7 +339590,7 @@ In Nederland zijn deze afzettingen veelal gevormd tijdens en vlak na de ijsbedek
     a skos:Concept;
     dcterms:created "2026-05-08T14:29:03.279Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    dcterms:modified "2026-10-22T16:19:43.010Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-29T15:52:56.727Z"^^xsd:dateTime;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/25b3a0bb-afba-408f-9350-902135adc3c0>,
       <https://data.cultureelerfgoed.nl/term/id/cht/a64a233b-91ab-4431-afca-dac58c5b63a7>,
@@ -339595,7 +339604,6 @@ In Nederland zijn deze afzettingen veelal gevormd tijdens en vlak na de ijsbedek
       <https://data.cultureelerfgoed.nl/term/id/cht/541cf6bb-3273-4fa4-bcc8-8f579f552c03>,
       <https://data.cultureelerfgoed.nl/term/id/cht/36b72cb5-11b8-4523-9666-926c26fd7297>,
       <https://data.cultureelerfgoed.nl/term/id/cht/9bfbc263-53d7-42ca-b10a-0f71d34e5cbf>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/04826c71-082d-4c40-b88f-95b04e34d6b6>,
       <https://data.cultureelerfgoed.nl/term/id/cht/cb15c46f-3c78-4c00-9884-0489130b1ac1>,
       <https://data.cultureelerfgoed.nl/term/id/cht/0c342de1-f7d6-4af4-bf07-f3425d48dc73>,
       <https://data.cultureelerfgoed.nl/term/id/cht/584df239-a4c8-4cd3-8437-1c64f2c91566>,
@@ -343301,7 +343309,7 @@ In Nederland zijn deze afzettingen veelal gevormd tijdens en vlak na de ijsbedek
       "Verwijst naar ruw of verwerkt materiaal dat door fabricage, verwerking of combinatie kan worden omgezet in een nieuw en nuttig product. (Zuiderzeemuseum)"@nl;
     dcterms:created "2016-09-30T11:24:32.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>;
-    dcterms:modified "2026-10-22T16:19:47.588Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-29T15:52:52.065Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/NLP/corpusStatistic> _:genid-074f426ee6bf43688789818a90d7336f1423-ED2B806B16C11AE27F5BE7A243866711,
       _:genid-074f426ee6bf43688789818a90d7336f1423-D5F197D825F982F02D6BEF7AEC4D52C0, _:genid-074f426ee6bf43688789818a90d7336f1423-EF2C7D83FDA8D1AFF854640B9E2B104E,
       _:genid-074f426ee6bf43688789818a90d7336f1423-666C18B9D04E105765485471D261EBD2, _:genid-074f426ee6bf43688789818a90d7336f1423-B9DFC1BFA3C29D4EEF723CC6FBD7ACBB,
@@ -343315,6 +343323,7 @@ In Nederland zijn deze afzettingen veelal gevormd tijdens en vlak na de ijsbedek
       <https://data.cultureelerfgoed.nl/term/id/cht/1e983a53-41b4-45d3-be8b-48871ac77ebd>,
       <https://data.cultureelerfgoed.nl/term/id/cht/b4a07f8c-07ee-4f80-aa5b-2ef1e240ee79>,
       <https://data.cultureelerfgoed.nl/term/id/cht/a84ab8b6-24c6-493d-939d-102bb982bd91>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/04826c71-082d-4c40-b88f-95b04e34d6b6>,
       <https://data.cultureelerfgoed.nl/term/id/cht/2f786007-5bc0-4f0b-960b-3aad1e67b7e5>,
       <https://data.cultureelerfgoed.nl/term/id/cht/02cb0c53-48f9-4975-964c-62ce8a3b72e0>,
       <https://data.cultureelerfgoed.nl/term/id/cht/b981468f-50e7-4c4d-b650-e87b8081a774>,
@@ -343915,7 +343924,7 @@ In Nederland zijn deze afzettingen veelal gevormd tijdens en vlak na de ijsbedek
       "Gebruik deze status voor termen die na overleg en afstemming zijn vastgesteld. Deze termen worden als correct beschouwd en mogen niet zonder overleg worden verwijderd of gewijzigd."@nl;
     dcterms:created "2016-09-29T09:14:01.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>;
-    dcterms:modified "2026-09-11T14:05:10.072Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-29T13:10:11.359Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/d159858d-d746-4de5-98be-82cc5b697f6b>;
     skos:altLabel "geldig"@nl;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/d159858d-d746-4de5-98be-82cc5b697f6b>;
@@ -362481,7 +362490,7 @@ De singels leverden bovendien brand- en geriefhout, waaraan in het gemengde bedr
     a skos:ConceptScheme;
     dcterms:created "2017-04-26T06:46:32.000Z"^^xsd:dateTime;
     dcterms:creator <https://digitaalerfgoed.poolparty.biz/user/moutp>;
-    dcterms:modified "2026-10-23T10:35:35.555Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-29T15:57:57.699Z"^^xsd:dateTime;
     skos:hasTopConcept <https://data.cultureelerfgoed.nl/term/id/cht/bece25a6-eb64-46e8-85a8-2a7991f02a2c>,
       <https://data.cultureelerfgoed.nl/term/id/cht/7433e248-ff09-429d-9d57-a39737e413a2>,
       <https://data.cultureelerfgoed.nl/term/id/cht/24656072-e4a3-424b-bcde-b9ab4dbb7593>,
@@ -370023,7 +370032,7 @@ The term is generally applied to undecked vessels, and has connotations of unsea
       "Clay is the weathering product of igneous and metamorphic rocks. Clays consist of hydrated aluminum silicates."@en;
     dcterms:created "2016-10-03T08:31:10.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2024-08-20T09:20:56.162Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-29T16:00:51.509Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     <http://schema.semantic-web.at/ppt/NLP/corpusStatistic> _:genid-074f426ee6bf43688789818a90d7336f1423-79FAB7A3959B9E09BD9329978099E245;
     <http://schema.semantic-web.at/sparql/1.0/list/orderedBy> _:genid-074f426ee6bf43688789818a90d7336f1423-3B6F3454BCA646BB202375569AAE12F9,
@@ -370031,6 +370040,7 @@ The term is generally applied to undecked vessels, and has connotations of unsea
     skos:exactMatch <https://hdl.handle.net/20.500.11840/termmaster10065406>;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/fc2fe801-ca2c-4905-b8fb-3aff062b9284>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/0b522e43-9c2f-4a08-a219-8e889b8bc1ca>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/2fa83420-0322-4464-a945-c1bb7d0d5d8c>,
       <https://data.cultureelerfgoed.nl/term/id/cht/69c8a9a8-b374-4ab2-b4a6-0d58e7f4211c>,
       <https://data.cultureelerfgoed.nl/term/id/cht/21c2d08d-9977-4248-b757-7bbdc1bb224b>,
       <https://data.cultureelerfgoed.nl/term/id/cht/c2920597-b01f-44f8-81ac-4c80d4fe889c>,
@@ -371072,6 +371082,20 @@ The term is generally applied to undecked vessels, and has connotations of unsea
     skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
     <https://data.cultureelerfgoed.nl/id/rnce#hasConceptStatus> <https://data.cultureelerfgoed.nl/term/id/cht/c58475d5-0795-4623-b4be-ea1524f4b4fb>;
     <https://data.cultureelerfgoed.nl/id/rnce#hasSourceHolder> <https://data.cultureelerfgoed.nl/term/id/cht/1576adc6-1af1-44d0-9d46-593eb6bcad09> .
+  
+  <https://data.cultureelerfgoed.nl/term/id/cht/ba0eb343-b34f-4ee2-bf3c-0b4b5a37dac6>
+    a skos:Concept;
+    skos:scopeNote "Handgereedschappen met een lange steel en enkele lange, meestal licht gebogen tanden, gebruikt voor het optillen, verplaatsen en verspreiden van hooi, stro en vergelijkbaar los plantaardig materiaal."@nl;
+    dcterms:created "2026-10-29T13:04:14.240Z"^^xsd:dateTime;
+    dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
+    dcterms:modified "2026-10-29T13:10:11.355Z"^^xsd:dateTime;
+    skos:exactMatch <http://nl.dbpedia.org/resource/Hooivork>;
+    skos:altLabel "hooivork"@nl, "gaffel"@nl, "gavel"@nl;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/ff6b78fd-20b6-40b0-b83c-7a27456086eb>;
+    dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
+    skos:prefLabel "hooivorken"@nl;
+    skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
+    <https://data.cultureelerfgoed.nl/id/rnce#hasConceptStatus> <https://data.cultureelerfgoed.nl/term/id/cht/aad68581-3960-4faf-9758-8ff6d65810d3> .
   
   <https://data.cultureelerfgoed.nl/term/id/cht/ba0f699b-605c-484b-a238-f1cc93fd6bff>
     a skos:Concept;
@@ -374996,13 +375020,13 @@ Een hutkom was een half ingegraven, rechthoekig gebouwtje. Het had geen bovengro
     skos:scopeNote "Leien zijn kleine dunne platen, die uit leisteen gekloofd en gehakt zijn, en worden gebruikt als dakbedekking. Een lei is enkele mm tot ruim 1 cm dik, meestal blauwgrijs maar ook roodpaars of groen van kleur. Naar gelang de structuur van het basismateriaal kunnen ze worden geleverd in rechthoekige of daarvan afgeleide vorm of in schubvorm. Schubleien kwamen in hoofdzaak uit het gebied van Rijn en Moezel, vandaar dat er ook gesproken wordt van Rijndak. Ook Thüringen levert goede schubleien. Bij Rijnse leien werd gesproken over Andernakels (Andernach).In de 17e en 18e eeuw kwamen veel leien uit Cornwall en Devonshire in Engeland, onder verbasterde namen als Dortmuidse leien, Pleymuidze leien, Salcomse of Schaalkomse leien en Vaalmuidse leien. Tegenwoordig worden ook leien gehakt uit Spaans materiaal.Als de leien uit het Franstalige gebied afkomstig waren, werden ze vaak als schaliën aangeduid. (Haslinghuis)"@nl;
     dcterms:created "2016-10-03T08:31:43.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2024-08-20T09:25:01.608Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-29T16:00:33.470Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     <http://schema.semantic-web.at/ppt/NLP/corpusStatistic> _:genid-074f426ee6bf43688789818a90d7336f1423-30C59D5FCD424E8A48A83E9DADAE5AA3;
     <http://schema.semantic-web.at/sparql/1.0/list/orderedBy> _:genid-074f426ee6bf43688789818a90d7336f1423-D46BF17ADF8F0B1487715C434589A52C;
     skos:closeMatch <https://data.cultureelerfgoed.nl/term/id/rn/2/2699e25e-bf0f-4a9e-8bc9-c9148af9c286>;
     skos:altLabel "daklei"@nl, "dakleien"@nl, "lei"@nl;
-    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/d39fdd23-2fca-43cd-8423-64203a76ab01>;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/07d23d8f-392b-48e7-88c3-04d1cdff082e>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/2fae87f1-bbf3-4419-85e0-83f38f28fbf5>,
       <https://data.cultureelerfgoed.nl/term/id/cht/98175437-e5f4-4e71-8561-34333100362a>,
       <https://data.cultureelerfgoed.nl/term/id/cht/a5233fc9-4088-4503-ace0-ca735ec12834>,
@@ -375017,7 +375041,8 @@ Een hutkom was een half ingegraven, rechthoekig gebouwtje. Het had geen bovengro
       <https://data.cultureelerfgoed.nl/term/id/cht/14c3ff36-4256-4068-9173-ba4b812020fb>,
       <https://data.cultureelerfgoed.nl/term/id/cht/5a7e4e0e-5952-4250-84c0-0ca1e39373c7>,
       <https://data.cultureelerfgoed.nl/term/id/cht/a8fe22b6-edf3-49cb-b5cd-db51e409624f>;
-    skos:related <https://data.cultureelerfgoed.nl/term/id/cht/05ea8ad6-41a6-4628-b142-fb6328574aa4>;
+    skos:related <https://data.cultureelerfgoed.nl/term/id/cht/28997bde-9520-4599-9164-f34108afecb9>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/05ea8ad6-41a6-4628-b142-fb6328574aa4>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "leien"@nl;
     <https://data.cultureelerfgoed.nl/id/rnce#hasSource> <https://data.cultureelerfgoed.nl/term/id/cht/95d57860-0030-418b-9d0f-4ec45fec76c5>,
@@ -396506,11 +396531,11 @@ Specifiek verwijst de \"kruistaart\" naar een kruisvormige verbinding of verster
       "Handgereedschappen met een steel en meerdere lange, stevige tanden, gebruikt voor het losmaken en omzetten van grond en het verplaatsen van mest of ander los materiaal. Onderscheiden zich van hooivorken, die vooral worden gebruikt voor het verplaatsen van hooi, stro en vergelijkbaar plantaardig materiaal."@nl;
     dcterms:created "2016-10-24T11:06:59.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2026-10-29T09:55:39.839Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-29T13:05:24.772Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/bece25a6-eb64-46e8-85a8-2a7991f02a2c>;
     <http://schema.semantic-web.at/ppt/NLP/corpusStatistic> _:genid-074f426ee6bf43688789818a90d7336f1423-D1F7728EA27D6C35EFF8B10B9613CEB7;
     skos:exactMatch <https://hdl.handle.net/20.500.11840/termmaster10071561>;
-    skos:altLabel "greep"@nl, "grepen"@nl, "hooivork"@nl, "hooivorken"@nl, "riek"@nl;
+    skos:altLabel "greep"@nl, "grepen"@nl, "riek"@nl;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/ff6b78fd-20b6-40b0-b83c-7a27456086eb>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "rieken"@nl;
@@ -424286,7 +424311,7 @@ Haaknaalden worden gemaakt in allerlei maten, vaak aangeduid in millimeters, die
     skos:scopeNote "Metamorfe natuursteen: natuursteen gevormd door omzetting van een stollingsgesteente of een sedimentaire natuursteen. Door hoge drukken en temperaturen is een wijziging van de structuur en mineraalinhoud opgetreden."@nl;
     dcterms:created "2016-10-03T08:31:37.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2025-01-14T13:40:17.188Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-29T16:00:04.531Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     <http://schema.semantic-web.at/ppt/NLP/corpusStatistic> _:genid-074f426ee6bf43688789818a90d7336f1423-BC90887DA070053429C8861225B4EB07;
     skos:altLabel "metamorf gesteente"@nl, "metamorfe natuursteen"@nl, "omvormingsgesteente"@nl,
@@ -424297,7 +424322,6 @@ Haaknaalden worden gemaakt in allerlei maten, vaak aangeduid in millimeters, die
       <https://data.cultureelerfgoed.nl/term/id/cht/26af6bc7-7d5c-4664-9fc3-95c5c2f3a160>,
       <https://data.cultureelerfgoed.nl/term/id/cht/6eb18b91-b3b4-40e1-bff5-059cd50cffe6>,
       <https://data.cultureelerfgoed.nl/term/id/cht/d6208be7-829b-450e-90b0-b378338f7c80>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/bc50e54d-2c3e-4b8e-8b4f-ab865b297b08>,
       <https://data.cultureelerfgoed.nl/term/id/cht/d4b0acdc-c8aa-4dd4-8ac8-c0a9bfa4f73c>,
       <https://data.cultureelerfgoed.nl/term/id/cht/69c5c600-2fed-4ac0-9341-19ade5375dd5>,
       <https://data.cultureelerfgoed.nl/term/id/cht/69c88abd-ba76-40c2-826e-1db92ed133d3>,
@@ -440622,7 +440646,7 @@ Bron	Internet: De taal van het water (maart 2005)
       "Glas is een amorf (ofwel niet-kristallijn), anorganisch materiaal dat bestaat uit silica (siliciumdioxide), smeltpuntverlagers zoals soda (natriumcarbonaat) of potas (kaliumcarbonaat) en netwerkstabilisatoren zoals kalk. Glas is meestal transparant, maar kan ook semi-transparant of niet-transparant zijn. Kenmerkende eigenschappen zijn de hardheid en stijfheid bij normale temperaturen, de plastische eigenschappen bij verhoogde temperaturen en de weersbestendigheid en bestendigheid tegen de meeste chemische stoffen, behalve waterstoffluoride. Het wordt gebruikt voor zowel gebruiksdoeleinden als decoratieve doeleinden, en kan worden gemaakt in diverse vormen, gekleurd en gedecoreerd. Glas is ontstaan als glazuur in Mesopotamië in ongeveer 3500 v. Chr. De eerste voorwerpen die geheel van glas zijn vervaardigd, dateren van ongeveer 2500 v. Chr. (Project Fotografie; Werkgroep Vlakglas)"@nl;
     dcterms:created "2016-09-30T13:17:20.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2026-10-22T15:10:51.859Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-29T16:05:11.155Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     <http://schema.semantic-web.at/ppt/NLP/corpusStatistic> _:genid-074f426ee6bf43688789818a90d7336f1423-6A5D1B111069FDDAEF6D3D259BEB45BE;
     <http://schema.semantic-web.at/sparql/1.0/list/orderedBy> _:genid-074f426ee6bf43688789818a90d7336f1423-F2F2A829F107A6EC47CEB8B5B0322AD3;
@@ -440649,7 +440673,6 @@ Bron	Internet: De taal van het water (maart 2005)
       <https://data.cultureelerfgoed.nl/term/id/cht/0dd4b92e-9daf-4026-a42b-5710c226faaf>,
       <https://data.cultureelerfgoed.nl/term/id/cht/046dcdbf-2054-4098-a7c5-cd2a51ec08e9>,
       <https://data.cultureelerfgoed.nl/term/id/cht/ee71862c-6403-4bdf-8e8d-f14d315d87ba>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/69de7df2-ff49-4a07-9408-c7657054f266>,
       <https://data.cultureelerfgoed.nl/term/id/cht/6406b10b-aa39-4189-98c8-e70df35e7ec4>,
       <https://data.cultureelerfgoed.nl/term/id/cht/7a3ca2fc-45e4-4ef4-88d8-9f0c8b100eca>,
       <https://data.cultureelerfgoed.nl/term/id/cht/836bf10f-e5d2-4b5b-8ceb-d1eb8c7ee4d1>,
@@ -440659,7 +440682,6 @@ Bron	Internet: De taal van het water (maart 2005)
       <https://data.cultureelerfgoed.nl/term/id/cht/fdf69149-e68d-478e-9f30-7d83a3992518>,
       <https://data.cultureelerfgoed.nl/term/id/cht/6766234c-1915-49d7-9897-fe934dc7dbff>,
       <https://data.cultureelerfgoed.nl/term/id/cht/27692d7b-a39b-4066-9561-ca37b75f881f>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/27adfa00-9217-452d-8fb9-dcf497abfddb>,
       <https://data.cultureelerfgoed.nl/term/id/cht/294422c3-453e-4b28-aa01-ff09b8522de3>,
       <https://data.cultureelerfgoed.nl/term/id/cht/33402af3-acbf-4822-bfc9-9437e23e1904>,
       <https://data.cultureelerfgoed.nl/term/id/cht/ab64e196-c290-4edb-b5f2-1586ddc1e903>,
@@ -440677,7 +440699,9 @@ Bron	Internet: De taal van het water (maart 2005)
       <https://data.cultureelerfgoed.nl/term/id/cht/2244a6e7-8f6a-4ccf-b25b-6bc8d4a22d7f>,
       <https://data.cultureelerfgoed.nl/term/id/cht/cb56d07f-9f89-4108-a7b2-0ae44070f648>,
       <https://data.cultureelerfgoed.nl/term/id/cht/395e0e0a-fb51-4788-be79-ec85cc0ed403>;
-    skos:related <https://data.cultureelerfgoed.nl/term/id/cht/973c34d7-d3ca-4b0f-973d-c17bb80cc3b4>,
+    skos:related <https://data.cultureelerfgoed.nl/term/id/cht/69de7df2-ff49-4a07-9408-c7657054f266>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/973c34d7-d3ca-4b0f-973d-c17bb80cc3b4>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/27adfa00-9217-452d-8fb9-dcf497abfddb>,
       <https://data.cultureelerfgoed.nl/term/id/cht/b0932795-4c99-4542-a315-7f8276fbf318>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "glas"@nl, "Glas"@de, "verre"@fr, "glass"@en;
@@ -448607,14 +448631,13 @@ Vlucht bij solo-motorfietsen is de sprong, de stand van de vooras ten opzichte v
     skos:scopeNote "Materiaal dat koolstof bevat, inclusief de materialen die afkomstig zijn van levende organismen. (AAT)"@nl;
     dcterms:created "2016-10-03T07:09:45.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2026-10-22T16:18:16.333Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-29T15:58:37.703Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     skos:exactMatch <https://data.cultureelerfgoed.nl/term/id/gst/e2f1d781-c84c-4e9a-b29c-946a02bcbff3>,
       <http://vocab.getty.edu/aat/300011792>;
     skos:closeMatch <https://id.erfgoed.net/thesauri/materialen/21>;
     skos:altLabel "organische materialen"@nl;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/1e983a53-41b4-45d3-be8b-48871ac77ebd>;
-    skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/137a14d9-fa4b-465b-b165-5ba0dbcdca46>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "organisch materiaal"@nl;
     <https://data.cultureelerfgoed.nl/id/rnce#hasSource> <https://data.cultureelerfgoed.nl/term/id/cht/748c6339-e114-40f8-9978-7cd800886c6c>;
@@ -463132,11 +463155,11 @@ van de vermenigvuldiging van bestralingssterkte (E in W.m-2) met bestralingsduur
     a skos:Concept;
     dcterms:created "2026-05-08T14:39:47.507Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    dcterms:modified "2026-10-20T12:14:19.567Z"^^xsd:dateTime;
+    dcterms:modified "2026-10-29T15:57:21.717Z"^^xsd:dateTime;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/231e97d9-93a7-470c-9213-80e2ff05de5f>,
       <https://data.cultureelerfgoed.nl/term/id/cht/f58a051a-44ee-43e6-9d3f-aa6052a64b52>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/66c4fa3b-f7d6-413d-91be-526d711c1ea7>;
+      <https://data.cultureelerfgoed.nl/term/id/cht/f7a80aa9-6f62-4608-8667-812f6a4c9708>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "voedsel en genotsmiddelen"@nl;
     skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
@@ -491097,6 +491120,16 @@ Wordt aangegeven voor de objectklassen Wegdeel, Spoorbaandeel, Waterdeel en Terr
     skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
     <https://data.cultureelerfgoed.nl/id/rnce#hasConceptStatus> <https://data.cultureelerfgoed.nl/term/id/cht/c58475d5-0795-4623-b4be-ea1524f4b4fb> .
   
+  <https://data.cultureelerfgoed.nl/term/id/cht/f7a80aa9-6f62-4608-8667-812f6a4c9708>
+    a skos:Concept;
+    dcterms:created "2026-10-29T15:57:57.431Z"^^xsd:dateTime;
+    dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
+    dcterms:modified "2026-10-29T15:57:57.697Z"^^xsd:dateTime;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/ea80b6a8-81a7-4e51-9a81-cb2b5a227846>;
+    dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
+    skos:prefLabel "conserveermiddel (voedsel)"@nl;
+    skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
+  
   <https://data.cultureelerfgoed.nl/term/id/cht/f7a998d7-3660-4b02-a587-bacbee6d9432>
     a skos:Concept;
     skos:scopeNote "Slank canopisch beschrijft een smalle, taps toelopende vorm die lijkt op een slanke kanopische vaas. Deze vorm wordt vaak gebruikt in decoratieve kunst en architectuur vanwege zijn elegante en gestroomlijnde lijnen."@nl;
@@ -505118,7 +505151,8 @@ Eenvoudige gegoten ronde kachels waarop men koken kan."""@nl;
       <https://data.cultureelerfgoed.nl/term/id/cht/63b5bd90-28ee-4013-b670-269b625cd2c0>,
       <https://data.cultureelerfgoed.nl/term/id/cht/1fba253e-c23f-4176-bc12-7e7cdf3597bb>,
       <https://data.cultureelerfgoed.nl/term/id/cht/c8d7d442-e0ca-4e64-b64e-5e91c518c4ef>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/8c9f3730-a35e-4a25-aeae-dfd17b9b6469>;
+      <https://data.cultureelerfgoed.nl/term/id/cht/8c9f3730-a35e-4a25-aeae-dfd17b9b6469>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/ba0eb343-b34f-4ee2-bf3c-0b4b5a37dac6>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "agrarische gereedschappen"@nl;
     <https://data.cultureelerfgoed.nl/id/rnce#hasSource> <https://data.cultureelerfgoed.nl/term/id/cht/ef60d8b9-3be5-449a-ab0a-bb4d76d279d8>;
