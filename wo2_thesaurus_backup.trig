@@ -59653,17 +59653,16 @@ https://wo2.collectienederland.nl/"""@nl;
     dcterms:references "Van Dale Groot Woordenboek der Nederlandse Taal (12e druk, 1992)"@nl,
       "Liempt A. van, Kopgeld: Nederlandse premiejagers op zoek naar joden, 1943 (Amsterdam 2002)"@nl,
       "http://www.dedokwerker.nl/kopgeld.html (1 september 2016)"@nl;
-    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/klijne>;
-    dcterms:modified "2024-06-21T14:37:56.865Z"^^xsd:dateTime;
+    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
+    dcterms:modified "2026-11-02T08:26:19.616Z"^^xsd:dateTime, "2026-11-02T08:26:19.754Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogVoordeRechterConcept> true;
     <http://schema.semantic-web.at/ppt/inScheme> <https://data.niod.nl/WO2_Thesaurus/1560>;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/demoadmin>;
     skos:broader <https://data.niod.nl/WO2_Thesaurus/2245>;
     dcterms:created "2016-08-01T19:20:03.000Z"^^xsd:dateTime;
-    skos:prefLabel "Kopgeld"@nl, "Belohnungen"@de, "Rewards"@en;
+    skos:prefLabel "Kopgeld"@nl;
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>;
-    skos:scopeNote "Kopgeld refereert aan de premie die de Duitse bezetter betaalde vanaf het voorjaar van 1943 voor elke aangegeven Jood. Aanvankelijk bedroeg dit 2,50 gulden maar dat werd stapsgewijs verhoogd tot veertig gulden."@nl;
-    skos:altLabel "Beloningen"@nl .
+    skos:scopeNote "Kopgeld refereert aan de premie die de Duitse bezetter betaalde vanaf het voorjaar van 1943 voor elke aangegeven Jood. Aanvankelijk bedroeg dit 2,50 gulden maar dat werd stapsgewijs verhoogd tot veertig gulden."@nl .
   
   <https://data.niod.nl/WO2_Thesaurus/2254> a <http://schema.org/Thing>, skos:Concept;
     dcterms:references "L. de Jong, Het koninkrijk der Nederlanden in de Tweede Wereldoorlog deel 6 (Den Haag: Martinus Nijhof, 1975) blz. 449 e.v."@nl;
@@ -99518,8 +99517,8 @@ rubberartikelen werden tot distributiegoederen verklaard. De directeuren van de 
     <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "51.657632"^^xsd:float;
     <http://www.w3.org/2003/01/geo/wgs84_pos#long> "5.708197"^^xsd:float;
     dcterms:references "Regionaal Historisch Centrum Limburg"@nl;
-    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/ravend>;
-    dcterms:modified "2024-06-19T13:30:02.787Z"^^xsd:dateTime;
+    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
+    dcterms:modified "2026-11-02T09:55:22.898Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/imageURL> "https://images.memorix.nl/niod/thumb/1000x1000/29d46661-c4f1-7057-a790-a183bd8b7f94.jpg";
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/sourceImage> "https://beeldbankwo2.nl/nl/beelden/detail/e118e814-025a-11e7-904b-d89d6717b464/media/29d46661-c4f1-7057-a790-a183bd8b7f94";
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/isPointofInterest> true;
@@ -99528,7 +99527,7 @@ rubberartikelen werden tot distributiegoederen verklaard. De directeuren van de 
     dcterms:created "2019-05-15T05:16:24.000Z"^^xsd:dateTime;
     skos:prefLabel "Vliegveld Volkel"@nl, "'Vliegveld Volkel'"@de, "'Vliegveld Volkel'"@en;
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>, <https://data.niod.nl/WO2_Thesaurus/6564>;
-    skos:scopeNote "Vliegveld Volkel werd door de Luftwaffe aangelegd in een natuurgebied bij Volkel en deed dienst als Nachtlandeplatz (landingsplaats voor nachtelijke vluchten) en uitwijkhaven voor vliegtuigen van Eindhoven en Gilze-Rijen. Rond 1941 was de Nachtlandeplatz bijna klaar, maar het terrein bood volgens de Luftwaffe te weinig mogelijkheden. Reden om Volkel te vergrotwen tot een Fliegerhorst die permanent plaats bood aan gevechtsvliegtuigen. De Luftwaffe breidde het vliegveld snel uit. Na geallieerde bombardementen op 15 augustus en 3 september 1944 besloot de Luftwaffe Volkel te verlaten. Na de bevrijding in september 1944 nam de RAF het vliegveld onder codenaam B.80 in gebruik voor jachtbommenwerpers en jachtvliegtuigen."@nl;
+    skos:scopeNote "Vliegveld Volkel werd door de Luftwaffe aangelegd in een natuurgebied bij Uden en deed dienst als Nachtlandeplatz (landingsplaats voor nachtelijke vluchten) en uitwijkhaven voor vliegtuigen van Eindhoven en Gilze-Rijen. Rond 1941 was de Nachtlandeplatz bijna klaar, maar het terrein bood volgens de Luftwaffe te weinig mogelijkheden. Reden om Volkel te vergrotwen tot een Fliegerhorst die permanent plaats bood aan gevechtsvliegtuigen. De Luftwaffe breidde het vliegveld snel uit. Na geallieerde bombardementen op 15 augustus en 3 september 1944 besloot de Luftwaffe Volkel te verlaten. Na de bevrijding in september 1944 nam de RAF het vliegveld onder codenaam B.80 in gebruik voor jachtbommenwerpers en jachtvliegtuigen."@nl;
     skos:altLabel "Fliegerhorst Volkel"@nl;
     <http://schema.semantic-web.at/ppt/propagateType> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
   
