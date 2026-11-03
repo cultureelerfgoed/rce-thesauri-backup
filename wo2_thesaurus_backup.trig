@@ -30893,17 +30893,22 @@ In het krijgsgevangenkamp moesten Australische, Britse en Nederlandse krijgsgeva
   
   <https://data.niod.nl/WO2_Thesaurus/19648> a <http://schema.org/Thing>, skos:Concept,
       <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
-    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/ravend>;
-    dcterms:modified "2024-06-19T13:18:49.935Z"^^xsd:dateTime;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "51.563"^^xsd:float;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#long> "4.938"^^xsd:float;
+    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/dijkeivan>;
+    dcterms:modified "2026-11-02T14:14:53.394Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/imageURL> "https://images.memorix.nl/nda/thumb/350x350crop/a989985e-fbf8-8203-d81a-6982eb7bc9ff.jpg";
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/sourceImage> "https://nimh-beeldbank.defensie.nl/foto-s/detail/ff77c3c6-47c9-fc0e-e819-85c2d24a50f2/media/a989985e-fbf8-8203-d81a-6982eb7bc9ff";
+    dcterms:source "https://liberationroute.nl/the-netherlands/pois/g/gilze-rijen-airfield"@nl;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/isPointofInterest> true;
     dcterms:creator <https://digitaalerfgoed.poolparty.biz/user/jornaj>;
     skos:broader <https://data.niod.nl/WO2_Thesaurus/2110>, <https://data.niod.nl/WO2_Thesaurus/locations/10285>;
     dcterms:created "2023-06-21T09:03:03.395Z"^^xsd:dateTime;
     skos:prefLabel "Vliegveld Gilze-Rijen"@nl;
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>, <https://data.niod.nl/WO2_Thesaurus/6564>;
-    skos:scopeNote "Vliegveld Gilze-Rijen was een door de Duitsers aangelegd militair vliegveld. Dit was ontstaan door het voormalige Nederlandse vliegterrein De Molenheide met het nabijgelegen terrein Nerhoven samen te voegen. Op Gilze-Rijen waren nachtjagers en bommenwerpers van de Luftwaffe gestationeerd. Na de bevrijding in september 1944 nam de RAF het vliegveld in gebruik voor jachtvliegtuigen en bommenwerpers."@nl;
+    skos:exactMatch <http://www.wikidata.org/entity/Q1446578>;
+    skos:scopeNote "Vliegveld Gilze-Rijen was een door de Duitsers aangelegd militair vliegveld. Dit was ontstaan door het voormalige Nederlandse vliegterrein De Molenheide met het nabijgelegen terrein Nerhoven samen te voegen. Op Fliegerhorst Gilze-Rijen waren nachtjagers en bommenwerpers van de Luftwaffe gestationeerd. Na de bevrijding in september 1944 nam de RAF het vliegveld in gebruik voor jachtvliegtuigen en bommenwerpers."@nl;
+    skos:altLabel "Vliegbasis Gilze-Rijen"@nl, "Fliegerhorst Gilze-Rijen"@nl, "Vliegveld Gilze Rijen"@nl;
     <http://schema.semantic-web.at/ppt/propagateType> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
   
   <https://data.niod.nl/WO2_Thesaurus/19649> a <http://schema.org/Thing>, skos:Concept,
@@ -137443,7 +137448,7 @@ Het bombardement bij de Blauwburgwal is een van de eerste bombardementen in Nede
       <http://schema.org/Event>, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     dcterms:modified "2025-08-29T07:35:30.583Z"^^xsd:dateTime;
-    <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/9616>;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/19648>;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/imageURL> "https://images.memorix.nl/nda/thumb/640x480/27738fa2-18ce-7616-b6ef-6c39ba4e241f.jpg"@nl;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/sourceImage> "http://nimh-beeldbank.defensie.nl/memorix/335d4902-b032-33fe-c249-e64dcf6e2983"@nl;
     <http://schema.org/location> "Gilze-Rijen"@nl;
@@ -165658,8 +165663,7 @@ Bron: Wikipedia"""@nl .
     dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/klijne>;
     dcterms:modified "2023-08-23T10:49:56.299Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
-    skos:narrower <https://data.niod.nl/WO2_Thesaurus/locations/9616>, <https://data.niod.nl/WO2_Thesaurus/19648>,
-      <https://data.niod.nl/WO2_Thesaurus/19672>;
+    skos:narrower <https://data.niod.nl/WO2_Thesaurus/19648>, <https://data.niod.nl/WO2_Thesaurus/19672>;
     skos:broader <https://data.niod.nl/WO2_Thesaurus/locations/7049>;
     dcterms:created "2020-11-13T17:14:18.637Z"^^xsd:dateTime;
     skos:prefLabel "Gilze-Rijen"@nl;
@@ -270693,20 +270697,6 @@ Hitler en zijn naasten verbleven in de bunker van 3 februari 1945 tot 2 mei 1945
     skos:prefLabel "Groningen"@nl;
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/6564>;
     skos:exactMatch <http://www.wikidata.org/entity/Q749> .
-  
-  <https://data.niod.nl/WO2_Thesaurus/locations/9616> a skos:Concept, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
-    <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "51.563"^^xsd:float;
-    <http://www.w3.org/2003/01/geo/wgs84_pos#long> "4.938"^^xsd:float;
-    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/ravend>;
-    dcterms:modified "2024-06-19T13:18:36.712Z"^^xsd:dateTime;
-    dcterms:source "https://liberationroute.nl/the-netherlands/pois/g/gilze-rijen-airfield"@nl;
-    <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogDichtbijConcept> false;
-    dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
-    skos:broader <https://data.niod.nl/WO2_Thesaurus/locations/10285>;
-    dcterms:created "2020-10-08T14:07:30.000Z"^^xsd:dateTime;
-    skos:prefLabel "Vliegbasis Gilze-Rijen"@nl, "Fliegerhorst Gilze-Rijen"@de;
-    skos:inScheme <https://data.niod.nl/WO2_Thesaurus/6564>;
-    skos:exactMatch <http://www.wikidata.org/entity/Q1446578> .
   
   <https://data.niod.nl/WO2_Thesaurus/locations/9620> a skos:Concept, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
     <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "52.8517"^^xsd:float;
