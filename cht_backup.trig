@@ -149394,7 +149394,8 @@ Op de 244 Joodse begraafplaatsen die Nederland nu nog kent, zijn in totaal 85 me
       <https://data.cultureelerfgoed.nl/term/id/cht/cc8fdeba-f346-4b1b-b800-fded8c25bcd8>,
       <https://data.cultureelerfgoed.nl/term/id/cht/ccbca10a-1fad-4876-80c7-488dfcdea573>,
       <https://data.cultureelerfgoed.nl/term/id/cht/ee7fa3e0-c553-4ed6-8e34-732d31e24836>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/16b691ea-1afb-4c19-9d6c-778d912ba7ad>;
+      <https://data.cultureelerfgoed.nl/term/id/cht/16b691ea-1afb-4c19-9d6c-778d912ba7ad>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/d2f19b99-58d2-4b07-8a8d-a64b22c246ad>;
     skos:prefLabel "dozen"@nl;
     <https://data.cultureelerfgoed.nl/id/rnce#hasSource> <https://data.cultureelerfgoed.nl/term/id/cht/335e0ad9-4675-4fb4-b512-53201c577fd0>,
       <https://data.cultureelerfgoed.nl/term/id/cht/81eae1e9-3453-4bad-b24a-ec54fcd19d11>;
@@ -359565,7 +359566,7 @@ Een bekend voorbeeld in Nederland is de Peelrandbreuk."""@nl;
     skos:scopeNote "Schoeisel met een relatief stijve zool en hak dat gewoonlijk de voet tot op of onder het enkelgewricht bedekt."@nl;
     dcterms:created "2016-11-07T07:55:35.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>;
-    dcterms:modified "2024-08-01T15:48:50.339Z"^^xsd:dateTime;
+    dcterms:modified "2026-11-13T08:48:25.328Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/bece25a6-eb64-46e8-85a8-2a7991f02a2c>;
     <http://schema.semantic-web.at/ppt/NLP/corpusStatistic> _:genid-074f426ee6bf43688789818a90d7336f1423-A875A9298F86B7ACFD6D527144935AFE;
     skos:exactMatch <https://vtmk.data.momu.be/id/105248>;
@@ -359574,7 +359575,8 @@ Een bekend voorbeeld in Nederland is de Peelrandbreuk."""@nl;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/5c5f7ae2-2d5a-4156-8e20-df105aec9b1a>,
       <https://data.cultureelerfgoed.nl/term/id/cht/ed3ab5f5-0d53-49bd-aa8e-69f7c607d18a>,
       <https://data.cultureelerfgoed.nl/term/id/cht/cf1d68a5-b079-4702-9bab-09b3b74cdb9c>;
-    skos:related <https://data.cultureelerfgoed.nl/term/id/cht/d44fb076-c992-400a-9977-13d402dfc05e>;
+    skos:related <https://data.cultureelerfgoed.nl/term/id/cht/d44fb076-c992-400a-9977-13d402dfc05e>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/d2f19b99-58d2-4b07-8a8d-a64b22c246ad>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "schoenen"@nl;
     skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
@@ -362490,7 +362492,7 @@ De singels leverden bovendien brand- en geriefhout, waaraan in het gemengde bedr
     a skos:ConceptScheme;
     dcterms:created "2017-04-26T06:46:32.000Z"^^xsd:dateTime;
     dcterms:creator <https://digitaalerfgoed.poolparty.biz/user/moutp>;
-    dcterms:modified "2026-10-29T15:57:57.699Z"^^xsd:dateTime;
+    dcterms:modified "2026-11-13T08:46:00.411Z"^^xsd:dateTime;
     skos:hasTopConcept <https://data.cultureelerfgoed.nl/term/id/cht/bece25a6-eb64-46e8-85a8-2a7991f02a2c>,
       <https://data.cultureelerfgoed.nl/term/id/cht/7433e248-ff09-429d-9d57-a39737e413a2>,
       <https://data.cultureelerfgoed.nl/term/id/cht/24656072-e4a3-424b-bcde-b9ab4dbb7593>,
@@ -393562,7 +393564,7 @@ Een hutkom was een half ingegraven, rechthoekig gebouwtje. Het had geen bovengro
       "Voorlopige term. Er is nog geen definitief besluit genomen over opname of structuur. Gebruik deze status tijdens het overleg- of ontwikkelproces."@nl;
     dcterms:created "2016-09-29T09:14:01.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>;
-    dcterms:modified "2026-10-23T15:32:57.965Z"^^xsd:dateTime;
+    dcterms:modified "2026-11-13T08:46:35.989Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/d159858d-d746-4de5-98be-82cc5b697f6b>;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/d159858d-d746-4de5-98be-82cc5b697f6b>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
@@ -423122,6 +423124,21 @@ Haaknaalden worden gemaakt in allerlei maten, vaak aangeduid in millimeters, die
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "graflantaarns"@nl;
     <https://data.cultureelerfgoed.nl/id/rnce#hasSource> <https://data.cultureelerfgoed.nl/term/id/cht/77f6ff1b-b603-4a76-a264-10b3f25eb7df>;
+    skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
+    <https://data.cultureelerfgoed.nl/id/rnce#hasConceptStatus> <https://data.cultureelerfgoed.nl/term/id/cht/c58475d5-0795-4623-b4be-ea1524f4b4fb> .
+  
+  <https://data.cultureelerfgoed.nl/term/id/cht/d2f19b99-58d2-4b07-8a8d-a64b22c246ad>
+    a skos:Concept;
+    skos:scopeNote "Een schoenendoos is een doos waarin één paar schoenen past. Om schoenen te kunnen transporteren worden ze in schoendozen gedaan. Schoenendozen zijn vaak van karton gemaakt."@nl;
+    dcterms:created "2026-11-13T08:45:58.334Z"^^xsd:dateTime;
+    dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
+    dcterms:modified "2026-11-13T08:49:15.912Z"^^xsd:dateTime;
+    skos:exactMatch <http://nl.dbpedia.org/resource/Schoenendoos>;
+    skos:altLabel "schoenendoos"@nl;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/44872c69-2b39-4667-88a7-9500b45b65c9>;
+    skos:related <https://data.cultureelerfgoed.nl/term/id/cht/b39fd543-8efc-490e-8cb3-d004e7fb33e1>;
+    dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
+    skos:prefLabel "schoenendozen"@nl, "Schuhschachtel"@de, "boîte à chaussure"@fr;
     skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
     <https://data.cultureelerfgoed.nl/id/rnce#hasConceptStatus> <https://data.cultureelerfgoed.nl/term/id/cht/c58475d5-0795-4623-b4be-ea1524f4b4fb> .
   
