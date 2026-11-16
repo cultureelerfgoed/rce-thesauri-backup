@@ -423131,16 +423131,17 @@ Haaknaalden worden gemaakt in allerlei maten, vaak aangeduid in millimeters, die
   
   <https://data.cultureelerfgoed.nl/term/id/cht/d2f19b99-58d2-4b07-8a8d-a64b22c246ad>
     a skos:Concept;
-    skos:scopeNote "Een schoenendoos is een doos waarin één paar schoenen past. Om schoenen te kunnen transporteren worden ze in schoendozen gedaan. Schoenendozen zijn vaak van karton gemaakt."@nl;
+    skos:scopeNote "Een schoenendoos is een doos waarin één paar schoenen past. Om schoenen te kunnen transporteren worden ze in schoendozen gedaan. Schoenendozen zijn vaak van karton gemaakt."@nl,
+      "Boxes in which shoes are packed."@en;
     dcterms:created "2026-11-13T08:45:58.334Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    dcterms:modified "2026-11-13T08:49:15.912Z"^^xsd:dateTime;
-    skos:exactMatch <http://nl.dbpedia.org/resource/Schoenendoos>;
-    skos:altLabel "schoenendoos"@nl;
+    dcterms:modified "2026-11-16T11:55:07.149Z"^^xsd:dateTime;
+    skos:exactMatch <http://nl.dbpedia.org/resource/Schoenendoos>, <http://vocab.getty.edu/aat/300375361>;
+    skos:altLabel "schoenendoos"@nl, "boîte à chaussure"@fr;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/44872c69-2b39-4667-88a7-9500b45b65c9>;
     skos:related <https://data.cultureelerfgoed.nl/term/id/cht/b39fd543-8efc-490e-8cb3-d004e7fb33e1>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    skos:prefLabel "schoenendozen"@nl, "Schuhschachtel"@de, "boîte à chaussure"@fr;
+    skos:prefLabel "schoenendozen"@nl, "Schuhschachtel"@de, "shoeboxes"@en, "boîtes à chaussures"@fr;
     skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
     <https://data.cultureelerfgoed.nl/id/rnce#hasConceptStatus> <https://data.cultureelerfgoed.nl/term/id/cht/c58475d5-0795-4623-b4be-ea1524f4b4fb> .
   
