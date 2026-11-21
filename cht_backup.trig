@@ -77812,7 +77812,8 @@ hout aan een oud stuk hout."""@nl;
     skos:closeMatch dbpedia:Modernism;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/69d38e8c-a746-49d7-9b34-4fbb2ee4711c>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/09d7e5b7-4eac-43e5-830d-2c37c594db8b>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/66cbfe1e-93a3-42d1-bdd6-99607365a538>;
+      <https://data.cultureelerfgoed.nl/term/id/cht/66cbfe1e-93a3-42d1-bdd6-99607365a538>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/893096d7-965a-4e56-a5b7-978d48a5d575>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "Modernisme"@nl;
     <https://data.cultureelerfgoed.nl/id/rnce#hasSource> <https://data.cultureelerfgoed.nl/term/id/cht/95d57860-0030-418b-9d0f-4ec45fec76c5>;
@@ -279704,6 +279705,17 @@ hoeveelheid data, snelheid en diversiteit."""@nl;
     skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
     <https://data.cultureelerfgoed.nl/id/rnce#hasConceptStatus> <https://data.cultureelerfgoed.nl/term/id/cht/aad68581-3960-4faf-9758-8ff6d65810d3> .
   
+  <https://data.cultureelerfgoed.nl/term/id/cht/893096d7-965a-4e56-a5b7-978d48a5d575>
+    a skos:Concept;
+    skos:scopeNote "Het naoorlogs modernisme (globaal van pakweg 1945 tot 1970) is een stroming in de architectuur, stedenbouw en vormgeving die ontstond tijdens de periode van de wederopbouw na de Tweede Wereldoorlog."@nl;
+    dcterms:created "2026-11-18T14:02:34.438Z"^^xsd:dateTime;
+    dcterms:creator <https://digitaalerfgoed.poolparty.biz/user/d569e951-c620-4e2a-9113-651f34aa1364>;
+    dcterms:modified "2026-11-18T14:03:21.599Z"^^xsd:dateTime;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/1e094ce2-e879-4687-bd3c-5968e33cd1d9>;
+    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/d569e951-c620-4e2a-9113-651f34aa1364>;
+    skos:prefLabel "Naoorlogs modernisme"@nl;
+    skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
+  
   <https://data.cultureelerfgoed.nl/term/id/cht/893603aa-341b-4673-81c2-d661e12f2b0e>
     a skos:Concept;
     skos:scopeNote "Persoon of firma die een bouwwerk of gedeelten ervan aanneemt. In de late Middeleeuwen en daarna, tot het opheffen van de gilden omstreeks 1800, werd vrijwel steeds per ambacht aangenomen: metselwerk, steenhouwwerk, timmerwerk, leidlekkerswerk, enz. De algemene aannemer, die bepaalde gedeelten kan laten uitvoeren door onderaannemers, treedt op na 1800. (Haslinghuis)"@nl;
@@ -362494,7 +362506,7 @@ De singels leverden bovendien brand- en geriefhout, waaraan in het gemengde bedr
     a skos:ConceptScheme;
     dcterms:created "2017-04-26T06:46:32.000Z"^^xsd:dateTime;
     dcterms:creator <https://digitaalerfgoed.poolparty.biz/user/moutp>;
-    dcterms:modified "2026-11-13T08:46:00.411Z"^^xsd:dateTime;
+    dcterms:modified "2026-11-18T14:03:55.560Z"^^xsd:dateTime;
     skos:hasTopConcept <https://data.cultureelerfgoed.nl/term/id/cht/bece25a6-eb64-46e8-85a8-2a7991f02a2c>,
       <https://data.cultureelerfgoed.nl/term/id/cht/7433e248-ff09-429d-9d57-a39737e413a2>,
       <https://data.cultureelerfgoed.nl/term/id/cht/24656072-e4a3-424b-bcde-b9ab4dbb7593>,
@@ -413715,6 +413727,17 @@ Haaknaalden worden gemaakt in allerlei maten, vaak aangeduid in millimeters, die
     <https://data.cultureelerfgoed.nl/id/rnce#hasConceptStatus> <https://data.cultureelerfgoed.nl/term/id/cht/aad68581-3960-4faf-9758-8ff6d65810d3>;
     <https://data.cultureelerfgoed.nl/id/rnce#reference> "J.Boerman - Kwasten, penselen en borstels.pdf"@nl;
     <https://data.cultureelerfgoed.nl/id/rnce#hasSourceHolder> <https://data.cultureelerfgoed.nl/term/id/cht/1576adc6-1af1-44d0-9d46-593eb6bcad09> .
+  
+  <https://data.cultureelerfgoed.nl/term/id/cht/cd788f6a-6b6c-41eb-97f0-75629f58fd50>
+    a skos:Concept;
+    skos:scopeNote "Naoorlogs academisme verwijst doorgaans naar de voortzetting of opleving van traditionele, klassieke bouw- en kunstprincipes in de periode vlak na de Tweede Wereldoorlog (ca. 1945–1960), als tegenhanger van het naoorlogs modernisme."@nl;
+    dcterms:created "2026-11-18T14:03:55.332Z"^^xsd:dateTime;
+    dcterms:creator <https://digitaalerfgoed.poolparty.biz/user/d569e951-c620-4e2a-9113-651f34aa1364>;
+    dcterms:modified "2026-11-18T14:04:40.199Z"^^xsd:dateTime;
+    skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/faa473dc-0eeb-481f-bd36-51c43e77c609>;
+    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/d569e951-c620-4e2a-9113-651f34aa1364>;
+    skos:prefLabel "Naoorlogs academisme"@nl;
+    skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
   
   <https://data.cultureelerfgoed.nl/term/id/cht/cd793303-5575-48db-a1c1-8befcb9089c4>
     a skos:Concept;
@@ -495976,7 +495999,8 @@ De woning is voorzien van een kookgelegenheid en sanitaire voorzieningen waarop 
     skos:altLabel "Traditionalisme (architectuur)"@nl;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/69d38e8c-a746-49d7-9b34-4fbb2ee4711c>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/20f1c635-a51e-461e-b116-dcc357f9af9b>,
-      <https://data.cultureelerfgoed.nl/term/id/cht/d2ed27f1-7d83-458f-a6c2-d7e8762c66e5>;
+      <https://data.cultureelerfgoed.nl/term/id/cht/d2ed27f1-7d83-458f-a6c2-d7e8762c66e5>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/cd788f6a-6b6c-41eb-97f0-75629f58fd50>;
     skos:related <https://data.cultureelerfgoed.nl/term/id/cht/69abfe69-94d9-4d8c-b64f-fd3ec41958e2>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "Traditionalisme"@nl, "Traditionalismus (Architektur)"@de, "Traditionalist School (architecture)"@en;
