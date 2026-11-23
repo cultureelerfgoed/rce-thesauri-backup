@@ -3325,7 +3325,7 @@ ARTIS lag middenin een deel van de stad dat de Duitsers in februari 1941 aanmerk
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Organization> .
   
   <https://data.niod.nl/WO2_Thesaurus/11183> a skos:ConceptScheme;
-    dcterms:modified "2026-09-08T09:12:33.504Z"^^xsd:dateTime;
+    dcterms:modified "2026-11-23T12:28:20.700Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogDichtbijConcept> false;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogVoordeRechterConcept> false;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
@@ -56049,8 +56049,8 @@ Leeuwarden en van cassaties in Groningse zaken (Universiteit Leiden. 2016)"""@nl
   
   <https://data.niod.nl/WO2_Thesaurus/21836> a <http://schema.org/Thing>, skos:Concept,
       <http://schema.org/Event>;
-    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/helfricha>;
-    dcterms:modified "2025-10-08T12:38:44.964Z"^^xsd:dateTime;
+    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/MaarenT>;
+    dcterms:modified "2026-11-23T12:34:33.032Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/15670>;
     <http://schema.org/startDate> "1944-10-27"^^xsd:date;
     dcterms:source "https://wikimiddenbrabant.nl/Granaatinslag_Molenstraat,_27_oktober_1944"@nl;
@@ -56059,7 +56059,7 @@ Leeuwarden en van cassaties in Groningse zaken (Universiteit Leiden. 2016)"""@nl
     dcterms:created "2025-10-08T12:07:01.983Z"^^xsd:dateTime;
     skos:prefLabel "Granaatinslag Molenstraat Tilburg"@nl;
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>;
-    skos:scopeNote "De granaatinslag op de Molenstraat in Tilburg vond plaats op 29 oktober 1944. De Luchtbeschermingsdienst verneemt dat in een slagerij in de Molenstraat doden en gewonden zijn gevallen door een granaatinslag. Vrijwel zeker gaat het om de rund- en varkensslagerij van De Beer op Molenstraat 20. In de slagerij komen vier mensen om. Later die dag wordt Tilburg bevrijd."@nl;
+    skos:scopeNote "De granaatinslag op de Molenstraat in Tilburg vond plaats op 27 oktober 1944. De Luchtbeschermingsdienst verneemt dat in een slagerij in de Molenstraat doden en gewonden zijn gevallen door een granaatinslag. Vrijwel zeker gaat het om de rund- en varkensslagerij van De Beer op Molenstraat 20. In de slagerij komen vier mensen om. Later die dag wordt Tilburg bevrijd."@nl;
     <http://schema.semantic-web.at/ppt/appliedType> <http://schema.org/Event> .
   
   <https://data.niod.nl/WO2_Thesaurus/21837> a <http://schema.org/Thing>, skos:Concept,
@@ -56081,9 +56081,9 @@ Leeuwarden en van cassaties in Groningse zaken (Universiteit Leiden. 2016)"""@nl
   
   <https://data.niod.nl/WO2_Thesaurus/21839> a <http://schema.org/Thing>, skos:Concept,
       <http://schema.org/Event>;
-    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/helfricha>;
-    dcterms:modified "2025-10-08T13:14:09.683Z"^^xsd:dateTime;
-    <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/15076>;
+    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/MaarenT>;
+    dcterms:modified "2026-11-23T12:17:37.113Z"^^xsd:dateTime;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/22098>;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/imageURL> "https://webservices.memorix.nl/mediabank/media/2340db13-2e3f-4a5c-a0c9-37f75a3e0692/downloadfile/9cc84149-ac93-4970-acb0-46857582baad?apiKey=6934d11e-52c6-11e4-b0d6-2f8b4b1371c5";
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/sourceImage> "https://hdl.handle.net/21.12103/2340db13-2e3f-4a5c-a0c9-37f75a3e0692";
     <http://schema.org/startDate> "1944-10-26"^^xsd:date;
@@ -56245,9 +56245,9 @@ Leeuwarden en van cassaties in Groningse zaken (Universiteit Leiden. 2016)"""@nl
   
   <https://data.niod.nl/WO2_Thesaurus/21854> a <http://schema.org/Thing>, skos:Concept,
       <http://schema.org/Event>;
-    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/helfricha>;
-    dcterms:modified "2025-10-09T09:25:07.565Z"^^xsd:dateTime;
-    <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/15665>;
+    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/MaarenT>;
+    dcterms:modified "2026-11-23T12:25:39.528Z"^^xsd:dateTime;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/22099>;
     <http://schema.org/startDate> "1944-05-25"^^xsd:date;
     dcterms:source "https://wikimiddenbrabant.nl/Vliegtuigcrash_Moleneind,_25_mei_1944"@nl;
     dcterms:creator <https://digitaalerfgoed.poolparty.biz/user/helfricha>;
@@ -75230,7 +75230,7 @@ Wikipedia, https://nl.wikipedia.org/w/index.php?title=Kamikaze&oldid=50264377 [g
     dcterms:modified "2020-01-22T09:14:31.000Z"^^xsd:dateTime .
   
   <https://data.niod.nl/WO2_Thesaurus/6564> a skos:ConceptScheme;
-    dcterms:modified "2026-10-29T13:38:18.632Z"^^xsd:dateTime;
+    dcterms:modified "2026-11-23T12:23:46.892Z"^^xsd:dateTime;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/oorlogDichtbijConcept> false;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/jongmal>;
     dcterms:created "2018-08-27T11:46:50.000Z"^^xsd:dateTime;
@@ -105677,8 +105677,8 @@ Bron: Wikipedia"""@nl .
   
   <https://data.niod.nl/WO2_Thesaurus/events/18883> a <http://schema.org/Thing>, skos:Concept,
       <http://schema.org/Event>;
-    dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    dcterms:modified "2025-08-29T07:27:56.271Z"^^xsd:dateTime;
+    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/MaarenT>;
+    dcterms:modified "2026-11-23T12:29:07.233Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/11647>;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/imageURL> "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Oorlogsmonumentje_bij_spoorwegovergang..JPG/1280px-Oorlogsmonumentje_bij_spoorwegovergang..JPG";
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/sourceImage> "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Oorlogsmonumentje_bij_spoorwegovergang..JPG/1280px-Oorlogsmonumentje_bij_spoorwegovergang..JPG";
@@ -105688,8 +105688,7 @@ Bron: Wikipedia"""@nl .
     skos:broader <https://data.niod.nl/WO2_Thesaurus/9271>;
     dcterms:created "2022-04-07T14:20:58.732Z"^^xsd:dateTime;
     skos:prefLabel "Fusillade bij het Haantje nabij Rijswijk, 7 oktober 1944"@nl;
-    skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>, <https://data.niod.nl/WO2_Thesaurus/11183>,
-      <https://data.niod.nl/WO2_Thesaurus/events/4329>;
+    skos:inScheme <https://data.niod.nl/WO2_Thesaurus/1560>, <https://data.niod.nl/WO2_Thesaurus/events/4329>;
     skos:scopeNote "Als gevolg van de vernieling van de spoorbaan in Rijswijk op 7 oktober 1944 werden uiteindelijk op dezelfde dag 10 Nederlanders gefusilleerd bij het Haantje, te weten: F. Britzel, H. Stavast, W.R.H. van Golberdinge, P. Stavast, C.D. van 't Hoff, P. Bogaard., R.F. Koopmans, J.A.A.M. de Waal,  K. de Vries en  H.G. Schram."@nl;
     skos:related <https://data.niod.nl/WO2_Thesaurus/18893> .
   
@@ -107167,12 +107166,12 @@ Bron: Wikipedia"""@nl .
   <https://data.niod.nl/WO2_Thesaurus/events/20517> a <http://schema.org/Thing>, skos:Concept,
       <http://schema.org/Event>;
     dcterms:references "Korthals Altens, A., Luchtgevaar, pag. 176"@nl;
-    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/boumani>;
-    dcterms:modified "2023-10-20T08:05:57.829Z"^^xsd:dateTime;
+    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/MaarenT>;
+    dcterms:modified "2026-11-23T12:30:56.652Z"^^xsd:dateTime;
     <http://www.w3.org/2003/01/geo/wgs84_pos#location> <https://data.niod.nl/WO2_Thesaurus/locations/20518>;
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/imageURL> "https://images.memorix.nl/pgl_nbm/thumb/fullsize/7aa1699a-2745-0597-e017-19496227ac1f.jpg";
     <https://data.niod.nl/thesaurus_wo2/ImagesWW2/sourceImage> "https://www.collectiegelderland.nl/object/fd0dbd9d-0582-a775-7a35-9fbeb5640dd9";
-    <http://schema.org/startDate> "1943-09-03"^^xsd:date;
+    <http://schema.org/startDate> "1944-09-03"^^xsd:date;
     dcterms:creator <https://digitaalerfgoed.poolparty.biz/user/boumani>;
     skos:broader <https://data.niod.nl/WO2_Thesaurus/events/19538>;
     dcterms:created "2023-10-20T07:58:27.482Z"^^xsd:dateTime;
@@ -163790,7 +163789,8 @@ Het kamp werd op 16 april 1945 door het Amerikaanse leger bevrijd.
       <https://data.niod.nl/WO2_Thesaurus/locations/21843>, <https://data.niod.nl/WO2_Thesaurus/locations/21845>,
       <https://data.niod.nl/WO2_Thesaurus/locations/21847>, <https://data.niod.nl/WO2_Thesaurus/locations/21849>,
       <https://data.niod.nl/WO2_Thesaurus/locations/21851>, <https://data.niod.nl/WO2_Thesaurus/locations/21853>,
-      <https://data.niod.nl/WO2_Thesaurus/locations/21856>, <https://data.niod.nl/WO2_Thesaurus/locations/21858>;
+      <https://data.niod.nl/WO2_Thesaurus/locations/21856>, <https://data.niod.nl/WO2_Thesaurus/locations/21858>,
+      <https://data.niod.nl/WO2_Thesaurus/locations/22098>, <https://data.niod.nl/WO2_Thesaurus/locations/22099>;
     skos:broader <https://data.niod.nl/WO2_Thesaurus/locations/7049>;
     dcterms:created "2020-10-28T15:29:16.333Z"^^xsd:dateTime;
     skos:prefLabel "Tilburg"@nl;
@@ -174371,8 +174371,8 @@ Bron: Wikipedia"""@nl .
   <https://data.niod.nl/WO2_Thesaurus/locations/11647> a skos:Concept, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
     <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "52.814722222222"^^xsd:float;
     <http://www.w3.org/2003/01/geo/wgs84_pos#long> "6.8230555555556"^^xsd:float;
-    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/klijne>;
-    dcterms:modified "2022-04-07T14:23:18.123Z"^^xsd:dateTime;
+    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/MaarenT>;
+    dcterms:modified "2026-11-23T12:29:07.240Z"^^xsd:dateTime;
     dcterms:creator <https://digitaalerfgoed.poolparty.biz/user/klijne>;
     skos:broader <https://data.niod.nl/WO2_Thesaurus/locations/7047>;
     dcterms:created "2021-05-21T14:12:21.916Z"^^xsd:dateTime;
@@ -214884,8 +214884,8 @@ Bron: Wikipedia"""@nl .
   <https://data.niod.nl/WO2_Thesaurus/locations/15076> a skos:Concept, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
     <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "51.3642"^^xsd:float;
     <http://www.w3.org/2003/01/geo/wgs84_pos#long> "5.3814"^^xsd:float;
-    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/helfricha>;
-    dcterms:modified "2025-10-08T13:14:09.683Z"^^xsd:dateTime;
+    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/MaarenT>;
+    dcterms:modified "2026-11-23T12:17:37.117Z"^^xsd:dateTime;
     dcterms:creator <https://digitaalerfgoed.poolparty.biz/user/klijne>;
     skos:broader <https://data.niod.nl/WO2_Thesaurus/locations/7049>;
     dcterms:created "2021-06-15T06:41:19.890Z"^^xsd:dateTime;
@@ -221745,8 +221745,8 @@ Bron: Wikipedia"""@nl .
   <https://data.niod.nl/WO2_Thesaurus/locations/15665> a skos:Concept, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
     <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "51.7825"^^xsd:float;
     <http://www.w3.org/2003/01/geo/wgs84_pos#long> "5.1017"^^xsd:float;
-    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/helfricha>;
-    dcterms:modified "2025-10-09T09:25:07.565Z"^^xsd:dateTime;
+    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/MaarenT>;
+    dcterms:modified "2026-11-23T12:25:19.263Z"^^xsd:dateTime;
     dcterms:creator <https://digitaalerfgoed.poolparty.biz/user/klijne>;
     skos:broader <https://data.niod.nl/WO2_Thesaurus/locations/7049>;
     dcterms:created "2021-06-17T12:46:50.377Z"^^xsd:dateTime;
@@ -221803,10 +221803,10 @@ Bron: Wikipedia"""@nl .
     skos:exactMatch <http://www.wikidata.org/entity/Q2319075> .
   
   <https://data.niod.nl/WO2_Thesaurus/locations/15670> a skos:Concept, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
-    <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "51.62"^^xsd:float;
-    <http://www.w3.org/2003/01/geo/wgs84_pos#long> "5.2372"^^xsd:float;
-    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/helfricha>;
-    dcterms:modified "2025-10-08T12:33:29.831Z"^^xsd:dateTime;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "51.5673423"^^xsd:float;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#long> "5.0884218"^^xsd:float;
+    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/MaarenT>;
+    dcterms:modified "2026-11-23T12:07:30.113Z"^^xsd:dateTime;
     dcterms:creator <https://digitaalerfgoed.poolparty.biz/user/klijne>;
     skos:broader <https://data.niod.nl/WO2_Thesaurus/locations/7049>, <https://data.niod.nl/WO2_Thesaurus/locations/10088>;
     dcterms:created "2021-06-17T12:53:19.837Z"^^xsd:dateTime;
@@ -260963,6 +260963,28 @@ Bron: http://www.virtueelindie.nl/"""@nl .
     skos:broader <https://data.niod.nl/WO2_Thesaurus/locations/15070>;
     dcterms:created "2026-10-29T13:38:18.403Z"^^xsd:dateTime;
     skos:prefLabel "Lakehurst"@nl;
+    skos:inScheme <https://data.niod.nl/WO2_Thesaurus/6564> .
+  
+  <https://data.niod.nl/WO2_Thesaurus/locations/22098> a skos:Concept, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "51.548255"^^xsd:float;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#long> "5.0883899"^^xsd:float;
+    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/MaarenT>;
+    dcterms:modified "2026-11-23T12:17:23.978Z"^^xsd:dateTime;
+    dcterms:creator <https://digitaalerfgoed.poolparty.biz/user/MaarenT>;
+    skos:broader <https://data.niod.nl/WO2_Thesaurus/locations/10088>;
+    dcterms:created "2026-11-23T12:15:17.116Z"^^xsd:dateTime;
+    skos:prefLabel "Broekhoven (wijk)"@nl;
+    skos:inScheme <https://data.niod.nl/WO2_Thesaurus/6564> .
+  
+  <https://data.niod.nl/WO2_Thesaurus/locations/22099> a skos:Concept, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "51.5870689"^^xsd:float;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#long> "5.0840037"^^xsd:float;
+    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/MaarenT>;
+    dcterms:modified "2026-11-23T12:25:39.531Z"^^xsd:dateTime;
+    dcterms:creator <https://digitaalerfgoed.poolparty.biz/user/MaarenT>;
+    skos:broader <https://data.niod.nl/WO2_Thesaurus/locations/10088>;
+    dcterms:created "2026-11-23T12:23:46.655Z"^^xsd:dateTime;
+    skos:prefLabel "Moleneind (voormalige straat)"@nl;
     skos:inScheme <https://data.niod.nl/WO2_Thesaurus/6564> .
   
   <https://data.niod.nl/WO2_Thesaurus/locations/4358> a skos:Concept, <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>;
