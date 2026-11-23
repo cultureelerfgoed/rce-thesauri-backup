@@ -42341,13 +42341,13 @@ UV-C of het verre ultraviolet gebied: van 100 tot 280 nm."""@nl;
     skos:scopeNote "Siermetselwerk is gevelmetselwerk waarin patronen zijn gemaakt met vaak anders gekleurde bakstenen. (Haslinghuis)"@nl;
     dcterms:created "2016-10-17T07:17:13.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2024-08-20T09:23:06.396Z"^^xsd:dateTime;
+    dcterms:modified "2026-11-23T15:06:04.817Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/bece25a6-eb64-46e8-85a8-2a7991f02a2c>;
     skos:altLabel "sierverband"@nl;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/945e379c-8dd5-4731-8e75-5f3c2b99e104>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/3fbb2850-6544-4794-837a-397acc25aad1>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    skos:prefLabel "siermestelwerk"@nl;
+    skos:prefLabel "siermetselwerk"@nl;
     <https://data.cultureelerfgoed.nl/id/rnce#hasSource> <https://data.cultureelerfgoed.nl/term/id/cht/95d57860-0030-418b-9d0f-4ec45fec76c5>;
     skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
     <https://data.cultureelerfgoed.nl/id/rnce#hasConceptStatus> <https://data.cultureelerfgoed.nl/term/id/cht/aad68581-3960-4faf-9758-8ff6d65810d3> .
