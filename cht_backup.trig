@@ -28408,7 +28408,7 @@
     a skos:Concept;
     dcterms:created "2026-05-08T14:29:50.675Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    dcterms:modified "2026-10-22T11:32:18.236Z"^^xsd:dateTime;
+    dcterms:modified "2026-11-24T12:32:51.932Z"^^xsd:dateTime;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/6a52c326-d332-461d-8861-92db384c2f1d>,
       <https://data.cultureelerfgoed.nl/term/id/cht/8652a2fd-4fc2-4e48-be1f-71acf6ca74b2>,
@@ -28418,7 +28418,8 @@
       <https://data.cultureelerfgoed.nl/term/id/cht/f3be1b28-61ed-4447-87df-d5a9c70b224a>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "hout en plantaardige materialen"@nl;
-    skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
+    skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
+    <https://data.cultureelerfgoed.nl/id/rnce#hasConceptStatus> <https://data.cultureelerfgoed.nl/term/id/cht/85c4d302-765c-44be-a3fa-c01c0a376cba> .
   
   <https://data.cultureelerfgoed.nl/term/id/cht/02cd0244-2d22-4f9b-a816-b226ac37a7d2>
     a skos:Concept;
@@ -59932,7 +59933,7 @@ https://hdl.handle.net/20.500.11840/termmaster10068601U"""@nl;
     a skos:Concept;
     dcterms:created "2026-10-20T15:29:14.186Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    dcterms:modified "2026-10-20T15:47:14.546Z"^^xsd:dateTime;
+    dcterms:modified "2026-11-24T12:30:30.756Z"^^xsd:dateTime;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/673c5f29-33e5-42ba-b2b0-6c91a0c20908>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/a4f08240-778c-430c-9c85-028ca55bb632>,
       <https://data.cultureelerfgoed.nl/term/id/cht/a3d6f13d-d13b-4d37-9282-d77dcb421669>,
@@ -59941,7 +59942,8 @@ https://hdl.handle.net/20.500.11840/termmaster10068601U"""@nl;
       <https://data.cultureelerfgoed.nl/term/id/cht/fa80205f-3c06-4a63-8b33-324ea8008cff>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "teken- en schildermaterialen"@nl;
-    skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
+    skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
+    <https://data.cultureelerfgoed.nl/id/rnce#hasConceptStatus> <https://data.cultureelerfgoed.nl/term/id/cht/85c4d302-765c-44be-a3fa-c01c0a376cba> .
   
   <https://data.cultureelerfgoed.nl/term/id/cht/141afa1e-d1bd-4319-9485-b5dcd7289e24>
     a skos:Concept;
@@ -79185,7 +79187,7 @@ hout aan een oud stuk hout."""@nl;
     skos:scopeNote "Materialen naar vorm verwijst naar de classificatie van materialen op basis van hun fysieke vorm, zoals vezels, platen, en korrels. Deze indeling helpt bij het identificeren en toepassen van materialen in verschillende industriële en ambachtelijke processen."@nl;
     dcterms:created "2016-10-03T07:03:17.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
-    dcterms:modified "2026-10-22T16:19:23.023Z"^^xsd:dateTime;
+    dcterms:modified "2026-11-24T12:34:20.804Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     skos:closeMatch <http://vocab.getty.edu/aat/300014611>;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
@@ -79211,7 +79213,8 @@ hout aan een oud stuk hout."""@nl;
     skos:prefLabel "materialen naar vorm en samenstelling"@nl;
     <https://data.cultureelerfgoed.nl/id/rnce#hasSource> <https://data.cultureelerfgoed.nl/term/id/cht/748c6339-e114-40f8-9978-7cd800886c6c>;
     skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
-    <https://data.cultureelerfgoed.nl/id/rnce#hasConceptStatus> <https://data.cultureelerfgoed.nl/term/id/cht/c58475d5-0795-4623-b4be-ea1524f4b4fb> .
+    <https://data.cultureelerfgoed.nl/id/rnce#hasConceptStatus> <https://data.cultureelerfgoed.nl/term/id/cht/c58475d5-0795-4623-b4be-ea1524f4b4fb>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/85c4d302-765c-44be-a3fa-c01c0a376cba> .
   
   <https://data.cultureelerfgoed.nl/term/id/cht/1e9cc0cf-e8c3-480b-a0b6-506e48531f5e>
     a skos:Concept;
@@ -98880,12 +98883,15 @@ Volkstuinen zijn aaneengesloten tuinen aan de rand van een stad of dorp of langs
   
   <https://data.cultureelerfgoed.nl/term/id/cht/294f93eb-2f17-4035-97e3-317f5b8b0436>
     a skos:Concept;
-    skos:scopeNote "Mobiliteitsplannen zijn beleidsplannen die zijn opgesteld als aanvulling op het ruimtelijke plan dat zich doorgaans vooral richt op functionele kwaliteiten, dat de na te streven beeldkwaliteit beschreven. Dat gebeurt onder meer door aan te geven op welke ruimtelijke kenmerken van landschap en bebouwing en landschappelijke structuren en elementen moet worden ingespeeld. (Rijksdienst voor het Cultureel Erfgoed)"@nl;
+    skos:scopeNote "Plannen waarin de gewenste ruimtelijke en visuele kwaliteit van een gebied wordt vastgelegd. Ze bevatten uitgangspunten en richtlijnen voor de vormgeving van bebouwing, de inrichting van de openbare ruimte en de samenhang tussen architectuur, stedenbouw, landschap en cultuurhistorie. (Rijksdienst voor het Cultureel Erfgoed)"@nl;
     dcterms:created "2016-10-07T11:32:46.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
+    dcterms:modified "2026-11-24T09:55:48.440Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/bece25a6-eb64-46e8-85a8-2a7991f02a2c>;
+    skos:altLabel "beeldkwaliteitsplan"@nl;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/3e629a26-b406-4b7e-9ed7-b8106946b067>;
-    skos:prefLabel "beeldkwalliteitsplannen"@nl;
+    dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
+    skos:prefLabel "beeldkwaliteitsplannen"@nl;
     skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
     <https://data.cultureelerfgoed.nl/id/rnce#hasConceptStatus> <https://data.cultureelerfgoed.nl/term/id/cht/aad68581-3960-4faf-9758-8ff6d65810d3>;
     <https://data.cultureelerfgoed.nl/id/rnce#hasSourceHolder> <https://data.cultureelerfgoed.nl/term/id/cht/1576adc6-1af1-44d0-9d46-593eb6bcad09> .
@@ -103659,7 +103665,7 @@ Volkstuinen zijn aaneengesloten tuinen aan de rand van een stad of dorp of langs
     a skos:Concept;
     dcterms:created "2026-05-08T14:34:48.190Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    dcterms:modified "2026-10-22T09:41:46.070Z"^^xsd:dateTime;
+    dcterms:modified "2026-11-24T12:33:59.506Z"^^xsd:dateTime;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/923ba596-bc30-44f5-a26c-cac680e3808d>,
       <https://data.cultureelerfgoed.nl/term/id/cht/362a9c1d-41b3-46e0-bb2c-f3f3cfdc21b0>,
@@ -103669,7 +103675,8 @@ Volkstuinen zijn aaneengesloten tuinen aan de rand van een stad of dorp of langs
       <https://data.cultureelerfgoed.nl/term/id/cht/241b187b-cde6-4743-ad84-83c26d0530ec>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "kunststoffen en polymeren"@nl;
-    skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
+    skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
+    <https://data.cultureelerfgoed.nl/id/rnce#hasConceptStatus> <https://data.cultureelerfgoed.nl/term/id/cht/85c4d302-765c-44be-a3fa-c01c0a376cba> .
   
   <https://data.cultureelerfgoed.nl/term/id/cht/2c2fa3c4-20ab-4aeb-abf4-15a5534b886a>
     a skos:Concept;
@@ -141764,7 +141771,7 @@ Op de 244 Joodse begraafplaatsen die Nederland nu nog kent, zijn in totaal 85 me
     a skos:Concept;
     dcterms:created "2026-05-08T14:38:59.022Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    dcterms:modified "2026-10-23T16:07:53.759Z"^^xsd:dateTime;
+    dcterms:modified "2026-11-24T12:31:58.340Z"^^xsd:dateTime;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/4c2121de-9a3d-4bbd-93d8-db06f86545ac>,
       <https://data.cultureelerfgoed.nl/term/id/cht/bc3bcd42-fb5e-424f-8dec-e20637dc520f>,
@@ -141787,7 +141794,8 @@ Op de 244 Joodse begraafplaatsen die Nederland nu nog kent, zijn in totaal 85 me
       <https://data.cultureelerfgoed.nl/term/id/cht/66600f1f-0f18-4184-a260-64f15131719c>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "chemische stoffen en hulpstoffen"@nl;
-    skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
+    skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
+    <https://data.cultureelerfgoed.nl/id/rnce#hasConceptStatus> <https://data.cultureelerfgoed.nl/term/id/cht/85c4d302-765c-44be-a3fa-c01c0a376cba> .
   
   <https://data.cultureelerfgoed.nl/term/id/cht/4077a601-8c5d-4923-805f-cc25017c22ef>
     a skos:Concept;
@@ -163771,7 +163779,7 @@ Ooivaaggronden zijn daarnaast ook leemgronden, met roest en grijze vlekken begin
     a skos:Concept;
     dcterms:created "2026-05-08T14:39:33.285Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    dcterms:modified "2026-10-20T14:09:18.068Z"^^xsd:dateTime;
+    dcterms:modified "2026-11-24T12:32:36.161Z"^^xsd:dateTime;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/179c1ac0-a0a5-485e-9d0f-6fd9abfcdf22>,
       <https://data.cultureelerfgoed.nl/term/id/cht/3fe33779-06f5-4aa1-9f2a-ba1b2d13ccc3>,
@@ -163795,7 +163803,8 @@ Ooivaaggronden zijn daarnaast ook leemgronden, met roest en grijze vlekken begin
       <https://data.cultureelerfgoed.nl/term/id/cht/d63a177f-886e-4328-9d6e-1388f8762c43>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "conserverings- en restauratiematerialen"@nl;
-    skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
+    skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
+    <https://data.cultureelerfgoed.nl/id/rnce#hasConceptStatus> <https://data.cultureelerfgoed.nl/term/id/cht/85c4d302-765c-44be-a3fa-c01c0a376cba> .
   
   <https://data.cultureelerfgoed.nl/term/id/cht/4c8d4d28-ebeb-44ab-b9b3-cd874985b7b6>
     a skos:Concept;
@@ -211610,7 +211619,7 @@ tijden gunstig genoeg voor de vorming van een toendravegetatie en van veen. De j
     a skos:Concept;
     dcterms:created "2026-05-08T14:38:45.778Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    dcterms:modified "2026-10-23T15:56:43.911Z"^^xsd:dateTime;
+    dcterms:modified "2026-11-24T12:29:28.078Z"^^xsd:dateTime;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/aa872ce6-a74c-4f81-96ec-6ee0e717f92a>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/c4b6fd34-b141-4107-b149-d504a6dda8a9>,
       <https://data.cultureelerfgoed.nl/term/id/cht/edbb2440-1a77-4698-b754-c6dcc9a01dfc>,
@@ -211625,7 +211634,8 @@ tijden gunstig genoeg voor de vorming van een toendravegetatie en van veen. De j
       <https://data.cultureelerfgoed.nl/term/id/cht/a6eb5d80-a5d1-46f7-b5ec-1d4209d7f202>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "afwerkingsmaterialen"@nl;
-    skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
+    skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
+    <https://data.cultureelerfgoed.nl/id/rnce#hasConceptStatus> <https://data.cultureelerfgoed.nl/term/id/cht/c58475d5-0795-4623-b4be-ea1524f4b4fb> .
   
   <https://data.cultureelerfgoed.nl/term/id/cht/673d3b1c-f3f6-4867-82c6-0b085f654e67>
     a skos:Concept;
@@ -222889,14 +222899,15 @@ Een psychiatrische inrichting is een instelling voor de opvang en behandeling va
     a skos:Concept;
     dcterms:created "2026-10-20T15:29:00.504Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    dcterms:modified "2026-10-23T15:55:28.737Z"^^xsd:dateTime;
+    dcterms:modified "2026-11-24T12:30:13.455Z"^^xsd:dateTime;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/673c5f29-33e5-42ba-b2b0-6c91a0c20908>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/2d4ff601-9025-4667-811d-a4fe8da87b4d>,
       <https://data.cultureelerfgoed.nl/term/id/cht/02c7623a-d3c7-48da-abd0-ac3f64cf2480>,
       <https://data.cultureelerfgoed.nl/term/id/cht/34315555-3b94-4aa1-a248-d02122c6aa7d>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "pigmenten en kleurstoffen"@nl;
-    skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
+    skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
+    <https://data.cultureelerfgoed.nl/id/rnce#hasConceptStatus> <https://data.cultureelerfgoed.nl/term/id/cht/85c4d302-765c-44be-a3fa-c01c0a376cba> .
   
   <https://data.cultureelerfgoed.nl/term/id/cht/6d7f16be-6b34-4461-ad6f-d33770c1abb5>
     a skos:Concept;
@@ -234991,11 +235002,11 @@ Een psychiatrische inrichting is een instelling voor de opvang en behandeling va
     a skos:Concept, <https://data.cultureelerfgoed.nl/id/rnce#Source>, <https://data.cultureelerfgoed.nl/vocab/id/rce#Source>;
     dcterms:created "2016-09-29T11:46:57.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>;
-    dcterms:modified "2026-02-12T12:20:56.500Z"^^xsd:dateTime;
+    dcterms:modified "2026-11-24T08:27:15.136Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/f772d0b1-5828-4786-b77f-37eabc8c19f4>;
     skos:altLabel "AAT"@nl;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/f772d0b1-5828-4786-b77f-37eabc8c19f4>;
-    dcterms:contributor <https://digitaalerfgoed.poolparty.biz/user/d569e951-c620-4e2a-9113-651f34aa1364>;
+    dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "AAT-Ned"@nl;
     skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/7ca1a6b4-85ce-4244-a097-0ad177b5575c>;
     <https://data.cultureelerfgoed.nl/id/rnce#hasConceptStatus> <https://data.cultureelerfgoed.nl/term/id/cht/c58475d5-0795-4623-b4be-ea1524f4b4fb>;
@@ -235488,6 +235499,7 @@ Een psychiatrische inrichting is een instelling voor de opvang en behandeling va
       <https://data.cultureelerfgoed.nl/term/id/cht/6f1c82ea-0dda-4c0b-ad98-9a9cca276c26>,
       <https://data.cultureelerfgoed.nl/term/id/cht/8705ee12-399b-4a34-9d90-e46e8eb57d48>,
       <https://data.cultureelerfgoed.nl/term/id/cht/883fcbbe-6ff7-4e38-b6ae-0a55446e7d79>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/925e5293-90dc-4e40-9cfa-dedf2d2a3795>,
       <https://data.cultureelerfgoed.nl/term/id/cht/981bd00a-8853-4bfe-8102-0b729e7cd0c9>,
       <https://data.cultureelerfgoed.nl/term/id/cht/98ea0301-977d-4f46-9363-db6598935cc0>,
       <https://data.cultureelerfgoed.nl/term/id/cht/9fca69d8-e987-4d08-8537-3fe812d8bc4a>,
@@ -273394,7 +273406,7 @@ In het bouwbedrijf werd leem gebruikt voor het bestrijken van wanden, schoorstee
       "Structural placeholder used to organize the hierarchy. Not intended for indexing or cataloguing."@en;
     dcterms:created "2019-05-28T10:22:30.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    dcterms:modified "2026-11-13T13:28:09.117Z"^^xsd:dateTime;
+    dcterms:modified "2026-11-24T12:34:20.810Z"^^xsd:dateTime;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/d159858d-d746-4de5-98be-82cc5b697f6b>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "gidsterm"@nl, "guideterm"@en;
@@ -295827,13 +295839,19 @@ Vanwege de aanwezige permafrost kon dit water niet wegzakken, moest het afstrome
   
   <https://data.cultureelerfgoed.nl/term/id/cht/925e5293-90dc-4e40-9cfa-dedf2d2a3795>
     a skos:Concept;
-    skos:scopeNote "Een koor of dwarsschip is apsidiaal gesloten als het afgesloten wordt door een apsis. (Haslinghuis)"@nl;
+    skos:scopeNote "Buildings the plans of which feature at least one apse, the most common arrangement being one apse at the end of the longitudinal axis. (AAT)"@en,
+      "Term die in de bouwkunde en architectuurgeschiedenis wordt gebruikt om aan te geven dat een gebouw of bouwdeel ten minste een apsis heeft of de vorm van een apsis vertoont. Meestal aan het uiteinde van de lengteas van het gebouw."@nl;
     dcterms:created "2016-09-30T10:05:21.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>, <https://cultureelerfgoed.poolparty.biz/user/superadmin>;
+    dcterms:modified "2026-11-24T08:27:15.132Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/24656072-e4a3-424b-bcde-b9ab4dbb7593>;
+    skos:exactMatch <https://vocab.getty.edu/page/aat/300004885>;
+    skos:altLabel "apsidaal"@nl, "apsidiale gebouwen"@nl, "apsidiaal gebouw"@nl;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/24656072-e4a3-424b-bcde-b9ab4dbb7593>;
-    skos:prefLabel "apsidiaal"@nl;
-    <https://data.cultureelerfgoed.nl/id/rnce#hasSource> <https://data.cultureelerfgoed.nl/term/id/cht/95d57860-0030-418b-9d0f-4ec45fec76c5>;
+    dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
+    skos:prefLabel "apsidiaal"@nl, "apsidal"@en;
+    <https://data.cultureelerfgoed.nl/id/rnce#hasSource> <https://data.cultureelerfgoed.nl/term/id/cht/95d57860-0030-418b-9d0f-4ec45fec76c5>,
+      <https://data.cultureelerfgoed.nl/term/id/cht/748c6339-e114-40f8-9978-7cd800886c6c>;
     skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
     <https://data.cultureelerfgoed.nl/id/rnce#hasConceptStatus> <https://data.cultureelerfgoed.nl/term/id/cht/c58475d5-0795-4623-b4be-ea1524f4b4fb> .
   
@@ -337269,7 +337287,7 @@ In Nederland zijn deze afzettingen veelal gevormd tijdens en vlak na de ijsbedek
     a skos:Concept;
     dcterms:created "2026-10-20T15:29:22.828Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
-    dcterms:modified "2026-10-23T15:56:42.764Z"^^xsd:dateTime;
+    dcterms:modified "2026-11-24T12:30:43.931Z"^^xsd:dateTime;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/673c5f29-33e5-42ba-b2b0-6c91a0c20908>;
     skos:narrower <https://data.cultureelerfgoed.nl/term/id/cht/dc705b65-64e5-4063-aeb7-a3421a003f5f>,
       <https://data.cultureelerfgoed.nl/term/id/cht/1acb2a7c-ec24-46d9-8c0d-99b2c3d4c5c5>,
@@ -337283,7 +337301,8 @@ In Nederland zijn deze afzettingen veelal gevormd tijdens en vlak na de ijsbedek
       <https://data.cultureelerfgoed.nl/term/id/cht/a7cb2c38-1675-4e0e-97f7-f2f7b27b2bb4>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
     skos:prefLabel "verf, beits, lak en vernis"@nl;
-    skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3> .
+    skos:inScheme <https://data.cultureelerfgoed.nl/term/id/cht/b532325c-dc08-49db-b4f1-15e53b037ec3>;
+    <https://data.cultureelerfgoed.nl/id/rnce#hasConceptStatus> <https://data.cultureelerfgoed.nl/term/id/cht/85c4d302-765c-44be-a3fa-c01c0a376cba> .
   
   <https://data.cultureelerfgoed.nl/term/id/cht/a6eb984a-fbd4-4c2e-b816-0b43d8b28a03>
     a skos:Concept;
@@ -393578,7 +393597,7 @@ Een hutkom was een half ingegraven, rechthoekig gebouwtje. Het had geen bovengro
       "Voorlopige term. Er is nog geen definitief besluit genomen over opname of structuur. Gebruik deze status tijdens het overleg- of ontwikkelproces."@nl;
     dcterms:created "2016-09-29T09:14:01.000Z"^^xsd:dateTime;
     dcterms:creator <https://cultureelerfgoed.poolparty.biz/user/moutp>;
-    dcterms:modified "2026-11-13T13:30:08.110Z"^^xsd:dateTime;
+    dcterms:modified "2026-11-24T12:29:28.084Z"^^xsd:dateTime;
     <http://schema.semantic-web.at/ppt/inSubtree> <https://data.cultureelerfgoed.nl/term/id/cht/d159858d-d746-4de5-98be-82cc5b697f6b>;
     skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/d159858d-d746-4de5-98be-82cc5b697f6b>;
     dcterms:contributor <https://cultureelerfgoed.poolparty.biz/user/vanderheidenj>;
