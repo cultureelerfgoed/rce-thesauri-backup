@@ -122045,7 +122045,7 @@ Een bekend voorbeeld in Nederland is de Peelrandbreuk."""@nl;
 
 <https://data.cultureelerfgoed.nl/term/id/cht/099ffb58-ac7b-4e2e-8b84-a1f4593488c4>
   a skos:Concept;
-  skos:prefLabel "siermestelwerk"@nl;
+  skos:prefLabel "siermetselwerk"@nl;
   skos:scopeNote "Siermetselwerk is gevelmetselwerk waarin patronen zijn gemaakt met vaak anders gekleurde bakstenen. (Haslinghuis)"@nl;
   skos:altLabel "sierverband"@nl;
   skos:broader <https://data.cultureelerfgoed.nl/term/id/cht/945e379c-8dd5-4731-8e75-5f3c2b99e104>;
