@@ -1,7 +1,23 @@
+
+
+
+
+<!DOCTYPE html>
 <html>
-<head><title>504 Gateway Time-out</title></head>
-<body>
-<center><h1>504 Gateway Time-out</h1></center>
-<hr><center>nginx/1.29.8</center>
-</body>
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Graph Modeling - Internal Error</title>
+        <link rel="stylesheet" href="cached-10.3.3/styles/error-pages.css;jsessionid=D1878DF932C67F21708E2C928933409C818DA0F65274742F4DE2B04EA3780F13E3A287DFB6045C669D9E95FA585FBC50230395DC731E6BCBC52463FC20AA84B0" type="text/css"/>
+        <link rel="SHORTCUT ICON" href="/favicon.svg">
+    </head>
+    <body>
+        <div class="error-container">
+            <div class="error-content">
+                <img src="cached-10.3.3/images/graph_modeling_logo.svg;jsessionid=D1878DF932C67F21708E2C928933409C818DA0F65274742F4DE2B04EA3780F13E3A287DFB6045C669D9E95FA585FBC50230395DC731E6BCBC52463FC20AA84B0" width="50%" border="0" alt="GraphModeling"><br>
+                <h2>Internal Error</h2>
+                <p></p>
+            </div>
+        </div>
+    </body>
 </html>
